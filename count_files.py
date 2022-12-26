@@ -18,13 +18,12 @@ def count_pdf_files_by_year() -> dict:
     years = {}
     count = 0
     for file in os.listdir("./corpus"):
-        year_str = file[:4]
-        if file.endswith(".pdf") and year_str.isdigit() and int(year_str) in YEARS:
-            # print("I was here")
-            if year_str in years:
-                years[year_str] += 1
+        year = file[:4]
+        if file.endswith(".pdf") and year.isdigit() and int(year) in YEARS:
+            if year in years:
+                years[year] += 1
             else:
-                years[year_str] = 1
+                years[year] = 1
 
     return years
 
