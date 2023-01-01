@@ -23,6 +23,13 @@ def convert_pdf_to_text():
 
 if __name__ == "__main__":
     start_time = time.time()
-    convert_pdf_to_text()
+    # convert_pdf_to_text()
 
     print(f"--- {time.time() - start_time} seconds ---")
+
+
+# Display all text files that has 0 bytes
+for file in os.listdir("./corpus/text"):
+    if file.endswith(".txt"):
+        if os.stat(f"./corpus/text/{file}").st_size == 0:
+            print(file)
