@@ -1,0 +1,65 @@
+Open Banking Press Release
+1 December 2022
+
+No: 2022-48
+
+The Central Bank of the Republic of Türkiye (CBRT) launches the Open Banking services in
+the payments area, which is considered an essential component of the digital economy
+roadmap of the Liraization Strategy.
+As of today, participating banks start providing services through the 'Open Banking
+Gateway' (GEÇİT) infrastructure, developed by the Interbank Card Center (ICC), that allows
+third parties to provide Open Banking transactions.
+
+Payment Initiation Service (subparagraph f) and the Service of Presenting Consolidated
+Information regarding the payment account on online platforms (subparagraph g) were added to
+the first paragraph of article 12 of the "Law No. 6493 on Payment and Securities Settlement
+Systems, Payment Services and Electronic Money Institutions" updated on 12 November 2019,
+defining those services as payment services within the scope of the Law. Thus, these two
+services, called Data Sharing in the Field of Payment Services (DSSP), are defined as Open
+Banking Services in the field of payment services provision.
+Consistent with the regulatory framework, investigations have been carried out with the
+cooperation and collaboration of the CBRT and ICC in order to determine the DSSP
+implementation strategy and the detailed technical and operational requirements. The best
+global practices have been examined while considering the particular conditions and special
+needs of Türkiye. A shared platform has been designed for rapid integration of all stakeholders,
+which provides a low-cost, efficient and effective data sharing in the field of Payment Services. In
+this direction, GEÇİT (as an Application Programming Interface, API), has been developed and
+introduced by ICC using in-house capabilities and technical resources and facilities. GEÇİT allows
+the provision of safe, efficient, effective, low-cost and innovative business models for Open
+Banking in payment services domain.
+As of today, six banks, as account servicing payment service providers, have successfully
+completed their tests and technical certifications and started to provide services through GEÇİT.
+Meanwhile, as a result of the work carried out by the DSSP Working Group, the DSSP API
+Principles and Rules (API Standard) document, in which the technical and operational
+requirements for DSSP has been prepared and publicly published on our Bank's website.
+Besides Instant and Continuous Transfer of Funds (FAST) System, which allows 24/7/365
+interbank instant fund transfer services; TR QR Code, which is the national QR Code Standard of
+Türkiye in the field of payments ecosystem; Easy Addressing System, which allows FAST
+payments to be made easily and quickly with a phone number, ID number or e-mail address
+Türkiye Cumhuriyet Merkez Bankası
+(Central Bank of the Republic of Turkey)
+Head Office
+Hacı Bayram Mahallesi
+İstiklal Caddesi 10 06050 Ulus Altındağ / Ankara
++90 (312) 507 50 00
+www.tcmb.gov.tr
+
+instead of IBAN, the Data Sharing Services in the Field of Payment Services with the "Digital
+Turkish Lira Collaboration Platform" announced by the CBRT on September 15, 2021, whose
+medium and long-term aim is to ensure and maintain that lira payments as the most practical,
+pragmatic, cheapest and most inclusive means of payment, are in line with our digitalization
+goals and will make very important progressive contributions to Türkiye's goal of reaching to a
+full-fledged digital economy.
+
+Contact
+For further information, you may send an e-mail to basin@tcmb.gov.tr.
+
+Türkiye Cumhuriyet Merkez Bankası
+(Central Bank of the Republic of Turkey)
+Head Office
+Hacı Bayram Mahallesi
+İstiklal Caddesi 10 06050 Ulus Altındağ / Ankara
++90 (312) 507 50 00
+www.tcmb.gov.tr
+
+

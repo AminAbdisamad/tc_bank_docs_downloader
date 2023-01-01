@@ -1,0 +1,121 @@
+Press Release on Reserve
+Requirements
+1 July 2021
+
+No: 2021-27
+
+In line with its main objective of price stability, the Central Bank of the Republic of Turkey
+revised the reserve requirement regulation to improve the effectiveness of monetary
+transmission mechanism.
+
+To improve the effectiveness of monetary transmission mechanism;
+
+-
+
+The upper limit of the facility for holding FX will be decreased from 20% to 10% of Turkish
+lira reserve requirements. The facility will be terminated on 1 October 2021.
+Reserve requirement ratios for FX deposits/participation funds will be increased by 200
+basis points for all maturity brackets.
+
+As a result of this decision, Turkish lira and FX denominated required reserves are expected to
+increase initially by approximately TRY 13.2 billion and USD 2.7 billion, respectively. In addition,
+
+-
+
+FX deposits/participation funds available as of 25 June 2021 and converted to Turkish lira
+deposits/participation funds after this date will be exempt from reserve requirement
+liabilities,
+Additional remuneration rate will be applied to Turkish Lira denominated required
+reserves to increase the share of Turkish lira in the total deposit/participation funds in
+the banking system.
+
+These changes will be effective from the calculation date of 19 July 2021 with the maintenance
+period starting on 6 August 2021.
+The technical details of the implementation can be found in the attachment.
+
+Contact
+For further information, you may send an e-mail to basin@tcmb.gov.tr.
+
+Central Bank of the Republic of Turkey Head Office
+Hacı Bayram Mah. İstiklal Cad. No:10 06050 Ulus Altındağ Ankara
+Phone : (+90 312) 507 50 00 | Fax : (+90 312) 507 56 40
+www.tcmb.gov.tr
+
+DETAILS ABOUT IMPLEMENTATION
+1. The upper limit of the facility for holding FX for Turkish lira reserve requirements will
+be decreased from 20% to 10% to be effective from the calculation date of 19 July 2021
+with the maintenance period starting on 6 August 2021. The said facility will be
+terminated by decreasing the limit to 0% as of the calculation date of 17 September
+2021 with the maintenance period starting on 1 October 2021.
+2. Reserve requirement ratios for FX deposits/participation funds will be increased by 200
+basis points for all maturity brackets to be effective from the calculation date of 19 July
+2021 with the maintenance period starting on 6 August 2021.
+3. Based on the deposits/participation funds subject to reserve requirements available on
+25 June 2021;
+a. The amount of Turkish lira deposits/participation funds with 1-month or longer
+maturity converted from FX deposits/participation funds will be exempt from
+reserve requirement liabilities, as long as the amount remains in the Turkish
+lira accounts.
+b. Part of Turkish lira denominated required reserves, which will be calculated by
+multiplying the amount specified in Article (3.a) by the highest reserve
+requirement ratio for Turkish lira deposits/participation funds, will be
+remunerated by 19%.
+4. Additional remuneration will be applied gradually for Turkish lira denominated
+required reserves remaining from the amount specified in Article (3.b), provided that
+both conditions are met at the same time, as shown in the table below.
+Indicator 1: Ratio of “FX deposits/participation
+deposits/participation funds” as of the calculation date
+
+funds”
+
+to
+
+“total
+
+Indicator 2: Ratio of “Turkish lira deposits/participation funds with 1-month or
+longer maturity converted from FX deposits/participation funds and remaining in
+the Turkish lira accounts from 25 June 2021 until the liability calculation date” to
+“the amount of FX deposits/participation funds as of 25 June 2021”
+Indicator 1
+
+Indicator 2
+
+if the conditions are not met
+
+Remuneration Rate for
+TL-denominated
+Required Reserves*
+13.5 %
+
+at least 5% decrease since
+25 June 2021
+
+at least 5 %
+
+15 %
+
+at least 15% decrease
+since 25 June 2021
+
+at least 15 %
+
+17 %
+
+≤ 40%
+
+at least 20 %
+
+19 %
+
+*These rates have been determined according to the current policy rate level.
+
+5. Decrease in FX deposits/participation funds via derivative transactions and
+decrease/increase in FX deposits/participation funds sent abroad or received from
+abroad will not be considered in calculations.
+6. Data required in the scope of the implementation will be reported from the required
+reserve calculation date of 19 July 2021. Detailed information about the procedures
+
+and principles regarding the implementation will be provided in the Reserve
+Requirements Implementation Instructions document.
+
+

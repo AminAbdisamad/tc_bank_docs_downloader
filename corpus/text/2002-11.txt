@@ -1,0 +1,39 @@
+Notes On the Changes in the Questionnaire of Survey of Expectations as of April 2006:
+1. Expectation of CPI Inflation
+The number of questions regarding consumer inflation has been increased from four to six.
+Through this revision, the “expectation of CPI inflation for the following month” has been added
+as the third question in the monthly inflation expectations section of the Survey, which already
+included the questions about the expectations of CPI inflation for the current month and for the
+second month ahead. In the annual inflation expectations section, the “annual CPI expectation
+after 24 months” is included in addition to the previous two questions, namely the expectation of
+year-end inflation for the current year and the expected CPI inflation over the next twelve
+months. For the questions related to the annual inflation expectations in 12 and 24 months, the
+beginning and the end of the related periods are stated explicitly in the questionnaire and the
+expectations of the interest are the annual inflation rates by the end of the specified 12- and 24month periods.
+2. Expectation of the Annual Compound Interest Rate of Treasury Bills
+Due to the outstanding stock of floating rate government bonds with quarterly coupon payments,
+the Turkish Treasury keeps issuing 3-month-reference Treasury bills. However, as announced in
+the 2006 program, floating rate bonds with semi-annual coupon payments will also be issued
+regularly each month throughout 2006. Thus, in accordance with the domestic borrowing
+strategy of 2006 announced by the Turkish Treasury, questions regarding the annual compound
+interest rate of 3-month Treasury bill auctions have been omitted. Instead, the expectations of the
+annual compound interest rates of the 6-month Treasury bills to be auctioned 3- and 12-months
+ahead are included.
+3. Expectation of Annual Compound Interest Rate of Government Bond
+In order to assess long-term interest rate expectations, two questions have been added to the
+Survey. These questions refer to the interest rate expectations for the 5-year TRY denominated
+fixed rate government bonds with semi-annual coupon payments to be auctioned the 3- and 12month periods ahead.
+4. Expectation of the Money Market Overnight Annual Simple Interest Rate
+Regarding expectations of the money market overnight annual simple interest rate, two questions
+inquiring about the expectations for the 3 and 12 month periods ahead have been added to the
+Survey, while one of the previous questions regarding the year-end expectation has been omitted.
+5. Expectation of US Dollar Rate In The Interbank Foreign Exchange Market
+The question related to the expectation of the US dollar rate by the end of the next 12 months is
+asked, in addition to the previous two questions.
+6. Expectation of the Current Account Balance
+There is no change in this question.
+7. Expectation of the GNP Growth Rate
+The question related to the expectation of the next year’s GNP growth rate has been added to the
+Survey.
+
+

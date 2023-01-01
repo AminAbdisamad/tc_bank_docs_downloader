@@ -1,0 +1,53 @@
+Press Release on Reserve Requirements
+06 August 2018, No: 2018-30
+The upper limit for the FX maintenance facility within the reserve options mechanism has been
+lowered to 40 percent from 45 percent and tranches have been determined as follows:
+
+Current FX Facility
+Tranches (%)
+0-20
+20-25
+25-30
+30-35
+35-40
+40-45
+
+Reserve Option
+Coefficients
+1.0
+1.4
+1.7
+2.1
+2.5
+2.9
+
+New FX Facility
+Tranches (%)
+0-20
+20-25
+25-30
+30-35
+35-40
+
+Reserve Option
+Coefficients
+1.0
+1.4
+1.7
+2.1
+2.5
+
+With this revision, approximately 2.2 billion US dollars of liquidity will be provided to banks.
+
+Contact
+For further information, you may send an e-mail to basin@tcmb.gov.tr.
+
+Türkiye Cumhuriyet Merkez Bankası
+(Central Bank of the Republic of Turkey)
+Head Office
+Anafartalar Mahallesi
+İstiklal Caddesi 10 06050 Ulus Altındağ / Ankara
++90 (312) 507 50 00
+www.tcmb.gov.tr
+
+

@@ -1,0 +1,92 @@
+No: 2007 - 15
+July 6, 2007
+PRESS RELEASE ON THE IMPLEMENTATION INSTRUCTIONS FOR THE
+INTERBANK MONEY MARKET, BANKS’ BORROWING LIMITS IN THE
+INTERBANK MONEY MARKET AND LIQUIDITY FACILITIES OFFERED TO
+PRIMARY DEALER BANKS
+
+1. “Implementation Instructions for the Interbank Money Market” booklet dated
+February 2000 has been updated in order to include the current
+implementation instructions that were sent to banks on various dates following
+its issue date and the changes made to the current implementations. The
+changes in the implementation instructions will become effective as of July 9,
+2007. The fundamental changes in the implementation instructions for the
+Interbank Money Market (IMM) operations are as follows:
+i) In order to support banks’ liquidity management and enhance the
+effectiveness and flexibility of the payment system, Late Liquidity
+Window (LON) operations that are conducted between 4 p.m.– 4:30
+p.m. currently will be carried out between 4 p.m.– 5 p.m. on business
+days and between 4 p.m. – 5:15 p.m. on the last business day of the
+reserve maintenance period..
+ii) The minimum transaction limit for YTL deposit and LON transactions
+has been increased to YTL 100.000 and multiples from YTL 50.000 and
+multiples; while the minimum transaction limit for Intra-Day Liquidity
+Facility (IDLF) transactions has been decreased to YTL 100.000 and
+multiples from YTL 250.000 and multiples.
+iii) Gold deposits, which are among the collateral types but not actively
+used, will no longer be accepted as collateral due to the difficulties in
+implementation.
+iv) Central Bank Liquidity Bills will be accepted as collateral too.
+v) In order to facilitate the collateral management of banks, government
+securities shall be accepted as collateral until one business day prior to
+their maturity date, instead of three working days.
+
+2. To enhance the Central Bank’s flexibility and efficiency of liquidity
+management and to encourage widespread utilization of the liquidity facilities
+of the Bank by the banking system, the total borrowing limit allocated to banks
+in the IMM has been increased. However, the liquidity facility offered to
+primary dealer banks within the framework of open market operations has
+been reduced. Considering the increase in the asset growth of the banking
+system between the years 2003 - 2006, the IMM total borrowing limit of the
+banking system, which was latest set on July 22, 2004, has almost been
+doubled to be effective as of July 9, 2007. The limit allocated to the banks is
+determined according to the share of their assets in the aggregate banking
+system. On the other hand, the unlimited borrowing facility provided to banks
+against adequate collateral from the LON quota announced at O/N maturity in
+line with the Central Bank’s lender of the last resort function will continue.
+3. As indicated in the press release dated September 03, 2002, the CBRT
+provides liquidity facility for the primary dealer banks in order to support the
+primary dealership system. Considering the increase of the borrowing limit
+provided for the banking system in the IMM with the aim of securing a wider
+utilization of the CBRT liquidity facilities for the banking system, the liquidity
+facility provided to primary dealer banks is revised as follows to be effective
+from the beginning of the new primary dealership term (September 03, 2007):
+i)
+
+The total amount of liquidity facility provided for the primary
+dealer banks has been decreased to 7 percent from 10 percent of
+the outstanding Turkish lira denominated Treasury securities
+purchased from Treasury auctions (including the net amount of
+the Turkish lira denominated securities purchased from auctions,
+public offerings, TAP sales, noncompetitive sales and switching
+auctions and excluding FX indexed securities). Primary dealer
+banks will continue to use the liquidity facility in the form of O/N
+or one-week repo transactions at any time, between10 a.m – 4
+p.m, as currently in practice.
+
+ii)
+
+The amount of government securities, which a primary dealer
+bank is authorized to sell, has been reduced from 50 percent to
+40 percent of its total liquidity facility. In using government
+securities selling facility the following principles shall apply:
+
+a) The banks in need of liquidity shall inform the CBRT about their
+demands for selling benchmark government securities.
+b) The CBRT shall contact with other primary dealer banks and
+may preferably announce auctions for the government security
+or securities that it deems appropriate. CBRT, if necessary,
+may use the quotation method.
+c) In this framework, the maximum daily amount of government
+securities that the CBRT can buy shall not exceed 20 percent
+of the total selling facility.
+d) While the repo facility for primary dealer banks is automatically
+available, the CBRT might disregard primary dealer banks’
+demands for selling government securities, if there is enough
+liquidity in the government securities secondary market and/or
+there is no liquidity shortage in the market.
+e) When a bank uses government securities selling facility, the
+total liquidity and government security selling facility shall be
+reduced as much as the amount of government securities sold.
+
+

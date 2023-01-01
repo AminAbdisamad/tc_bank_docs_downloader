@@ -1,0 +1,45 @@
+Press Release on Central Bank Digital
+Turkish Lira R&D Project
+15 September 2021
+
+No: 2021-40
+
+The Central Bank of the Republic of Turkey has signed bilateral memorandums of
+understanding with ASELSAN, HAVELSAN and TÜBİTAK-BİLGEM, and established the “Digital
+Turkish Lira Collaboration Platform”.
+The Central Bank of the Republic of Turkey (CBRT) continues to research the potential benefits of
+introducing a digital Turkish lira to complement the existing payments infrastructure. As part of
+the Central Bank Digital Turkish Lira Research and Development (R&D) Project, the process that
+started with the completion of the proof of concept now moves on to the next stage with the
+participation of technology stakeholders.
+The technological research, development and testing processes of the Central Bank Digital
+Turkish Lira R&D Project will be carried out in close collaboration with these technology
+stakeholders. Accordingly, the CBRT has signed bilateral memorandums of understanding with
+ASELSAN, HAVELSAN and TÜBİTAK-BİLGEM, and established the “Digital Turkish Lira
+Collaboration Platform”. In the light of the findings of the first phase, which involves preliminary
+testing of strategic and critical technologies related to the project, the plan is to expand the
+platform with the involvement of new participants.
+For the first phase of the pilot study, the CBRT will develop a prototype "Digital Turkish Lira
+Network" and run limited closed-circuit pilot tests with technology stakeholders. Based on the
+results of those tests, the CBRT will unveil advanced phases of the pilot study that will reflect a
+broader participation. The CBRT also plans to carry out tests that may diversify the coverage of
+the Digital Turkish Lira R&D Project into areas such as blockchain technology, the use of
+distributed ledgers in payment systems, and integration with instant payment systems.
+The CBRT has made no final decision regarding the issuance of the digital Turkish lira. All
+research is carried out as per the principles of experimental R&D activities. After capacity
+measurements of different technological alternatives are completed and the architectural setups
+are finalized, it will be decided whether the existing technologies can meet the economic, legal
+and financial requirements of the digital Turkish lira.
+The results of the first phase will be announced in 2022 after the tests are completed.
+Contact
+For further information, please send an e-mail to basin@tcmb.gov.tr.
+
+Türkiye Cumhuriyet Merkez Bankası
+(Central Bank of the Republic of Turkey)
+Head Office
+Hacı Bayram Mahallesi
+İstiklal Caddesi 10 06050 Ulus Altındağ / Ankara
++90 (312) 507 50 00
+www.tcmb.gov.tr
+
+

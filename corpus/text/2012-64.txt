@@ -1,0 +1,339 @@
+No: 2012 – 64
+31 December 2012
+PRESS RELEASE ON THE CHANGES TO BE MADE TO THE BALANCE SHEET
+AND THE ANALYTICAL BALANCE SHEET OF THE CBRT
+Pursuant to the Turkish Commercial Code (Law No.6102) and the relevant
+legislation, some changes have been made to the balance sheet of the Central Bank
+of the Republic of Turkey (CBRT).
+Accordingly, the below changes will be effective as of 1 January 2013;
+1) Securities purchased under repurchase agreements and securities sold
+under reverse repurchase agreements will be recorded as off-balancesheet items,
+2) The deferred tax, which will occur due to implementation differences
+between the Turkish Accounting Standards and the Tax Procedure Law,
+will be calculated and reported as a new balance sheet item,
+3) The interest income and expense accruals will be reported on their related
+asset or liability item,
+4) Shares will be recorded in their actual and fair values instead of their
+acquisition values.
+In addition to the above changes, some changes will be made in the names
+and classification of balance sheet items and the amounts in the balance sheet will
+be displayed in 3 columns. The balance sheet of the CBRT to be issued after
+1 January 2013 and the equivalents of the new balance sheet items on the current
+balance sheet are presented in Appendix 1.
+Meanwhile, some changes will be made and take effect as of 1 January 2013
+on the analytical balance sheet that has been prepared and issued by the CBRT
+since 1980 to allow the public and relevant stakeholders to analyze the CBRT’s
+policies;
+1) The items, which are no longer used, will be removed from the balance
+sheet,
+2) The “Revaluation Account” subtitle under “Domestic Assets” title, will
+be shown as a separate item.
+3) The names of some items will be changed.
+The equivalents of the new Analytical Balance Sheet items to be issued after
+1 January 2013 on the current Analytical Balance Sheet are shown in Appendix 2;
+
+and the equivalents of the new Analytical Balance Sheet items on the new Balance
+Sheet are shown in Appendix 3.
+Appendix 1: Balance Sheet of the Central Bank of the Republic of Turkey to be
+Released after 1 January 2013 and Current Balance Sheet Equivalents of These
+Balance Sheet Items
+Balance Sheet
+Balance Sheet to be Released after
+before
+1 January 2013
+1 January 2013
+ASSETS
+ASSETS
+1 Gold
+1.1 International Standard (Net Gram)
+I.A.
+2 Foreign Banknotes
+II.A.a
+3 Foreign Correspondents
+3.1 FX Securities
+3.2 Deposit
+II.A.b
+3.3 Other
+4 Reserve Tranche Position
+II.A.c
+5 Securities Portfolio
+5.1 Government Securities
+V.A
+5.2 Other
+V.B
+6 Lending Related to Monetary Policy Operations
+6.1 Open Market Operations
+VII.A.a.ii
+6.2 Interbank Operations
+VII.B
+6.3 Other
+NEW
+7 Domestic Banks
+IV
+8 Credits
+8.1 Domestic Credits
+8.1.1 Rediscount Credits
+VI.A.a
+VI.A.b + VI.A.c +
+8.1.2 Other Credits
+VI.B
+8.2 Foreign Credits
+VIII
+9 Share Participations
+IX
+10 Treasury Liabilities Due to SDR Allocation
+XII
+11 Fixed Assets (Net)
+X
+12 Claims under Legal Proceedings (Net)
+12.1 Claims under Legal Proceedings
+XI.A
+12.2 Provisions for Claims under Legal
+XI.B
+Proceedings(-)
+13 Deferred Tax Assets
+NEW
+14 Revaluation Account
+XIII
+15 Loss of the Period
+XVII
+16 Other Assets
+16.1 Gold Non-International Standard (Net Gram)
+I.B
+16.2 Coins
+III
+XIV
+16.3 Income Accruals
+
+16.4 Other
+17 Previous Years’ Losses
+
+XV + XVI + II.B
+XVIII
+
+TOTAL
+LIABILITIES
+1 Currency Issued
+2 Liabilities Related to Monetary Policy
+Operations
+2.1 Open Market Operations
+2.2 Interbank Operations
+2.3 Liquidity Bills
+2.4 Other
+3 Deposits
+3.1 Public Sector
+3.1.1 Treasury, General and Special Budget
+Administrations
+3.1.2 Other
+3.2. Banking Sector
+3.2.1 Domestic Banks
+3.2.2 Foreign Banks
+3.2.3 Required Reserves in Blocked Accounts
+3.2.3.4 Cash
+3.2.3.5 Gold (Net Gram)
+3.2.4 Other
+3.3 Other Deposits
+3.3.1 FX Deposits by Citizens Abroad
+3.3.2 International Institutions
+3.3.3 Extrabudgetary Funds
+3.3.4 Other
+4 Foreign Banks
+5 Reserve Tranche Means
+6 SDR Allocation
+7 Tax Obligation
+7.1 Taxes Payable
+7.2 Deferred Tax Liability
+8 Provisions
+9 Capital and Reserves
+9.1 Paid-in Capital
+9.2 Inflation Adjustments for Capital
+9.3 Reserves
+10 Revaluation Account
+11 Profit of the Period
+12 Other Liabilities
+12.1 Treasury Gold (Net Gram)
+12.2 Letters of Credit
+12.3 Credits Received
+
+I
+
+VI.A.a.ii
+VI.B
+V
+NEW
+
+IV.A.a
+IV.A.b + IV.A.c +
+IV.A.d
+IV.B.a
+IV.B.b
+IV.B.c.i
+IV.B.c.ii
+IV.B.d
+IV.C.a
+IV.D
+IV.E
+IV.C.b
+III.A
+II.B
+X
+NEW
+II.C TL + XIII.B
+NEW
+XIII.A + XIII.C
+XI.A
+XI.B
+XII
+XIV
+XVIII
+II.A
+VIII
+VII
+
+12.4 Expense Accruals
+12.5 Other
+
+XV
+XVI + XVII + IX +
+III.B + II.C FX
+
+TOTAL
+Appendix 2: Analytical Balance Sheet of the Central Bank of the Republic of
+Turkey to be Released after 1 January 2013 and Current Analytical Balance
+Sheet Equivalents of These Balance Sheet Items
+
+CURRENT
+ANALYTICAL
+BALANCE SHEET
+EQUIVALENT
+ASSETS
+1 FOREIGN ASSETS
+2 DOMESTIC ASSETS
+2.1 Treasury Debt
+2.1.1 Securities
+2.1.2 Other
+2.2 Credits to Banking Sector
+2.3 Credits to SDIF
+2.4 Other Items
+3 FX REVALUATION ACCOUNTS
+LIABILITY
+1 TOTAL FOREIGN LIABILITIES
+1.1 Liabilities to Non-Residents
+1.2 Liabilities to Residents
+1.2.1 Public Sector and Other FX
+Deposits
+1.2.2 FX Deposits of Banking Sector
+2 CENTRAL BANK MONEY
+2.1 Reserve Money
+2.1.1 Currency Issued
+2.1.2 Deposits of Banking Sector
+2.1.2.1 Required Reserves in
+Blocked Accounts
+2.1.2.2 Free Deposits
+2.1.3 Extra-Budgetary Funds
+2.1.4 Deposits of Non-Banking Sector
+2.2 Other Central Bank Money
+2.2.1 Open Market Operations
+2.2.2 Deposits of Public Sector
+
+1
+2 - 2.b
+2.a.aa
+2.a.aa.i
+2.a.aa.ii
+2.a.ab
+2.a.ac
+2.a.ad
+2.b
+
+1
+1.a
+1.b
+1.b.ba
+1.b.bb
+2
+2.A
+2.A.a
+2.A.b
+2.A.b.ba
+2.A.b.bb
+2.A.c
+2.A.d
+2.B
+2.B.a
+2.B.b
+
+Appendix 3: New Balance Sheet Equivalents of the New Analytical Balance
+Sheet Items
+NEW BALANCE SHEET
+EQUIVALENT
+ASSETS
+1 FOREIGN ASSETS
+2 DOMESTIC ASSETS
+2.1 Treasury Debt
+2.1.1 Securities
+2.1.2 Other
+2.2 Credits to Banking Sector
+2.3 Credits to SDIF
+
+2.4 Other Items
+
+3 REVALUATION ACCOUNT
+
+A1 + A2 + A3 + A4 + A7 FX
++ A8.2 FX + A9 FX + A12.1
+FX + A16.4 FX
+
+A5
+-P7.1 – P12.1
+A8.1 (Excluding SDIF)
+A8.1.2 (SDIF)
+A7 TL + A11 + A12.2 + A.13
++A.15 + A16.1 + A16.2 +
+A16.3 + A16.4 TL + A17 –
+P7.2 - P8 - P9 – P11 - P12.4
+- P12.5 TL
+-P10 + A14
+
+LIABILITY
+1 TOTAL FOREIGN LIABILITIES
+1.1 Liabilities to Non-Residents
+
+P3.3.1 + P.3.3.2 (CBRT
+Debt to IMF) + P4 FX + P6 +
+P12.2 FX + P12.3 + P12.5
+FX (Excluding Treasury)
+
+1.2 Liabilities to Residents
+1.2.1 Public Sector and Other FX
+Deposits
+1.2.2 FX Deposits of Banking Sector
+2 CENTRAL BANK MONEY
+2.1 Reserve Money
+2.1.1 Currency Issued
+2.1.2 Deposits of Banking Sector
+2.1.2.1 Required Reserves in
+Blocked Accounts
+2.1.2.2 Free Deposits
+2.1.3 Extra-Budgetary Funds
+2.1.4 Deposits of Non-Banking Sector
+2.2 Other Central Bank Money
+2.2.1 Open Market Operations
+2.2.2 Deposits of Public Sector
+
+P3.1 FX + P3.3.3 FX +
+P3.3.4 FX + P5+ P12.5 FX
+(Treasury) - A10
+P3.2 FX
+
+P1
+P3.2.3 TL
+P3.2.1 TL + P3.2.2 TL +
+P3.2.4 TL
+P3.3.3 TL
+P3.3.2 TL (Excluding CBRT
+Debt to IMF) + P3.3.4 TL
+P2 - A6
+P3.1 TL
+
+

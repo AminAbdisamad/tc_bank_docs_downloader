@@ -1,0 +1,115 @@
+No: 2006-35
+
+26 June 2006
+PRESS RELEASE
+ON
+THE FOREIGN EXCHANGE SALE AND NEW TURKISH LIRA DEPOSIT
+PURCHASE AUCTIONS HELD BY THE CENTRAL BANK OF THE REPUBLIC OF
+TURKEY
+
+The Central Bank of the Republic of Turkey (CBRT) has decided to implement a
+strong monetary tightening and the Monetary Policy Committee increased the policy rates on
+June 26, 2006. Parallel to the increase in policy rates, The CBRT has also decided to sterilize
+the excess liquidity in the money markets to enhance the effectiveness of the decision on
+monetary tightening. .
+The Monetary Policy Committee has stated that proper functioning of the foreign
+exchange market is an important prerequisite to achieve the target on price stability. So the
+Committee has expressed its support for effective intervention in the market to provide
+foreign exchange liquidity via its available instruments.
+Parallel to turmoil in the international financial markets, the financial markets of
+Turkey have experienced excessive fluctuations in the foreign exchange markets in the recent
+period. It is observed that the decline in the foreign exchange liquidity both triggers the
+excessive fluctuations and also encourages speculative behaviors in the market.
+Following the assessments of Monetary Policy Committee, the CBRT has decided to
+hold “Foreign Exchange Sale Auction” and “ New Turkish Lira Deposit Purchase Auction”
+effective as of June 26, 2006 within the framework of the following principles.
+
+A)
+
+FOREIGN EXCHANGE SALE AUCTIONS
+
+Adhering to the principles of the floating exchange rate regime, the CBRT will be
+more vigilant against excessive fluctuations incoherent with the economic fundamentals and
+that undermine the stability in the financial markets and triggered by the exogenous factors,
+
+uncertainties and speculative behaviors. Accordingly, the CBRT will provide foreign
+exchange liquidity to the market via auctions, in case where the foreign exchange markets
+experience a decline in liquidity and/or poor price formations. In case where foreign exchange
+sale auctions fail to meet the need for liquidity in foreign exchange markets the CBRT will
+not hesitate to intervene in the markets via direct foreign exchange sales. The markets and the
+public will be informed about the amounts of foreign exchange sales at 10.00 a.m. before
+auctions are held. The daily maximum amount set for the auction held on June 26, 2006 is
+USD 500 million.
+Guidelines for Foreign Exchange Sale Auctions are as follows:
+1. The institutions authorized to operate in the Foreign Exchange and
+Banknotes Markets may attend the auction.
+2. The auction number will be posted on Reuters page CBTQ at 1:30 p.m. and
+institutions may submit their offers between 1:40 – 2:00 p.m. The offers shall
+be sent via Electronic Fund Transfer (EFT).
+3. The auction will be held under the method of multiple price auctions.
+4. The results for auctions will be posted on Reuter’s page CBTQ.
+5. The minimum amount that can be offered will be USD 1 million and
+multiples thereof.
+6. The maximum amount offered by each institution will be limited as 20
+percent of the total auction amount.
+7. Institutions will not be able to change their offer amounts and prices during
+the auction.
+8. In case there is more than one offer for the price where the auction is
+finalized, the distribution will be made on pro-rata basis.
+9. The institutions that do not fulfill their obligations arising from the auctions
+will be subject to the sanctions specified in the Implementation Instructions
+of the Foreign Exchange and Banknotes Markets.
+
+B)
+
+NEW TURKISH LIRA DEPOSIT PURCHASE AUCTIONS
+
+The excess liquidity withdrawn by the CBRT from the system varies between USD
+10-15 billion. In order to enhance the effectiveness and flexibility of monetary policy, it has
+been decided that New Turkish Lira Deposit Buying Auctions, the details of which are given
+below, are initiated for 1 and 2-week standard maturities in addition to the transactions
+already executed in the Interbank Money Market.
+
+Guidelines for New Turkish Lira Deposit Purchase Auctions are as follows:
+
+1. From June 26, 2006 onwards, New Turkish Lira Deposit Purchase Auctions for
+1 week and 2 week maturities will be held every working day of the week
+2. The total amount that will be bought in both auctions will not exceed YTL 500
+million. The allocation of the total amount among the auctions will be
+determined by the CBRT according to the offers received.
+3. The method of multiple-price auctions will be introduced in the YTL deposit
+purchase auctions.
+4. All banks eligible to make transactions in the Inter-bank Money Market are
+allowed to participate in the auctions.
+5. The notice for the auction will be announced on Reuters page “CBTY” and the
+results of the auction will be announced on Reuters page “CBTZ”
+6. The banks will submit offers between 10:00-11:00 a.m.
+7. The minimum amount of offers will be YTL 1 million and multiples thereof.
+8. The banks will not be able to change the amounts and interest rates for their
+offers during the auction process.
+9. The interest rates to be offered will be on a yearly basis and expressed in figures
+either without decimal or in percentage points as XX.00, XX.01, XX.02, XX.03,
+etc.
+10. If there is more than one offer for the interest rate that the auction is awarded to,
+the distribution will be made on pro-rata basis. Any figure thus obtained will be
+rounded downward as 50 thousand New Turkish Liras and multiples thereof.
+11. The banks willing to participate in the auction will submit their offers via EFT
+system with “HABR-TKLF” message. The auction code for these messages is
+
+determined as “7” and the auction number will be announced on Reuters page
+“CBTY” on each auction day.
+12. The winner banks are obliged to transfer the amounts offered to the CBRT with
+the message MERV-PAR1, reference “IHL” and explanation “Inter-Ihale
+Bedeli” until 5:30 p.m. at the latest on the value date.
+13. No transaction commission will be charged in the auctions.
+14. In case a bank fails to fulfill its obligations arising from these auctions, the
+current practice for the Interbank Money Market will be applied in terms of
+default interest rate and administrative sanctions. The bank will be subject to the
+CBRT’s implementation instructions and the Interbank Money Market
+Commitment Agreement signed by banks in case it fails to fulfill its obligations
+within the specified time.
+15. An early notice will be published by the CBRT if a change is made in the
+guidelines governing the YTL deposit purchase auctions or if the auctions are
+terminated.
+
+

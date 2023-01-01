@@ -1,0 +1,349 @@
+No: 2002-25
+March 28, 2002
+
+THE CENTRAL BANK OF THE REPUBLIC OF TURKEY
+PRESS RELEASE
+
+Effective from April 1, 2002, the Central Bank of the Republic of Turkey
+(CBRT) has decided on the following arrangements concerning the Determining
+the Indicative Exchange Rates, Foreign Exchange Buying Auction, Turkish Lira
+Deposit Buying Auction and Quick Repo Tenders.
+
+A)
+
+DETERMINING THE INDICATIVE EXCHANGE RATES
+
+As known, currently the indicative foreign exchange selling rate for 1 USD
+is determined by averaging the averages of the buying and selling rates as
+quoted for 1 USD by banks in the interbank foreign exchange market at 15.30
+local time. The exchange rates of the currencies other than the USD, announced
+by the CBRT, are determined by using the respective cross rates ruling in the
+international markets at 15.30 local time.
+
+From 1 April 2002 onwards, in determining the indicative exchange rates
+as announced by the CBRT at 15.30 on each business day, the following
+method, the details of which are given below, will be employed.
+
+Rules For Determining the Indicative Exchange Rates:
+1.
+
+Effective from 1 April, 2002, in order to determine the indicative exchange
+rates, the CBRT will make 6 observations at the hours indicated in the
+table below by taking the average value of the averages of the buying and
+selling rates as quoted by banks in the interbank foreign exchange market
+
+for 1 USD between 10.30 and 15.30 hours. The arithmetic average of the
+6 observed values thus obtained will be the CBRT’s indicative foreign
+exchange selling rate of 1 USD to be announced at 15.30. Similarly, the
+respective cross rates of the currencies for which the CBRT announces
+indicative exchange rates, will be collected at the exact times shown in the
+said table and their average values will be used in the calculations.
+
+Averaging Hours
+10.30
+1st average
+11.30
+2nd average
+12.30
+3rd average
+13.30
+4th average
+14.30
+5th average
+15.30
+6th average
+2.
+
+The indicative foreign exchange buying rate for 1 USD obtained from the
+indicative foreign exchange selling rate determined at 15.30 in the manner
+explained above, as well as the average USD/EUR cross rate will be
+posted on the CBRT’s Reuters page of “CBTR”.
+
+3.
+
+For the sake of transparency and letting the public be informed about, the
+6 observed averages that are determined in the manner explained above,
+as well as the USD/EUR cross rates, will be posted in the “Market Data”
+section of the CBRT internet-site in the following day.
+
+B) FOREIGN EXCHANGE BUYING AUCTION
+
+With its press release of January 2, 2002, the CBRT has informed the
+public of general framework for its monetary and foreign exchange policies as
+well as its expectations for 2002. In the said press release, it was stated that,
+similar to other country experiences that has implemented economic programs
+under the floating exchange rate regime, a possible reverse currency substitution
+as well as excess foreign exchange supply due to strong balance of payment
+position, contrary to the developments in 2001, seem to be a strong possibility in
+the periods ahead. It was also announced that under these circumstances the
+
+use of instruments by the CBRT to enhance its foreign exchange reserves
+without violating the floating exchange rate regime and without effecting long
+term trend and natural equilibrium level of the exchange rate might also be
+possible. Besides, in the Letter of Intent dated January 18, 2002, it is also stated
+that there could be foreign exchange purchases for the aim mentioned above.
+
+Considering the developments in 2002, due to strong external support
+provided by international institutions, the on going fiscal discipline and structural
+reforms, the steps taken to strengthen the capital structure of the banking
+system, the declining trend in the inflation and changing by international credit
+rating institutions of the credit rating outlook of Turkey to positive, a relative
+stability in the foreign exchange markets seems to have been achieved. During
+this period, the CBRT did not intervene in the foreign exchange markets. Thus,
+the market participants as well as the public have come to understand that, in
+consistence with the economic fundamentals, the volatility in the foreign
+exchange markets could be balanced without the CBRT interventions.
+
+In this respect, there are signs that the reverse currency substitution
+process is in progress. Excluding the interbank deposits, when the foreign
+exchange deposits at the banks from October 2001, which is the date from then
+on the Turkish Lira began to appreciate, until now are examined, despite the
+gradual return into the banking system of the foreign exchange that left the
+system during the crisis and went into hoarding and of the foreign exchange
+assets of the residents held abroad, no increase can be detected in the level of
+foreign exchange deposits. That is, the total foreign exchange deposits standing
+at USD 42.8 billion at end-September 2001, remained the same with USD 42.9
+billion (provisional data) as of March 8, 2002. The Turkish Lira equivalents of the
+foreign exchange deposits on the said dates, in the same order, are 65.7 and
+58.5 quadrillion Turkish Liras, which show 11 percent nominal and 27 percent
+real decreases. Though the decrease in the Turkish Lira equivalents of the
+foreign exchange deposits can somewhat be accounted for by the appreciation of
+the Turkish Lira, nevertheless the USD amount remaining at the same level is
+
+important. In this respect, developments during the Euro changeover period
+sheds some light what has actually happened. With the press release of March 4,
+2002, the public was informed about the details of the CBRT’s banknotes
+shipment of 12 legacy currencies in the context of the Euro-changeover. It was
+stated that DEM 4.8 billion worth of banknotes were shipped abroad between
+August 2001 and February 2002 by the CBRT alone. Approximately 60 percent
+of the banknotes shipped, which is equal to DEM 2.9 billion, were sold to the
+CBRT in exchange for foreign exchange. In other words, more than half of the
+banknotes that flowed back to the banking system from “hoarding” during the
+period mentioned above chosen to remain in the banking system.
+
+In order to evaluate the reverse currency substitution, it is utmost
+importance to examine which Turkish Lira instruments were most favored
+instruments for the funds following back into the system during the period where
+the level of foreign exchange deposits remained the same. Despite the slowdown
+in the economic activity, during the period from September 28, 2001 to March 15,
+2002, the total amount of Turkish Lira deposits, repoes, mutual funds in Turkish
+Lira and Government Debt Securities (GDS) that are owned by individual and
+institutional investors and are held in the bank accounts have increased to 76.5
+quadrillion Turkish Liras from 60.3 quadrillion Turkish Liras, exhibiting 27 percent
+nominal and 3 percent real increase. Of the 16.2 quadrillion Turkish Lira increase
+taken place in the investment instruments during the period, a sizeable amount of
+7.9 quadrillions Turkish Lira is accounted for by the increase in investment
+instruments held in the banking system and owned, not by banks, but individuals
+and institutional investors. The GDS held in the banks by the investor groups
+mentioned above increased to 21.2 quadrillion Turkish Liras on March 15, 2002
+from 13.3 quadrillion Turkish Liras on September 28, 2001, meaning 59 percent
+nominal and 29 percent real increase. It is believed that why the bulk of the
+Turkish Lira investments during the period is concentrated in the GDS is the tax
+incentives provided for it. This process is also considered as important for
+returning to Turkish Lira investment instruments, the capacity of the Treasury to
+
+reach individual investors, the growth potential of financial system and limiting
+the burden of public borrowing on the banking system.
+
+The evidence cited in the above analysis and confirming the trend of the
+reverse currency substitution, it is believed, will continue in strength as the
+targets of the economic program being implemented are achieved. When the
+balance of payments forecasts and their realisations are considered, a better
+development in the capital account balance is expected.
+
+In view of the above analysis, the CBRT has decided to increase the level
+of foreign exchange reserves via the method of foreign exchange buying
+auctions presented below. It is obvious that the CBRT’s having stronger reserve
+position in the medium to long term would boost the market’s confidence in the
+existing program. However, with the foreign exchange buying auctions explained
+in detail below, the CBRT does not target any specific reserve level to be
+achieved. The aim here is to enhance the foreign exchange reserve position of
+the CBRT if and when excess foreign exchange supply situation develops
+without creating an additional volatility in the foreign exchange rates and without
+disturbing the foreign exchange positions of banks.
+
+It goes without saying that, as stressed in the previous press releases, the
+CBRT is vigilant of the developments in the foreign exchange market and will
+stand ready to intervene in the foreign exchange market in both directions if and
+when necessary. That is when there is high volatility in the market.
+
+Rules for Foreign Exchange Buying Auction:
+
+1.
+
+In advance, the public will be informed of the monthly foreign exchange
+buying auctions and the amounts thereof. In this regard, it has been
+decided that in April 2002, foreign exchange buying auctions will be held
+and the daily auction amount is USD 20 million. However, no auctions will
+be held on days where Turkish market is open but USA markets are
+
+closed. Similarly, on half day official holidays, since no indicative rates are
+determined, there will not be any auction.
+2.
+
+Only banks and special finance houses (institutions) authorised to
+participate in the Foreign Exchange and Banknotes Markets in the CBRT
+are allowed to particiapte in the auctions.
+
+3.
+
+Auctions are to be held under the multiple price auction method.
+
+4.
+
+The maximum bid price in the auction will be the price determined as the
+arithmetic average of the first five observations obtained in the manner
+explained in the section “Rules for Determining the Indicative Exchange
+Rates” above. The maximum price thus obtained will be posted on the
+CBRT’s Reuters page “CBTQ” at 14.40.
+
+5.
+
+Instituions may bid between 14.40 and 15.00.
+
+6.
+
+Minimum amounts that can be bid for is USD 1 million and its multiples
+thereof. The total maximum amount that can be bid is limited to the total
+amount to be bought.
+
+7.
+
+Institutions can send in more than one bid but they can not change their
+bid amounts and prices during the auction.
+
+8.
+
+If there are more than one bid at the price the auction is cut, the
+distribution will be made on pro-rata basis.
+
+9.
+
+Institutions willing to participate in the auctions will send in their bids by
+stating their price and amounts through the telephone numbers 309196689 of the Foreign Exchange and Banknotes Markets Division.
+
+10.
+
+Auction results showing the total bid amount, average, maximum and
+minimum prices will be posted on the CBRT’s Reuters page of “CBTQ” at
+15.30.
+
+11.
+
+No transaction commission will be charged.
+
+12.
+
+Institutions who will not fulfill their obligations arisen from the auctions, will
+be subject to the sanctions as were specified in the Standing Order of the
+Foreign Exchange and Banknotes Markets.
+
+C) TURKISH LIRA DEPOSIT BUYING AUCTION
+
+Since the beginning of 2002, the additional liquidity created in the system
+by the use of the IMF credit by the Treasury for domestic financing needs, market
+conditions permitting, have been mopped up through the reverse repo and the
+interbank money market operations. For a rather long time, markets are opened
+with excess Turkish Lira liquidity and as of today the total liquidity withdrawn from
+the system with overnight (O/N) and 1 week maturities is about 6.8 quadrillion
+Turkish Liras.
+
+In addition to the existing liquidity, the additional liquidity to be created in
+the system by the foreign axchange buying auctions described above will also be
+sterilised through the use of the same money market instruments. In order to
+enhance the effectiveness of its sterilization efforts, the CBRT will supplement its
+existing instruments in the Interbank Money Market within itself. The new
+instrument is a standart Turkish Lira Deposit Buying Auction with a 4 week
+maturity. The instrument, the details of which are given below, will be for a limited
+amount and will not effect the liquidity level of the system in a substantial way.
+
+Rules for Turkish Lira Deposit Buying Auction:
+
+1.
+
+In advance, the public will be informed of the monthly Turkish Lira Deposit
+Buying Auction program and the amounts thereof. In this regard, starting
+from April 3, 2002, in April 2002, on Wednesdays of each week, Turkish
+Lira Deposit Buying Auctions with 4 weeks maturities are to be held and
+the total amount to be auctioned at each auction will be maximum 100
+trillion Turkish Liras.
+
+2.
+
+The auctions are to be held under the multiple price auction method.
+
+3.
+
+All banks participating in the Interbank Money Market are allowed to
+participate in the auctions.
+
+4.
+
+Auction announcements will be made on Reuters page of “CBTY” and the
+auction results on page “CBTZ”.
+
+5.
+
+Banks may bid between 10.00 and 11.00.
+
+6.
+
+Minimum amount that can be bid for is 1 trillion Turkish Liras and its
+multiples thereof.
+
+7.
+
+During the auction hours, banks cannot change their bid amounts and
+prices.
+
+8.
+
+Interest rates bid will, on a yearly basis, be a whole, a quarter, a half and
+three quarters of a whole number. Any fractional numbers other than
+these are not allowed.
+
+9.
+
+If there are more than one bid at the price the auction is cut, the
+distribution will be made on pro-rata basis. Any figure thus obtained will be
+rounded downward as 50 billion Turkish Liras and its multiples thereof.
+
+10.
+
+Banks willing to participate in the auctions will send their bids by stating
+their interest rate and amounts through the telephone numbers 309194049 of the Interbank Money Market Division.
+
+11.
+
+Banks, whose bids are accepted, are obligated to pay the amounts won to
+the CBRT till 17.30 at the latest on the value day by a MERB-PAR1
+message with the reference “IHL” and explanation “Inter-Ihale-Bedeli”.
+
+12.
+
+No transaction commission will be charged.
+
+13.
+
+Banks, which can not fulfill their obligations arising from the auctions, will
+be subject to the existing default interest rates and the administrative
+sanctions. The failed bank will be treated according to the CBRT’s
+standing orders and the undertakings signed and given by banks to the
+CBRT.
+
+D) QUICK REPO TENDERS
+As was explained above under the heading of Turkish Lira Deposit Buying
+Auctions, since the Turkish Lira Deposit Buying Auctions are to be held for
+limited amount, these transactions will not cause a decrease in the daily excess
+liquidity. However, in the periods ahead, due to the CBRT and the Treasury
+operations, depending on the lengthening of the maturities of the liquidity
+withdrawn from the system, may lead to the reduction in the level of the excess
+liquidity. Under these circumstances, in order to alleviate the temporary liquidity
+
+shortage that may develop, the CBRT will inject liquidity into the system through
+the quick tenders to be held at any time between 11.00-15.00. Although not
+expected in the near future, in case the liquidity shortage begins to develop, the
+CBRT will in advance announce to the public the details of the intended quick
+tender.
+
+

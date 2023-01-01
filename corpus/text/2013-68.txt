@@ -1,0 +1,72 @@
+No: 2013 – 68
+
+Release Date: 24 December 2013
+
+PRESS RELEASE ON RESERVE REQUIREMENTS
+In order to simplify the structure of reserve requirements that are used as a
+monetary and macroprudential policy tool, a new approach has been adopted.
+Accordingly, instead of deducting specified items from the total domestic liabilities, only
+the items subject to reserve requirements will directly be taken into account while
+calculating liabilities subject to reserve requirements. Thus, immaterial items, which do
+not have a direct impact on the monetary policy but reduce the efficiency of the
+operational processes, have been excluded from reserve requirements coverage.
+With the revision, liabilities subject to reserve requirements are redefined as
+follows:
+a) Deposits/participation funds,
+b) Funds from repo transactions,
+c) Loans obtained (except the loans guaranteed by the Treasury),
+d) Securities issued (net),
+e) Subordinated debt (except the debts taken into account in the calculation of
+own funds),
+f) Loans booked by foreign branches,
+g) Deposits/participation funds of residents booked by foreign branches,
+h) Liabilities to the head office and branches abroad (net) exceeding the amount
+of (f) and (g).
+i) Debt from credit cards.
+With the revision, FX liquidity of approximately USD 1 billion is projected to be
+injected to the market.
+In light of the latest developments in global markets and with a view to supporting
+financial stability by ensuring a more effective functioning of the reserve options
+mechanism (ROM) working as an automatic stabilizer, the reserve option coefficients
+(ROCs) for foreign exchange reserves held for Turkish lira required reserves have been
+revised as follows:
+
+FX Facility
+Tranches (%)
+0-30
+30-35
+35-40
+40-45
+45-50
+50-55
+55-60
+
+Current
+ROC
+1.4
+1.5
+1.8
+2.2
+2.5
+2.7
+2.8
+
+New ROC
+1.4
+1.5
+1.8
+2.6
+2.9
+3.1
+3.2
+
+Banks have been consistently using the FX ROM facility; the utilization ratio is
+90.6 percent (54.3/60). The utilization ratio of the facility is 46.3 percent (27.8/60) for
+financing companies that have been recently included in the reserve requirements
+coverage. Currently, FX worth USD 33.7 billion is being held for Turkish lira required
+reserves, and the contribution of the revisions on the Central Bank reserves will depend
+on banks’ preferences.
+The revisions will be effective as of the calculation period dated 17 January 2014
+and the maintenance period will begin on 31 January 2014.
+
+
