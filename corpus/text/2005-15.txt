@@ -1,823 +1,502 @@
-
-
-April 11, 2005
-
-March Inflation and Outlook
-I.
-
-GENERAL EVALUATION
-
-1. According to the indices with 2003 base year, the CPI rose by 0.26 percent and the PPI
-by 1.26 percent in March 2005. The annual rates of increase of the indices were 7.94
-percent and 11.33 percent, respectively.
-2. The special CPI aggregate (G), which excludes energy, alcoholic beverages, other goods
-and services with administered prices, indirect taxes and unprocessed food, decreased by
-0.38 percent in the January – March 2005 period. The rate of annual increase dropped to
-8.27 percent in March with a persistent decline starting from October 2004 (Table 1, Figure
-1). A similar decline is observed in the annual rate of increase in other special CPI
-aggregates as well.
-3. The PPI excluding agriculture (industrial sector) rose by 1.39 percent. The determining
-factor in this increase was the 1.54 percent upsurge in the manufacturing industry. The
-annual increase in the PPI, excluding agriculture, is 12.78 percent (Table 1, Figure 1).
-
-Table 1: General CPI, PPI and subgroups
-
+      April 11, 2005 
+ 
+March Inflation and Outlook  
+ 
+ 
+I. GENERAL EVALUATION   
+1. According to the indices with 2003 base year, the CPI rose by 0.26 percent and the PPI 
+by 1.26 percent in March 2005. The annual rates of increase of the indices were 7.94 
+percent and 11.33 percent, respectively. 
+2. The special CPI aggregate (G), which excludes energy, alcoholic beverages, other goods 
+and services with administered prices, indirect taxes and unprocessed food, decreased by 
+0.38 percent in the January – March 2005 period. The rate of annual increase dropped to 
+8.27 percent in March with a persistent declin e starting from October 2004 (Table 1, Figure 
+1). A similar decline is observed in the annual rate of increase in other special CPI 
+aggregates as well. 
+3. The PPI excluding agriculture (industrial sector) rose by 1.39 percent. The determining 
+factor in this increase was the 1.54 percent upsurge in the manufacturing industry. The 
+annual increase in the PPI, excluding agriculture, is 12.78 percent (Table 1, Figure 1). 
+Table 1: General CPI, PPI and subgroups 
+ 
+ 2005 2004 Dec. 2004 Mar.-
+ Mar. 2005 Mar. 2005 Mar. 
+CPI 0,26 0,83 7,94 
+Special CPI Aggregates     
+   A. CPI Excl. Seasonal Goods  0,65 2,06 9,86 
+   B. CPI Excl. Unprocessed food 0,29 0,37 9,00 
+   C. CPI Excl. Energy 0,07 0,67 6,95 
+   D. CPI Excl. Unprocessed Food and Energy 0,08 0,09 8,01 
+   E. CPI Excl. Energy and Alcoholic Beverages 0,07 0,59 7,18 
+   F. CPI Excl. Energy, Alcoholic Beverages, Other 
+Administered Prices and Indirect Taxes  -0,07 0,30 6,92 
+   G. CPI Excl. Energy, Alcoholic Beverages, Other 
+Administered Price, Indirect Taxes and Unprocessed 
+Food  0,00 -0,38 8,27 
+PPI 1,26 0,96 11,33 
+   Agriculture 0,79 1,65 6,45 
+   Industry 1,39 0,76 12,78 
+     Mining -0,89 -2,28 12,86 
+     Man. Industry 1,54 0,61 13,50 
+     Energy -0,05 3,98 3,34 
+Sourc e: SIS (2003=100), CB RT 
+ 
+ 
+ 1 
+Figure 1: Annual Percentage Change 
+ 
+CPI and Special CPI Aggregates (G) PPI and Manufacturing Industry  
+6.5%7.0%7.5%8.0%8.5%9.0%9.5%10.0%10.5%
+04-03
+04-04
+04-05
+04-06
+04-07
+04-08
+04-09
+04-10
+04-11
+04-12
+05-01
+05-02
+05-03
 CPI
-Special CPI Aggregates
-A. CPI Excl. Seasonal Goods
-B. CPI Excl. Unprocessed food
-C. CPI Excl. Energy
-D. CPI Excl. Unprocessed Food and Energy
-E. CPI Excl. Energy and Alcoholic Beverages
-F. CPI Excl. Energy, Alcoholic Beverages, Other
-Administered Prices and Indirect Taxes
-G. CPI Excl. Energy, Alcoholic Beverages, Other
-Administered Price, Indirect Taxes and Unprocessed
-Food
-PPI
-Agriculture
-Industry
-Mining
-Man. Industry
-Energy
-
-Source: SIS (2003=100), CBRT
-
-2005
-Mar.
-
-2004 Dec.
-2005 Mar.
-
-2004 Mar.2005 Mar.
-
-0,26
-
-0,83
-
-7,94
-
-0,65
-0,29
-0,07
-0,08
-0,07
-
-2,06
-0,37
-0,67
-0,09
-0,59
-
-9,86
-9,00
-6,95
-8,01
-7,18
-
--0,07
-
-0,30
-
-6,92
-
-0,00
-
--0,38
-
-8,27
-
-1,26
-0,79
-1,39
--0,89
-1,54
--0,05
-
-0,96
-1,65
-0,76
--2,28
-0,61
-3,98
-
-11,33
-6,45
-12,78
-12,86
-13,50
-3,34
-
-1
-
-Figure 1: Annual Percentage Change
-CPI and Special CPI Aggregates (G)
-
-PPI and Manufacturing Industry
-
 CPI Excl. Energy, Alcholic Drinks, Tobacco, other Publicly Administered
-Prices, Unprocessed Food and Indirect Tax
-
-Manufacturing Prices
-
-05-03
-
-05-02
-
-05-01
-
-04-12
-
+Prices, Unprocessed Food an d Indirect Tax 3.0%5.0%7.0%9.0%11.0%13.0%15.0%17.0%19.0%21.0%23.0%
+04-03
+04-04
+04-05
+04-06
+04-07
+04-08
+04-09
+04-10
 04-11
-
+04-12
+05-01
+05-02
+05-03
+Manufacturing Prices PPI
+Source: SIS (2003=100) 
+ 
+Developments in Consumer Prices  
+ 
+4. The factors influencing the consumer price increase in March 2005 can be summarized as 
+i) the course of oil prices, ii) rigidity in services inflation, and iii) delayed effects of the 
+appreciation of the New Turkish Lira. 
+5. In March 2005, the increase in natural gas, heating oil, petroleum, and diesel oil prices, 
+resulting from the developments in international crude oil prices, became the determinant 
+factor in inflation, reflecting on the housing and transportation group prices. Nevertheless, 
+due to the timing of the rise in petroleum and diesel oil prices, the upward effects are most 
+likely to be observed in the April inflation figures.  
+6. Meanwhile, the continuing rigidity in services  prices is noticed. When compared to the 
+previous month, the increase in prices of restaurant and hotel services was way above the 
+average inflation level at 2.36 percent. The cumu lative increase of 5.19 percent in restaurant 
+– hotel service prices, against the 0.83 percent in the CPI, in the first quarter of 2005, points 
+to a probable high demand for these services. 
+7. Moreover, prices in the health sector, which di splayed an increase in the first two months 
+of the year, below the seasonal trend, as a re sult of the VAT discount, rose by 0.89 percent 
+in March 2005. Even though it can be said that prices in the health sector are still in a 
+process of seasonal adjustment, it is difficult to predict the course of prices in this sector for 
+the upcoming period. Especially after the legal adjustments that have united different 
+hospitals linked to various social security institutions under the same organization, the 
+ 2patterns of economic behavior in the public health sector and its repercussions on the private 
+health sector are being closely monitored. 
+8. Meanwhile, delayed effects of the appreciation of the New Turkish Lira on the prices of 
+durable goods such as household applianc es, private transportation vehicles and 
+entertainment-culture instruments were observed . Hence, the prices of household appliances 
+and entertainment-culture groups, which include these items, declined. 
+9. One of the sub-groups that restrained the incr ease of CPI in March is clothing-shoes, as 
+it was in January and February. In the January-March period, the total decline in prices of 
+the clothing-shoes group reached 14.55 percent. As of April, the beginning of the new 
+season in the clothing sector, an upsurge is  expected in the prices of this group. 
+10.  The decline in inflation measured by the special CPI aggregates (F) (the CPI excluding 
+energy, alcoholic beverages, other goods and services with administered prices and indirect 
+taxes) and (G) (the CPI excluding energy, alcoholic beverages, other goods and services with 
+administered prices, indirect taxes and unpro cessed food) indices is remarkable (Figure 1 
+and Figure 2).  
+ 
+ 
+Figure 2: CPI and Special CPI Aggregate (F) 
+  
+Annual Percentage Change Monthly Percentage Change  
+6.5%7.0%7.5%8.0%8.5%9.0%9.5%10.0%
+04-03
+04-04
+04-05
+04-06
+04-07
+04-08
+04-09
+04-10
+04-11
+04-12
+05-01
+05-02
+05-03
 CPI
-
-04-10
-
-05-03
-
-05-02
-
-05-01
-
-04-12
-
-04-11
-
-04-10
-
-04-09
-
-04-08
-
-04-07
-
-04-06
-
-04-05
-
-04-04
-
-04-03
-
-6.5%
-
-04-09
-
-7.0%
-
-04-08
-
-7.5%
-
-04-07
-
-8.5%
-8.0%
-
-04-06
-
-9.0%
-
-04-05
-
-9.5%
-
-23.0%
-21.0%
-19.0%
-17.0%
-15.0%
-13.0%
-11.0%
-9.0%
-7.0%
-5.0%
-3.0%
-04-04
-
-10.0%
-
-04-03
-
-10.5%
-
-PPI
-
-Source: SIS (2003=100)
-
-Developments in Consumer Prices
-4. The factors influencing the consumer price increase in March 2005 can be summarized as
-i) the course of oil prices, ii) rigidity in services inflation, and iii) delayed effects of the
-appreciation of the New Turkish Lira.
-5. In March 2005, the increase in natural gas, heating oil, petroleum, and diesel oil prices,
-resulting from the developments in international crude oil prices, became the determinant
-factor in inflation, reflecting on the housing and transportation group prices. Nevertheless,
-due to the timing of the rise in petroleum and diesel oil prices, the upward effects are most
-likely to be observed in the April inflation figures.
-6. Meanwhile, the continuing rigidity in services prices is noticed. When compared to the
-previous month, the increase in prices of restaurant and hotel services was way above the
-average inflation level at 2.36 percent. The cumulative increase of 5.19 percent in restaurant
-– hotel service prices, against the 0.83 percent in the CPI, in the first quarter of 2005, points
-to a probable high demand for these services.
-7. Moreover, prices in the health sector, which displayed an increase in the first two months
-of the year, below the seasonal trend, as a result of the VAT discount, rose by 0.89 percent
-in March 2005. Even though it can be said that prices in the health sector are still in a
-process of seasonal adjustment, it is difficult to predict the course of prices in this sector for
-the upcoming period. Especially after the legal adjustments that have united different
-hospitals linked to various social security institutions under the same organization, the
-
-2
-
-patterns of economic behavior in the public health sector and its repercussions on the private
-health sector are being closely monitored.
-8. Meanwhile, delayed effects of the appreciation of the New Turkish Lira on the prices of
-durable goods such as household appliances, private transportation vehicles and
-entertainment-culture instruments were observed. Hence, the prices of household appliances
-and entertainment-culture groups, which include these items, declined.
-9. One of the sub-groups that restrained the increase of CPI in March is clothing-shoes, as
-it was in January and February. In the January-March period, the total decline in prices of
-the clothing-shoes group reached 14.55 percent. As of April, the beginning of the new
-season in the clothing sector, an upsurge is expected in the prices of this group.
-10. The decline in inflation measured by the special CPI aggregates (F) (the CPI excluding
-energy, alcoholic beverages, other goods and services with administered prices and indirect
-taxes) and (G) (the CPI excluding energy, alcoholic beverages, other goods and services with
-administered prices, indirect taxes and unprocessed food) indices is remarkable (Figure 1
-and Figure 2).
-
-Figure 2: CPI and Special CPI Aggregate (F)
-
 CPI Excl. Energy, Alcholic Drinks, Tobacco, other Publicly Administered
-Prices and Indirect Tax (F)
-
-05-03
-
-05-02
-
-05-01
-
-04-12
-
-04-11
-
-04-10
-
-04-09
-
-04-08
-
-04-07
-
-04-06
-
-04-05
-
-05-03
-
-05-02
-
-CPI
-
-05-01
-
--0.5%
-04-12
-
-6.5%
-04-11
-
-0.0%
-04-10
-
-0.5%
-
-7.0%
-04-09
-
-7.5%
-
-04-08
-
-1.0%
-
-04-07
-
-1.5%
-
-8.0%
-
-04-06
-
-2.0%
-
-8.5%
-
-04-05
-
-9.0%
-
-04-04
-
-2.5%
-
+Prices and Indirect Tax (F)-0.5%0.0%0.5%1.0%1.5%2.0%2.5%3.0%
 04-03
-
-9.5%
-
 04-04
-
-Monthly Percentage Change
-3.0%
-
-04-03
-
-Annual Percentage Change
-10.0%
-
+04-05
+04-06
+04-07
+04-08
+04-09
+04-10
+04-11
+04-12
+05-01
+05-02
+05-03
 CPI
 CPI Excl. Energy, Alcholic Drinks, Tobacco, other Publicly Administered
 Prices and Indirect Tax (F)
-
-Source: SIS (2003=100)
-
-3
-
-Developments in Producer Prices
-11. In March 2005, the PPI rose by 1.26 percent compared to the previous month. The
-increase mainly stemmed from the increase in the PPI excluding agriculture (1.39 percent).
-Under the index with 2003 base year, fluctuations in the prices of the agriculture sector were
-expected to ease with the utilization of geometric mean to calculate the prices in this sector.
-Hence, the historically high rates of increase in agriculture prices during March, according to
-the indices with 1994 base year, was recorded as a mere 0.79 percent under the new indices
-in 2005.
-12. Manufacturing industry prices, which have a significant share of the industrial sector,
-rose by 1.54 percent in March 2005. The rise in manufacturing industry prices resulted from
-coke coal and refined oil products, whose prices increased by 11.81 percent due to changing
-circumstances in international oil prices in that period. The annual increase in the sector by
-43.24 percent, which was well above the rate of increase in the PPI, points to the negative
-effects of oil prices on inflation. Furthermore, the rising tendency in crude oil prices, a
-significant input in the manufacturing industry, is of great importance. If this increase in
-international crude oil prices persists, the negative effects on manufacturer prices might
-linger.
-13. Moreover, limited increases in energy prices, another determinant of production costs,
-continued. In March 2005, energy (electricity, gas, and water) prices fell by 0.05 percent
-compared to the previous month. However, it should be kept in mind that the sensitivity of
-natural gas and electricity prices to crude oil prices may lead to price adjustments in the said
-sectors in the coming period.
-14. When March PPI realizations are analyzed in terms of sub-sectors, though there is no
-apparent change in input costs, price movements in opposite directions are observed in
-some sectors, in consecutive months. For example, in the manufacturing industry, the
-increase in prices of tobacco products by 3.84 percent, which dropped by 22.70 percent in
-the previous month is quite remarkable. Furthermore, the prices of office supplies production
-fell by 12 percent in February 2005 and increased by 8.23 percent in March. This
-development indicates that the said price developments mainly stem from adjustments made
-in the profit margin after tax increases rather than production costs.
-15. The appreciation of the New Turkish lira in the first quarter restricted the pass-through
-effect of the increase in primary metal prices on the manufacturing industry. Hence, prices in
-the primary metal industry under the PPI fell by 0.64 percent in March 2005. As of the
-4
-
-beginning of the year, the cumulative decrease in the prices in primary metal industry
-reached 3.16 percent. However, production costs in this sector might be negatively affected
-by world commodity prices, which may increase due to the raw material demands of
-industrializing economies such as China and India.
-16. Finally, in March 2005, the PPI increased by 11.33 percent compared to the same month
-of the previous year. In the same period, the PPI, excluding agriculture, rose by 12.78
-percent, while agriculture prices increased by 6.45 percent.
-
-Figure 3: PPI and Manufacturing Industry Prices
-Annual Percentage Change
-
-Monthly Percentage Change
-6.5%
-
-23.0%
-21.0%
-19.0%
-17.0%
-15.0%
-13.0%
-11.0%
-9.0%
-7.0%
-5.0%
-3.0%
-
-5.5%
-4.5%
-3.5%
-2.5%
-1.5%
-0.5%
--0.5%
-
-Manufacturing Prices
-
-PPI
-
-Manufacturing Prices
-
-05-03
-
-05-02
-
-05-01
-
-04-12
-
-04-11
-
-04-10
-
-04-09
-
-04-08
-
-04-07
-
-04-06
-
-04-05
-
-04-04
-
+Source: SIS (2003=100) 
+ 
+ 3Developments in Producer Prices 
+ 
+ 
+11.  In March 2005, the PPI rose by 1.26 percent compared to the previous month. The 
+increase mainly stemmed from the increase in the PPI excluding agriculture (1.39 percent). 
+Under the index with 2003 base year, fluctuations in the prices of the agriculture sector were 
+expected to ease with the utilization of geometric mean to calculate the prices in this sector. 
+Hence, the historically high rates of increase in  agriculture prices during March, according to 
+the indices with 1994 base year, was recorded as a mere 0.79 percent under the new indices 
+in 2005. 
+12.  Manufacturing industry prices, which have a significant share of the industrial sector, 
+rose by 1.54 percent in March 2005. The rise in  manufacturing industry prices resulted from 
+coke coal and refined oil products, whose prices increased by 11.81 percent due to changing 
+circumstances in international oil prices in that period. The annual increase in the sector by 
+43.24 percent, which was well above the rate of increase in the PPI, points to the negative 
+effects of oil prices on inflation. Furthermore, the rising tendency in crude oil prices, a 
+significant input in the manufacturing industry, is of great importance. If this increase in 
+international crude oil prices persists, the ne gative effects on manufacturer prices might 
+linger.  
+13.  Moreover, limited increases in energy prices, another determinant of production costs, 
+continued. In March 2005, energy (electricity, gas, and water) prices fell by 0.05 percent 
+compared to the previous month. However, it sh ould be kept in mind that the sensitivity of 
+natural gas and electricity prices to crude oil prices may lead to price adjustments in the said 
+sectors in the coming period.  
+14.  When March PPI realizations are analyzed in terms of sub-sectors, though there is no 
+apparent change in input costs, price moveme nts in opposite directions are observed in 
+some sectors, in consecutive months. For example, in the manufacturing industry, the 
+increase in prices of tobacco products by 3.84 percent, which dropped by 22.70 percent in 
+the previous month is quite remarkable. Furthermore, the prices of office supplies production 
+fell by 12 percent in February 2005 and increased by 8.23 percent in March. This 
+development indicates that the said price deve lopments mainly stem from adjustments made 
+in the profit margin after tax increases rather than production costs. 
+15.  The appreciation of the New Turkish lira in the first quarter restricted the pass-through 
+effect of the increase in primary metal prices on the manufacturing industry. Hence, prices in 
+the primary metal industry under the PPI fell by 0.64 percent in March 2005. As of the 
+ 4beginning of the year, the cumulative decrease in the prices in primary metal industry 
+reached 3.16 percent. However, production costs in this sector might be negatively affected 
+by world commodity prices, which may increase due to the raw material demands of 
+industrializing economies such as China and India. 
+16.  Finally, in March 2005, the PPI increased by 11.33 percent compared to the same month 
+of the previous year. In the same period, the PPI, excluding agriculture, rose by 12.78 
+percent, while agriculture prices increased by 6.45 percent.   
+ 
+Figure 3: PPI and Manufacturing Industry Prices 
+ 
+Annual Percentage Change Monthly Percentage Change  
+3.0%5.0%7.0%9.0%11.0%13.0%15.0%17.0%19.0%21.0%23.0%
 04-03
-
-05-03
-
-05-02
-
-05-01
-
-04-12
-
-04-11
-
-04-10
-
-04-09
-
-04-08
-
-04-07
-
-04-06
-
-04-05
-
 04-04
-
+04-05
+04-06
+04-07
+04-08
+04-09
+04-10
+04-11
+04-12
+05-01
+05-02
+05-03
+Manufacturing Prices PPI-1.5%-0.5%0.5%1.5%2.5%3.5%4.5%5.5%6.5%
 04-03
-
--1.5%
-
-PPI
-
-Source: SIS (2003=100)
-
-5
-
-II.
-
-OUTLOOK
-
-Inflation Developments
-17. Inflation stayed on a downward track also in March. The cumulative inflation of the first
-quarter of 2005 being 0.83 percent, which is even lower than the inflation figure of March
-2004 for a single month, underlines the remarkable decline in inflation. As of April 2005,
-year-end inflation expectations were realized at 0.5 points below the target.
-18. In the first months of 2005, the favorable outlook especially for tradable goods prices
-continued and the rigidity in the growth rate of the services sector prices eased compared to
-previous periods, despite the persistence of the earlier trend in rents and the restauranthotel group. In order to be able to evaluate inflation developments accurately, the
-adjustment of the CPI trend for external variables can provide significant forward-looking
-information. This is because a sudden hike in oil prices and unexpected developments in
-natural conditions or public price adjustments may lead to unforeseen fluctuations in
-inflation. Adjustment of the general price index for such factors bears much significance for
-the accurate setting of response timing of monetary policy through analyzing the main
-trends in inflation. Special CPI aggregates were derived to serve this purpose. The tendency
-displayed by the special CPI aggregates since October 2004 confirms the downward course
-of the main trend.
-19. After going through a change in context and method of measurement, and owing
-especially to the fact that prices are calculated excluding taxes, the PPI became more
-susceptible to raw material prices and exchange rate developments. The most affected
-sector in this sense is petroleum products sector, which is subject to high special
-consumption taxes. In fact, the refinery output prices of petroleum products were observed
-to be the main determinant of the general PPI index in March; this may cause producer
-prices to display unforeseen fluctuations. Interpretation of these producer price fluctuations
-as “inflation fluctuations” would be a misinterpretation. It is obvious that for better
-evaluation of the medium-term inflation outlook, consumer prices should be in the forefront
-rather than producer prices. It should be emphasized once more that the word “inflation”
-should be used as a synonym of the increase in the consumer price index, which is an
-accurate indicator in terms of price stability and purchasing power, and that a common
-language should be formed in the public in this respect. At this point, it should also be
-remembered that inflation targets are expressed with increases in the consumer price index,
-whereas producer prices are considered solely with respect to the information they contain
-regarding inflation in the upcoming period and are not considered as targets by any means.
-
-6
-
-Factors Affecting Inflation
-20. Growth data pertaining to the fourth quarter of 2004 was announced. As suggested by
-the Central Bank, not only in its reports, but also in presentations from the second half of
-2004 onwards, acceleration in both economic growth and domestic demand slowed down. In
-the last quarter of 2004, the annual growth rates of private consumption and investment
-expenditures displayed a considerable decline compared to the first nine months of the year.
-Contrary to the developments in the first nine months of 2004, the contribution of private
-expenditures to economic growth remained below GDP growth. Furthermore, according to
-seasonally adjusted data, private consumption expenditures and total final domestic demand
-declined in the last quarter of 2004, compared to the previous quarter.
-21. The composition of the developments in private consumption in the last quarter of 2004
-differs from developments in previous periods. In the first nine months of 2004, growth
-mainly originated from durable consumption goods. The high levels of productivity increases
-achieved in these sectors, as well as the low costs of imported input items prevented the
-downward trend in inflation to be hampered by the demand side. Excluding the durable
-consumption goods sector, the revival in domestic demand was very limited. However,
-recently announced data shows that expenditures on durable consumption goods declined in
-the last quarter of the year compared to the same period of the previous year, while
-expenditures on semi-durable consumption goods maintained their high level, despite the
-slowdown in their rate of growth compared to the previous period. Meanwhile, the high
-increase in public consumption expenditures in the last quarter of 2004 is a development
-which has captured attention. Although, these data show that the relative recovery in
-domestic demand has been spreading to sectors other than the consumption of durables,
-when the historical consumption levels are taken into account, no demand-side risk to
-inflation has yet been perceived in the short term.
-22. Consumer confidence indices, imports of intermediate goods, automobile sales and other
-demand-related developments indicate that economic activity is likely to be more vigorous in
-the upcoming period compared to the last quarter of 2004, but more controlled compared to
-the first half of 2004. Hence, total demand is forecasted to follow a parallel course to
-program projections in 2005. The relative slowdown observed in comparison with the first
-half of 2004 should not be perceived as “stagnation”, but rather as a healthy development
-showing that long-term sustainable growth rates have been resumed. Undoubtedly, the
-adjustment process created by the rapid transformation of our economy is reflected in a
-different way in every sector. However, the point that should be underlined here is that the
-
-7
-
-Turkish economy reached high growth rates in the last three years and that this growth
-process continues in 2005, as well.
-23. In the last period, the ongoing decline in credit interest rates, the rise observed in the
-demand for money and the briskness in consumer credits point to a possible rebound in
-domestic demand from the second half of the year onwards. However, data available as of
-today does not allow for a clear-cut assessment. At this point, it should be stressed once
-again that maintaining the discipline in the fiscal and monetary policies is essential for the
-gains achieved in the fight against inflation to be lasting ones.
-24. The Central Bank indicated in its “Inflation and Outlook” reports from the second half of
-2004 onwards that productivity increases would slow down and that rises in real wages
-might adopt a relative acceleration. In fact, the slowdown observed in productivity in the last
-quarter along with the upward trend in employment and real wages led to a rise in real unit
-wages in the private manufacturing industry for the first time since 1999. Considering the
-developments in the last four years, it is clear that productivity increases have kept labor
-costs under control and, to a large extent, accounted for the historical decline in inflation.
-The current level of unit wages does not constitute a significant risk to the 2005 inflation
-target. However, the slowdown or in some cases the decline recently observed in growth
-rates of productivity in some sub-sectors is a development that should be followed closely.
-25. Projections about the output gap, which is one of the indicators of resource utilization in
-the economy and the pressures on inflation, show that the production level reached during
-the last quarter of 2004 does not create any pressure on inflation. Developments in
-machinery-equipment production and imports of investment goods as well as the business
-tendency survey data as of early-2005 indicate that investments continue, albeit at a slower
-pace compared to previous periods. Increased capacity owing to higher investment
-expenditures in recent periods, the controlled increase of domestic demand and the
-continuing rise in investment expenditures rule out the possibility in the short run of a
-pressure on prices led by the supply-demand conditions.
-26. To sum up, employment, productivity and wage developments pertaining to the last
-quarter of 2004 support our prediction that labor costs will not contribute to the disinflation
-process as much as they had done in the previous periods. Still, it is anticipated that
-investment expenditures, which recorded a high rate of increase throughout 2004, will
-continue to foster productivity increases, particularly in technology intensive sectors.
-Meanwhile, taking into account the current unemployment rate and considering the
-likelihood that additions to the labor force originating from demographic factors will be high
-in the coming years, increases in average labor costs are projected to remain limited, under
-8
-
-the assumption that the public wage policy will be consistent with inflation targets. At this
-point, however, it should be once again underlined that rapid removal of the barriers to
-investment and production and the development of corporate governance are of critical
-importance for the continuity of productivity increases. It should be kept in mind that the
-attainment of the historical disinflation process and the concurrent high growth figures were
-possible owing to macroeconomic stability and high productivity increases. In order to
-establish macroeconomic stability permanently, a similar process needs to continue from now
-on as well. This in turn necessitates that the structural reforms of the last three years be
-broadened and continued.
-27. Although there seem to be no significant risks to inflation in terms of the supply-demand
-conditions, developments in international liquidity and oil prices, as well as the course of unit
-wages signal that costs will not make an extra contribution to the downward trend in
-inflation in the coming period, and that monthly inflation figures may be realized higher in
-the rest of 2005 compared to the first quarter of the year. The downward trend of the first
-quarter and the favorable course of expectations still render the 2005 inflation target
-attainable despite recent cost developments.
-28. Recent exchange rate movements were shaped to a large extent by international
-liquidity conditions and changes in global risk perception. In order to ensure that the effects
-of the said developments on the economy are temporary in the medium-term, the process of
-reinforcement in macroeconomic foundations must be sustained. For this reason, draft laws
-currently pending including those about social security, financial institutions and revenue
-administration are highly significant.
-29. Recently, a lot of attention has been focused on the question regarding to what extent
-the exchange rate movements can affect inflation. It has been occasionally emphasized in
-previous reports that the relationship between exchange rate developments and inflation has
-weakened. Undoubtedly, the exchange rate will continue to be an important determinant of
-inflation in Turkey, a country on the path to becoming an increasingly open economy.
-However, there is a crucial point about exchange rate-inflation relation that should be
-clarified: In the floating exchange rate regime, developments in exchange rate movements
-affect inflation as long as these movements occur in the same direction for several
-consecutive months and are perceived as permanent. Hence, the effects of a sudden
-depreciation in the New Turkish lira following a sudden rise in inflation will remain limited to
-a certain extent. Therefore, the current level of exchange rates does not constitute any risks
-to inflation.
-
-9
-
-Monetary Policy
-30. In typical monetary transmission mechanisms, the impact of interest rate changes on
-demand and the repercussions of demand movements on inflation occur with a time lag.
-Although it may not be possible to say that the said transmission mechanisms started to
-operate properly in our country due to fiscal dominance, it is clear that we are on route to
-having a similar mechanism following the achievements attained in macroeconomic stability
-in recent years. These developments enable the Central Bank to focus on future inflation
-rather than current inflation and to focus increasingly more attention on the medium-term.
-Needless to say, in line with the rapid transformation that our economy has undergone in its
-normalization process, monetary transmission mechanisms will also be in a process of
-continuous change. The more macroeconomic stability is established, the more uncertainties
-in monetary transmission mechanisms will decrease. With the transition to the inflationtargeting regime next year, the said mechanisms will become more significant.
-31. In light of current data, the above-mentioned cost developments are estimated to lead
-to at least a small amount of increase in inflation figures in the upcoming period. However, it
-is anticipated that the said increase would not change the main inflation trend and inflation
-will re-enter a downward trend as soon as temporary conditions are removed. Considering
-the cost, production, demand, and productivity conditions, and in an overall scenario in
-which structural reforms would not lose pace and the economy would not be exposed to a
-great exogenous shock, 2005 inflation is expected to realize in line with the targets. In
-accordance with the above-mentioned analyses and taking into account the evaluations
-made at the Monetary Policy Board meeting held on April 8, 2005, the Central Bank decided
-to cut the short-term interest rates applicable on the CBRT Interbank Money Market and
-Istanbul Stock Exchange Repo-Reverse Repo Market by 0.5 point to be effective as of April
-11, 2005. While the Central Bank is maintaining its cautiously optimistic stance for 2005
-year-end inflation, it emphasizes that this cautious stance should also be sustained in the
-medium-term, considering the data pertaining to last month and the developments in the
-world. In this framework, besides structural reforms the course of unit costs, domestic
-demand and international liquidity conditions will be closely monitored in terms of monetary
-policy decisions.
-
-10
-
-2004
-
-8
-
-2005
-
-Source: CBRT Expectations Survey
-
-11
-II-03
-
-I-03
-
-II-02
-
-I-02
-
-II-01
-
-I-01
-
-II-12
-
-2004
-
-I-12
-
-II-11
-
-I-11
-
-8
-
-II-10
-
-I-01
-II-01
-I-02
-II-02
-I-03
-II-03
-I-04
-II-04
-I-05
-II-05
-I-06
-II-06
-I-07
-II-07
-I-08
-II-08
-I-09
-II-09
-I-10
-II-10
-I-11
-II-11
-I-12
-II-12
-I-01
-II-01
-I-02
-II-02
-I-03
-II-03
-I-04
-II-04
-I-05
-II-05
-I-06
-II-06
-I-07
-II-07
-I-08
-II-08
-I-09
-II-09
-I-10
-II-10
-I-11
-II-11
-I-12
-II-12
-
-14
-
-I-10
-
-II-09
-
-I-09
-
-II-08
-
-I-08
-
-II-07
-
-I-07
-
-II-06
-
-I-06
-
-II-05
-
-I-05
-
-II-04
-
-I-04
-
-II-03
-
-I-03
-
-II-02
-
-I-02
-
-II-01
-
-I-01
-
-Figure 4: Inflation Expectations According to the CBRT Expectations Survey
-
-16
-
-End-year Inflation Expectations and Inflation Target: 2004-2005
-Year end Inflation Expectations
-
-Inflation Target
-
-12
-
-10
-
+04-04
+04-05
+04-06
+04-07
+04-08
+04-09
+04-10
+04-11
+04-12
+05-01
+05-02
+05-03
+Manufacturing Prices PPI
+Source: SIS (2003=100) 
+ 5II. OUTLOOK 
+ 
+Inflation Developments 
+17.  Inflation stayed on a downward track also in March. The cumulative inflation of the first 
+quarter of 2005 being 0.83 percent, which is ev en lower than the inflation figure of March 
+2004 for a single month, underlines the remarkab le decline in inflation. As of April 2005, 
+year-end inflation expectations were realized at 0.5 points below the target. 
+18.  In the first months of 2005, the favorable ou tlook especially for tradable goods prices 
+continued and the rigidity in the growth rate of  the services sector prices eased compared to 
+previous periods, despite the persistence of the earlier trend in rents and the restaurant-
+hotel group. In order to be able to evaluate inflation developments accurately, the 
+adjustment of the CPI trend for external variables can provide significant forward-looking 
+information. This is because a sudden hike in  oil prices and unexpected developments in 
+natural conditions or public price adjustme nts may lead to unforeseen fluctuations in 
+inflation. Adjustment of the general price index for such factors bears much significance for 
+the accurate setting of response timing of monetary policy through analyzing the main 
+trends in inflation. Special CPI aggregates were derived to serve this purpose. The tendency 
+displayed by the special CPI aggregates since October 2004 confirms the downward course 
+of the main trend.  
+19.  After going through a change in context and method of measurement, and owing 
+especially to the fact that prices are calculated excluding taxes, the PPI became more 
+susceptible to raw material prices and exchange rate developments. The most affected 
+sector in this sense is petroleum products sector, which is subject to high special 
+consumption taxes. In fact, the refinery output prices of petroleum products were observed 
+to be the main determinant of the general PPI index in March; this may cause producer 
+prices to display unforeseen fluctuations. Interp retation of these producer price fluctuations 
+as “inflation fluctuations” would be a misint erpretation. It is obvious that for better 
+evaluation of the medium-term inflation outlook, consumer prices should be in the forefront 
+rather than producer prices. It should be em phasized once more that the word “inflation” 
+should be used as a synonym of the increase in the consumer price index, which is an 
+accurate indicator in terms of price stabilit y and purchasing power, and that a common 
+language should be formed in the public in this  respect. At this point, it should also be 
+remembered that inflation targets are expresse d with increases in the consumer price index, 
+whereas producer prices are considered solely  with respect to the information they contain 
+regarding inflation in the upcoming period and are not considered as targets by any means.  
+ 6 
+Factors Affecting Inflation 
+20.  Growth data pertaining to the fourth quarter of 2004 was announced. As suggested by 
+the Central Bank, not only in its reports, but also in presentations from the second half of 
+2004 onwards, acceleration in both economic growth and domestic demand slowed down. In 
+the last quarter of 2004, the annual growth rates of private consumption and investment 
+expenditures displayed a considerable decline co mpared to the first nine months of the year. 
+Contrary to the developments in the first nine months of 2004, the contribution of private 
+expenditures to economic growth remained below GDP growth. Furthermore, according to 
+seasonally adjusted data, private consumption expenditures and total final domestic demand 
+declined in the last quarter of 2004, compared to the previous quarter.  
+21.  The composition of the developments in private consumption in the last quarter of 2004 
+differs from developments in previous periods.  In the first nine months of 2004, growth 
+mainly originated from durable consumption goods. The high levels of productivity increases 
+achieved in these sectors, as well as the low costs of imported input items prevented the 
+downward trend in inflation to be hampered by the demand side. Excluding the durable 
+consumption goods sector, the revival in do mestic demand was very limited. However, 
+recently announced data shows that expenditures on durable consumption goods declined in 
+the last quarter of the year compared to the same period of the previous year, while 
+expenditures on semi-durable consumption goods maintained their high level, despite the 
+slowdown in their rate of growth compared to the previous period. Meanwhile, the high 
+increase in public consumption expenditures in the last quarter of 2004 is a development 
+which has captured attention. Although, these data show that the relative recovery in 
+domestic demand has been spreading to sectors other than the consumption of durables, 
+when the historical consumption levels are taken into account, no demand-side risk to 
+inflation has yet been perceived in the short term. 
+22.  Consumer confidence indices, imports of in termediate goods, automobile sales and other 
+demand-related developments indicate that econom ic activity is likely to be more vigorous in 
+the upcoming period compared to the last quarter of 2004, but more controlled compared to 
+the first half of 2004. Hence, total demand is forecasted to follow a parallel course to 
+program projections in 2005. The relative slowdown observed in comparison with the first 
+half of 2004 should not be perceived as “stagnation”, but rather as a healthy development 
+showing that long-term sustainable growth rates have been resumed. Undoubtedly, the 
+adjustment process created by the rapid transformation of our economy is reflected in a 
+different way in every sector. However, the point that should be underlined here is that the 
+ 7Turkish economy reached high growth rates in the last three years and that this growth 
+process continues in 2005, as well. 
+23.  In the last period, the ongoing decline in credit interest rates, the rise observed in the 
+demand for money and the briskness in consumer credits point to a possible rebound in 
+domestic demand from the second half of the year onwards. However, data available as of 
+today does not allow for a clear-cut assessment. At this point, it should be stressed once 
+again that maintaining the discipline in the fisc al and monetary policies is essential for the 
+gains achieved in the fight against inflation to be lasting ones. 
+24.  The Central Bank indicated in its “Inflation and Outlook” reports from the second half of 
+2004 onwards that productivity increases would slow down and that rises in real wages 
+might adopt a relative acceleration. In fact, the slowdown observed in productivity in the last 
+quarter along with the upward trend in employment and real wages led to a rise in real unit 
+wages in the private manufacturing industry for the first time since 1999. Considering the 
+developments in the last four years, it is cl ear that productivity increases have kept labor 
+costs under control and, to a large extent, acco unted for the historical decline in inflation. 
+The current level of unit wages does not constitu te a significant risk to the 2005 inflation 
+target. However, the slowdown or in some cases the decline recently observed in growth 
+rates of productivity in some sub-sectors is a development that should be followed closely.  
+25.  Projections about the output gap, which is one of the indicators of resource utilization in 
+the economy and the pressures on inflation, show that the production level reached during 
+the last quarter of 2004 does not create any pressure on inflation. Developments in 
+machinery-equipment production and imports of investment goods as well as the business 
+tendency survey data as of early-2005 indicate that investments continue, albeit at a slower 
+pace compared to previous periods. Increased capacity owing to higher investment 
+expenditures in recent periods, the contro lled increase of domestic demand and the 
+continuing rise in investment expenditures rule out the possibility in the short run of a 
+pressure on prices led by the supply-demand conditions.  
+26.  To sum up, employment, productivity and wage developments pertaining to the last 
+quarter of 2004 support our prediction that labor costs will not contribute to the disinflation 
+process as much as they had done in the previous periods. Still, it is anticipated that 
+investment expenditures, which recorded a hi gh rate of increase throughout 2004, will 
+continue to foster productivity increases, particularly in technology intensive sectors. 
+Meanwhile, taking into account the current unemployment rate and considering the 
+likelihood that additions to the labor force originating from demographic factors will be high 
+in the coming years, increases in average labor costs are projected to remain limited, under 
+ 8the assumption that the public wage policy will be consistent with inflation targets. At this 
+point, however, it should be once again underlined that rapid removal of the barriers to 
+investment and production and the development of corporate governance are of critical 
+importance for the continuity of productivity increases. It should be kept in mind that the 
+attainment of the historical disinflation proce ss and the concurrent high growth figures were 
+possible owing to macroeconomic stability and high productivity increases. In order to 
+establish macroeconomic stability permanently, a similar process needs to continue from now 
+on as well. This in turn necessitates that the structural reforms of the last three years be 
+broadened and continued.  
+27.  Although there seem to be no significant risks to inflation in terms of the supply-demand 
+conditions, developments in international liquidity  and oil prices, as well as the course of unit 
+wages signal that costs will not make an extra contribution to the downward trend in 
+inflation in the coming period, and that monthly inflation figures may be realized higher in 
+the rest of 2005 compared to the first quarter of the year. The downward trend of the first 
+quarter and the favorable course of expectations still render the 2005 inflation target 
+attainable despite recent cost developments.  
+28.  Recent exchange rate movements were sh aped to a large extent by international 
+liquidity conditions and changes in global risk perception. In order to ensure that the effects 
+of the said developments on the economy are temporary in the medium-term, the process of 
+reinforcement in macroeconomic foundations must be sustained. For this reason, draft laws 
+currently pending including those about social security, financial institutions and revenue 
+administration are highly significant.  
+29.  Recently, a lot of attention has been focused on the question regarding to what extent 
+the exchange rate movements can affect inflation. It has been occasionally emphasized in 
+previous reports that the relationship between exchange rate developments and inflation has 
+weakened. Undoubtedly, the exchange rate will continue to be an important determinant of 
+inflation in Turkey, a country on the path to becoming an increasingly open economy. 
+However, there is a crucial point about exchange rate-inflation relation that should be 
+clarified: In the floating exchange rate regi me, developments in exchange rate movements 
+affect inflation as long as these movement s occur in the same direction for several 
+consecutive months and are perceived as permanent. Hence, the effects of a sudden 
+depreciation in the New Turkish lira following a sudden rise in inflation will remain limited to 
+a certain extent. Therefore, the current level of  exchange rates does not constitute any risks 
+to inflation.  
+ 
+ 9Monetary Policy 
+30.  In typical monetary transmission mechanisms, the impact of interest rate changes on 
+demand and the repercussions of demand move ments on inflation occur with a time lag. 
+Although it may not be possible to say that the said transmission mechanisms started to 
+operate properly in our country due to fiscal dominance, it is clear that we are on route to 
+having a similar mechanism following the achievements attained in macroeconomic stability 
+in recent years. These developments enable th e Central Bank to focus on future inflation 
+rather than current inflation and to focus increasingly more attention on the medium-term. 
+Needless to say, in line with the rapid transformation that our economy has undergone in its 
+normalization process, monetary transmission  mechanisms will also be in a process of 
+continuous change. The more macroeconomic stab ility is established, the more uncertainties 
+in monetary transmission mechanisms will decrease. With the transition to the inflation-
+targeting regime next year, the said me chanisms will become more significant.  
+31.  In light of current data, the above-mentioned cost developments are estimated to lead 
+to at least a small amount of increase in inflat ion figures in the upcoming period. However, it 
+is anticipated that the said increase would not change the main inflation trend and inflation 
+will re-enter a downward trend as soon as temporary conditions are removed. Considering 
+the cost, production, demand, and productivity conditions, and in an overall scenario in 
+which structural reforms would not lose pace and the economy would not be exposed to a 
+great exogenous shock, 2005 inflation is expected to realize in line with the targets. In 
+accordance with the above-mentioned analyses and taking into account the evaluations 
+made at the Monetary Policy Board meeting held  on April 8, 2005, the Central Bank decided 
+to cut the short-term interest rates applicable on the CBRT Interbank Money Market and 
+Istanbul Stock Exchange Repo-Reverse Repo Mark et by 0.5 point to be effective as of April 
+11, 2005. While the Central Bank is maintainin g its cautiously optimistic stance for 2005 
+year-end inflation, it emphasizes that this cautious stance should also be sustained in the 
+medium-term, considering the data pertaining to last month and the developments in the 
+world. In this framework, besides structural  reforms the course of unit costs, domestic 
+demand and international liquidity conditions will be closely monitored in terms of monetary 
+policy decisions. 
+ 
+ 10 
+Figure 4: Inflation Expectations According to the CBRT Expectations Survey 
+ 
+ 
+ 
+End-year Inflation Expectations and Inflation Target: 2004-2005  
 7.6
-
-6
-
-4
-
-2005
-
-Inflation Expectations for the Next 12 Months
-
-16
-
-14
-
-12
-
-10
-
+46810121416
+I-01
+II-01
+I-02
+II-02
+I-03
+II-03
+I-04
+II-04
+I-05
+II-05
+I-06
+II-06
+I-07
+II-07
+I-08
+II-08
+I-09
+II-09
+I-10
+II-10
+I-11
+II-11
+I-12
+II-12
+I-01
+II-01
+I-02
+II-02
+I-03
+II-03
+I-04
+II-04
+I-05
+II-05
+I-06
+II-06
+I-07
+II-07
+I-08
+II-08
+I-09
+II-09
+I-10
+II-10
+I-11
+II-11
+I-12
+II-12
+2004 2005Year end Inflation Expectation s
+Inflation Target
+ 
+Inflation Expectations for the Next 12 Months 
 7.2
-
-6
-
-4
-
-
+46810121416
+I-01
+II-01
+I-02
+II-02
+I-03
+II-03
+I-04
+II-04
+I-05
+II-05
+I-06
+II-06
+I-07
+II-07
+I-08
+II-08
+I-09
+II-09
+I-10
+II-10
+I-11
+II-11
+I-12
+II-12
+I-01
+II-01
+I-02
+II-02
+I-03
+II-03
+2004 2005
+ 
+              Sourc e: CB RT Expec tations Survey 
+ 
+ 
+ 
+ 11

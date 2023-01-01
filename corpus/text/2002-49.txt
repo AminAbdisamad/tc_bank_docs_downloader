@@ -1,58 +1,76 @@
-No: 2002-49
-6 June 2002
-PRESS RELEASE
-Within the context of compliance with International Accounting
-Standards of our Financial Statements, the following changes are made in
-the presentation of Balance Sheet starting from May 31, 2002:
-1. “Claims under Legal Proceedings” in the assets is reorganized as;
-XI. Claims under Legal Proceedings (net)
-A. Claims under Legal Proceedings
-B. Provisions for Claims under Legal Proceedings (-)
-and the provisions for our receivables from Iraq due to the Gulf
-Crisis, which were recorded in “Provisions” in the liabilities, is
-transferred under this item as an offsetting item.
-2. To record Income and Expense Accruals as separate items, the
-headings
-“XIV. Interest and Income Accruals” in the asset side, and
-“XIV. Interest and Expense Accruals” in the liability side
-of the balance sheet are introduced, and the accrual amounts in
-the “Other Assets” and “Other Liabilities” are transferred to these
-items.
-3. In order to present in the balance sheet the financial relations of
-Turkey arising from the membership in the IMF;
-a) Reserve Tranche Position of amount SDR 112,775,000 which
-arises from that portion of quota (SDR 964 million) paid as gold and
-foreign exchange by the Treasury will be recorded as
-“II. Foreign Exchange
-A. Convertible
-c. Reserve Tranche Position” in the assets,
-“II. Liabilities to Treasury
-B. Reserve Tranche Facility” in the liabilities.
-
-b) The allocation of SDR 112,307,000 which is allocated by the IMF
-to Turkey and is used by the Treasury will be recorded as,
-
-“XII. Treasury Liabilities due to SDR Allocation” in the assets
-and,
-“IX. SDR Allocation” in the liabilities.
-c) TL accounts of the IMF in the “Deposits of International
-Institutions” in the liabilities will be presented at current exchange
-rates as of month-ends, in order to reflect to these accounts the
-exchange differences due to the changes in TL/SDR rate.
-Besides, since May 24, 2002, of Special Finance Houses,
--
-
-Free deposits are recorded as;
-“IV. Deposits
-B. Banking Sector
-a. Domestic Banks”
-
--
-
-Required reserves are recorded as;
-“IV. Deposits
-B. Banking Sector
-c. Required Reserves
-i. Cash”
-
-
+No: 2002 -49 
+6 June 2002  
+ 
+PRESS RELEASE  
+ 
+ Within the context of compliance with International Accounting 
+Standards of our Financial Statements, the following changes are made in 
+the presentation of  Balance Sheet starting from May 31, 2002:  
+ 
+1. “Claims under Legal Proceedings” in the assets is reorganized as;  
+ 
+XI. Claims under Legal Proceedings (net)  
+A. Claims under Legal Proceedings  
+B. Provisions for Claims under Legal Proceedings ( -) 
+ 
+and the provisions for our receivables from Iraq due to the Gulf 
+Crisis, which were recorded in “Provisions” in the liabilities, is 
+transferred under this item as an offsetting item.   
+ 
+2. To record Income and Expense Accruals as separate items, the 
+headings  
+ 
+“XIV. I nterest and Income Accruals”  in the asset side, and  
+ 
+“XIV. Interest and Expense Accruals”  in the liability side  
+ 
+of the balance sheet are introduced, and the accrual amounts in 
+the “Other Assets” and “Other Liabilities” are transferred to these 
+items.  
+ 
+ 
+3. In order to present in the balance sheet the financial relations of 
+Turkey arising from the membership in the IMF;  
+ 
+a) Reserve Tranche Position of amount SDR 112,775,000 which 
+arises from that portion of quota (SDR 964 million) paid as gold and 
+foreign exchange by the Treasury will be recorded as  
+ 
+ “II. Foreign Exchange  
+A. Convertible  
+c. Reserve Tranche Position”  in the assets,  
+ 
+  “II. Liabilities to Treasury  
+B. Reserve Tranche Facility”  in the liabilities.  
+ 
+ 
+b) The allocation of SDR 112,307,000 which is allocated by the IMF 
+to Turkey and is used by the Treasury will be recorded as,  
+ “XII. Treasury Liabilities due to SDR Allocation”  in the assets 
+and,  
+“IX. SDR Allocation”  in the liabilities.  
+ 
+ 
+c) TL accounts  of the IMF in the “Deposits of International 
+Institutions” in the liabilities will be presented at current exchange 
+rates as of month -ends, in order to reflect to these accounts the 
+exchange differences due to the changes in TL/SDR rate.  
+ 
+  
+Besides, sinc e May 24, 2002, of Special Finance Houses,  
+ 
+- Free deposits are recorded as;  
+ 
+“IV. Deposits  
+ B. Banking Sector  
+a. Domestic Banks”  
+ 
+- Required reserves are recorded as;  
+ 
+“IV. Deposits  
+ B. Banking Sector  
+c. Required Reserves  
+i. Cash”  
+ 
+ 
+ 

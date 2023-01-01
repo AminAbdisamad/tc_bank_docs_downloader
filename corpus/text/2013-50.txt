@@ -1,117 +1,110 @@
-No: 2013 - 50
-
-Release Date: 24 September 2013
-
-SUMMARY OF THE MONETARY POLICY COMMITTEE MEETING
-Meeting Date: 17 September 2013
-
-Inflation Developments
-1. In August, consumer prices edged down by 0.10 percent and annual inflation
-receded to 8.17 percent, which was attributed to unprocessed food and energy
-prices. Food and energy groups added 0.9 percentage points less to the annual
-inflation compared to July. Due to the recent depreciation in the Turkish lira, core
-inflation indicators exhibited a slight increase.
-2. Annual inflation in the food group went down to 10.25 percent. The unprocessed
-food group saw falling inflation amid plunging prices of fresh fruits and vegetables.
-On the processed food front, despite the decelerating course of the prices of
-bread and cereals, annual inflation reached 8.32 percent upon rising prices of
-other processed food products. Leading indicators point to a further downward
-movement in the annual unprocessed inflation in September.
-3. Energy prices went up owing to the depreciation of the Turkish lira coupled with
-increasing oil prices. Nevertheless, the annual energy inflation declined due to the
-base effect in August. Similarly, the annual energy inflation is envisioned to
-decline further in September, despite the persisting rise in fuel and bottled gas
-prices.
-4. Prices of services edged up by 0.61 percent, and the annual services inflation
-reached 8.18 percent in August. Seasonally adjusted data suggest that the
-underlying trend of services inflation remained on a high track as well. Annual
-inflation in the core goods group climbed to 4.58 percent in August. Durable
-goods prices continued to rise, while the seasonal price reduction in the clothing
-group remained below that in past years. In this framework, due to the
-depreciation of the Turkish lira, the seasonally-adjusted trend of increase in core
-goods prices followed an upward course.
-5. In sum, inflation is expected to fall further in the upcoming period; yet core
-inflation indicators are foreseen to remain above the target for a while.
-
-Factors Affecting Inflation
-6. GDP exhibited a stronger-than-expected growth in the second quarter of 2013.
-Final domestic demand, which surged in the first quarter in seasonally-adjusted
-terms, remained flat in the second quarter. Meanwhile, the change in stocks
-contributed greatly both to the quarterly and annual growth. On the other hand,
-exports followed a milder course amid the weakening global demand. Thus,
-aggregate demand conditions did not exert an upside pressure on inflation.
-7. Recent data suggest that final domestic demand and exports continue to grow at
-a moderate pace. Production and imports of consumption goods registered
-increases in July on a quarterly basis, while available data on the sales of white
-goods and automobiles and credit utilization of the third quarter indicate an uptick
-in consumption demand. Imports of capital goods and production of capital goods
-excluding vehicles besides the production of other non-metallic minerals display a
-sluggish outlook in investments. Industrial production in July posted higher figures
-compared to the average of the previous quarter. Indicators of the PMI, the
-Business Tendency Survey and leading exports data reveal a mild recovery
-across the third quarter.
-8. Data regarding foreign trade and the current account balance are in line with
-expectations. Despite an expected increase in the annual cumulative current
-account deficit due to the base effect from the gold trade in the short term, it is
-anticipated that gradual improvement in the current account balance excluding
-gold trade will continue.
-9. Due to the slowdown in non-farm employment, the seasonally adjusted
-unemployment displayed an increase in the June 2013 period. Most of the
-subcategories, primarily the industrial sector employment, exhibited a decline in
-this period. Total Employment Expectation, among the CBRT Business Tendency
-Survey indicators, and the PMI Employment Index signal that industrial
-employment may remain weak. In addition, uncertainty regarding the global
-economy remains as a risk factor that may restrain investment and employment
-growth in the forthcoming period.
-
-Monetary Policy and Risks
-10. Inflation is expected to fall further in the forthcoming period. The Committee
-indicated that, under the assumptions of no additional adjustments in
-administered prices and the continuation of benign trend in unprocessed food
-prices, year-end inflation is likely to be close to the forecast presented at the July
-
-Inflation Report. However, core inflation indicators are likely to hover above the
-inflation target for some time due to the exchange rate volatility observed during
-the recent months. The impact of these developments on the pricing behavior is
-closely monitored. Therefore, the Committee stated that the cautious monetary
-policy stance will be maintained and additional monetary tightening will be
-implemented at the appropriate frequency until the medium term inflation outlook
-is in line with the medium term targets.
-11. The current policy framework is improving the current account balance. The
-weakness in capital flows, cautious monetary policy stance and the
-macroprudential measures undertaken will gradually bring down the loan growth
-rates to more reasonable levels. Accordingly, gradual decline in the current
-account deficit excluding gold trade is expected to continue.
-12. According to the Committee, increasing the predictability of the Turkish lira
-liquidity policy is important in order to contain the repercussions of uncertainties in
-global monetary policies on the domestic economy. It was underlined that
-fluctuations in financial markets in this period largely reflect a “re-pricing” effect.
-Thus, the strategy to reduce policy rate uncertainty contributes greatly to the
-prevention of the economy from being dragged into a vicious circle that is not
-driven by economic fundamentals. In fact, it was expressed that, following a
-clearer signal regarding the monetary policy, the sensitivity of domestic policy
-rates to global rates has weakened to a large extent and recently market rates
-rather respond to domestic macroeconomic developments, as they should.
-13. Recent developments have shown that global economy continues to be fragile.
-Therefore, developments regarding price stability and financial stability will be
-closely monitored and necessary adjustments will continue to be made in the
-composition of Turkish lira liquidity provided by the Central Bank.
-14. The Committee monitors fiscal policy developments and tax adjustments closely
-with regard to their effects on the inflation outlook. The baseline monetary policy
-stance takes the fiscal framework outlined in the Medium Term Program as given.
-Accordingly, it is assumed that fiscal discipline will be sustained and there will be
-no unanticipated hikes in administered prices. A revision in the monetary policy
-stance may be considered, should the fiscal stance deviate significantly from this
-framework and consequently have an adverse effect on the medium-term inflation
-outlook.
-15. Prudent fiscal and financial sector policies are crucial for preserving the resilience
-of our economy against existing global imbalances. Strengthening the structural
-reform agenda that will ensure the sustainability of the fiscal discipline and reduce
-
-the savings deficit will support macroeconomic stability in the medium-term. This
-will also provide more flexibility for monetary policy and improve social welfare by
-keeping interest rates of long-term government securities persistently at low
-levels. In this respect, implementation of the structural reforms outlined by the
-Medium Term Program remains to be of utmost importance.
-
-
+No: 2013 - 50         Release Date: 24 September 2013  
+ 
+SUMMARY OF THE MONETARY POLICY COMMITTEE MEETING  
+Meeting Date: 17 September 2013  
+ 
+Inflation Developments   
+1. In August , consumer prices edged down  by 0.1 0 percent and annual inflation 
+receded to 8.17 percent, which was attributed to unprocessed food and energy 
+prices. Food and energy groups added 0.9 percentage points less  to the annual 
+inflation compared to July. Due to the recent d epreciation in the Turkish lira , core 
+inflation indicators exhibited a  slight  increase.  
+2. Annual inflati on in the food group went  down to 1 0.25 percent. The unprocessed 
+food group  saw falling inflation amid plunging  prices of fresh fruits and vegetables . 
+On the processed food front , despite the decelerating course of the prices of 
+bread and cereals , annual i nflation reached  8.32 percent upon  rising  price s of 
+other processed food products . Leading indicators point to a further downward 
+movement  in the annual unprocessed inflation in September.  
+3. Energy prices went up owing to the depreciation of the Turkish lir a coupled with 
+increasing oil prices. Nevertheless, the annual energy inflation declined due to the 
+base effect in A ugust.  Similarly, the annual energy inflation is envisioned to 
+decline further in September, despite the persisting rise in fuel and bottled  gas 
+prices.  
+4. Prices of services edged  up by 0. 61 percent, and the annual services inflation 
+reached 8 .18 percent in August.  Seasonally adjusted data suggest that the 
+underlying trend of services inflation remained on a high track as well. Annual 
+inflation in the core goods group climbed to 4.58 percent in August. Durable 
+goods prices continued  to rise , while the seasonal price reduction in the clothing 
+group remained below that in past years. In this framework , due to the 
+depreciation of the Turkish lira, the seasonally -adjusted trend of increase in core 
+goods prices followed an upward course . 
+5. In sum, inflation is expected to fall  further in the upcoming period ; yet core 
+inflation indicators are foreseen to remain above the target for a while.   
+ 
+ Factors Aff ecting Inflation   
+6. GDP exhibited a stronger -than-expected growth in the second quarter of 2013. 
+Final domestic demand, which surged in the first quarter in seasonally -adjusted 
+terms, remained flat in the second quarter. Meanwhile, the change in stocks 
+contributed greatly both to the quarterly and annual growth. On the oth er hand, 
+exports followed a milder course amid the weakening global demand.  Thus, 
+aggregate demand conditions did not exert an upside pressure on inflation.  
+7. Recent data suggest that final domestic demand and exports continue to grow at  
+a moderate pace. Production and imports of consumption goods registered 
+increases  in July on a quarterly basis , while available data on the sales of white 
+goods and automobiles and credit utilization of the third quarter indicate an uptick 
+in consumption demand. Imports of capital goods and production of capital goods 
+excluding vehicles besides the production of other non-metallic minerals display a 
+sluggish outlook in investments. Industrial production in  July posted higher figures 
+compared to  the average of the previous quarter. I ndicators of the PMI, the 
+Business Tendency Survey and leading export s data reveal a mild recovery 
+across the third quarter .  
+8. Data regarding foreign trade and the current account balance are in line with 
+expectations. Despite an expected increase in the annual cumulative current 
+account deficit due to the base ef fect from the gold trade  in the short term , it is 
+anticipated that gradual improvement in the current account balance excluding 
+gold trade will continue.  
+9. Due to the slowdown  in non -farm employment, t he seasonally adjusted 
+unemployment displayed an increase in the June 2013 period. Most of the 
+subcategories, primarily the industrial sector  employment , exhibited a decline  in 
+this period . Total Employment Expectation, among the CBRT Business Tendency 
+Survey indicators , and the PMI Employment Index signal that industrial 
+employment may remain weak . In addition , uncertainty regarding the global 
+economy remains as a risk factor that may restrain investment and employment 
+growth in the forthcoming period.   
+ 
+Monetary Policy and  Risk s 
+10. Inflation is expected to fall further in the forthcoming period. The Committee 
+indicated that, u nder the assumptions of no additional adjustments in 
+administered prices and the continuation of benign trend in unprocessed food 
+prices, year -end inflation is likely to be close to the forecast presented at the July Inflation Report. However, core inflati on indicators are likely to hover above the 
+inflation target for some time due to the exchange rate volatility observed during 
+the recent months. The impact of these developments on the pricing behavior is 
+closely monitored. Therefore, the Committee stated  that the cautious monetary 
+policy stance will be maintained and additional monetary tightening will be 
+implemented at the appropriate frequency until the medium term inflation outlook 
+is in line with the medium term targets.  
+11. The current policy framework i s improving the current account balance. The 
+weakness in capital flows, cautious monetary policy stance and the 
+macroprudential measures undertaken will gradually bring down the loan growth 
+rates to more reasonable levels. Accordingly, gradual decline in t he current 
+account deficit excluding gold trade is expected to continue.  
+12. According to the Committee, increasing the predictability of the Turkish lira 
+liquidity policy is important in order to contain the repercussions of uncertainties in 
+global monetary p olicies on the domestic economy. It was underlined that 
+fluctuations in financial markets in this period largely reflect  a “re-pricing” effect. 
+Thus, the strategy to reduce policy rate uncertainty contribute s greatly to the 
+prevention of the economy from being dragged into a  vicious circle that is not 
+driven by economic fundamentals. In fact, it was expressed that , following a 
+clearer signal regarding the monetary policy, the sensitivity of domestic policy 
+rates to global rates has weakened to a large extent and recently market rates 
+rather respond to domestic macroeconomic developments, as they should.  
+13. Recent developments have shown that global economy continues to be fragile. 
+Therefore, d evelopments regarding  price stability and financial stability will be 
+closely monitored and necessary adjustments will continue to be made in the 
+composition of Turkish lira liquidity provided by the Central Bank.  
+14. The Committee monitors fiscal policy developments and tax adjus tments closely 
+with regard to their effects on the inflation outlook. The baseline monetary policy 
+stance takes the fiscal framework outlined in the Medium Term Program as given. 
+Accordingly, it is assumed that fiscal discipline will be sustained and there  will be 
+no unanticipated hikes in administered prices. A revision in the monetary policy 
+stance may be considered, should the fiscal stance deviate significantly from this 
+framework and consequently have an adverse effect on the medium -term inflation 
+outlook. 
+15. Prudent fiscal and financial sector policies are crucial for preserving the resilience 
+of our economy against existing global imbalances. Strengthening the structural 
+reform agenda that will ensure the sustainability of the fiscal discipline and reduc e the savings deficit will support macroeconomic stability in the medium -term. This 
+will also provide more flexibility for monetary policy and improve social welfare by 
+keeping interest rates of long -term government securities persistently at low 
+levels. I n this respect, implementation of the structural reforms outlined by the 
+Medium Term Program remains to be of utmost importance.  
+ 

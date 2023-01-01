@@ -1,47 +1,32 @@
-No: 2010 – 20
-06 July 2010
-PRESS RELEASE ON THE REVISION OF THE REAL EXCHANGE RATE INDEX
-Structural changes in global trade and the resultant formation of global
-production sharing in the last twenty years have significantly transformed the
-structure of international trade in Turkey, in terms of both product variety and country
-groups. The changes in Turkey’s international trade structure necessitate the reel
-effective exchange rate (REER) index to be updated in a way that reflects Turkey’s
-commercial product variety and country diversity. In this respect REER index, which
-is published on the official web site of the Central Bank of the Republic of Turkey
-(CBRT) (www.tcmb.gov.tr) under the sub-heading “Data/Statistical Data/Real
-Effective Exchange Rates” and which can also be available as a time series on
-CBRT’s Electronic Data Delivery System (http://evds.tcmb.gov.tr/yeni/cbt-uk.html),
-has been revised. Having adopted the methodology that is used by a group of
-international institutions, the number of countries covered has been broadened and
-their weights have been updated with these revisions.
-
-Within this context:
-•
-
-While the previous index employed trade flow data of 1988-1990 in the
-computation of
-
-REER weights, the new index employs 2006-2008
-
-trade flow data.
-•
-
-While the country weights of the previous index were computed using
-data on 19 countries, the coverage has been broadened to include 36
-countries in the computation of CPI-based index and 31 for the case of
-PPI-based index.
-
-•
-
-In addition to CPI and PPI-based indexes, a Unit Labor Cost-based
-index is produced in the new series, and also, CPI based REER index
-is computed separately for each developed and developing country
-groups that are included in the computation of country weights.
-
-•
-
-In line with the CPI data disseminated by the Turkish Statistical
-Institute, the new series will be started as of 2003. Therefore, the mean
-CPI value for 2003 has been taken as the base.
-
-
+ 
+No: 2010 – 20  
+06 July 2010  
+ 
+PRESS RELEASE ON THE REVISION OF THE REAL EXCHANGE RATE INDEX 
+ 
+Structural changes in global trade and the resultant formation of global 
+production sharing in the last twenty years have significantly transformed the 
+structure of international trade in Turkey, in terms of both product variety and country 
+groups. The changes in Turkey’s international trade structure necessitate the reel 
+effective exchange rate (REER) index to be updated in a way that reflects Turkey’s 
+commercial product variety and country diversity. In this respect REER index, which 
+is published on the official web site of the Central Bank of the Republic of Turkey 
+(CBRT) (www.tcmb.gov.tr ) under the sub- heading “Data/Statistical Data/Real 
+Effective Exchange Rates” and which can also be available as a time series on CBRT’s Electronic Data Delivery System (
+http://evds.tcmb.gov.tr/yeni/cbt- uk.html ), 
+has been revised. Having adopted the methodology that is used by a group of international institutions, the number of countries covered has been broadened and 
+their weights have been updated with thes e revisions.  
+ Within this context:  
+• While the previous index employed trade flow data of 1988- 1990 in the 
+computation of  REER weights, the new index employs 2006- 2008 
+trade flow data.  
+• While the country weights of the previous index were computed using data on 19 countries, the coverage has been broadened to include 36 
+countries in the computation of CPI -based index and 31 for the case of 
+PPI-based index.  
+• In addition to CPI and PPI -based indexes, a Unit Labor Cost -based 
+index is produced in the new series, a nd also, CPI based REER index 
+is computed separately for each developed and developing country 
+groups that are included in the computation of country weights.  • In line with the CPI data disseminated by the Turkish Statistical 
+Institute, the new series will  be started as of 2003. Therefore, the mean 
+CPI value for 2003 has been taken as the base.  
+ 

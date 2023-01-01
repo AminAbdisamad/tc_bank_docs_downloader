@@ -1,127 +1,122 @@
-No: 2012 - 12
-Release Date: February 28, 2012
-
-SUMMARY OF THE MONETARY POLICY COMMITTEE MEETING
-Meeting Date: February 21, 2012
-
-Inflation Developments
-1. In January, consumer prices were up 0.56 percent and annual inflation reached
-10.61 percent. While the lagged effects of the exchange rate pass-through
-continued through the prices of core goods, services prices followed a moderate
-course in this period.
-2. Annual inflation in food and alcoholic beverages group went down to 11.67
-percent. Seasonally adjusted unprocessed food prices slowed down in January
-following a notable increase in the last quarter of 2011. Although processed food
-prices went up by 1.06 percent in the same period, annual inflation in this group
-recorded a decline after a long period. Leading indicators suggest that food
-inflation will continue to decrease in February.
-
-3. Among subcategories, energy prices stood out recording the highest increase in
-January. Owing to the increases in all subcategories, primarily in water tariffs and
-fuel prices, energy prices went up by 2.19 percent in this period. International oil
-prices posted an upward trend in the first two months of the year, posing upside
-risks on consumer prices.
-4. Annual services inflation increased modestly up to 6.33 percent. Although annual
-inflation edged up in transport services, the favorable outlook continued in other
-services prices. Despite the high course of consumer inflation, rent increases
-remained at low levels. Meanwhile, seasonally adjusted prices of services and
-diffusion index suggest that the underlying trend of service inflation has sustained
-its benign outlook.
-5. Annual inflation in core goods climbed to 10.70 percent in January. Lagged
-effects of the depreciation in the Turkish lira on core goods continued especially
-through durable goods in this period. Nevertheless, the prices of core goods are
-expected to follow a milder path amid the recent moderation in cost pressures.
-Accordingly, the Monetary Policy Committee (the Committee) expects core
-inflation indicators to follow a downward trend starting from February.
-
-Factors Affecting Inflation
-6. Data releases on the final quarter of 2011 suggest that economic activity has
-remained robust. Seasonally adjusted industrial production posted a sizeable
-increase in December, and remained well above the average of the previous
-period on a quarterly basis. Although construction sector displayed a slowdown,
-employment in the services sector maintained a stable upward trend.
-7. Following the robust course in the last quarter of 2011, economic activity lost
-momentum owing to domestic demand. Domestic sales of automobiles and
-commercial vehicles posted a decline in January. In the meanwhile, expectations
-on domestic new orders in the manufacturing industry moderated. Consumer
-confidence remained weak in February; and seasonally adjusted consumer loans
-recorded a mild growth.
-8. Final domestic demand is decelerating while the contribution of net exports to
-growth is increasing. The recovery in global PMI indices in January suggests that
-there is no further deterioration in global outlook compared to the last quarter of
-2011, and supports the gradual improvement in exports. Despite the recent policy
-actions towards a more expansionary monetary stance at a global scale slightly
-alleviate the downside risks on global growth, the outlook for 2012 still signals for
-a slowdown in almost all economies. Highlighting that global uncertainties still
-remain significant, the Committee has noted that global problems will continue to
-restrain foreign demand, notwithstanding the improved market diversification and
-enhanced competitiveness provided by exchange rate movements.
-9. The Committee also stated that restrictive effects of the ongoing slowdown in
-domestic demand and the cumulative depreciation in the Turkish lira on imports
-have become more evident. Accordingly, the rebalancing process and the
-improvement in the current account deficit will continue in the forthcoming period.
-10. Labor market data confirm that there is no significant and widespread
-deceleration in overall economic activity. As opposed to the decline in
-employment in the industrial and construction sectors in the last quarter of 2011,
-non-farm employment remained robust thanks to the strong course of the services
-sector. Although leading indicators for the first quarter of 2012 do not indicate any
-deterioration in employment conditions, the Committee has noted that the impact
-of global uncertainties on the domestic economy may continue to restrain
-employment growth in the period ahead.
-
-Risks and Monetary Policy
-11. Recent data releases confirm that the rebalancing between the domestic and
-external demand continues as envisaged. The measures undertaken in 2011
-
-have not only led the credit growth rate to decline to more reasonable levels but
-also removed the excessive appreciation pressure on the exchange rate; and
-both of these factors contribute the economy to attain a more stable growth
-composition.
-12. The Committee has indicated that although there is a noticeable slowdown in the
-economic activity due to weaker domestic demand in early 2012, this slowdown
-largely reflects temporary and seasonal factors. The Committee members stated
-that domestic demand may recover in the forthcoming period with the improved
-risk appetite and increasing capital inflows. In fact, both the production of
-investment goods and new investment plans of manufacturing firms remain
-robust, suggesting that there is no significant deterioration in demand
-expectations.
-13. Starting from February, core inflation indicators are expected to follow a
-downward path due to favorable cost factors. The pass-through impact of the
-exchange rate developments in 2011 to annual core goods inflation is expected to
-ease in February. In the meanwhile, services prices are expected to follow a
-benign path in parallel to the moderation in domestic demand.
-14. Developments since the Committee meeting in January have eased the adverse
-impact of the Euro area-related problems on global markets, leading to a
-significant increase in risk appetite. This, in turn, has lowered the likelihood of a
-sudden capital outflow in the short-term due to a possible sharp swing in global
-risk perceptions. Therefore, also considering the recent expansionary monetary
-policy decisions at a global scale, the Committee has decided to cut the upper
-limit of the interest rate corridor. However, given the prevailing uncertainties
-regarding the global economy, it would be appropriate to preserve the flexibility of
-the monetary policy. Therefore, the impact of the measures undertaken on credit,
-domestic demand, and inflation expectations will be monitored closely and the
-amount of Turkish lira funding via one-week repo auctions will be adjusted in
-either direction, as needed.
-15. Although the Committee members expect inflation to follow a downward trend in
-the forthcoming period, they have also noted that inflation will hover above the
-target for some time. Inflation expectations are under control and there is no
-significant deterioration in the pricing behavior. Both of these factors are seen as
-favorable developments for medium term inflation outlook. However, recent
-supply-side increases in energy prices pose risks to inflation. In light of these
-assessments, the Committee has indicated that the cautious monetary policy
-stance should be maintained for a while in order to keep inflation outlook
-consistent with the medium term targets.
-16. Monetary policy will continue to focus on price stability while preserving financial
-stability as a supplementary objective. To this end, the impact of the
-
-macroprudential measures taken by the Central Bank and other institutions on the
-inflation outlook will be assessed carefully. Strengthening the structural reform
-agenda to ensure the sustainability of the fiscal discipline and reduce the saving
-deficit will support the relative improvement of Turkey’s sovereign risk, and thus
-facilitate price stability and financial stability in the medium term. This will also
-provide more flexibility for monetary policy and contribute to social welfare by
-keeping interest rates of long-term government securities at low levels. In this
-respect, steps towards the implementation of the structural reforms envisaged by
-the Medium Term Program remain to be of utmost importance.
-
-
+ 
+ No: 2012 - 12  
+Release Date: February 28, 2012 
+ 
+ 
+SUMMARY OF THE MONETARY POLICY COMMITTEE MEETING  
+Meeting Date: February 21, 2012 
+   
+ 
+  Inflation Developments 
+1. In January, consumer prices were up 0.56 percent an d annual inflation reached 
+10.61 percent. While the lagged effects of the exchange  rate pass-through 
+continued through the prices of core goods, services prices followed a moderate 
+course in this period. 
+2. Annual inflation in food and alcoholic beverages grou p went down to 11.67 
+percent. Seasonally adjusted unprocessed food prices slowe d down in January 
+following a notable increase in the last quarter of 2 011. Although processed food 
+prices went up by 1.06 percent in the same period, ann ual inflation in this group 
+recorded a decline after a long period. Leading indi cators suggest that food 
+inflation will continue to decrease in February.  
+3. Among subcategories, energy prices stood out recordi ng the highest increase in 
+January. Owing to the increases in all subcategories, pr imarily in water tariffs and 
+fuel prices, energy prices went up by 2.19 percent in this period. International oil 
+prices posted an upward trend in the first two months o f the year, posing upside 
+risks on consumer prices. 
+4. Annual services inflation increased modestly up to 6. 33 percent. Although annual 
+inflation edged up in transport services, the favorable outlook continued in other 
+services prices. Despite the high course of consumer inflat ion, rent increases 
+remained at low levels. Meanwhile, seasonally adjusted  prices of services and 
+diffusion index suggest that the underlying trend of se rvice inflation has sustained 
+its benign outlook.  
+5. Annual inflation in core goods climbed to 10.70 per cent in January. Lagged 
+effects of the depreciation in the Turkish lira on core g oods continued especially 
+through durable goods in this period. Nevertheless, the  prices of core goods are 
+expected to follow a milder path amid the recent moder ation in cost pressures. 
+Accordingly, the Monetary Policy Committee (the Commi ttee) expects core 
+inflation indicators to follow a downward trend start ing from February. Factors Affecting Inflation 
+6. Data releases on the final quarter of 2011 suggest that economic activity has 
+remained robust. Seasonally adjusted industrial producti on posted a sizeable 
+increase in December, and remained well above the aver age of the previous 
+period on a quarterly basis. Although construction sector  displayed a slowdown, 
+employment in the services sector maintained a stable upw ard trend. 
+7. Following the robust course in the last quarter of 2 011, economic activity lost 
+momentum owing to domestic demand. Domestic sales of auto mobiles and 
+commercial vehicles posted a decline in January. In the mea nwhile, expectations 
+on domestic new orders in the manufacturing industry mod erated. Consumer 
+confidence remained weak in February; and seasonally a djusted consumer loans 
+recorded a mild growth. 
+8. Final domestic demand is decelerating while the cont ribution of net exports to 
+growth is increasing. The recovery in global PMI indic es in January suggests that 
+there is no further deterioration in global outlook  compared to the last quarter of 
+2011, and supports the gradual improvement in exports.  Despite the recent policy 
+actions towards a more expansionary monetary stance at a  global scale slightly 
+alleviate the downside risks on global growth, the outlo ok for 2012 still signals for 
+a slowdown in almost all economies. Highlighting that global uncertainties still 
+remain significant, the Committee has noted that globa l problems will continue to 
+restrain foreign demand, notwithstanding the improved  market diversification and 
+enhanced competitiveness provided by exchange rate movem ents. 
+9. The Committee also stated that restrictive effects of t he ongoing slowdown in 
+domestic demand and the cumulative depreciation in th e Turkish lira on imports 
+have become more evident. Accordingly, the rebalancing process and the 
+improvement in the current account deficit will continu e in the forthcoming period. 
+10. Labor market data confirm that there is no significa nt and widespread 
+deceleration in overall economic activity. As opposed t o the decline in 
+employment in the industrial and construction sectors in t he last quarter of 2011, 
+non-farm employment remained robust thanks to the stro ng course of the services 
+sector. Although leading indicators for the first quart er of 2012 do not indicate any 
+deterioration in employment conditions, the Committee  has noted that the impact 
+of global uncertainties on the domestic economy may co ntinue to restrain 
+employment growth in the period ahead. 
+ 
+Risks and Monetary Policy 
+11. Recent data releases confirm that the rebalancing between the domestic and 
+external demand continues as envisaged. The measures under taken in 2011 have not only led the credit growth rate to decline t o more reasonable levels but 
+also removed the excessive appreciation pressure on the exchan ge rate; and 
+both of these factors contribute the economy to attain  a more stable growth 
+composition.  
+12. The Committee has indicated that although there i s a noticeable slowdown in the 
+economic activity due to weaker domestic demand in early 2012, this slowdown 
+largely reflects temporary and seasonal factors. The Comm ittee members stated 
+that domestic demand may recover in the forthcoming per iod with the improved 
+risk appetite and increasing capital inflows. In fact, b oth the production of 
+investment goods and new investment plans of manufacturi ng firms remain 
+robust, suggesting that there is no significant deterior ation in demand 
+expectations.  
+13. Starting from February, core inflation indicators are expected to follow a 
+downward path due to favorable cost factors. The pass-thro ugh impact of the 
+exchange rate developments in 2011 to annual core goods i nflation is expected to 
+ease in February. In the meanwhile, services prices ar e expected to follow a 
+benign path in parallel to the moderation in domesti c demand.  
+14. Developments since the Committee meeting in Januar y have eased the adverse 
+impact of the Euro area-related problems on global m arkets, leading to a 
+significant increase in risk appetite. This, in turn, has lowered the likelihood of a 
+sudden capital outflow in the short-term due to a possi ble sharp swing in global 
+risk perceptions. Therefore, also considering the recent expansionary monetary 
+policy decisions at a global scale, the Committee has deci ded to cut the upper 
+limit of the interest rate corridor. However, given th e prevailing uncertainties 
+regarding the global economy, it would be appropriat e to preserve the flexibility of 
+the monetary policy. Therefore, the impact of the me asures undertaken on credit, 
+domestic demand, and inflation expectations will be mon itored closely and the 
+amount of Turkish lira funding via one-week repo auction s will be adjusted in 
+either direction, as needed.  
+15. Although the Committee members expect inflation to follow a downward trend in 
+the forthcoming period, they have also noted that in flation will hover above the 
+target for some time. Inflation expectations are unde r control and there is no 
+significant deterioration in the pricing behavior. Both  of these factors are seen as 
+favorable developments for medium term inflation outlo ok. However, recent 
+supply-side increases in energy prices pose risks to inf lation. In light of these 
+assessments, the Committee has indicated that the cautious monetary policy 
+stance should be maintained for a while in order to keep inflation outlook 
+consistent with the medium term targets. 
+16. Monetary policy will continue to focus on price sta bility while preserving financial 
+stability as a supplementary objective. To this end, the  impact of the macroprudential measures taken by the Central Bank and other institutions on the 
+inflation outlook will be assessed carefully. Strengthen ing the structural reform 
+agenda to ensure the sustainability of the fiscal discipli ne and reduce the saving 
+deficit will support the relative improvement of Tur key’s sovereign risk, and thus 
+facilitate price stability and financial stability in the medium term. This will also 
+provide more flexibility for monetary policy and contr ibute to social welfare by 
+keeping interest rates of long-term government securiti es at low levels. In this 
+respect, steps towards the implementation of the struct ural reforms envisaged by 
+the Medium Term Program remain to be of utmost impor tance. 
+ 

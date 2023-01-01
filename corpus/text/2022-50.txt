@@ -1,44 +1,42 @@
-Press Release on Security Overlay
-Service (SIPER)
-9 December 2022
-
-No: 2022-50
-
-The Central Bank of the Republic of Türkiye (CBRT) has introduced the “Security Overlay
-Service” (SIPER), a vital overlay service for the Instant and Continuous Transfer of Funds
-(FAST). SIPER enables real-time threat intelligence and information sharing for the detection
-and prevention of illicit transactions. The SIPER was developed in cooperation with the
-Interbank Card Center (BKM) with domestic and national resources.
-The FAST System, which allows 24/7/365 instant transfer of funds, was launched in December
-2020. Through the FAST, all users can make cheap and instant transfers of funds between their
-accounts at different financial institutions on a 24/7 basis where all the parties are informed
-about the result of the transactions instantly. As the fund transfers take place within seconds
-irrevocably, all kinds of security risks have to be managed instantenously. Thus, the CBRT has
-developed and launched the SIPER platform, which is an international best practice, to ensure
-the most secure conduct and broad-based use of instant payments. The operating principle of
-the SIPER platform is to secure the exchange of any information about the risk of an illecit
-transaction between the initiating and beneficiary institutions within seconds. Also, via the SIPER
-platform, all parties in the system will be informed about illicit transactions. The SIPER is planned
-to be used not only for FAST transactions but also for all kinds of fund transfers.
-Although the SIPER has become recently available, four FAST participants have completed tests
-and technical certifications successfully, and as of today started using the platform. Additionally,
-two others have completed the testing and certification processes to join the SIPER. All the
-participants of the FAST are expected to integrate to the SIPER in the first quarter of 2023.
-In the ongoing second phase of the SIPER platform, smart-layered strategic products are
-being developed using “Machine Learning” and “Artificial Intelligence” algorithms, which
-will allow detection of illegal uses as anomalies on the centrally collected data. The CBRT is
-planning to make these products available to all stakeholders in the payment ecosystem
-in the second half of 2023.
-The CBRT evaluates that the SIPER platform will make a significant contribution to ensuring that
-end users carry out all their digital payment transactions safely in the payments area of our
-Liraization Strategy, and that illegal use is minimized.
-Contact
-For further information, you may send an e-mail to basin@tcmb.gov.tr.
-
-Türkiye Cumhuriyet Merkez Bankası
-İdare Merkezi
-Hacı Bayram Mah. İstiklal Cad. No:10 06050
-Ulus Altındağ Ankara 0312 507 50 00
-www.tcmb.gov.tr
-
-
+Türkiye Cumhuriyet Merkez Bankası  
+İdare Merkezi  
+Hacı Bayram Mah. İstiklal Cad. No:10 06050  
+Ulus Altındağ Ankara 0312 507 50 00  
+www.tcmb.gov.tr    
+Press Release on Security Overlay 
+Service (SIPER)  
+9 December  2022  No: 2022-50 
+ 
+The Central Bank of the Republic of Türkiye (CBRT) has introduced the “Security Overlay  
+Service” (S IPER), a  vital overlay  service for  the Instant and Continuous Transfer of Funds 
+(FAST) . SIPER  enables real -time threat intelligence and information sharing for the detecti on 
+and prevention of illicit  transactions . The SIPER was developed in cooperation with  the 
+Interbank Card Center (BKM) with domestic and national resources . 
+ 
+The FAST System , which allows 24/7/365 instant transfer of funds, was launched in December 
+2020. Through the FAST, all users can make cheap  and instant transfer s of funds between their 
+accounts at different financial institutions on a 24/7 basis where all the parties are informed 
+about the result of the transaction s instantly. As the fund transfer s take place within seconds 
+irrevocably, all kinds of security risks have to be managed instantenously. Thus, the CBRT has 
+developed and launched the SIPER  platform,  which is a n international best practice,  to ensure 
+the most secure conduct and broad -based use of instant payments. The operating principle of 
+the SIPER  platf orm is to secure the exchange of any information about the risk of an illecit  
+transaction between the initiating and beneficiary institution s within seconds. Also , via the SIPER 
+platform, all parties in the system will be  informed  about illicit transactions . The SIPER  is planned 
+to be used not only for FAST transactions but also for all kinds of fund transfers.  
+Although t he SIPER  has become recently available , four FAST participants  have completed tests 
+and technical certifications successfully, and as of today started using the platform. Additionally, 
+two others have completed the testing and certification processes to join the SIPER . All the 
+participants of the FAST are expected to integ rate to the SIPER  in the first quarter of 20 23. 
+In th e ongoing second  phase of the SIPER platform, smart -layered strategic products are 
+being developed using “Machine Learning” and “Artificial Intelligence” algorithms, which 
+will allow detection of illega l uses as anomalies on the centrally collected data. The CBRT is 
+planning to make these products available to all stakeholders in the payment ecosystem 
+in the second half of 2023.  
+The CBRT evaluates that the SIPER  platform will make a significant contribution to ensuring that 
+end users carry out all their digital payment transactions safely  in the payments area of our 
+Liraization Strategy , and that illegal use is minimized.  
+ 
+Contact  
+For further information, you may send an e -mail to basin@tcmb.gov.tr.  
+ 

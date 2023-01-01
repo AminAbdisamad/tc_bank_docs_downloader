@@ -1,109 +1,44 @@
-No: 2017-42
-
-PRESS RELEASE
-6 November 2017
-
-Press Release on Reserve Requirements
-In the recent period, the markets have witnessed unsound price formations that are
-inconsistent with economic fundamentals.
-Taking this development into account, with a view to supporting price stability and financial
-stability, the upper limit and the tranches for the FX maintenance facility within the reserve
-options mechanism have been revised.
-Accordingly, the upper limit for the FX maintenance facility has been lowered to 55 percent
-from 60 percent and all tranches have been reduced by 5 points.
-Current FX Facility
-Tranches (%)
-
-New FX Facility
-Tranches (%)
-
-Reserve Option
-Coefficients
-
-0-30
-
-0-25
-
-1.0
-
-30-35
-
-25-30
-
-1.4
-
-35-40
-
-30-35
-
-1.7
-
-40-45
-
-35-40
-
-2.1
-
-45-50
-
-40-45
-
-2.5
-
-50-55
-
-45-50
-
-2.9
-
-55-56
-
-50-51
-
-3.7
-
-56-57
-
-51-52
-
-3.9
-
-57-58
-
-52-53
-
-4.1
-
-58-59
-
-53-54
-
-4.3
-
-59-60
-
-54-55
-
-4.5
-
-Türkiye Cumhuriyet Merkez Bankası
-(Central Bank of the Republic of Turkey)
-Head Office
-Anafartalar Mahallesi İstiklal Caddesi 10 06050 Ulus Altındağ / Ankara
-+90 (312) 507 50 00
-www.tcmb.gov.tr
-
-With this revision, approximately 5.3 billion Turkish liras of liquidity will be withdrawn from
-the market and approximately 1.4 billion US dollars of liquidity will be provided to banks.
-
-Contact:
-For further information, you may send an e-mail to basin@tcmb.gov.tr
-
-Türkiye Cumhuriyet Merkez Bankası
-(Central Bank of the Republic of Turkey)
-Head Office
-Anafartalar Mahallesi İstiklal Caddesi 10 06050 Ulus Altındağ / Ankara
-+90 (312) 507 50 00
-www.tcmb.gov.tr
-
-
+Türkiye  Cumhuriyet  Merkez  Bankası  
+(Central  Bank  of the Republic  of Turkey)  
+Head  Office  
+Anafartalar  Mahallesi  İstiklal  Caddesi  10 06050  Ulus  Altındağ  / Ankara   
++90 (312)  507 50 00 
+www.tcmb.gov.tr   
+ 
+No: 2017 -42 
+PRESS  RELEASE  
+6 November  2017  
+Press  Release  on Reserve  Requirements  
+In the recent  period,  the markets  have  witnessed  unsound  price  formations  that are 
+inconsistent  with  economic  fundamentals.   
+Taking  this development  into account , with  a view  to supporting  price  stability  and financial  
+stability,  the upper  limit  and the tranches  for the FX maintenance  facility  within  the reserve  
+options  mechanism  have  been  revised.  
+Accordingly,  the upper  limit  for the FX maintenance  facility  has been  lowered  to 55 percent  
+from  60 percent  and all tranches  have  been  reduced  by 5 points.  
+Current  FX Facility  
+Tranches  (%) New  FX Facility  
+Tranches  (%) Reserve  Option  
+Coefficients  
+ 0-30 0-25 1.0 
+30-35 25-30 1.4 
+35-40 30-35 1.7 
+40-45 35-40 2.1 
+45-50 40-45 2.5 
+50-55 45-50 2.9 
+55-56 50-51 3.7 
+56-57 51-52 3.9 
+57-58 52-53 4.1 
+58-59 53-54 4.3 
+59-60 54-55 4.5 
+ 
+Türkiye  Cumhuriyet  Merkez  Bankası  
+(Central  Bank  of the Republic  of Turkey)  
+Head  Office  
+Anafartalar  Mahallesi  İstiklal  Caddesi  10 06050  Ulus  Altındağ  / Ankara   
++90 (312)  507 50 00 
+www.tcmb.gov.tr  With  this revision,  approximately  5.3 billion  Turkish  liras of liquidity  will be withdrawn  from  
+the market  and approximately  1.4 billion  US dollars  of liquidity  will be provided  to banks.  
+ 
+Contact:   
+For further  informat ion, you may  send  an e-mail  to basin@tcmb.gov.tr  

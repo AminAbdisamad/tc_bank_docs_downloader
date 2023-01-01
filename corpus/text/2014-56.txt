@@ -1,52 +1,32 @@
-No: 2014 – 56
-Release Date: 20 September 2014
-
-THE CENTRAL BANK OF THE REPUBLIC OF TURKEY PRESS RELEASE
-New CBRT website open for test use.
-The CBRT website, an important channel of communication with the public, has been
-redesigned and opened for test use at http://yeni.tcmb.gov.tr. The new site has been
-restructured so as to bring the Bank’s price stability and financial stability objectives,
-as well as its main functions, to the forefront. Accordingly, the menu selection and
-page contents have been revised and rearranged to meet the needs of users of the
-website. Furthermore, new features such as the For Children (in Turkish only) section
-and an Interactive Graphs facility have been added.
-The new site will be in service concurrently with the present one till Saturday, 27
-September 2014, after which it will be the sole active site. During the test period, data
-provided through www.tcmb.gov.tr shall be the officially recognized information.
-Users are welcome to provide their opinions and suggestions through e-mail to
-tcmbtest@tcmb.gov.tr.
-With the launch of the new website, the CBRT Exchange Rates will no longer be
-published in HTML format, but only in XML format. Exchange Rates published in
-XML
-
-format
-
-will
-
-be
-
-accessible
-
-at
-
-the
-
-previous
-
-address
-
-(http://www.tcmb.gov.tr/kurlar/201401/02012014.xml).
-We would like to remind users that utilize the exchange rates published on the CBRT
-website in HTML format on various websites and applications to make the necessary
-arrangements using the XML files* given at the links below.
-Indicative Exchange Rates– Sample XML File
-Informative Exchange Rates of Selected Currencies That Are Not Subject to
-Transaction by the Central Bank of the Republic of Turkey – Sample XML File
-
-*: In order to display the XML files, users may right click on the links and use the
-“save link as” option.
-
-Contact: For further information, please contact Press Secretary Yücel Yazar
-Tel No: +90 (312) 507 5656
-
-
+No: 2014 – 56                                                        
+Release Date: 20 September 2014  
+ 
+THE CENTRAL BANK OF THE REPUBLIC OF TURKEY PRESS RELEASE  
+New CBRT website open for test use.  
+The CBRT website, an important channel of communication with the public, has been 
+redesigned and opened for test use at http://yeni.tcmb.gov.tr . The new site has been 
+restructured so as to bring the Bank’s price stability an d financial stability objectives, 
+as well as its main functions, to the forefront. Accordingly, the menu selection and 
+page contents have been revised and rearranged  to meet the needs of users of the 
+website. Furthermore, new features such as the For Child ren (in Turkish only) section 
+and an Interactive Graphs  facility have been added.  
+The new site will be in service concurrently with the present one till Saturday, 27 
+September 2014, after which it will be the sole active site. During the test period, data  
+provided through www.tcmb.gov.tr  shall be the officially recognized information. 
+Users are welcome to provide their opinions and suggestions through e -mail to 
+tcmbtest@tcmb.gov.tr . 
+With the launch of the new website, the CBRT Exchange Rates will no longer be 
+published in HTML format, but only in XML format. Exchange Rates published in 
+XML format will be accessible at the previous address 
+(http://www.tcmb.gov.tr/kurlar/201401/02012014.xml ). 
+We would like to remind users that utilize the exchange rates published on the CBRT 
+website in HTML format on various websites and applications to make the neces sary 
+arrangements using the XML files* given at the links below.  
+Indicative Exchange Rates – Sample XML File  
+Informative Exchange Rates of Selected Currencies That Are Not Subject to 
+Transaction by the Central Bank of the Republic  of Turkey – Sample XML File  *: In order to display the XML files, users may right click on the links and use the 
+“save link as” option.  
+ 
+Contact: For further information, please contact Press Secretary Yücel Yazar  
+Tel No: +90 (312) 507 5656  
+ 

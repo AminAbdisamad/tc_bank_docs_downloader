@@ -1,95 +1,52 @@
-NO: 2007 – 17
-18 July 2007
-
-PRESS RELEASE ON LIQUIDITY BILL ISSUES
-
-1-The Central Bank Law 1211 Article 52, with an aim to efficiently regulate the money
-supply and liquidity in the economy within the framework of monetary policy targets, has
-empowered the Central Bank to issue Liquidity Bills whose maturity shall not exceed 91
-days and that shall be tradable in the secondary markets, for its own account and behalf.
-Within the legal framework of this authorization, the Central Bank has set the legal
-outline of issuing liquidity bills with “The Communiqué Related to Liquidity Bills”
-published in the Official Gazette No. 26310 dated 5 October 2006. The original version
-of the Communiqué can be found at the CBRT Web Site (www.tcmb.gov.tr).
-
-2- Excess liquidity in the market, which has reached YTL 8-12 billion in recent days, is
-withdrawn via reverse repo transactions conducted in the Central Bank Domestic
-Interbank Money Market deposit transactions and Istanbul Stock Exchange (ISE) Repo
-Market on an overnight basis. Nevertheless, considering the fact that the upsurge in
-excess liquidity withdrawn via overnight transactions may undermine the efficiency and
-flexibility of the money market, it has been decided to issue liquidity bills along with
-current money market instruments.
-
-3- The first group of liquidity bills will be issued on 20 July 2007 with a maturity of 32
-days to be due on 21 August 2007. The said issue auction will be held on 19 July 2007.
-Maximum nominal sale amount will be YTL 1 billion YTL. Observing the efficiency of the
-liquidity management, the issue of liquidity bills will continue in the future, when deemed
-necessary.
-
-4- Procedures on liquidity bills auctions are as follows:
-i.
-
-The banks and intermediary institutions eligible to participate in Open Market
-Operations at the Central Bank are allowed to participate in the auctions.
-
-ii.
-
-The auction type will be multiple priced (Dutch).
-
-iii.
-
-The auction details will be announced on the Reuters CBTL page at 10:00 am.
-The banks and the intermediary institutions will also be informed via the TICRTGS system. The auction results will be released on the Reuters CBTM
-page.
-
-iv.
-
-The bids will be placed via TIC- RTGS system. The bids will be transmitted by
-using the HABR-TKLF message. The auction code will be 9 for liquidity bills.
-The bids may be placed via telephone, in case of any problems in the
-participants’ own system or the TIC-RTGS system, provided that such
-problem is verified by the TIC-RTGS operator.
-
-v.
-
-Bids will be placed until 11:00 a.m
-
-v.
-
-The bid amounts will be YTL 1 million and its multiples in nominal value, while
-bid price will be expressed in three decimal figures after full stop. (e.g.
-98.375).
-
-vii.
-
-Central Bank will notify the successful bidders about the transaction details
-via HABR-ACIK message.
-
-viii.
-
-Security and money transfers for the liquidity bills will be effected by Istanbul
-Branch of CBRT on issue date and by the institutions via TIC-RTGS System
-based on Delivery versus Payment principle in case of early redemption.
-
-ix.
-
-On the redemption date, payments will be made by CBRT TIC-RTGS system
-using MERB-ACI2 message.
-
-x.
-
-Liquidity bills will be issued in the form of one legal collective bill bearing
-whole issue amount and will be kept with the CBRT. Security transfers and
-settlements between banks and financial intermediaries will be realized via
-TIC-RTGS systems. This rule will applicable along with the provisions of
-capital market regulations governing trading, exchange and safe custody.
-
-xi.
-
-CBRT will announce the daily indicative price of liquidity bills in the Official
-Gazette and at its Web Site. The liquidity bills shall be accepted as collateral
-in the markets with the CBRT. They, however, will not be used as an
-underwriting security for repo-reverse repo transactions with the CBRT or in
-the ISE, where the CBRT acts as conractant.
-
-
+NO: 2007 –  17 
+18 July  2007  
+ 
+PRESS RELEASE ON LIQ UIDITY BILL ISSUES  
+ 
+1-The Central Bank Law 1211 Article 52, with an aim to efficiently regulate the money 
+supply and liquidity in the economy within the framework of monetary policy targets, has empowered the Central Bank to issue Liquidity Bills whose  maturity shall not exceed 91 
+days and that shall be tradable in the secondary markets, for its own account and behalf. Within the legal framework of this authorization, the Central Ba nk has set the legal 
+outline of issuing liquidity bills with “The Communiqué Related to Liquidity  Bills” 
+published in the Official Gazette No. 26310 dated 5 October 2006. The original version 
+of the Communiqué can be found at the CBRT Web  Site ( www.tcmb.gov.tr
+). 
+ 
+2- Excess liquidity in the market, which has reached YTL 8- 12 billion in recent days, is 
+withdrawn via reverse repo transactions conducted in the Central Bank Domes tic 
+Interbank Money Market deposit transactions and Istanbul Stock Exchange (ISE) Repo 
+Market on an overnight basis . Nevertheless, considering the fact that the upsurge in 
+excess liquidity withdrawn via overnight transactions may undermine the efficiency and flexibility of the money market, it has been decided to issue liquidity bills along with 
+current money market instruments.  
+ 3- The first group of liquidity bills will be issued on 20 July 2007 with a maturity of 32 
+days to be due on 21 August 2007. The said issue auction will be held on 19 July 2007. Maximum nominal sale amount will be YTL 1 billion YTL. Observing the efficiency of the 
+liquidity management, the issue of liquidity bills will continue in the future, when deemed 
+necessary.  
+ 4- Procedures on liquidity bills auctions are as follows:  
+i. The banks and intermediary institutions eligible to participate in Open Market 
+Operations at the Central Bank are allowed to participate in the auctions.  
+ii. The auction type will be multiple priced (Dutch).      iii. The auction details will be announced on the Reuters CBTL page at 10:00 am. 
+The banks and the intermediary institutions will also be informed via the TIC -
+RTGS system. The auction results will be released on the Reuters CBTM page.  
+iv. The bids will be placed via TIC - RTGS system. The bids will be transmitted by 
+using the HABR -TKLF message. The auction code will be 9 for liquidity bills. 
+The bids may be placed via telephone, in case of any problems in the participants’ own system or the TIC -RTGS system, provided that such 
+problem is verified by the TIC -RTGS operator.  
+v.         Bids will be placed until 11:00 a.m  
+v. The bid amounts will be YTL 1 million and its multiples in nominal value, while 
+bid price will be expressed in three decimal figures after full stop. (e.g. 
+98.375).  
+vii.  Central Bank will notify the successful bidders about the transaction details via HABR- ACIK message.  
+viii. Security and money transfers for the liquidity bills will be effected by Istanbul 
+Branch of CBRT on issue date and by the institutions via T IC-RTGS System 
+based on Delivery versus Payment principle in case of early redemption.  
+ix. On the redemption date, payments will be made by CBRT TIC -RTGS system 
+using MERB -ACI2 message.  
+x. Liquidity bills will be issued in the form of one legal collective bill bearing 
+whole issue amount and will be kept with the CBRT. Security transfers and 
+settlements between banks and financial intermediaries will be realized via 
+TIC-RTGS systems. This rule will applicable along with the provisions of 
+capital market regulations governing trading, exchange and safe custody.    
+xi. CBRT will announce the daily indicative price of liquidity bills in the Official 
+Gazette and at its Web Site. The liquidity bills shall be accepted as collat eral 
+in the markets with the CBRT. They, however, will not be used as an underwriting security for repo- reverse repo transactions with the CBRT or in 
+the ISE, where the CBRT acts as conractant.    

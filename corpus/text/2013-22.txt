@@ -1,101 +1,55 @@
-No: 2013 – 22
-Release Date: 16 May 2013
-
-PRESS RELEASE ON RESERVE REQUIREMENTS
-With a view to supporting financial stability in light of the latest developments
-in global markets, foreign exchange (FX) reserve requirement ratios were increased
-for short-term liabilities as follows:
-Current
-Ratios
-(%)
-
-New
-Ratios
-(%)
-
-FX and precious metal demand deposits, notice deposits and
-FX private current accounts, deposits/participation and precious
-metal deposit accounts with maturities up to 1, 3 and 6 months
-(including 1, 3 and 6 months) and 1 year
-
-12.5
-
-13
-
-FX deposits/participation and precious metal deposit accounts
-with maturities of 1 year and longer and cumulative FX
-deposits/participation accounts
-
-9
-
-9
-
-12.5
-
-13
-
-Other FX liabilities with maturities up to 3 years (including 3
-years)
-
-10.5
-
-11
-
-Other FX liabilities with maturities longer than 3 years
-
-6
-
-6
-
-FX liabilities
-
-Other FX liabilities with maturities up to 1 year (including 1 year)
-
-With the increase in FX reserve requirement ratios, liquidity amounting to
-approximately USD 1 billion will be withdrawn from the market and the effective
-reserve requirement ratio for FX currently standing at 11.5 percent will become 11.9
-percent.
-Besides, in the context of the facility that allows banks to hold Turkish lira
-required reserves in FX, one more tranche has been added to the existing tranches
-by keeping the upper limit unchanged, and the reserve option coefficients (ROCs)
-have been raised by 0.1 points for all tranches excluding the first tranche.
-Accordingly, the revised ROCs are as follows:
-
-FX Facility Tranches
-(%)
-0-30
-30-35
-35-40
-40-45
-45-50
-50-55
-55-60
-
-Current
-ROC
-1.4
-1.7
-2.1
-2.4
-2.6
-2.7
-
-New
-ROC
-1.4
-1.5
-1.8
-2.2
-2.5
-2.7
-2.8
-
-Banks have been consistently using the facility of holding Turkish lira required
-reserves in FX and the utilization ratio is 84.1 percent (50.5/60). At present, FX worth
-USD 30.9 billion is being held for Turkish lira required reserves. Should the facility
-continue to be used at the same level after the revisions, Central Bank FX reserves
-are expected to increase approximately by USD 0.8 billion.
-The revisions will be effective as of the calculation period dated 24 May 2013
-and the maintenance period will begin on 7 June 2013.
-
-
+No: 2013 – 22         
+Release Date: 16 May 2013 
+  
+PRESS RELEASE ON RESERVE REQUIREMENTS 
+With a view to supporting financial stability in li ght of the latest developments 
+in global markets, foreign exchange (FX) reserve re quirement ratios were increased 
+for short-term liabilities as follows: 
+FX liabilities Current 
+Ratios 
+(%) New 
+Ratios 
+(%) 
+FX and precious metal demand deposits, notice depos its and 
+FX private current accounts, deposits/participation  and precious 
+metal deposit accounts with maturities up to 1, 3 a nd 6 months 
+(including 1, 3 and 6 months) and 1 year  12.5 13 
+FX deposits/participation and precious metal deposi t accounts 
+with maturities of 1 year and longer and cumulative  FX 
+deposits/participation accounts  9 9 
+Other FX liabilities with maturities up to 1 year ( including 1 year) 12.5 13 
+Other FX liabilities with maturities up to 3 years (including 3 
+years) 10.5 11 
+Other FX liabilities with maturities longer than 3 years 6 6 
+ 
+With the increase in FX reserve requirement ratios,  liquidity amounting to 
+approximately USD 1 billion will be withdrawn from the market and the effective 
+reserve requirement ratio for FX currently standing  at 11.5 percent will become 11.9 
+percent. 
+Besides, in the context of the facility that allows  banks to hold Turkish lira 
+required reserves in FX, one more tranche has been added to the existing tranches 
+by keeping the upper limit unchanged, and the reser ve option coefficients (ROCs) 
+have been raised by 0.1 points for all tranches exc luding the first tranche. 
+Accordingly, the revised ROCs are as follows: 
+ FX Facility Tranches 
+(%) Current 
+ROC New  
+ROC 
+0-30 1.4 1.4 
+30-35 1.5 
+35-40 1.7 1.8 
+40-45 2.1 2.2 
+45-50 2.4 2.5 
+50-55 2.6 2.7 
+55-60 2.7 2.8 
+ 
+Banks have been consistently using the facility of holding Turkish lira required 
+reserves in FX and the utilization ratio is 84.1 pe rcent (50.5/60). At present, FX worth 
+USD 30.9 billion is being held for Turkish lira req uired reserves. Should the facility 
+continue to be used at the same level after the rev isions, Central Bank FX reserves 
+are expected to increase approximately by USD 0.8 b illion. 
+The revisions will be effective as of the calculati on period dated 24 May 2013 
+and the maintenance period will begin on 7 June 201 3. 
+ 
+ 
+ 

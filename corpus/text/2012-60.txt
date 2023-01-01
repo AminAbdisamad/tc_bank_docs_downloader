@@ -1,71 +1,36 @@
-No: 2012 – 60
-
-Release Date: 18 December 2012
-
-PRESS RELEASE ON REQUIRED RESERVES
-
-In light of the latest developments in global markets, with a view to supporting
-the financial stability and lengthening the maturity structure of the foreign exchange
-(FX) liabilities of the banking sector, FX required reserve ratios have been raised by 0.5
-points for all maturities except for FX deposits with 1-year and longer maturities and other
-FX liabilities longer than 3-year maturity.
-Accordingly, the FX required reserve ratios are revised as follows:
-
-Current
-Ratios
-(%)
-
-New
-Ratios
-(%)
-
-FX demand deposits, notice deposits and FX private current
-accounts, deposits/participation accounts up to 1-month, up
-to 3-month, up to 6-month and up to 1-year maturities.
-
-11.0
-
-11.5
-
-FX deposits / participation accounts with 1-year and longer
-maturity and cumulative FX deposits / participation account
-
-9.0
-
-9.0
-
-Other FX liabilities up to 1-year maturity (including 1-year)
-
-11.0
-
-11.5
-
-Other FX liabilities up to 3-year maturity (including 3-year)
-
-9.0
-
-9.5
-
-Other FX liabilities longer than 3-year maturity
-
-6.0
-
-6.0
-
-FX Liabilities
-
-According to the current data, with the increase in FX required reserve ratios,
-liquidity amounting to about USD 850 million will be withdrawn from the market and
-the weighted average required reserve ratio currently standing at 10.2 percent will
-become 10.6 percent.
-Moreover, the reserve option coefficient for all tranches of gold reserves held
-for Turkish lira reserve requirements has been raised by 0.1 points.
-Banks have been consistently using the facility and the utilization ratio is at
-90.4 percent. At present, 199.1 tons of gold worth USD 11.1 billion are being held for
-Turkish lira reserve requirements. Should this facility continue to be used at the same
-level, the expected increase in Central Bank gold reserves is approximately 15 tons of
-gold worth USD 850 million.
-Changes will be effective as of the calculation period dated 21 December 2012
-and the maintenance period will begin on 4 January 2013.
-
-
+  
+PRESS RELEASE ON REQUIRED RESERVES  
+ 
+In light of the latest developments in global markets, with a view to supporting 
+the financial stability and lengthening the maturity structure of the foreign exchange 
+(FX) liabilities of the banking sector, FX required reserve ratios have been raised by 0.5 
+points for all maturities except for FX deposits with 1- year and longer maturities and other 
+FX liabilities longer than 3- year maturity.  
+Accordingly, the FX  required reserve ratios are revised as follows:  
+ 
+FX Liabilities  Current 
+Ratios 
+(%) New 
+Ratios 
+(%) 
+FX demand deposits, notice deposits and FX private current 
+accounts, deposits/participation accounts up to 1- month, up 
+to 3-month, up to 6 -month  and up to 1 -year maturities.  11.0 11.5 
+FX deposits / participation accounts with 1- year and longer 
+maturity and cumulative FX deposits / participation account  9.0 9.0 
+Other FX liabilities up to 1 -year maturity (including 1 -year)  11.0 11.5 
+Other FX liabilities up to 3-year maturity (including 3-year)  9.0 9.5 
+Other FX liabilities longer than 3 -year maturity  6.0 6.0 
+According to the current data, with the increase in FX required reserve ratios, 
+liquidity amounting to about USD 850 million will be withdrawn from the market and 
+the weighted average required reserve ratio currently standing at 10.2 percent will 
+become 10.6 percent.    
+Moreover, the reserve opt ion coefficient for all tranches of gold reserves held 
+for Turkish lira reserve requirements has been raised by 0.1 points.  
+Banks have been consistently using the facility and the utilization ratio is at 
+90.4 percent. At present, 199.1 tons of gold worth USD 11.1 billion are being held for 
+Turkish lira reserve requirements. Should this facility continue to be used at the same 
+level, the expected increase in Central Bank gold reserves is approximately 15 tons of gold worth USD 850 million.  
+Changes will be effective as of the calculation period dated 21 December 2012 
+and the maintenance period will begin on 4 January 2013.  
+ No: 2012 – 60 Release Date: 18 December 2012  

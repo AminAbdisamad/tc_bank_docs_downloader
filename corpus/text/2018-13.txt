@@ -1,66 +1,40 @@
-Press Release on Reserve Requirements
-07 May 2018, No: 2018-13
-The upper limit for the FX maintenance facility within the reserve options mechanism has been
-lowered to 45 percent from 55 percent and tranches have been determined as follows;
-
-Current FX Facility
-Tranches (%)
-0-25
-25-30
-30-35
-35-40
-40-45
-45-50
-50-51
-51-52
-52-53
-53-54
-54-55
-
-Reserve Option
-Coefficients
-1.0
-1.4
-1.7
-2.1
-2.5
-2.9
-3.7
-3.9
-4.1
-4.3
-4.5
-
-New FX Facility
-Tranches (%)
-0-20
-20-25
-25-30
-30-35
-35-40
-40-45
-
-Reserve Option
-Coefficients
-1.0
-1.4
-1.7
-2.1
-2.5
-2.9
-
-With this revision, approximately 6.4 billion Turkish liras of liquidity will be withdrawn from the
-market and approximately 2.2 billion US dollars of liquidity will be provided to banks.
-
-Contact
-For further information, you may send an e-mail to basin@tcmb.gov.tr.
-
-Türkiye Cumhuriyet Merkez Bankası
-(Central Bank of the Republic of Turkey)
-Head Office
-Anafartalar Mahallesi
-İstiklal Caddesi 10 06050 Ulus Altındağ / Ankara
-+90 (312) 507 50 00
-www.tcmb.gov.tr
-
-
+ 
+Türkiye Cumhuriyet Merkez Bankası  
+(Central Bank of the Republic of Turkey)  
+Head Office 
+Anafartalar Mahallesi  
+İstiklal Cadd esi 10 06050 Ulus Altındağ / Ankara  
++90 (312) 507 50 00 
+www.tcmb.gov.tr   
+Press Release o n Reserve Requirements  
+07 May 2018, No: 2018-13 
+ 
+The upper limit for the FX maintenance facility  within the reserve options mechanism  has been 
+lowered to 45  percent from 55 percent and tranches have been determined as follows;  
+ 
+ 
+Current FX Facility 
+Tranches (%)  Reserve Option 
+Coefficients  New FX Facility 
+Tranches (%)  Reserve Option 
+Coefficients  
+0-25 1.0 0-20 1.0 
+25-30 1.4 20-25 1.4 
+30-35 1.7 25-30 1.7 
+35-40 2.1 30-35 2.1 
+40-45 2.5 35-40 2.5 
+45-50 2.9 40-45 2.9 
+50-51 3.7  
+51-52 3.9 
+52-53 4.1 
+53-54 4.3 
+54-55 4.5 
+ 
+ 
+With this revision, approximately 6.4 billion Turkish liras of liquidity will be withdrawn from the 
+market and approximately 2.2 billion US dollars of liquidity will be provided to banks.  
+ 
+ 
+ 
+Contact   
+For further information, you may send an e -mail to basin@tcmb.gov.tr.  

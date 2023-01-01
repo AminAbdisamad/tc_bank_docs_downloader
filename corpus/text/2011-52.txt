@@ -1,180 +1,104 @@
-No: 2011 - 52
-November 4, 2011
-
-THE CENTRAL BANK OF THE REPUBLIC OF TURKEY
-PRESS RELEASE ON THE FOREIGN EXCHANGE DEPOSIT MARKET
-
-In the framework of the strategy set out at the Monetary Policy Committee
-Meeting held on 4 August 2011, it has been decided that, in order to enhance the
-mobility of foreign exchange liquidity in the Interbank Foreign Exchange Market, the
-Central Bank should resume its activities as an intermediary in the foreign exchange
-deposit markets in Foreign Exchange and Banknotes Markets as of 10 November
-2011, until the heightened uncertainties in the international markets disappear.
-In this context, banks shall be able to borrow and lend in the foreign exchange
-deposit market through the intermediation of the Central Bank in accordance with the
-rules set by the Implementation Instructions for the Foreign Exchange and Banknotes
-Markets. Guidelines for the operation of the Foreign Exchange Deposit Market are
-available in the Annex.
-
-1
-
-ANNEX: Guidelines for the Operation of the Foreign Exchange Deposit Market:
-1.
-
-All banks that are the members of the Interbank Foreign Exchange Market
-shall be eligible to make transactions in the Foreign Exchange Deposit
-Market.
-
-2.
-
-Transaction limits for the Banks shall be those introduced to them at the
-Foreign Exchange and Banknotes Markets.
-
-3.
-
-Banks shall perform foreign exchange deposit transactions against
-collateral. The assets eligible as collaterals are the following:
-i. Foreign banknotes deposits of the banks at Ankara, İstanbul and İzmir
-Branches of the Central Bank,
-ii. Bills and bonds, the maturity structures and features of which are
-evaluated and accepted by the Central Bank and issued to foreign states
-and treasuries,
-iii. Eurobonds issued by the Undersecretariat of Treasury,
-iv. Government Domestic Debt Securities issued by the Undersecretariat of
-Treasury
-v.
-
-4.
-
-Central Bank liquidity bills.
-Banks shall take into account the excess portion stated below according to
-the groups and tranches determined for themselves and deposit collateral
-in the Foreign Exchange and Banknotes Markets accordingly.
-Tranche
-1
-
-Tranche
-2
-
-Tranche
-3
-
-10
-
-11
-
-12
-
-17
-
-20
-
-23
-
-20
-
-25
-
-30
-
-20
-
-25
-
-30
-
-(TL, FX AND FX-INDEXED)
-
-30
-
-35
-
-40
-
-Liquidity Bills
-
-20
-
-25
-
-30
-
-Collateral Types
-Foreign Banknotes Deposits
-Bills and Bonds Issued by Foreign States
-Eurobonds
-G.Securities / GDDS< 1 YEAR
-(TL, FX AND FX-INDEXED)
-
-G.Securities / GDDS > 1 YEAR
-
-2
-
-5.
-
-In the event of a change in the value of the collaterals provided by banks in
-return for their borrowings due to reasons such as price and exchange rate
-movements; banks, whose collaterals do not fully cover their borrowings,
-may be asked to provide additional collateral. Any failure to fulfill this
-obligation within the specified time shall be deemed as a default and
-transactions of such banks shall be subject to the rules and principles
-applicable to default cases.
-
-6.
-
-USD and Euro deposit transactions shall be conducted between 10:00
-a.m.-12:00 p.m. and 1:00 p.m.-3:30 p.m.
-
-7.
-
-Transactions with the same value date shall be conducted until 12:00 p.m.
-for Euro and 3:00 p.m. for US dollar.
-
-8.
-
-Banks shall submit their bids and offers via the telephone lines (0 312 507
-52 00-23) of the Foreign Exchange and Banknotes Markets Division.
-
-9.
-
-The minimum transaction limit is USD 1 million and Euro 1 million.
-Transactions shall be conducted in terms of 1 million and multiples.
-
-10. Transactions may be conducted with same day, 1-day and spot value
-dates with maturities from 1 week to 1 month.
-11. The fractional part of the interest rates for the bids and offers will, on a
-yearly basis, be whole, a half (1/2), a quarter (1/4) or one-eighth (1/8) and
-any fractional numbers other than these will not be allowed. One year will
-be equivalent to 360 days in the maturity subject to interest.
-12. The Banks shall state whether their offers or bids are dividable. The
-dividable offers or bids may be partially matched.
-13. The eligible three bids and offers will be posted on the “CBTJ” page of the
-Reuters system for the purpose of informing all banks concurrently. The
-matched transactions will be announced on the same page. The Central
-Bank will be the addressee with regard to the transactions. The Central
-Bank will be the blind broker for these transactions, in other words, the
-trading institutions will not know one another.
-14. The bids and offers that did not match by the end of the day will be
-canceled.
-3
-
-15. Banks shall confirm their transactions until 4:30 p.m. on the same day.
-Otherwise, the Central Bank records will be binding in case of dispute.
-16. A commission of ten percent (0.10) of the TL-equivalent of the accrued
-interest, calculated by using the reference buying exchange rates
-announced by the CBT on the previous working day will be collected from
-both the borrowing and lending parties for finalized deposit transactions.
-This amount shall not be less than 1 ten thousandth (0.0001) of the TLequivalent of the principal amount calculated likewise. However, the total
-commission to be collected from both the borrowing and the lending parties
-cannot exceed half of the TL-equivalent of the accrued interest, calculated
-by using the reference buying exchange rates announced by the CBT on
-the previous working day.
-17. The amount lent by the banks in the FX deposit market shall not be
-deemed foreign currency required reserves.
-18. The banks that fail to fulfill their obligations will be subject to sanctions
-specified in the Implementation Instructions of the Foreign Exchange and
-Banknotes Markets.
-
-4
-
-
+1 
+ No: 2011 - 52 
+November 4, 2011  
+ 
+ 
+THE CENTRAL BANK OF THE REPUBLIC OF TURKEY  
+PRESS RELEASE ON THE FOREIGN EXCHANGE DEPOSIT MARKET  
+ 
+In the framework of the strategy set out at the Monetary Policy Committee 
+Meeting held on 4  August 2011, it has been decided tha t, in order to enhance the 
+mobility of foreign exchange liquidity in the Interbank Foreign Exchange Market,  the 
+Central Bank should resume its activities as an intermediary in the foreign exchange 
+deposit markets in Foreign Exchange and Banknotes Markets a s of 10 November 
+2011, until the heightened uncertainties in the international markets disappear.  
+In this context, banks shall be able to borrow and lend in the foreign exchange 
+deposit market through the intermediation of the Central Bank in accordance wi th the 
+rules set by the Implementation Instructions for the Foreign Exchange and Banknotes 
+Markets. Guidelines for the operation of the Foreign Exchange Deposit Market are 
+available in the Annex.  
+  
+ 
+ 2 
+ ANNEX: Guidelines for the Operation of the Foreign Exch ange Deposit Market:  
+ 
+1. All banks that are the members of the Interbank Foreign Exchange Market 
+shall be eligible to make transactions in the Foreign Exchange Deposit 
+Market.  
+2. Transaction limits for the Banks shall be those introduced to them at the 
+Foreign E xchange and Banknotes Markets.  
+3. Banks shall perform foreign exchange deposit transactions against 
+collateral. The assets eligible as collaterals are the following:  
+i. Foreign banknotes deposits of the banks at Ankara, İstanbul and İzmir 
+Branches of the Central Bank,  
+ii. Bills and bonds, the maturity structures and features of which are 
+evaluated and accepted by the Central Bank and issued to foreign states 
+and treasuries,  
+iii. Eurobonds issued by the Undersecretariat of Treasury,  
+iv. Government Domestic Debt Securities issued by the Undersecretariat of 
+Treasury  
+v.  Central Bank liquidity bills.  
+4. Banks shall take into account the excess portion stated below according to 
+the groups and tra nches determined for themselves and deposit collateral 
+in the Foreign Exchange and Banknotes Markets accordingly.  
+Collateral Types  Tranche 
+1  Tranche 
+2  Tranche 
+3 
+Foreign Banknotes Deposits  10 11 12 
+Bills and Bonds Issued by Foreign States  17 20 23 
+Euro bonds  20 25 30 
+G.Securities / GDDS< 1 YEAR        
+(TL, FX AND FX -INDEXED)  20 25 30 
+G.Securities / GDDS > 1 YEAR        
+(TL, FX AND FX -INDEXED)  30 35 40 
+Liquidity Bills  20 25 30 
+ 3 
+ 5. In the event of a change in the value of the collaterals provided by banks  in 
+return for their borrowings due to reasons such as price and exchange rate 
+movements; banks, whose collaterals do not fully cover their borrowings, 
+may be asked to provide additional collateral. Any failure to fulfill this 
+obligation within the specifi ed time shall be deemed as a default and 
+transactions of such banks shall be subject to the rules and principles 
+applicable to default cases.  
+6. USD and Euro deposit transactions shall be conducted between 10:00 
+a.m.-12:00 p.m. and 1:00 p.m. -3:30 p.m.  
+7. Trans actions with the same value date shall be conducted until 12:00 p.m. 
+for Euro and 3:00 p.m. for US dollar.  
+8. Banks shall submit their bids and offers via the telephone lines (0 312 507 
+52 00 -23) of the Foreign Exchange and Banknotes Markets Division.  
+9. The m inimum transaction limit is USD 1 million and Euro 1 million. 
+Transactions shall be conducted in terms of 1 million and multiples.  
+10. Transactions may be conducted with same day, 1 -day and spot value 
+dates with maturities from 1 week to 1 month.  
+11. The fractio nal part of the interest rates for the bids and offers will, on a 
+yearly basis, be whole, a half (1/2), a quarter (1/4) or one -eighth (1/8) and 
+any fractional numbers other than these will not be allowed. One year will 
+be equivalent to 360 days in the matu rity subject to interest.  
+12. The Banks shall state whether their offers or bids are dividable. The 
+dividable offers or bids may be partially matched.  
+13. The eligible three bids and offers will be posted on the “CBTJ” page of the 
+Reuters system for the purpose of informing all banks concurrently. The 
+matched transactions will be announced on the same page. The Central 
+Bank will be the addressee with regard to the transactions. The Central 
+Bank will be the blind broker for these transactions, in other words, the 
+trading institutions will not know one another.  
+14. The bids and offers that did not match by the end of the day will be 
+canceled.  4 
+ 15. Banks shall confirm their transactions until 4:30 p.m. on the same day. 
+Otherwise, the Central Bank records will be binding in case of dispute.  
+16. A commission of ten percent (0.10) of the TL -equivalent of the accrued 
+interest, calculated by using the reference buying exchange rates 
+announced by the CBT on the previous working day will be collected from 
+both the borrowing and lendin g parties for finalized deposit transactions. 
+This amount shall not be less than 1 ten thousandth (0.0001) of the TL -
+equivalent of the principal amount calculated likewise. However, the total 
+commission to be collected from both the borrowing and the lendi ng parties 
+cannot exceed half of the TL -equivalent of the accrued interest, calculated 
+by using the reference buying exchange rates announced by the CBT on 
+the previous working day.    
+17. The amount lent by the banks in the FX deposit market shall not be 
+deem ed foreign currency required reserves.  
+18. The banks that fail to fulfill their obligations will be subject to sanctions 
+specified in the Implementation Instructions of the Foreign Exchange and 
+Banknotes Markets.  

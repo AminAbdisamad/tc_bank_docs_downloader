@@ -1,137 +1,135 @@
-No: 2014 - 11
-Release Date: 25 February 2014
-
-SUMMARY OF THE MONETARY POLICY COMMITTEE MEETING
-Meeting Date: 18 February 2014
-
-Inflation Developments
-1. In January, consumer prices increased by 1.98 percent, and annual inflation
-reached 7.75 percent. Food prices, tax adjustments and exchange rate
-movements were influential in this rise and core inflation indicators recorded
-an increase due to core goods. Meanwhile, services inflation maintained its
-relatively mild course.
-2. Annual food group inflation climbed to 10.89 percent. In January, not only
-fresh fruits and vegetables but also other products registered price hikes. This
-resulted in increased annual unprocessed food inflation despite the high base
-from the previous year. Meanwhile, upon price increases that spread across
-the group, processed food prices were up by 1.42 percent and the group’s
-annual inflation reached 8 percent.
-3. In January, despite the fall in international oil prices, energy prices increased
-owing to the rise in domestic fuel prices amid the depreciation of the Turkish
-lira. Meanwhile, in the alcoholic beverages and tobacco products group, SCT
-adjustments introduced pushed the tobacco products’ prices up by 7.4 percent.
-4. Prices of services edged up by 0.93 percent, and the group’s annual inflation
-maintained its level around 8 percent. Seasonally adjusted data pointed to a
-limited rise in the underlying trend of services inflation in this period.
-Meanwhile, annual core goods inflation increased by about 1 percentage
-points to 7.12 percent. This was mainly driven by the surging prices of durable
-goods on the reverberations of the depreciation in the Turkish lira besides the
-raised SCT on automobiles. On the other hand, annual inflation in the clothing
-group remained on a downward trend. Core goods prices accelerated as the
-depreciation in the Turkish lira that started in mid-December has reflected on
-prices since January.
-
-5. In sum, The Monetary Policy Committee (the Committee) closely monitors the
-recent deterioration in the inflation outlook and expectations. Inflation is likely
-to hover above the 5-percent target for some time due to the recent tax
-adjustments, exchange rate developments and the unfavorable course of food
-prices.
-
-Factors Affecting Inflation
-6. Recent data suggest that final domestic demand continued to increase
-moderately in the fourth quarter. Following the recent sharp fluctuations, the
-industrial production index remained steady at its November level in
-December. Yet, in quarterly terms, industrial production posted a modest
-quarter-on-quarter increase in the fourth quarter, which is close to the average
-growth rate seen since early 2012.
-7. The moderate trend in private consumption demand continued in the last
-quarter of the year. Production and imports of consumer goods were up
-quarter-on-quarter compared to the previous quarter. Despite hovering slightly
-below the averages of the previous quarter, sales of automobiles and white
-goods remained elevated throughout the fourth quarter. Meanwhile,
-investment demand was more favorable in the fourth quarter. Production of
-capital goods grew moderately quarter-on-quarter in the final quarter. The
-production of capital goods excluding vehicles, an indicator for the underlying
-trend, recorded a larger growth than total capital goods. Similarly, imports of
-capital goods increased as well.
-8. Data suggest that exports maintained their modest growth trend in the fourth
-quarter. In fact, the non-gold export volume index was up in the fourth quarter
-from the third-quarter average. The global recovery and the robust
-international import demand that PMI indicators point to have been effective in
-this increase.
-9. The increased domestic uncertainty has caused consumer confidence to
-slump recently. Meanwhile, automobile sales also slowed dramatically in
-January. Moreover, loans, particularly consumer loans, have been posting a
-gradually slower rate of growth. On the other hand, despite some weakening,
-the investment and employment sentiment in January’s Business Tendency
-Survey (BTS) maintained their moderate levels, while the PMI new order and
-production indices have no negative outlook. Against this background, the
-Committee envisages that private domestic final demand may decelerate in
-the first quarter of 2014.
-
-10. Seasonally adjusted unemployment rates remained unchanged in November
-2013. The rise in employment in this period came largely from the services
-sector, while construction employment increased after a flat performance
-throughout 2013 and industrial employment remained relatively weak. Leading
-indicators show no signs of additional worsening for employment and point to
-a moderate employment growth. In view of the expected slowdown in
-domestic demand, unemployment appears to be on a slightly upward trend for
-2014. A smaller-than-expected global economic recovery and domestic
-uncertainties may remain constraint to investment and employment growth for
-the upcoming period.
-Monetary Policy and Risks
-11. The Committee noted that credit growth has been slowing gradually due to
-tight monetary policy, macroprudential measures and weak capital flows.
-Particularly due to macroprudential measures, the growth of consumer loans is
-expected to slow at a relatively faster pace. Moreover, it is assessed that the
-recent uncertainty might cause private demand to weaken in the first quarter.
-Data released for the first quarter of 2014 suggest that private domestic final
-demand might decelerate.
-12. Recent data indicate that exports continue to grow moderately and the nongold current account balance maintains its improvement trend. Thus, the
-Committee stated that the recovering external demand and the slowing private
-domestic final demand will help to increase the positive contribution from net
-exports to growth over the year. This increase may also contain the negative
-effects of the decelerating domestic final demand on growth. In addition, the
-slowdown in consumer loan growth could particularly support the current
-account rebalancing. Against this background, the Committee expects the
-current account balance to display a significant improvement in 2014.
-13. In the second half of 2013, with the high course of food prices and the external
-uncertainties that led the Turkish lira to depreciate, inflation increased and
-core inflation indicators and inflation expectations deteriorated. Recent and
-lingering external uncertainties coupled with the elevated domestic
-uncertainties caused additional exchange rate movements, which weighed on
-the risk of inflation exceeding the target for a protracted period. Moreover, the
-recent tax adjustments and the persisting unfavorable course of food prices
-also exacerbated the deterioration in the inflation outlook.
-
-14. The Committee closely monitors the recent deterioration in the inflation outlook
-and expectations. It is envisaged that factors affecting inflation adversely will
-keep inflation indicators considerably above the 5-percent target for a while.
-Against this background, the Committee underlined that it will not tolerate any
-deterioration in price stability in the medium-term. To this end, the Committee
-opted for a strong and front-loaded monetary tightening in the interim meeting
-of 28 January 2014 to prevent deterioration in the inflation expectation and the
-pricing behavior. The Committee judges that the current policy stance will be
-enough to anchor inflation expectations. The Committee indicated that tight
-monetary policy stance will be sustained until there is a significant
-improvement in the inflation outlook and that the liquidity policy may be
-tightened further if deemed necessary.
-15. The Committee monitors fiscal policy developments and tax adjustments
-closely with regard to their effects on the inflation outlook. The baseline
-monetary policy stance takes the fiscal framework outlined in the Medium
-Term Program as given. Accordingly, it is assumed that fiscal discipline will be
-sustained and there will be no unanticipated hikes in administered prices. A
-revision in the monetary policy stance may be considered, should the fiscal
-stance deviate significantly from this framework and consequently have an
-adverse effect on the medium-term inflation outlook.
-16. Maintaining the cautious stance in fiscal and financial sector policies is critical
-to the resilience of our economy against current uncertainties. Strengthening
-structural reforms that will ensure the sustainability of the fiscal discipline and
-reduce the savings deficit will support macroeconomic stability in the medium
-term. Steps taken in this regard will also provide more room for maneuvering
-the monetary policy and improve social welfare by keeping interest rates of
-long-term government securities permanently at low levels. In this respect,
-implementation of the structural reforms required by the Medium Term
-Program remains to be of utmost importance.
-
-
+No: 2014 - 11 
+Release Date: 25 February 2014 
+ 
+SUMMARY OF THE MONETARY POLICY COMMITTEE MEETING 
+Meeting Date: 18 February 2014  
+       Inflation Developments 
+1. In January, consumer prices incr eased by 1.98 percent, and annual inflation 
+reached 7.75 percent. Food prices, tax adjustments and exchange rate 
+movements were influential in this rise and core inflation indicators recorded 
+an increase due to core goods. Meanwhile, services inflation maintained its 
+relatively mild course. 
+ 
+2. Annual food group infl ation climbed to 10.89 percent. In January, not only 
+fresh fruits and vegetables but  also other products registered price hikes. This 
+resulted in increased annual unprocessed f ood inflation despite the high base 
+from the previous year. Meanwhile, upon price increases that spread across 
+the group, processed food prices were  up by 1.42 percent and the group’s 
+annual inflation reached 8 percent.  
+3. In January, despite the fall in internat ional oil prices, energy  prices increased 
+owing to the rise in domestic fuel pric es amid the depreciation of the Turkish 
+lira. Meanwhile, in the alcoholic bev erages and tobacco products group, SCT 
+adjustments introduced pushed the tobacco products’ prices up by 7.4 percent. 
+ 
+4. Prices of services edged up by 0.93 percent, and the group’s annual inflation 
+maintained its level around 8 percent. Seasonally adjusted data pointed to a 
+limited rise in the underlying trend of se rvices inflation in this period. 
+Meanwhile, annual core goods inflati on increased by about 1 percentage 
+points to 7.12 percent. This was mainly dr iven by the surging prices of durable 
+goods on the reverberations of the depreciation in the Turkish lira besides the raised SCT on automobiles. On the other hand, annual inflation in the clothing 
+group remained on a downward trend. Core  goods prices accelerated as the 
+depreciation in the Turkish lira that star ted in mid-December has reflected on 
+prices since January. 5. In sum, The Monetary Policy Committee (the Committee) closely monitors the 
+recent deterioration in the inflation out look and expectations. Inflation is likely 
+to hover above the 5-percent target fo r some time due to the recent tax 
+adjustments, exchange rate developments and the unfavorable co urse of food 
+prices. 
+ 
+     Factors Affecting Inflation 
+6. Recent data suggest that final domestic demand continued to increase 
+moderately in the fourth quarter. Following the recent  sharp fluctuations, the 
+industrial production index remained steady at its November level in 
+December. Yet, in quarterly terms, industrial production posted a modest 
+quarter-on-quarter increase in the fourth qua rter, which is close to the average 
+growth rate seen since early 2012. 
+7. The moderate trend in private consum ption demand conti nued in the last 
+quarter of the year. Production and impor ts of consumer goods were up 
+quarter-on-quarter compared to the previous  quarter. Despite hovering slightly 
+below the averages of the previous quarter, sales of automobiles and white 
+goods remained elevated throughout t he fourth quarter. Meanwhile, 
+investment demand was more favorable in  the fourth quarter. Production of 
+capital goods grew moderately quarter-o n-quarter in the final quarter. The 
+production of capital goods excluding ve hicles, an indicator for the underlying 
+trend, recorded a larger growth than total capital goods. Sim ilarly, imports of 
+capital goods increased as well. 
+8. Data suggest that exports maintained their modest growth trend in the fourth 
+quarter. In fact, the non-gold export volu me index was up in the fourth quarter 
+from the third-quarter av erage. The global recovery and the robust 
+international import demand that PMI indica tors point to have been effective in 
+this increase. 
+9. The increased domestic uncertainty  has caused consumer confidence to 
+slump recently. Meanwhile, automobile sales also slowed dramatically in 
+January. Moreover, loans, particularl y consumer loans, have been posting a 
+gradually slower rate of growth. On t he other hand, despite some weakening, 
+the investment and employ ment sentiment in January’s Business Tendency 
+Survey (BTS) maintained their moderate levels, while the PMI new order and 
+production indices have no negative out look. Against this background, the 
+Committee envisages that private domes tic final demand may decelerate in 
+the first quarter of 2014. 10. Seasonally adjusted unemployment rates remained unchanged in November 
+2013. The rise in employment in this period came largely from the services 
+sector, while construction employment  increased after a flat performance 
+throughout 2013 and industrial employment remained relatively weak. Leading 
+indicators show no signs of additional worsening for employment and point to 
+a moderate employment growth. In vi ew of the expected slowdown in 
+domestic demand, unemployment appears to be on a slightly upward trend for 
+2014. A smaller-than-expected global economic recovery and domestic 
+uncertainties may remain constraint to investment and empl oyment growth for 
+the upcoming period. 
+Monetary Policy and Risks 
+11. The Committee noted that credit grow th has been slowing gradually due to 
+tight monetary policy, macroprudential measures and weak capital flows. 
+Particularly due to macroprudential measures , the growth of consumer loans is 
+expected to slow at a relatively faster pace. Moreover, it is assessed that the 
+recent uncertainty might cause private demand to weaken in the first quarter. 
+Data released for the first quarter of 2014 suggest that private domestic final 
+demand might decelerate. 
+ 
+12. Recent data indicate that exports continue to grow moderately and the non-
+gold current account balance maintain s its improvement trend. Thus, the 
+Committee stated that the recovering ex ternal demand and the slowing private 
+domestic final demand will he lp to increase the positiv e contribution from net 
+exports to growth over t he year. This increase ma y also contain the negative 
+effects of the decelerating domestic fi nal demand on growth. In addition, the 
+slowdown in consumer loan growth could particularly support the current 
+account rebalancing. Against this background, the Committee expects the 
+current account balance to display a significant improvement in 2014. 
+ 
+13. In the second half of 2013, with the high  course of food pric es and the external 
+uncertainties that led the Turkish lir a to depreciate, inflation increased and 
+core inflation indicators and inflation expectations deteriorated. Recent and 
+lingering external uncertainties coupled with the elevated domestic 
+uncertainties caused additional exchange rate movements, which weighed on 
+the risk of inflation exceeding the target  for a protracted period. Moreover, the 
+recent tax adjustments and the persisting unfavorable course of food prices 
+also exacerbated the deteriorati on in the inflation outlook. 
+ 
+ 14. The Committee closely monitors the recent  deterioration in t he inflation outlook 
+and expectations. It is envisaged that fact ors affecting inflation adversely will 
+keep inflation indicators considerably above the 5-percent target for a while. 
+Against this background, the Committee un derlined that it will not tolerate any 
+deterioration in price stability in the medium-term. To this end, the Committee 
+opted for a strong and front-loaded monetar y tightening in the interim meeting 
+of 28 January 2014 to prevent deteriorat ion in the inflation expectation and the 
+pricing behavior. The Committee judges that the current policy stance will be 
+enough to anchor inflation expectations. The Committee indicated that tight 
+monetary policy stance will be sustained until there is a significant 
+improvement in the inflation outlook and that the liquidity policy may be 
+tightened further if deemed necessary. 
+15. The Committee monitors fiscal policy developments and tax adjustments 
+closely with regard to their effects on the inflation outlook. The baseline 
+monetary policy stance takes the fisca l framework outlined in the Medium 
+Term Program as given. Accordingly, it is assumed that fiscal discipline will be 
+sustained and there will be no unanticipated hikes in administered prices. A 
+revision in the monetary policy stance may be considered, should the fiscal 
+stance deviate significantly from th is framework and consequently have an 
+adverse effect on the medi um-term inflation outlook. 
+16. Maintaining the cautious stance in fisca l and financial sector policies is critical 
+to the resilience of our economy agains t current uncertainties. Strengthening 
+structural reforms that will ensure the sustainability of the fiscal discipline and 
+reduce the savings deficit will support ma croeconomic stabilit y in the medium 
+term. Steps taken in this regard will al so provide more room for maneuvering 
+the monetary policy and improve social we lfare by keeping interest rates of 
+long-term government securities permanentl y at low levels. In this respect, 
+implementation of the structural re forms required by the Medium Term 
+Program remains to be of utmost importance. 
+ 

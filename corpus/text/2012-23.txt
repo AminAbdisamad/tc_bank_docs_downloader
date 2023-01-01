@@ -1,128 +1,119 @@
-No: 2012-23
-
-Release Date: June 1, 2012
-
-SUMMARY OF THE MONETARY POLICY COMMITTEE MEETING
-Meeting Date: May 29, 2012
-
-Inflation Developments
-1. In April, consumer prices were up 1.52 percent and annual inflation increased to
-11.14 percent. This rise was led by energy prices that were pushed upwards by
-the increase in electricity and natural gas tariffs. Meanwhile, core inflation
-indicators also increased amid the soaring clothing prices. In this period, annual
-inflation in energy and services went up, while it remained unchanged in core
-goods group.
-2. In food and nonalcoholic beverages group, seasonally adjusted unprocessed food
-prices maintained the mild outlook of the last three months. As for the processed
-food group, annual inflation rose to 9.80 percent in April. Indicators related to May
-suggest that annual unprocessed food inflation will display a sharp fall due to the
-base effect in fresh fruits prices; while processed food inflation will continue to
-increase slightly.
-3. In energy group, the rise in natural gas and electricity tariffs in April pushed up
-annual consumer inflation by 0.51 percentage point as envisaged, while prices
-remained moderate in other energy items. In May, the decline in fuel prices is
-expected to lower the annual rate of increase in energy prices.
-4. On the services front, annual inflation went up by 0.56 percentage point to 6.73
-percent in April, which was partially driven by the base effect in communication
-services. Meanwhile, the rise in restaurants-hotels and transport services is also
-noticeable. Seasonally adjusted price and diffusion indices suggest that the
-underlying trend of the prices of services edged up in this period. As for the core
-goods group, annual inflation remained unchanged in April. While annual inflation
-continued with its downward trend in durable goods, the uptrend in clothing and
-footwear accelerated due to the ongoing effects of the rise in import duties.
-Accordingly, annual rate of increase in core inflation indicators posted an increase
-as well.
-Factors Affecting Inflation
-5. The Committee stated that the deceleration in economic activity continued in the
-first quarter of 2012, which was attributed to domestic demand. Having
-plummeted in January, industrial production index picked up slightly in February
-and March; yet production stood below the figures of the previous quarter. In the
-
-first quarter, domestic sales of vehicles posted a quarter-on-quarter decline.
-Meanwhile, having exhibited a mild growth, seasonally adjusted consumer loans
-confirmed the slowdown in domestic demand.
-6. Leading indicators suggest a modest recovery for the second quarter. The
-Committee reiterated that the slowdown in economic activity in the early 2012
-were driven by the tight policy measures besides some temporary factors such as
-adverse weather conditions and external uncertainties, and domestic demand
-would post an increase in the second quarter. Nevertheless, it is stated that the
-recent deterioration in the global economic outlook and the risk appetite might
-lead to a slower-than-expected recovery in economic activity. As a matter of fact,
-expectations for orders of the manufacturing industry firms exhibited a slight
-decline in the last two months.
-7. Recent data confirm that the rebalancing between the domestic and external
-demand continues as envisaged. In March, a remarkable recovery was seen in
-12-month current account balance as envisaged. Notwithstanding the persisting
-problems in the European economy, exports continue to grow at a steady pace.
-The ongoing slowdown in domestic demand and the cumulative depreciation in
-the Turkish lira continue to restrict the import demand and non-energy current
-account deficit. Moreover, the recovery in the terms of trade also contributes to
-the improvement in the current account balance. Accordingly, the current account
-deficit is expected to continue to decline gradually in the forthcoming period.
-8. Employment followed a poor course in the first quarter amid the slowdown in
-economic activity. The downward trend in the construction sector employment,
-which started in the last quarter of 2011 and halted in January, continued in
-February. Moreover, the rate of increase in employment in the services sector
-recorded a marked loss of pace. As for the industrial sector, the trend of recovery
-was maintained, which has been evident since December 2011. While the leading
-indicators signal for a mild growth in employment in the short term, the ongoing
-downside risks on global economy may restrain employment growth in the period
-ahead.
-Monetary Policy and Risks
-9. The Committee noted that inflation will follow a volatile path in the short term.
-Although inflation will display a marked drop in May, it is expected to stay
-significantly above the target until the last quarter of the year. On the other hand,
-core inflation is expected to display a limited increase in the short term before
-starting to decline in the second half of the year.
-10. According to the Committee members, the elevated levels of current inflation calls
-for a close monitoring of inflation expectations. Accordingly, the current tight
-policy stance will be maintained in the forthcoming period in order to contain risks
-
-regarding pricing behavior. The Committee therefore continues to forecast the
-year-end inflation to be at 6.5 percent stated in the April Inflation Report.
-11. The Committee members indicated that the downward slope of the yield curve
-points to the tight monetary policy stance. Moreover, moderate pace of consumer
-credit growth suggests that financial conditions are tight as well. Although
-corporate loans recently display some acceleration, this can be mainly attributed
-to supply-sided temporary factors and seasonal effects, and hence seen as a
-temporary development.
-12. Developments during May have once again demonstrated the fragile state of the
-global economy, highlighting the essential role of the current policy framework
-adopted by the Central Bank of Turkey. The Committee stated that, given the
-prevailing uncertainties regarding the global economy, it would be appropriate to
-preserve the flexibility of the monetary policy. Therefore, the impact of the
-measures undertaken on credit, domestic demand, and inflation expectations will
-be monitored closely and the funding amount will be adjusted in either direction,
-as needed. In this respect, shorter episodes of additional monetary tightening may
-also be implemented, when necessary.
-13. Moreover, in order to support financial stability, the Committee has approved a
-limited increase in the flexibility regarding the allowance to hold Turkish lira
-reserve requirements in foreign currency. The Committee members stated that
-this flexibility will ease the Turkish lira and foreign exchange liquidity management
-of the banks and hence act as an automatic stabilizer against external finance
-shocks.
-14. On the other hand, the Committee members stated that, in order to lower the gap
-between the cost of holding foreign exchange and Turkish lira reserves, it would
-be useful to require a higher fraction of foreign exchange per each unit of Turkish
-lira for additional increases in allowance ratios. Accordingly, the upper limit of
-Turkish lira required reserves that can be held in foreign exchange and gold could
-be raised, if conditions permit, up to 60 percent and 30 percent gradually, with
-incremental increases in the fraction of foreign exchange or gold that can be held
-for each unit of required Turkish lira reserves.
-15. The Committee monitors fiscal policy developments closely while formulating
-monetary policy. In this respect, current stance of the monetary policy take the
-Medium Term Program as given and thus assume that fiscal discipline will be
-maintained. A revision in the monetary policy stance may be considered, should
-the fiscal stance deviate significantly from this framework and consequently have
-an adverse effect on the medium-term inflation outlook.
-16. Strengthening the structural reform agenda to ensure the sustainability of the
-fiscal discipline and reduce the saving deficit will support the relative improvement
-
-of Turkey's sovereign risk, and thus facilitate price stability and financial stability in
-the medium term. These measures will also provide more flexibility for monetary
-policy and contribute to social welfare by keeping interest rates of long-term
-government securities at low levels. In this respect, steps towards the
-implementation of the structural reforms envisaged by the Medium Term Program
-remain to be of utmost importance.
-
-
+No: 2012 -23       Release Date: June 1, 2012  
+ 
+SUMMARY OF THE MONETARY POLICY COMMITTEE MEETING  
+Meeting Date : May 29, 2012  
+ 
+  Inflati on Developments  
+1. In April, consumer prices were up 1.52 percent and annual inflation increased  to 
+11.14 percent. Th is rise was led by energy prices  that were pushed  upwards by 
+the increase in electricity and natural gas tariffs. Meanwhile, core inflation 
+indicators also increased  amid the soaring clothing  prices.  In this period, a nnual 
+inflation in energy and services went up , while it remained unchanged in core 
+goods  group. 
+2. In food and nonalcoholic beverages group, seasonally adjusted unprocessed food 
+prices maintained the mild outlook of the last three months.  As for the processed 
+food group, annual inflation rose to 9.80 percent in April. Indicators related to May 
+suggest that annual unprocessed food inflation will display a sharp fall  due to  the 
+base effect in fresh frui ts prices ; while processed food inflation will continue to 
+increase slightly .  
+3. In energy group,  the rise in natural gas and electricity tariffs in April pushed up 
+annual  consumer inflation by 0.51 percentage point as en visaged, while prices 
+remained moder ate in other energy items. In May, the decline in fuel prices is 
+expected to lower the annual rate of increase in energy prices.  
+4. On the services front, annual inflation  went up by 0.56 pe rcentage point to 6.73 
+percent  in April , which was partially driven by the base effect in co mmunication 
+services. Meanwhile, the rise in restaurants -hotels and transport services is also 
+noticeable . Seasonally adju sted price and diffusion indices suggest that the  
+underlying  trend of  the prices of services edged up  in this period . As for the core 
+goods group, annual inflation remained unchanged  in April . While annual inflation 
+continued with its downward trend in durable goods, the uptrend in clothing and 
+footwear accelerated due to the ongoing effects of the rise in import duties. 
+Accordingly,  annual rat e of increase in core inflation indicators posted a n increase  
+as well . 
+  Factors Affecting Inflation  
+5. The Committee stated that the deceleration in economic activity continued in the 
+first quarter of 2012, which was attributed to domestic demand. Having 
+plummeted in January, industrial production index picked up slightly in February 
+and March; yet producti on stood below the figures of the previous quarter. In the first quarter, domestic sales of vehicles posted a quarter -on-quarter decline. 
+Meanwhile, having exhibited a mild growth, seasonally adjusted consumer loans 
+confirmed the slowdown in domestic deman d.  
+6. Leading indicators suggest a modest recovery for the second quarter. The 
+Committee reiterated that the slowdown in economic activity in the early 2012 
+were driven by the tight policy measures besides some temporary factors such as 
+adverse weather condi tions and external uncertainties, and domestic demand 
+would post an increase in the second quarter. Nevertheless, it is stated that the 
+recent deterioration in the global economic outlook and the risk appetite might 
+lead to a slower -than-expected recovery in economic activity. As a matter of fact, 
+expectations for orders of the manufacturing industry firms exhibited a slight 
+decline in the last two months.  
+7. Recent data confirm that the rebalancing between the domestic and external 
+demand continues as envisag ed. In March, a remarkable recovery was seen in 
+12-month current account balance as envisaged. Notwithstanding the persisting 
+problems in the European economy, exports continue to grow at a steady pace. 
+The ongoing slowdown in domestic demand and the cumul ative depreciation in 
+the Turkish lira continue to restrict the import demand and non -energy current 
+account deficit. Moreover, the recovery in the terms of trade also contributes to 
+the improvement in the current account balance. Accordingly, the current account 
+deficit is expected to continue to decline gradually in the forthcoming period.  
+8. Employment followed a poor course in the first quarter amid the slowdown in 
+economic activity. The downward trend in the construction sector employment, 
+which started i n the last quarter of 2011 and halted in January, continued in 
+February. Moreover, the rate of increase in employment in the services sector 
+recorded a marked loss of pace. As for the industrial sector, the trend of recovery 
+was maintained, which has been evident since December 2011. While the leading 
+indicators signal for a mild growth in employment in the short term, the ongoing 
+downside risks on global economy may restrain employment growth in the period 
+ahead .  
+Monetary Policy and Risks  
+9. The Committee no ted that inflation will follow a volatile path in the short term.  
+Although inflation will display a marked drop in May, it is expected to stay 
+significantly above the target until the last quarter of the year.  On the other hand, 
+core inflation is expected to display a limited increase in the short term before 
+starting to decline in the second half of the year.   
+10. According to the Committee members, the elevated levels of current inflation calls 
+for a close monitoring of inflation expectations. Accordingly, the current tight 
+policy stance will be maintained in the forthcoming period in order to contain risks regarding pricing behavior. The Committee therefore continues to forecast the 
+year-end inflation to be at 6.5 percent stated in the April Inflation Repor t.  
+11. The Committee members indicated that the downward slope of the yield curve 
+points to the  tight monetary policy stance. Moreover, moderate pace of consumer 
+credit growth suggests that financial conditions are tight  as well . Although 
+corporate loans recently display some acceleration, this can be mainly attributed 
+to supply -sided temporary factors and seasonal effects, and hence seen as a 
+temporary development.    
+12. Developments during May have once again demonstrated the fragi le state of the 
+global economy, highlighting the essential role of the current policy framework 
+adopted by the Central Bank of Turkey. The Committee stated that, given the 
+prevailing uncertainties regarding the global economy, it would be appropriate to 
+preserve the flexibility of the monetary policy. Therefore, the impact of the 
+measures undertaken on credit, domestic demand, and inflation expectations will 
+be monitored closely and the funding amount will be adjusted in either direction, 
+as needed. In this  respect, shorter episodes of additional monetary tightening may 
+also be implemented, when necessary.  
+13. Moreover, in order to support financial stability, the Committee has approved a 
+limited increase in the flexibility regarding the allowance to hold Turkis h lira 
+reserve requirements in foreign currency. The Committee members stated that 
+this flexibility will ease the Turkish lira and foreign exchange liquidity management 
+of the banks and hence act as an automatic stabilizer against external finance 
+shocks.   
+14. On the other hand, the Committee members stated that, in order to lower the gap 
+between the cost of holding foreign exchange and Turkish lira reserves, it would 
+be useful to require a higher fraction of foreign exchange per each unit of Turkish 
+lira for a dditional increases in allowance ratios. Accordingly, the upper limit of 
+Turkish lira required reserves that can be held in foreign exchange and gold could 
+be raised, if conditions permit, up to 60 percent and 30 percent gradually, with 
+incremental increas es in the fraction of foreign exchange or gold that can be held 
+for each unit of required Turkish lira reserves.  
+15. The Committee monitors fiscal policy developments closely while formulating 
+monetary policy. In this respect, current stance of the monetary po licy take the 
+Medium Term Program as given and thus assume that fiscal discipline will be 
+maintained. A revision in the monetary policy stance may be considered, should 
+the fiscal stance deviate significantly from this framework and consequently have 
+an ad verse effect on the medium -term inflation outlook.  
+16. Strengthening the structural reform agenda to ensure the sustainability of the 
+fiscal discipline and reduce the saving deficit will support the relative improvement of Turkey's sovereign risk, and thus fac ilitate price stability and financial stability in 
+the medium term. These measures will also provide more flexibility for monetary 
+policy and contribute to social welfare by keeping interest rates of long -term 
+government securities at low levels. In this r espect, steps towards the 
+implementation of the structural reforms envisaged by the Medium Term Program 
+remain to be of utmost importance.  
+ 

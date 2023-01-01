@@ -1,70 +1,40 @@
-No: 2013 – 13
-
-Release Date: 26 March 2013
-
-PRESS RELEASE ON RESERVE REQUIREMENTS
-With a view to supporting the financial stability in light of the latest
-developments in global markets, in the context of the facility that allows banks to hold
-Turkish lira required reserves in foreign exchange (FX) and gold, one more tranche
-has been added to the existing tranches by keeping the upper limit unchanged, and
-the reserve option coefficients (ROCs) have been raised by 0.1 points for all tranches
-excluding the first tranche.
-
-FX Facility
-Tranches (%)
-0-35
-35-40
-40-45
-45-50
-50-55
-55-60
-
-Current
-ROC
-
-Gold Facility
-Tranches (%)
-0-15
-15-20
-20-25
-25-30
-
-Current
-ROC
-
-1.4
-1.8
-2.1
-2.3
-2.4
-
-1.4
-1.9
-2.4
-
-New
-ROC
-1.4
-1.5
-1.9
-2.2
-2.4
-2.5
-New
-ROC
-1.4
-1.5
-2.0
-2.5
-
-Banks have been consistently using the facility and the utilization ratios are
-86.3 percent (51.8/60) for FX and 78.9 percent (23.7/30) for gold. At present, foreign
-exchange worth USD 29.8 billion and 261 tons of gold worth USD 13.2 billion are
-being held for Turkish lira required reserves. Should the facility continue to be used at
-the same level after the revisions, Central Bank FX and gold reserves are expected to
-increase approximately by USD 0.6 billion and by 6.7 tons of gold worth USD 0.3
-billion, respectively.
-The revisions will be effective as of the calculation period dated 29 March 2013
-and the maintenance period will begin on 12 April 2013.
-
-
+  
+PRESS RELEASE ON RESERVE REQUIREMENTS  
+With a view to supporting the financial stability i n light of the latest 
+developments in global markets, in the context of t he facility that allows banks to hold 
+Turkish lira required reserves in foreign exchange (FX) and gold, one more tranche 
+has been added to the existing tranches by keeping the upper limit unchanged, and 
+the reserve option coefficients (ROCs) have been ra ised by 0.1 points for all tranches 
+excluding the first tranche. 
+ 
+FX Facility 
+Tranches (%)  Current 
+ROC New 
+ROC 
+0-35 1.4 1.4 
+35-40 1.5 
+40-45 1.8 1.9 
+45-50 2.1 2.2 
+50-55 2.3 2.4 
+55-60 2.4 2.5 
+   
+Gold Facility 
+Tranches (%)  Current 
+ROC New 
+ROC 
+0-15 1.4 1.4 
+15-20 1.5 
+20-25 1.9 2.0 
+25-30 2.4 2.5 
+ 
+Banks have been consistently using the facility and  the utilization ratios are 
+86.3 percent (51.8/60) for FX and 78.9 percent (23. 7/30) for gold. At present, foreign 
+exchange worth USD 29.8 billion and 261 tons of gol d worth USD 13.2 billion are 
+being held for Turkish lira required reserves. Shou ld the facility continue to be used at 
+the same level after the revisions, Central Bank FX  and gold reserves are expected to 
+increase approximately by USD 0.6 billion and by 6. 7 tons of gold worth USD 0.3 
+billion, respectively. 
+The revisions will be effective as of the calculati on period dated 29 March 2013 
+and the maintenance period will begin on 12 April 2 013. 
+ 
+ No: 2013 – 13  Release Date: 26 March 2013 

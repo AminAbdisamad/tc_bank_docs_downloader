@@ -1,364 +1,245 @@
-HEAD OFFICE
-
-ANKARA, 30 January 2020
-
-Please refer to:
-
-TCMB.98422658Dr. Berat ALBAYRAK
-MINISTER OF TREASURY AND FINANCE
-ANKARA
-As stipulated in Article 42 of the Central Bank Law No. 1211, if the inflation target is not
-attained, the Central Bank of the Republic of Turkey (CBRT) is accountable for reporting to the
-Government and announcing to the public the reasons for the deviation from the inflation target and
-the necessary measures to be taken. As stated in the main policy document “Monetary and Exchange
-Rate Policy for 2019”, which was published on 5 December 2018, the inflation target for 2019 was
-kept at 5% as per the agreement reached with the Government. On the other hand, it was specified
-that in cases of significant deviations from the inflation target, updated forecasts in Inflation Reports
-would serve as reference for the path that the inflation would follow while converging to the target
-over the medium term. Along this path, the first objective is to bring inflation down to single digits,
-and then gradually reduce inflation further to stabilize it around 5%. In the same document, it was
-also indicated that the CBRT would write an open letter to the Government should the year-end
-inflation falls outside the uncertainty band of two percentage points around the target in either
-direction. The year-end inflation stood above the uncertainty band in 2019. This document
-elaborates on the reasons for the deviation of inflation from the target and explains the measures
-already taken, and to be taken, to bring inflation back on track with the target.
-Factors Affecting Inflation in 2019
-At end-2019, consumer inflation decreased year-on-year by 8.5 points to 11.8%, below the
-forecast of 14.6% announced at the beginning of the year, but it remained outside the uncertainty
-band. This was mainly driven by the weakened but persisting lagged effects of the Turkish lira
-depreciation in 2018 on consumer prices, and by the impact of the elevated level of inflation on
-wages and prices reflected through the backward-indexation channel. In addition, , administered
-
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-
-Hacı Bayram Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA
-Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40
-E-Posta: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Genel Ağ: http://www.tcmb.gov.tr
-Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr
-
-price adjustments in the energy group due to cost factors and the withdrawal of tax cuts on durable
-goods also had an upward effect on inflation. As a matter of fact, despite the curbing effects of the
-sliding-scale tariff, energy prices increased by 11.0% in 2019 due to price adjustments in electricity
-and natural gas in the second half of the year.
-Food prices constituted another factor causing inflation to remain above the medium-term
-target. Although unprocessed food inflation decelerated in the second half of the year on the back
-of favorable supply conditions, annual food inflation was realized as 10.9% by the end of the year
-due to costs accumulated particularly in the processed food group.
-Annual inflation in services, where backward indexation and thus inflation inertia are much
-stronger, remained elevated due to real unit labor costs, buoyant tourism demand and the course of
-food prices, ending 2019 at 12.3%. Another upward pressure on consumer inflation was the 43.1%
-hike in prices of alcoholic beverages and tobacco products. This upsurge contributed 1.8 points to
-annual inflation.
-In sum, with stability in Turkish lira, the mild course of domestic demand conditions and
-import prices, as well as the improvement in inflation expectations, consumer inflation fell sharply
-in 2019 but was still above the medium-term target.
-Measures Taken to Reach the Inflation Target
-In 2019, the CBRT determined its monetary stance by taking into account the underlying
-inflation trend indicators, and set the extent of monetary tightness to ensure that disinflation is
-sustainable and the actual path of inflation is consistent with the targeted path. Thus, the CBRT’s
-inflation forecasts and the underlying trends implied by these forecasts played an important role in
-the Bank’s decision-making process. In the first half of 2019, the Bank kept the one-week repo rate
-at 24% and took a number of steps regarding liquidity management. A tight monetary policy stance
-focused on bringing inflation down and a strong policy coordination brought stability to the Turkish
-lira. Therefore, the accumulated effects of exchange rates decreased and domestic demand displayed
-a moderate course, all leading to a significant improvement in inflation dynamics. In view of an
-improved inflation outlook, the Bank started cutting rates in July, bringing the policy rate gradually
-down to 11.25% with the 75 basis-point-cut in January 2020 (Chart 1).
-
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-
-Hacı Bayram Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA
-Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40
-E-Posta: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Genel Ağ: http://www.tcmb.gov.tr
-Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr
-
-The CBRT continued to broaden its set of tools other than the policy rate, to ensure the
-effective functioning of markets and the transmission mechanism in the face of financial market
-volatility and unhealthy price formations. Accordingly, to alleviate the adverse effects of supply and
-demand imbalances in offshore swap markets in the last week of March, the Bank gradually raised
-the total limit of outstanding swap transactions (where the CBRT buys FX on spot market and sells
-FX at maturity) at the Turkish Lira Currency Swap Market. The Bank’s swap facilities have been
-used extensively by banks. In this regard, since the majority of the system’s funding need has been
-met by the CBRT’s swap facilities, funding through open market transactions (OMO) has gradually
-decreased (Chart 2).
-Chart 2: CBRT Open Market Transactions (2-Week
-Moving Average, TRY Billion)
-
-Chart 1: Short-Term Interest Rates (%)
-Interest Rate Corridor
+  
+ 
+ 
+HEAD OFFICE                                                                                      ANKARA, 30 January  2020  
+Please refer to : 
+  
+ 
+ TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.  Hacı Bayram  Mah. İstiklal Cad. No:10 06050 Ulus Altındağ /  ANKARA  
+ TİCARET SİCİL NUMARASI: 269  Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40 
+ SERMAYESİ: 25.000 TL  E-Posta: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a  
+ İDARE MERKEZİ, ANKARA  Genel  Ağ: http://www.tcmb.gov.tr  
+  Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr  
+TCMB .98422658-   
+ 
+Dr. Berat ALBAYRAK  
+MINISTER OF TREASURY AND FINANCE  
+ANKARA 
+ 
+As stipulated in Article 42 of the Central Bank Law No. 1211, if the inflation target is not 
+attained, the Central Bank of the Republic of Turkey (CBRT) is accountable for reporting to the 
+Government and announcing to the public the reasons for the deviation from the inflation target and 
+the necessary measures to be taken . As stated in the main policy document “Monetary and Exchange 
+Rate Policy for 2019”, which was published on 5 December 2018, the inflation target for 2019 was kept at 5% as per the agreement  reached with the Government . On the other hand, it was specified  
+that in cases of significant deviations from the inflation target, updated forecasts in Inflation Reports 
+would serve as  reference for the path that the inflation would follow while  converging to the target 
+over the medium term. Along  this path, the first  objective is to  bring inflation  down to single digit s, 
+and then gradually reduce inflation further to stabilize it around 5%. In the same document, it was 
+also indicated that the CBRT would write an open letter to the  Government should the year -end 
+inflation falls outside the uncertainty band of two percentage points around the target in either 
+direction . The year -end inflation stood above the uncertainty band in 2019. This document 
+elaborates on the reasons for the deviation of inflation from the target a nd explains the measures 
+already taken, and to be taken, to bring inflation back on track with the target.  
+Factors Affecting Inflation in 2019  
+At end -2019, consumer inflation decreased  year-on-year by 8.5 points to 11.8% , below the 
+forecast of 14.6% announced at the beginning of the year,  but it remained outside the uncertainty 
+band. This was mainly driven by the weakened but persisting  lagged effects of the Turkish lira 
+depreciation in 2018 on consumer prices , and by the impact of  the elevated level of inflation on 
+wages and prices reflected through the backward -indexation channel . In addition, , administered  
+ 
+ 
+ 
+ 
+ TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.  Hacı Bayram  Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA  
+ TİCARET SİCİL NUMARASI: 269  Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40 
+ SERMAYESİ: 25.000 TL  E-Posta: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a  
+ İDARE MERKEZİ, ANKARA  Genel Ağ: http://www.tcmb.gov.tr  
+  Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr  
+price adjustments in the energy group due to cost factors and the withdrawal of tax cuts on durable 
+goods also had an  upward effect on inflation . As a matter of fact, despite the curbing effects of the 
+sliding -scale tariff, energy prices increased  by 11.0% in 2019 due to price adjustments in electricity 
+and natural gas in the second half of the year . 
+Food prices constituted another factor causing inflation to remain above the medium -term 
+target . Although unprocessed food inflation decelerated in the second half of the year on the back 
+of favorable supply conditions, annual food inflation was realized as  10.9% by the end of the year 
+due to costs accumulated particularly in  the processed food group.  
+Annual inflation in services, where backward indexation and thus inflation inertia are much 
+stronger, remained elevated due to real unit labor costs, buoyant tourism demand and the course of  
+food prices, ending 2019 at 12.3%. Another upward pressure on consumer inflation was the 43.1% 
+hike in prices of alcoholic beverages and tobacco products . This upsurge contributed 1.8 points to 
+annual inflation. 
+In sum, with stability in Turkish lira, the mild course of  domestic demand conditions  and 
+import prices , as well as  the improvement in inflation expectations, consumer inflation fell sharply 
+in 2019 but was still above the medium -term target.  
+Measures Taken to Reach the Inflation Target  
+In 2019, the CBR T determined  its monetary stance by taking into account the underlying 
+inflation  trend indicators, and set the extent  of monetary tightness to ensure that disinflation  is 
+sustainable  and the actual path of inflation is consistent with the targeted path . Thus, the CBRT’s 
+inflation forecasts and the underlying trends implied by these forecasts played an important role in 
+the Bank’s decision- making process. In the first half of 2019, the Bank kept the one -week repo rate 
+at 24% and took a number of steps re garding liquidity management. A tight monetary policy stance 
+focused on bringing inflation down and a strong policy coordination brought stability to the Turkish 
+lira. Therefore, the accumulated effects of exchange rates decreased and domestic demand displ ayed 
+a moderate course , all leading to a significant improvement in inflation dynamics. In view of an 
+improved inflation outlook, the Bank started cutting rates in July, bringing the policy rate gradually 
+down to 11.25% with the 75 basis -point -cut in Janua ry 2020 (Chart 1).   
+ 
+ 
+ 
+ 
+ TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.  Hacı Bayram  Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA  
+ TİCARET SİCİL NUMARASI: 269  Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40 
+ SERMAYESİ: 25.000 TL  E-Posta: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a  
+ İDARE MERKEZİ, ANKARA  Genel Ağ: http://www.tcmb.gov.tr  
+  Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr  
+The CBRT continued to broaden its set of tools  other than the policy rate, to ensure the 
+effective functioning of markets and the transmission mechanism in the face of financial market 
+volatility and unhealthy price formations . Accordin gly, to alleviate the adverse effects of supply and 
+demand imbalances  in offshore swap markets in the last week of March, the Bank gradually raised 
+the total limit of outstanding swap transactions (where the CBRT buys FX on spot market and sells 
+FX at matu rity) at the Turkish Lira Currency Swap Market. The Bank’s swap facilities have been 
+used extensively by banks. In this regard, since the majority of the system’s funding need has been  
+met by the CBRT’s swap facilities, fund ing through open market transact ions (OMO) has gradually 
+decreased (Chart 2).  
+Chart 1: Short -Term Interest Rates (%)   Chart 2: CBRT Open Market Transactions (2-Week 
+Moving Average, TRY Billion ) 
+  
+ 
+Sources: BIST, CBRT .   Source: CBRT .  
+In 2019, funding via OMO was mostly done by one -week repo auctions, however these  repo 
+auctions were suspended twice over the year due to the developments in the financial markets. T he 
+entire CBRT funding was carried out over the CBRT overnight lending rat e during these periods , 
+and overnight repo rates at the BIST converged to the upper bound of the CBRT  interest rate 
+corridor . To support the Primary Dealership System in view of its contributions to the deepening of 
+financial markets and the effectiveness of monetary policy transmission mechanism, the Primary 
+Dealer (PD) facility that allows banks to obtain liquidity within the framework of the Open Market 
+operations (OMO) was  re-introduced on 17 June 2019. 6810121416182022242601.18
+04.18
+07.18
+10.18
+01.19
+04.19
+07.19
+10.1901.20Interest Rate Corridor
 CBRT Average Funding Rate
 Average Interest Rate at BIST excluding the CBRT
 1 Week Repo Rate
-
-Overnight Lending
+025507510012515017501.18
+04.18
+07.18
+10.1801.19
+04.19
+07.19
+10.19
+01.20Overnight Lending
 Late Liquidity Window
 PD Repo
 One Week Repo
-Net Open Market Operations
-
-26
-
-175
-
-24
-
-150
-
-22
-20
-
-125
-
-18
-
-100
-
-16
-14
-
-75
-
-12
-
-50
-
-10
-
-25
-
-8
-
-0
-
-Sources: BIST, CBRT.
-
-01.20
-
-10.19
-
-07.19
-
-04.19
-
-01.19
-
-10.18
-
-07.18
-
-04.18
-
-01.18
-
-01.20
-
-10.19
-
-07.19
-
-04.19
-
-01.19
-
-10.18
-
-07.18
-
-04.18
-
-01.18
-
-6
-
-Source: CBRT.
-
-In 2019, funding via OMO was mostly done by one-week repo auctions, however these repo
-auctions were suspended twice over the year due to the developments in the financial markets. The
-entire CBRT funding was carried out over the CBRT overnight lending rate during these periods,
-and overnight repo rates at the BIST converged to the upper bound of the CBRT interest rate
-corridor. To support the Primary Dealership System in view of its contributions to the deepening of
-financial markets and the effectiveness of monetary policy transmission mechanism, the Primary
-Dealer (PD) facility that allows banks to obtain liquidity within the framework of the Open Market
-operations (OMO) was re-introduced on 17 June 2019.
-
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-
-Hacı Bayram Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA
-Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40
-E-Posta: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Genel Ağ: http://www.tcmb.gov.tr
-Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr
-
-In 2019, occasional fluctuations in financial markets stemming from geopolitical
-developments waned considerably thanks to the effective use of the CBRT’s comprehensive tool
-set as well as coordinated steps. The country risk premium that receded due to the widespread
-improvement in inflation expectations, recovering economic activity and global developments
-brought down long term interest rates. Easing in domestic funding conditions, on the back of
-improved inflation outlook and policy rate cuts, have been largely transmitted to loan rates.
-Inflation outlook continues to improve and inflation expectations sustain their wide-spread
-decline. The improvement in macroeconomic indicators, inflation in particular, supports the fall in
-country risk premium and helps contain cost pressures. Developments in the exchange rate,
-domestic demand conditions and producer prices contribute to a mild trend in core inflation
-indicators. The course of inflation is considered to be broadly in line with the year-end inflation
-projection for 2020.
-Under a tight monetary policy stance and strong policy coordination focused on bringing
-inflation down, inflation is projected to converge gradually to the targets. Accordingly, inflation is
-projected to be 8.2% at the end of 2020 and then fall to 5.4% at the end of 2021, before stabilizing
-around 5% in the medium-term. Thus, with a 70% probability, inflation is expected to be between
-6.2% and 10.2% (with a mid-point of 8.2%) at end-2020 and between 3.0% and 7.8% (with a midpoint of 5.4%) at end-2021 (Chart 3).
-In an outlook where global financial conditions will remain mild in 2020 and the recent
-improvement seen in the country risk premium will continue in the upcoming period, it is expected
-that financial conditions would support domestic demand and economic activity, but aggregate
-demand conditions would not be inflationary. Maintaining a sustained disinflation process is a key
-factor for achieving lower country risk, lower long-term interest rates, and a stronger economic
-recovery. Strong policy coordination that will help reduce the backward indexation behavior and
-lower medium-term inflation expectations consistent with the forecasts and targets are key for
-success in disinflation.
-
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-
-Hacı Bayram Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA
-Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40
-E-Posta: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Genel Ağ: http://www.tcmb.gov.tr
-Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr
-
-Chart 3: Inflation and Output Gap Forecasts* (%)
-Forecast Range
-Inflation Targets
-
-Uncertainty Band
-Output Gap
-22
-
-Control
-Horizon
-
-18
-14
-10
-6
-2
--2
-
-12.22
-
-09.22
-
-06.22
-
-03.22
-
-12.21
-
-09.21
-
-06.21
-
-03.21
-
-12.20
-
-09.20
-
-06.20
-
-03.20
-
-12.19
-
-09.19
-
-06.19
-
+Net Open Market Operations 
+ 
+ 
+ 
+ 
+ TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.  Hacı Bayram  Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA  
+ TİCARET SİCİL NUMARASI: 269  Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40 
+ SERMAYESİ: 25.000 TL  E-Posta: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a  
+ İDARE MERKEZİ, ANKARA  Genel Ağ: http://www.tcmb.gov.tr  
+  Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr  
+In 2019, occasional fluctuations in financial markets stemming from geopolitical 
+developments waned considerably thanks to the effective use of the CBRT’s comprehensive tool 
+set as well as coordinated steps. The country  risk premium that receded due to the widespread 
+improvement in inflation expectations,  recovering economic activity and global developments 
+brought down long term interest rates . Easing  in domestic funding conditions , on the back of 
+improved inflation outlook and policy rate cuts , have been largely transmitted to loan rates.  
+Inflation outlook continue s to improve and inflation expectations sustain  their wide -spread 
+decline. The improvement in macroeconomic indicators, inflation in particular, supports the fall in 
+country  risk premium and helps contain cost pressures. Developments in the  exchange rate, 
+domestic demand conditions and producer prices contribute to a mild trend in core inflation indicators. The course of inflation is considered to be broadly in line with the year -end inflation 
+projection for 2020.  
+Under a tight monetary pol icy stance and strong policy coordination focused on bringing 
+inflation down, inflation is projected to converge gradually to the targets. Accordingly, inflation is 
+projected to be 8.2% at the end of 2020 and then fall to 5.4% at the end of 2021, before st abilizing 
+around 5% in the medium -term. Thus, with a 70% probability, inflation is expected to be between 
+6.2% and 10.2% (with a mid -point of 8.2%) at end -2020 and between 3.0% and 7.8% (with a mid-
+point of 5.4%) at end- 2021 (Chart 3).  
+In an outlook where global financial conditions will remain mild in 2020 and the recent 
+improvement seen in the country risk premium w ill continue in the upcoming period, it is expected 
+that financial conditions would support domestic demand and economic activity, but aggrega te 
+demand conditions would not be inflationary . Maintaining a sustained disinflation pr ocess is a key 
+factor for achieving lower country  risk, lower long -term interest rates, and a stronger economic 
+recovery. Strong policy coordination that will help reduc e the backward indexation behavior and 
+lower medium -term inflation expectations consistent with the forecasts and targets are k ey for 
+success in disinflation. 
+ 
+  
+ 
+ 
+ 
+ 
+ TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.  Hacı Bayram  Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA  
+ TİCARET SİCİL NUMARASI: 269  Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40 
+ SERMAYESİ: 25.000 TL  E-Posta: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a  
+ İDARE MERKEZİ, ANKARA  Genel Ağ: http://www.tcmb.gov.tr  
+  Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr  
+Chart 3: Inflation and Output Gap Forecasts* (%) 
+ 
+Sources: TURKSTAT, CBRT.  
+* Shaded area denotes the 70% confidence interval for the forecast. 
+Conclusion  
+Consumer inflation, which materialized at 20.3% at end -2018 due to exchange rate 
+developments and the deterioration in pricing behavior, declined by 8.5 points to 11.8% in 2019. In 
+addition to the monetary policy actions, the economic  program focusi ng on macroeconomic 
+rebalancing contributed to the significant improvement in the underlying trend of inflation, 
+expectations and pricing behavior . 
+The downtrend in the medium -term infla tion expectations continues to be widespread and 
+the distribution of expectations implies an increased consensus among survey participants, which 
+indicates that uncertainties regarding the medium- term inflation outlook have significantly 
+decreased . Neverth eless , medium -term inflation expectations still hover above the medium -term 
+target and keep risks to price stability alive.  
+Keeping the disinflation process on track with the targeted path requires the continuation of 
+a cautious monetary stance. In this respect, monetary stance will be determined by considering the 
+indicators of the underlying inflation trend to ensure the continuation of the disinflation process. 
+The CBRT will continue to use all available instruments in pursuit of the price stability and financial 
+stability objectives.  -6-2261014182212.18
 03.19
-
-12.18
-
--6
-
-Sources: TURKSTAT, CBRT.
-* Shaded area denotes the 70% confidence interval for the forecast.
-
-Conclusion
-Consumer inflation, which materialized at 20.3% at end-2018 due to exchange rate
-developments and the deterioration in pricing behavior, declined by 8.5 points to 11.8% in 2019. In
-addition to the monetary policy actions, the economic program focusing on macroeconomic
-rebalancing contributed to the significant improvement in the underlying trend of inflation,
-expectations and pricing behavior.
-The downtrend in the medium-term inflation expectations continues to be widespread and
-the distribution of expectations implies an increased consensus among survey participants, which
-indicates that uncertainties regarding the medium-term inflation outlook have significantly
-decreased. Nevertheless, medium-term inflation expectations still hover above the medium-term
-target and keep risks to price stability alive.
-Keeping the disinflation process on track with the targeted path requires the continuation of
-a cautious monetary stance. In this respect, monetary stance will be determined by considering the
-indicators of the underlying inflation trend to ensure the continuation of the disinflation process.
-The CBRT will continue to use all available instruments in pursuit of the price stability and financial
-stability objectives.
-
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-
-Hacı Bayram Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA
-Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40
-E-Posta: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Genel Ağ: http://www.tcmb.gov.tr
-Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr
-
-To support the effectiveness of the monetary policy and minimize the inflation-growth tradeoff, it is crucial that macro-financial policies focus on reducing the risk premiums and further
-improving the predictability of the macro policy outlook. A resolute continuation of the coordination
-between monetary and fiscal policies will contribute to achieving price stability and financial
-stability objectives. Accordingly, it is anticipated that the confidence channel and the credit channel
-will support the economic recovery, while inflation will remain on track with the targeted path in
-the upcoming period.
-Continued structural steps focusing on reducing rigidity and volatility in inflation will
-contribute to price stability and therefore social welfare. In this context, the CBRT will maintain its
-efforts to analyze structural factors, develop policy recommendations and raise awareness of the
-importance of disinflation among related stakeholders and the public.
-The January 2020 Inflation Report, published today on our website, is enclosed for your
-information to provide a comprehensive account of the developments regarding inflation and
-monetary policy as well as our medium-term forecasts.
-
-Yours sincerely,
-CENTRAL BANK OF THE REPUBLIC OF TURKEY
-Head Office
-
-Murat Uysal
-
-Dr. Uğur Namık Küçük
-
-Governor
-
-Deputy Governor
-
-Enc: January 2020 Inflation Report
-
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-
-Hacı Bayram Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA
-Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40
-E-Posta: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Genel Ağ: http://www.tcmb.gov.tr
-Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr
-
-
+06.19
+09.19
+12.19
+03.2006.20
+09.20
+12.20
+03.21
+06.21
+09.2112.21
+03.22
+06.22
+09.22
+12.22Forecast Range Uncertainty Band
+Inflation Targets Output Gap
+Control 
+Horizon
+ 
+ 
+ 
+ 
+ 
+ TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.  Hacı Bayram  Mah. İstiklal Cad. No:10 06050 Ulus Altındağ / ANKARA  
+ TİCARET SİCİL NUMARASI: 269  Tel: +90 (312) 507 50 00 Faks: + 90 (312) 507 56 40 
+ SERMAYESİ: 25.000 TL  E-Posta: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a  
+ İDARE MERKEZİ, ANKARA  Genel Ağ: http://www.tcmb.gov.tr  
+  Kayıtlı Elektronik Posta (KEP): merkezbankasi@hs02.kep.tr  
+To support the effectiveness of the monetary policy and minimize the inflation -growth trade -
+off, it is crucial  that macro -financial policies focus on reducing the risk premium s and further 
+improving the predictability of the  macro policy  outlook. A resolute continuation of the coordination 
+between monetary and  fiscal policies  will contribute to achieving price stability and financial 
+stability  objectives . Accordingly, it is anticipated that the confidence channel and the cred it channel 
+will support the economic recovery, while  inflation will remai n on track with the targeted path in 
+the upcoming period.  
+Continued structural steps focusing on reducing rigidity and volatility in inflation will 
+contribute to price stability and therefore social welfare. In this context, the CBRT will maintain its 
+efforts to analyze structural factors, develop policy recommend ation s and raise awareness of the 
+importance of disinflation among related stakeholders and the public.  
+The January 2020 Inflation Report, published today on our website, is enclosed for your 
+information to provide a comprehensive account of the developme nts regarding inflation and 
+monetary policy as well as our medium -term forecasts .   
+ 
+Yours sincerely,  
+CENTRAL BANK OF THE REPUBLIC OF TURKEY  
+Head Office  
+  
+  
+ 
+                                                                     Murat Uysal          Dr. Uğur Namık Küçük 
+                                                                 Governor                    Deputy Governor   
+ 
+Enc: January 2020 Inflation Report  

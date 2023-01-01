@@ -1,34 +1,32 @@
-N0: 2002-24
-
-26.03.2002
-
-Press Release
-On
-“International Reserves and Foreign Currency Liquidity” Table
-
-The Central Bank of the Republic of Turkey (CBRT) has decided to publish the
-“International Reserves and Foreign Currency Liquidity” table on its Web site
-http://www.tcmb.gov.tr under the heading of “Periodic Publications”, on a monthly basis
-beginning with the February 2002 data. The “International Reserves and Foreign Currency
-Liquidity” table is prepared within the framework of Special Data Dissemination Standards –
-SDDS, which is conducted by the International Monetary Fund (IMF) in order to publicly
-disclose IMF member countries’ economic and financial statistics in a standardized form.
-The table is composed of mainly three sections covering information on “official reserve
-assets,” “predetermined short-term net drains on foreign currency assets” and “contingent
-short-term net drains on foreign currency assets.” Official reserve assets in section I include
-foreign currency reserves (securities, currency and deposits), IMF reserve position, SDRs and
-gold. Securities and gold are valued at market prices. Predetermined drains under the section II
-covers principal and interest repayments to be made within one year and related to: i) foreign
-currency loans of the central government and the CBRT, ii) foreign currency-denominated
-government papers issued by the Treasury, and iii) Foreign Exchange Deposit Accounts of
-Residents Abroad with the CBRT (named as Dresdner Deposits) maturing within one year
-(regardless of the original maturity) by maturity breakdown. Contingent drains in section III
-covers principal and interest repayments of the public sector’s Treasury-guaranteed foreign
-currency debt to be made within one year (by maturity breakdown), banks’ reserve requirements
-in foreign currency held with the CBRT, and Dresdner Deposits with remaining maturity of
-longer than one year.
-Detailed methodological explanation on the Table is presented under “periodical
-publications.” Following months’ fıgures will be disseminated within the last week of each
-month in the same section.
-
-
+N0: 2002 -24                                                                              26.03.2002  
+ 
+ 
+ 
+Press Release  
+On 
+“International Reserves and Foreign Currency Liquidity” Table  
+ 
+The Central Bank of the Republic of Turkey (CBRT) has decided to publish the 
+“International Reserves and Foreign Currency Liquidity”  table on its Web site 
+http://www.tcmb.gov.tr  under the heading of “Periodic Publications”, on a monthly  basis 
+beginning with the February 2002 data. The “International Reserves and Foreign Currency 
+Liquidity” table is prepared within the framework of Special Data Dissemination Standards – 
+SDDS , which is conducted by the International Monetary Fund (IMF) in order to publicly 
+disclose IMF member countries’ economic and financial statistics in a standardized form.  
+The table is composed of mainly three sections covering information on “official reserve 
+assets,”  “predetermined short -term net drains on foreign cur rency assets”  and “contingent 
+short -term net drains on foreign currency assets.”  Official reserve  assets  in section I include 
+foreign currency reserves (securities, currency and deposits), IMF reserve position, SDRs and 
+gold. Securities and gold are valued  at market prices. Predetermined drains  under the section II 
+covers principal and interest repayments to be made within one year and related to: i) foreign 
+currency loans of the central government and the CBRT, ii) foreign currency -denominated 
+government p apers issued by the Treasury, and iii) Foreign Exchange Deposit Accounts of 
+Residents Abroad with the CBRT (named as Dresdner Deposits) maturing within one year 
+(regardless of the original maturity) by maturity breakdown. Contingent drains  in section III 
+covers principal and interest repayments of the public sector’s Treasury -guaranteed foreign 
+currency debt to be made within one year  (by maturity breakdown), banks’ reserve requirements 
+in foreign currency held with the CBRT, and Dresdner Deposits with rema ining maturity of 
+longer than one year.  
+Detailed methodological explanation on the Table is presented under “periodical 
+publications.” Following months’ fıgures will be disseminated within the last week of each 
+month in the same section.  

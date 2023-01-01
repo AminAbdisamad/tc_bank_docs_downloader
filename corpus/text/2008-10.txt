@@ -1,1149 +1,454 @@
-Central Bank of Turkey
-
-Ankara, April 30, 2008
-Mehmet ŞİMŞEK
-Minister of State
-ANKARA
-
-The Central Bank of Turkey (CBT) has been implementing a formal inflationtargeting regime since the beginning of 2006. Central Bank Law, as stipulated in the
-Article 42, requires the CBT to be accountable for the non-fulfillment of inflation
-targets. Inflation target for end-year 2008 was jointly set with the Government as 4
-percent. To facilitate the accountability principle, our policy statement titled
-“Monetary and Exchange Rate Policy in 2008” disclosed a quarterly path consistent
-with the end-year 2008 targets along with an uncertainty band. In this context, any
-breach of upper or lower limits of the band requires the CBT to write an open letter
-to the Government, explaining the reasons for the breach and the measures to be
-taken to ensure that inflation rate will return to levels within pre-established limits.
-Inflation outturn as of March 2008 was 9.15 percent, breaching the upper limit
-of the uncertainty band, which was set at 9.1 percent for the end of the first quarter
-(Figure 1). Accordingly, this open letter explains the reasons for this breach,
-presents the measures we have taken, and puts forth our monetary policy strategy
-for the forthcoming period. This Open Letter will also be presented to the IMF as part
-of the program conditionality.
-
-Figure 1: Annual CPI Inflation and Target Path
-12
-11
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
-0
-
-Annual CPI Inflation
-Target Path
-
-Source: TURKSTAT, CBT.
-
-1
-
-12.08
-
-10.08
-
-08.08
-
-06.08
-
-04.08
-
-02.08
-
-12.07
-
-10.07
-
-08.07
-
-06.07
-
-04.07
-
-02.07
-
-12.06
-
-10.06
-
-08.06
-
-06.06
-
-04.06
-
-02.06
-
-12.05
-
-Uncertainty Band
-
-Central Bank of Turkey
-
-Reasons For Breaching the Target
-The monetary tightening exercised since mid-2006 has been successful in
-leading to a significant reduction in underlying inflation. The fall in headline inflation,
-however, was more limited, owing mainly to factors largely beyond the control of
-monetary policy, such as developments in food, energy, and administered prices.
-Prolonged increases in food and energy prices have recently led to upward
-pressure on headline inflation and in turn to upward revisions in inflation forecasts in
-many countries across the world. Turkey is not an exception in this regard, as
-deviations of inflation from our forecasts can be mostly attributed to these factors.
-For instance, our forecasts in October 2006 Inflation Report suggested that inflation
-would converge to the 4 percent target at the end of the first quarter of 2008. The
-forecast was based on a scenario where food inflation moderated to levels
-comparable with medium term targets and oil prices remained stable at 60 USD per
-barrel. However, oil prices continued to rise and averaged around 100 USD per
-barrel in the first quarter of 2008. Moreover, annual food price inflation has
-continued to remain at elevated levels, reaching 13.4 percent in March. As a
-consequence 6.13 percentage points of the 9.15 percent annual CPI inflation in
-March resulted from the food and energy items (Figure 2).
-Figure 2: Contribution to Annual CPI Inflation
-12
-10
-
-Core Goods
-
-Services
-
-Food and Energy*
-
-Tobacco and Gold**
-
-8
-6
-4
-2
-
-03.08
-
-02.08
-
-01.08
-
-12.07
-
-11.07
-
-10.07
-
-09.07
-
-08.07
-
-07.07
-
-06.07
-
-05.07
-
-04.07
-
-03.07
-
-02.07
-
-01.07
-
-0
-
-* Food and Energy: Food, non-alcoholic beverages and energy.
-** Tobacco and Gold: Alcoholic beverages, tobacco products and gold.
-Source: TURKSTAT, CBT.
-
-Both domestic and international developments have played a part on the
-course of food prices. A prolonged shortage of rainfall in Turkey resulted in low crop
-yields in 2007, which in turn translated to an adverse supply shock. Strong global
-demand for food and continued elevation in agricultural commodity prices further
-added to the domestic food inflation through the external trade channel. Recently,
-adverse impacts of these factors have been quite visible especially in processed
-
-2
-
-Central Bank of Turkey
-
-food prices. Accordingly, annual food inflation maintained its high levels with a
-marked contribution of about 2.3 points to the 3.1 percent year-to-date headline
-inflation. Therefore, food prices became the main factor impeding the disinflation
-process (Figure 3, Table 1).
-Adverse developments in energy prices have been another major factor in
-slowing the disinflation process. Rising oil prices continued to lead to significant
-hikes in the prices of fuel-oil products. Elevated oil prices also affected the prices of
-energy items in the housing utilities, including electricity tariff rates, which were
-adjusted upwards by a significant margin. Consequently, contribution of energy
-items to year-to-date CPI inflation reached to about 0.9 percentage points.
-.
-Figure 3: Subcomponents of CPI (First Quarter Percentage Change)
-10
-
-2006
-
-2007
-
-2008
-
-Energy
-
-Goods exc. Food
-and Energy
-
-8
-6
-4
-2
-0
--2
--4
-Food
-
-Services
-
-Table 1: Contribution to First Quarter CPI Inflation (Percentage Points)
-
-CPI
-Food*
-2008
-3,09
-2,31
-2007
-2,36
-1,93
-2006
-1,25
-1,41
-*Food: Food and non-alcoholic beverages.
-
-Energy
-0,86
-0,22
-0,38
-
-Source: TURKSTAT, CBT.
-
-3
-
-Goods exc.
-Food and
-Energy
--0,74
--0,39
--1,20
-
-Services
-0,65
-0,60
-0,66
-
-Central Bank of Turkey
-
-The decline in services inflation came to a halt in the first quarter of 2008.
-Elevated food and energy prices have been exerting upward pressures on the prices
-of catering and transport services. Rents and other services, on the other hand,
-continued to decelerate.
-Figure 4: Subcomponents of Services Index
-(First Quarter Cumulative Percentage Change)
-5
-
-2006-2007 Average
-2008
-
-4
-3
-2
-1
-0
-Rent
-
-Transport
-Services
-
-Restaurants and
-Hotels
-
-Other Services
-
-Source: TURKSTAT, CBT.
-
-Global uncertainties and their reflections on the domestic financial markets
-have led to exchange rate movements, which in turn affected March inflation
-especially through the prices of fuel and high-tech consumer durables. First round
-effects of exchange rate pass-through are expected to continue in the short term.
-Inflation in CPI excluding food, energy and tobacco items remained flat over
-the previous quarter and remained at 4.8 percent, confirming that the rise in inflation
-can be mostly attributed to factors beyond the control of the monetary policy.
-Figure 5: Main Inflation Indicators and Policy Rates
-18
-
-11
-10
-9
-8
-7
-6
-5
-4
-3
-2
-
-17
-16
-15
-14
-13
-
-03.08
-
-12.07
-
-09.07
-
-06.07
-
-03.07
-
-06.06
-
-03.06
-
-12.05
-
-10
-
-12.06
-
-11
-
-09.06
-
-Policy Rate
-H (right axis)
-H exc. processed food (right axis)
-
-12
-
-H: CPI excluding unprocessed food, energy, alcoholic beverages, tobacco, and gold.
-Source: TURKSTAT, CBT.
-
-4
-
-Central Bank of Turkey
-
-As noted above, inflation has recently been rising all over the world (Figure 6).
-Elevated prices of crude oil, agricultural products and other commodities have
-continued to exert inflationary pressures. Inflation in developed economies edged up
-in the last quarter of 2007 while emerging economies under inflation targeting have
-been facing an upward trend since June 2007. Annual inflation in Turkey by the end
-of the first quarter was 9.2 percent, which is below its end-2006 level of 9.7 percent.
-During the same period, average inflation in emerging market economies under
-inflation targeting rose from 3.4 percent to 6 percent.
-Figure 6: Inflation in Other Countries
-a. Inflation Rates
-9
-
-Developed Economies
-Developing Economies
-Turkey
-
-02.08
-
-12.07
-
-10.07
-
-08.07
-
-06.07
-
-04.07
-
-02.07
-
-12.06
-
-10.06
-
-08.06
-
-12.05
-
-01.08
-
-11.07
-
-2
-09.07
-
-0
-07.07
-
-3
-
-05.07
-
-2
-
-03.07
-
-4
-
-01.07
-
-4
-
-11.06
-
-5
-
-09.06
-
-6
-
-07.06
-
-6
-
-05.06
-
-8
-
-03.06
-
-7
-
-01.06
-
-10
-
-06.06
-
-8
-
-04.06
-
-12
-
-02.06
-
-14
-
-b. Diff. Between Turkey and Other Emerg. IT’ers*
-
-*Sample of emerging economies under inflation targeting covers Brazil, Czech Republic, Colombia, Philippines, South Africa, Israel,
-Hungary, Mexico, Peru, Poland, Romania, Chile, Slovakia and Thailand.
-Source: Web sites of central banks, IFS, TURKSTAT, CBT
-
-Reaction of Monetary Policy
-The CBT has been clear about its approach in responding to inflation resulting
-from factors beyond its control: Monetary policy will tolerate the first round effects,
-but will promptly respond to any deterioration in the overall pricing behavior. The
-policy pursued since September 2007 should be interpreted in this context.
-In September 2007, Monetary Policy Committee (MPC) decided to initiate the
-rate cuts, which had already been signaled earlier in the year. Accordingly, policy
-rates were lowered by 225 basis points between September 2007 and February
-2008 (Table 2).
-
-5
-
-Central Bank of Turkey
-
-Table 2: Monetary Policy Committee (MPC) Decisions in 2007 and 2008
-Dates for MPC Meetings
-
-Decision on Interest Rates
-
-Interest Rate
-
-No Change
-No Change
-No Change
-No Change
-No Change
-No Change
-No Change
-No Change
--0,25
--0,50
--0,50
--0,50
--0,25
--0,25
-No Change
-No Change
-
-17.50
-17.50
-17.50
-17.50
-17.50
-17.50
-17.50
-17.50
-17.25
-16.75
-16.25
-15.75
-15.50
-15.25
-15.25
-15.25
-
-th
-
-January 16 , 2007
-th
-February 15 , 2007
-th
-March 15 , 2007
-th
-April 18 , 2007
-th
-May 14 , 2007
-th
-June 14 , 2007
-th
-July 12 , 2007
-th
-August 14 , 2007
-th
-September 13 , 2007
-th
-October 16 , 2007
-th
-November 14 , 2007
-th
-December 13 , 2007
-th
-January 17 , 2008
-th
-February 14 , 2008
-th
-March 19 , 2008
-th
-April 17 , 2008
-Source: CBT.
-
-In the January 2008 Open Letter, we indicated that uncertainties in the global
-economy, hikes in electricity prices, and the risks to price setting behavior compelled
-the CBT to be more responsive to the incoming information. The letter also
-expressed that further monetary accommodation would depend on the factors
-affecting medium term inflation outlook. Food and energy prices and global
-uncertainties have continued to rise since then, feeding into the inflation
-expectations and core prices and thus increasing the risks regarding the price
-setting behavior and the degree of inflation persistence. Consequently, the MPC
-decided to suspend the rate cuts in the March meeting and announced a clear
-tightening bias going forward in the April meeting.
-Inflation Outlook
-Current supply and demand conditions support the downward trend in inflation.
-Data on consumer credits suggest that monetary conditions continue to be nonaccommodative. Annual growth rates in the automobile and housing loans are at
-lower levels compared to the periods of vigorous domestic demand (Figure 7).
-Although consumer credits displayed signs of recovery in 2007, the cautious
-monetary policy stance and the tightening in global credit conditions are likely to
-restrain credit expansion in the forthcoming period.
-
-6
-
-Central Bank of Turkey
-Figure 7: Consumer Loans (Annual Percentage Change)
-60
-
-450
-
-50
-
-400
-350
-
-40
-
-300
-
-30
-
-250
-Automobile
-
-20
-
-200
-
-Housing (right axis)
-10
-
-150
-
-0
-
-100
-
-03.08
-
-01.08
-
-11.07
-
-09.07
-
-07.07
-
-05.07
-
-03.07
-
-01.07
-
-11.06
-
-09.06
-
-07.06
-
-0
-05.06
-
--20
-03.06
-
-50
-01.06
-
--10
-
-Source: CBT.
-
-The sharp slowdown in the second half of 2006 created a slack in the
-economy. The recent methodological change in national accounts led to a limited
-upward revision in our output gap measure and hence did not change the inflation
-outlook. Looking ahead, we expect a continued moderation in economic activity and
-non-farm employment on the back of rising precautionary saving due to global and
-domestic uncertainties (Figure 8).
-Figure 8: Private Consumption Expenditure and Non-Agricultural Employment*
-18000
-
-16000
-
-Private consumption (Million YTL, 1998 prices)
-Non-agricultural employment (Thousand, right axis)
-
-17000
-
-15500
-15000
-
-16000
-
-14500
-15000
-14000
-14000
-13500
-13000
-
-13000
-
-07Q3
-
-07Q1
-
-06Q3
-
-06Q1
-
-05Q3
-
-05Q1
-
-04Q3
-
-04Q1
-
-03Q3
-
-03Q1
-
-02Q3
-
-02Q1
-
-01Q3
-
-12000
-01Q1
-
-11000
-00Q3
-
-12500
-
-00Q1
-
-12000
-
-*Seasonally adjusted
-Source: TURKSTAT, CBT.
-
-Accordingly, demand and capacity conditions are expected to continue to
-support the disinflation (Figure 9). Therefore, assuming that supply shocks gradually
-fade out over time, headline inflation is expected to decelerate.
-
-7
-
-Central Bank of Turkey
-Figure 9: Output Gap
-8
-6
-4
-2
-0
--2
--4
--6
--8
-08Q1
-
-07Q3
-
-07Q1
-
-06Q3
-
-06Q1
-
-05Q3
-
-05Q1
-
-04Q3
-
-04Q1
-
-03Q3
-
-03Q1
-
-02Q3
-
-02Q1
-
-01Q3
-
-01Q1
-
-00Q3
-
-00Q1
-
--10
-
-Source: CBT.
-
-The domestic currency has depreciated by more than 15 percent in nominal
-terms since the beginning of the year (Figure 10). Notwithstanding the expected
-deceleration in the core inflation indicators in the medium term, the first round
-impacts of the exchange rate pass-through may be significant in the short term.
-Figure 10: Risk Premium and Nominal Exchange Rates
-2
-
-400
-YTL/Currency Basket (0.5 Euro+0.5 US Dollar)
-
-1,9
-
-350
-
-EMBI+Turkey (right axis)
-
-04.08
-
-03.08
-
-02.08
-
-01.08
-
-12.07
-
-0
-11.07
-
-1,2
-10.07
-
-50
-09.07
-
-1,3
-08.07
-
-100
-
-07.07
-
-1,4
-
-06.07
-
-150
-
-05.07
-
-1,5
-
-04.07
-
-200
-
-03.07
-
-1,6
-
-02.07
-
-250
-
-01.07
-
-1,7
-
-12.06
-
-300
-
-11.06
-
-1,8
-
-Source: CBT.
-
-Longer term interest rates have increased lately due to rising risk premium
-(Figure 11). Although higher interest rates contain the domestic demand and thus
-support disinflation, the impact of the higher risk premium on the pricing behavior
-should be closely monitored.
-
-8
-
-Central Bank of Turkey
-Figure 11: Benchmark Interest Rate and Policy Rate
-24
-22
-20
-18
-16
-14
-
-Benchmark Interest Rate
-
-12
-
-Policy Rate
-
-04.08
-
-01.08
-
-10.07
-
-07.07
-
-04.07
-
-01.07
-
-10.06
-
-07.06
-
-04.06
-
-01.06
-
-10
-
-Source: CBT, ISE.
-
-The CBT survey of expectations suggests that economic agents expect
-inflation to pursue a downward trend. One year forward expectations are at 7
-percent, whereas 2-year ahead inflation expectations stand at around 6 percent.
-However, the recent upward movement in expectations has increased the risks to
-the price setting behavior (Figure 12).
-
-Figure 12: Inflation Expectations*
-9
-12 Months
-
-24 Months
-
-8
-7
-6
-5
-
-04.08
-
-02.08
-
-12.07
-
-10.07
-
-08.07
-
-06.07
-
-04.07
-
-02.07
-
-12.06
-
-10.06
-
-08.06
-
-06.06
-
-04.06
-
-02.06
-
-12.05
-
-10.05
-
-08.05
-
-06.05
-
-04.05
-
-4
-
-*24 months expectations is available from May 2006 onwards. Source: CBT.
-
-Our revised forecasts for medium term inflation incorporate more conservative
-assumptions on food prices compared to January Inflation Report, which envisaged
-a correction in food inflation justified by more favorable weather conditions.
-However, the long-awaited correction in food prices has not materialized yet.
-Processed food inflation accelerated even further on the back of rising global
-demand and elevated agricultural commodity prices. Against this backdrop, we have
-raised our assumptions for food inflation to 13 percent for the year 2008 and 8
-percent for the year 2009. These changes have led to upward revisions in our
-inflation forecasts, by about 1.2 points for 2008 and 1.1 points for 2009.
-
-9
-
-Central Bank of Turkey
-
-The assumption on oil prices in the January Inflation Report stood at 85 USD
-per barrel. However, oil prices averaged about 100 USD in the first quarter of 2008.
-Considering the most recent developments, we have revised our assumption for oil
-prices to 105 USD per barrel. Moreover, we assume that electricity tariffs will be
-adjusted as needed by the automatic pricing mechanism. These changes imply
-upward revisions in our forecasts by 0.9 points for end-2008, and 0.4 points for end2009.
-Although weak domestic demand should limit the second round effects of the
-exchange rate pass-through, the first round impact of the recent depreciation is
-estimated to be close to 2-percentage points at the end of 2008, which implies
-further upward revision in our forecasts.
-Accordingly, we now forecast inflation to be around 9.3 percent at the end of
-2008. Our medium term forecasts suggest, with 70 percent probability that, under
-the assumption of a measured and gradual tightening towards mid-2008 and
-constant policy rates thereafter for the rest of 2008, inflation will be between 4.9 and
-8.5 percent (mid point 6.7) at the end of 2009 (Figure7). Assuming a gradual
-moderation in food inflation, headline inflation is expected to decelerate to 4.9
-percent at the end of 2010 and to 4 percent by mid-2011. We expect non-food
-inflation to be lower than these figures.
-Figure 13: Inflation Forecasts*
-Forecast Range*
-
-Medium T erm T arget
-
-Out put Gap
-
-Uncert aint y Band for 2008
-
-12
-
-Policy Horizon
-10
-8
-
-Percent
-
-6
-4
-2
-0
--2
--4
-
-2011-I
-
-2010-IV
-
-2010-III
-
-2010-II
-
-2010-I
-
-2009-IV
-
-2009-III
-
-2009-II
-
-2009-I
-
-2008-IV
-
-2008-III
-
-2008-II
-
-2008-I
-
-2007-IV
-
--6
-
-Source : CBT
-* The shaded region indicates the 70 percent confidence interval for the forecast.
-
-To sum up, supply shocks have turned out to be more persistent than
-expected, increasing the risks to the second round effects and necessitating a
-significant upward revision in our inflation forecasts. Accordingly, monetary policy
-has already assumed a more cautious stance in order to eliminate the
-materialization of potential second round effects. Ensuring a steady decline in
-inflation will likely require tight monetary policy to be maintained for an extended
-
-10
-
-Central Bank of Turkey
-
-period. Even then, the earliest time for reaching the 4 percent medium term targets
-is likely to extend beyond two years.
-It should be emphasized that any new data or information on the inflation
-outlook may lead to a change in our policy stance. Therefore, the path for the policy
-rates indicated above should not be perceived as a commitment on behalf of the
-CBT.
-Revised projections suggest that the contribution of energy, food and services
-will be close to 5 percent at the end of 2009. In other words, assuming no further
-hikes in administered prices (except the ones implied by automatic pricing
-mechanisms), meeting the 4 percent target at the end of 2009 would be possible
-only if the prices of goods excluding food, energy and tobacco deflate by 3 percent.
-However, factors such as rising import prices, potential second round impacts of the
-supply shocks, and the structural inertia in inflation could continue to impose
-downward stickiness in goods prices. Therefore, converging to the medium term
-target of 4 percent may extend beyond two years, even when tight monetary policy
-is maintained for an extended period.
-Under these circumstances, getting inflation back to the 4 percent by the end
-of 2009 would require offsetting the first round effects, and thus create undesired
-fluctuations in the economic activity and relative prices. That is why we envisage a
-framework in which inflation remains higher than 4 percent at the end of 2009.
-The forecasts presented above deserve particular attention, given that inflation
-is likely to stay above the target in the next two years. The forecasts should serve as
-anchors for the intermediate term, representing the inflation path that is likely to be
-followed on the way to 4 percent medium term target.
-Risks
-Our revised forecasts are based on quite conservative assumptions, especially
-on food and energy prices, implying that downside risks are as significant as upside
-risks. April Inflation Report provides projections under alternative scenarios for food
-and energy prices. The pessimistic scenario assumes food inflation to materialize at
-17, 11 and 10 percent in the next three years, and oil prices to soar to 150 USD per
-barrel at the end of 2009. Under this scenario, assuming that policy rates increase
-gradually throughout the year 2008 and then stay constant for while, it takes four
-years for inflation to go back to 4 percent. The other scenario, which is the optimistic
-one, assumes that food inflation materializes at 9, 5 and 4 percent in the next three
-years, and oil prices eases to 85 USD per barrel at the end of 2009. Under this
-scenario, assuming a limited rate hike in the short term and gradual cuts starting
-from the last quarter, inflation reaches 4 percent at the end of 2010.1 Therefore,
-materialization of upside risks would require further tightening of the monetary policy
-stance, while downward surprises in food and energy prices would be perceived as
-an opportunity to bring inflation back to target in a shorter period.
-
-1
-
-More details on these projections are provided in the April Inflation Report.
-
-11
-
-Central Bank of Turkey
-
-A protracted period of rising food and energy prices have led to significant
-breaches in inflation targets since the adoption of the inflation targeting regime and
-consequently increased the stickiness in inflation expectations, as economic agents
-have become more backward looking. Under normal conditions, supply shocks are
-expected to alter relative prices rather than the underlying inflation trend.
-Nevertheless, the fact that several long-lasting shocks appeared concurrently has
-increased the risks to the price setting behavior. Recent pick up in inflation
-expectations requires the monetary policy to be cautious. In this respect, recent
-developments in the pricing behavior and the underlying inflation trends are of
-particular concern. It may be necessary to pursue a tighter monetary policy should
-the price setting behavior further deteriorate.
-Another major risk to the inflation outlook is a sharper than expected slowdown
-in the global economic activity, which, in turn, could lead to further volatility in
-financial markets. The eventual impact of the financial turmoil on the global
-economic activity is yet to be seen. These uncertainties have been dampening the
-risk appetite and thus slowing the capital flows to emerging economies. The CBT will
-not react to temporary fluctuations in financial markets. Yet, we will not hesitate to
-tighten monetary policy in case of a significant worsening in the overall pricing
-behavior.
-Finally, our medium-term projections assume that government expenditures
-will evolve in line with the official projections and that there will be no further
-increases in indirect taxes or administered price adjustments, except those required
-by the automatic pricing mechanism. Any deviation from this may have an effect on
-the outlook for inflation and monetary policy.
-Conclusion
-Inflation targets have been breached by a significant margin in the past two
-years as a result of exceptionally persistent supply shocks, and there is a
-considerable chance that the shocks are likely to stay for a while. Besides, the
-ongoing uncertainty resulting from the global economy has been increasing the risks
-related to the second round effects of these supply shocks. Our revised projections
-incorporating the latest developments suggest that in 2008 and 2009 inflation is
-likely to materialize at higher levels than 4 percent. Therefore, we envisage a
-framework in which inflation forecasts serve as an anchor in the short term, while 4
-percent targets continue to be the medium term anchor.
-Extending the horizon within which inflation converges to the target does not
-mean that monetary policy will be looser in the forthcoming period. On the contrary,
-our forecasts presented above are based on a tighter monetary policy stance
-compared to the previous period. Monetary policy will be more responsive to bad
-news than good news in the period ahead. This approach reflects our firm
-commitment to attaining price stability.
-
-12
-
-Central Bank of Turkey
-
-Prudent monetary policy is a necessary but not a sufficient condition for
-attaining price stability. The support from fiscal policy and structural reforms are also
-critical in this respect. Sound fiscal policy has been one of the main factors in driving
-inflation down to single digits. The role of fiscal policy will continue to be critical in
-the road to price stability. Preserving the resilience of the economy, especially under
-current conditions, requires the continuation of fiscal discipline and structural
-reforms. In this respect, the European Union accession process and the
-implementation of structural reforms envisaged in the economic program remain to
-be of utmost importance. In particular, advances in structural reforms, which would
-improve the quality of fiscal discipline and enhance the productivity, are monitored
-closely by the CBT with regard to their implications on macroeconomic and price
-stability.
-
-Yours Sincerely,
-
-CENTRAL BANK OF TURKEY
-Head Office
-
-13
-
-Durmuş Yılmaz
-
-Erdem Başçı
-
-Governor
-
-Deputy Governor
-
-
+                                                                                     Central Bank of T urkey  
+ 1Ankara, April 30, 2008 
+Mehmet ŞİMŞEK 
+Minister of State 
+ANKARA 
+ 
+ 
+The Central Bank of Turkey (CBT) has been implementing  a formal inflation-
+targeting regime since the beginning of 2006. Central  Bank Law, as stipulated in the 
+Article 42, requires the CBT to be accountable for the non-fulfillment of inflation 
+targets. Inflation target for end-year 2008 was joint ly set with the Government as 4 
+percent. To facilitate the accountability principle, our  policy statement titled 
+“Monetary and Exchange Rate Policy in 2008” disclosed a q uarterly path consistent 
+with the end-year 2008 targets along with an uncertai nty band. In this context, any 
+breach of upper or lower limits of the band requires t he CBT to write an open letter 
+to the Government, explaining the reasons for the breach  and the measures to be 
+taken to ensure that inflation rate will return to le vels within pre-established limits. 
+Inflation outturn as of March 2008 was 9.15 percent, br eaching the upper limit 
+of the uncertainty band, which was set at 9.1 percent fo r the end of the first quarter 
+(Figure 1). Accordingly, this open letter explains the r easons for this breach, 
+presents the measures we have taken, and puts forth our mo netary policy strategy 
+for the forthcoming period. This Open Letter will also  be presented to the IMF as part 
+of the program conditionality. 
+ 
+Figure 1: Annual CPI Inflation and Target Path  
+012345678910 11 12 
+12.05 02.06 04.06 06.06 08.06 10.06 12.06 02.07 04.07 06.07 08.07 10.07 12.07 02.08 04.08 06.08 08.08 10.08 12.08 Annual CPI Inflation 
+Target Path 
+Uncertainty Band  
+ 
+Source: TURKSTAT, CBT. 
+ 
+ 
+                                                                                      Central Bank of T urkey  
+ 2 
+Reasons For Breaching the Target 
+The monetary tightening exercised since mid-2006 has been  successful in 
+leading to a significant reduction in underlying infla tion. The fall in headline inflation, 
+however, was more limited, owing mainly to factors larg ely beyond the control of 
+monetary policy, such as developments in food, energy, an d administered prices. 
+Prolonged increases in food and energy prices have recentl y led to upward 
+pressure on headline inflation and in turn to upward revisions in inflation forecasts in 
+many countries across the world. Turkey is not an exception in this regard, as 
+deviations of inflation from our forecasts can be mostly a ttributed to these factors. 
+For instance, our forecasts in October 2006 Inflation Rep ort suggested that inflation 
+would converge to the 4 percent target at the end of t he first quarter of 2008. The 
+forecast was based on a scenario where food inflation mod erated to levels 
+comparable with medium term targets and oil prices rema ined stable at 60 USD per 
+barrel. However, oil prices continued to rise and average d around 100 USD per 
+barrel in the first quarter of 2008. Moreover, annual  food price inflation has 
+continued to remain at elevated levels, reaching 13.4 pe rcent in March. As a 
+consequence 6.13 percentage points of the 9.15 percent an nual CPI inflation in 
+March resulted from the food and energy items (Figure 2). 
+Figure 2: Contribution to Annual CPI Inflation  
+0246810 12 
+01.07 02.07 03.07 04.07 05.07 06.07 07.07 08.07 09.07 10.07 11.07 12.07 01.08 02.08 03.08 Core Goods Services 
+Food and Energy* Tobacco and Gold** 
+ 
+* Food and Energy: Food, non-alcoholic beverages an d energy. 
+** Tobacco and Gold: Alcoholic beverages, tobacco p roducts and gold. 
+Source: TURKSTAT, CBT. 
+ 
+Both domestic and international developments have played  a part on the 
+course of food prices. A prolonged shortage of rainfall in Turkey resulted in low crop 
+yields in 2007, which in turn translated to an adverse su pply shock. Strong global 
+demand for food and continued elevation in agricultura l commodity prices further 
+added to the domestic food inflation through the exter nal trade channel. Recently, 
+adverse impacts of these factors have been quite visible especi ally in processed                                                                                      Central Bank of T urkey  
+ 3food prices. Accordingly, annual food inflation maintai ned its high levels with a 
+marked contribution of about 2.3 points to the 3.1 per cent year-to-date headline 
+inflation.  Therefore, food prices became the main fact or impeding the disinflation 
+process (Figure 3, Table 1). 
+Adverse developments in energy prices have been another ma jor factor in 
+slowing the disinflation process. Rising oil prices continue d to lead to significant 
+hikes in the prices of fuel-oil products. Elevated oil pri ces also affected the prices of 
+energy items in the housing utilities, including electr icity tariff rates, which were 
+adjusted upwards by a significant margin. Consequently, contribution of energy 
+items to year-to-date CPI inflation reached to about 0.9 percentage points. 
+.  
+Figure 3: Subcomponents of CPI (First Quarter Perce ntage Change) 
+-4 -2 0246810 
+Food Energy Goods exc. Food 
+and Energy Services 2006 2007 2008 
+ 
+Table 1: Contribution to First Quarter CPI Inflatio n (Percentage Points) 
+ 
+CPI Food* Energy Goods exc. 
+Food and 
+Energy Services 
+2008 3,09 2,31 0,86 -0,74 0,65 
+2007 2,36 1,93 0,22 -0,39 0,60 
+2006 1,25 1,41 0,38 -1,20 0,66 
+  *Food: Food and non-alcoholic beverages. 
+Source: TURKSTAT, CBT. 
+ 
+ 
+ 
+ 
+ 
+                                                                                      Central Bank of T urkey  
+ 4 
+The decline in services inflation came to a halt in the f irst quarter of 2008. 
+Elevated food and energy prices have been exerting upwar d pressures on the prices 
+of catering and transport services. Rents and other services, on the other hand, 
+continued to decelerate.     
+Figure 4: Subcomponents of Services Index  
+(First Quarter Cumulative Percentage Change) 
+012345
+Rent Transport 
+Services Restaurants and 
+Hotels Other Services 2006-2007 Average 
+2008 
+ 
+Source: TURKSTAT, CBT. 
+Global uncertainties and their reflections on the domest ic financial markets 
+have led to exchange rate movements, which in turn affecte d March inflation 
+especially through the prices of fuel and high-tech consum er durables. First round 
+effects of exchange rate pass-through are expected to contin ue in the short term.  
+Inflation in CPI excluding food, energy and tobacco ite ms remained flat over 
+the previous quarter and remained at 4.8 percent, confi rming that the rise in inflation 
+can be mostly attributed to factors beyond the control o f the monetary policy.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Figure 5: Main Inflation Indicators and Policy Rate s 
+10 11 12 13 14 15 16 17 18 
+12.05 03.06 06.06 09.06 12.06 03.07 06.07 09.07 12.07 03.08 2345678910 11 
+Policy Rate 
+H (right axis) 
+H exc. processed food (right axis) 
+ 
+H: CPI excluding unprocessed food, energy, alcoholi c beverages, tobacco, and gold. 
+Source: TURKSTAT, CBT.                                                                                      Central Bank of T urkey  
+ 5 
+As noted above, inflation has recently been rising all o ver the world (Figure 6). 
+Elevated prices of crude oil, agricultural products and ot her commodities have 
+continued to exert inflationary pressures. Inflation in developed economies edged up 
+in the last quarter of 2007 while emerging economies u nder inflation targeting have 
+been facing an upward trend since June 2007. Annual inf lation in Turkey by the end 
+of the first quarter was 9.2 percent, which is below its end-2006 level of 9.7 percent. 
+During the same period, average inflation in emerging  market economies under 
+inflation targeting rose from 3.4 percent to 6 percent . 
+Figure 6: Inflation in Other Countries  
+a.  Inflation Rates  b.  Diff. Between Turkey and Other Emerg. IT’ers*  
+  
+*Sample of emerging economies under inflation targe ting covers Brazil, Czech Republic, Colombia, Phili ppines, South Africa, Israel, 
+Hungary, Mexico, Peru, Poland, Romania, Chile, Slov akia and Thailand.  
+Source: Web sites of central banks, IFS, TURKSTAT, CBT 
+ 
+Reaction of Monetary Policy 
+The CBT has been clear about its approach in responding to inflation resulting 
+from factors beyond its control: Monetary policy will to lerate the first round effects, 
+but will promptly respond to any deterioration in th e overall pricing behavior. The 
+policy pursued since September 2007 should be interprete d in this context.  
+In September 2007, Monetary Policy Committee (MPC) d ecided to initiate the 
+rate cuts, which had already been signaled earlier in t he year. Accordingly, policy 
+rates were lowered by 225 basis points between Septembe r 2007 and February 
+2008 (Table 2). 
+ 
+ 
+ 23456789
+12.05 02.06 04.06 06.06 08.06 10.06 12.06 02.07 04.07 06.07 08.07 10.07 12.07 02.08 0246810 12 14 
+01.06 03.06 05.06 07.06 09.06 11.06 01.07 03.07 05.07 07.07 09.07 11.07 01.08 Developed Economies 
+Developing Economies 
+Turkey                                                                                      Central Bank of T urkey  
+ 6 
+Table 2: Monetary Policy Committee (MPC) Decisions in 2007 and 2008 
+Dates for MPC Meetings Decision on Interest Rates I nterest Rate 
+January 16 th , 2007 No Change  17.50 
+February 15 th , 2007 No Change  17.50 
+March 15 th , 2007 No Change  17.50 
+April 18 th , 2007 No Change  17.50 
+May 14 th , 2007 No Change  17.50 
+June 14 th , 2007 No Change  17.50 
+July 12 th , 2007 No Change  17.50 
+August 14 th , 2007 No Change  17.50 
+September 13 th , 2007 -0,25 17.25 
+October 16 th , 2007 -0,50 16.75 
+November 14 th , 2007 -0,50 16.25 
+December 13 th , 2007 -0,50 15.75 
+January 17 th , 2008 -0,25 15.50 
+February 14 th , 2008 -0,25 15.25 
+March 19 th , 2008 No Change 15.25 
+April 17 th , 2008 No Change 15.25 
+Source: CBT. 
+  
+ In the January 2008 Open Letter, we indicated that u ncertainties in the global 
+economy, hikes in electricity prices, and the risks to price se tting behavior compelled 
+the CBT to be more responsive to the incoming informati on. The letter also 
+expressed that further monetary accommodation would depe nd on the factors 
+affecting medium term inflation outlook. Food and ene rgy prices and global 
+uncertainties have continued to rise since then, feeding i nto the inflation 
+expectations and core prices and thus increasing the risks rega rding the price 
+setting behavior and the degree of inflation persistence . Consequently, the MPC 
+decided to suspend the rate cuts in the March meeting and  announced a clear 
+tightening bias going forward in the April meeting. 
+Inflation Outlook 
+Current supply and demand conditions support the downwa rd trend in inflation. 
+Data on consumer credits suggest that monetary conditions co ntinue to be non-
+accommodative. Annual growth rates in the automobile an d housing loans are at 
+lower levels compared to the periods of vigorous domestic d emand (Figure 7). 
+Although consumer credits displayed signs of recovery in 200 7, the cautious 
+monetary policy stance and the tightening in global cre dit conditions are likely to 
+restrain credit expansion in the forthcoming period.                                                                                      Central Bank of T urkey  
+ 7 
+ 
+ 
+The sharp slowdown in the second half of 2006 created a slack in the 
+economy. The recent methodological change in national a ccounts led to a limited 
+upward revision in our output gap measure and hence did  not change the inflation 
+outlook. Looking ahead, we expect a continued moderation  in economic activity and 
+non-farm employment on the back of rising precautionary  saving due to global and 
+domestic uncertainties (Figure 8).  
+ Accordingly, demand and capacity conditions are expected t o continue to 
+support the disinflation (Figure 9). Therefore, assumin g that supply shocks gradually 
+fade out over time, headline inflation is expected to d ecelerate. Figure 7: Consumer Loans (Annual Percentage Change)  
+-20 -10 010 20 30 40 50 60 
+01.06 03.06 05.06 07.06 09.06 11.06 01.07 03.07 05.07 07.07 09.07 11.07 01.08 03.08 050 100 150 200 250 300 350 400 450 
+Automobile 
+Housing  (right axis) 
+ 
+Source: CBT. 
+Figure 8: Private Consumption Expenditure and Non-A gricultural Employment*  
+11000 12000 13000 14000 15000 16000 17000 18000 
+00Q1 00Q3 01Q1 01Q3 02Q1 02Q3 03Q1 03Q3 04Q1 04Q3 05Q1 05Q3 06Q1 06Q3 07Q1 07Q3 12000 12500 13000 13500 14000 14500 15000 15500 16000 
+Private consumption (Million YTL, 1998 prices) 
+Non-agricultural employment (Thousand, right axis)  
+ 
+*Seasonally adjusted 
+Source: TURKSTAT, CBT.                                                                                      Central Bank of T urkey  
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The domestic currency has depreciated by more than 15 per cent in nominal 
+terms since the beginning of the year (Figure 10). Not withstanding the expected 
+deceleration in the core inflation indicators in the me dium term, the first round 
+impacts of the exchange rate pass-through may be significan t in the short term.  
+ 
+ 
+ 
+ 
+ 
+ 
+Longer term interest rates have increased lately due to rising risk premium 
+(Figure 11). Although higher interest rates contain th e domestic demand and thus 
+support disinflation, the impact of the higher risk prem ium on the pricing behavior 
+should be closely monitored.  Figure 9: Output Gap 
+-10 -8 -6 -4 -2 02468
+00Q1 00Q3 01Q1 01Q3 02Q1 02Q3 03Q1 03Q3 04Q1 04Q3 05Q1 05Q3 06Q1 06Q3 07Q1 07Q3 08Q1  
+Source: CBT. 
+Figure 10: Risk Premium and Nominal Exchange Rates 
+1,2 1,3 1,4 1,5 1,6 1,7 1,8 1,9 2
+11.06 12.06 01.07 02.07 03.07 04.07 05.07 06.07 07.07 08.07 09.07 10.07 11.07 12.07 01.08 02.08 03.08 04.08 050 100 150 200 250 300 350 400 
+YTL/Currency Basket (0.5 Euro+0.5 US Dollar) 
+EMBI+Turkey (right axis) 
+ 
+Source: CBT.                                                                                      Central Bank of T urkey  
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The CBT survey of expectations suggests that economic agents e xpect 
+inflation to pursue a downward trend. One year forwa rd expectations are at 7 
+percent, whereas 2-year ahead inflation expectations stan d at around 6 percent. 
+However, the recent upward movement in expectations has in creased the risks to 
+the price setting behavior (Figure 12). 
+ 
+Figure 12: Inflation Expectations*  
+456789
+04.05 06.05 08.05 10.05 12.05 02.06 04.06 06.06 08.06 10.06 12.06 02.07 04.07 06.07 08.07 10.07 12.07 02.08 04.08 12 Months 24 Months 
+ 
+*24 months expectations is available from May 2006 onwards. Source: CBT.  
+Our revised forecasts for medium term inflation incorpora te more conservative 
+assumptions on food prices compared to January Inflation R eport, which envisaged 
+a correction in food inflation justified by more favora ble weather conditions. 
+However, the long-awaited correction in food prices has n ot materialized yet. 
+Processed food inflation accelerated even further on the back of rising global 
+demand and elevated agricultural commodity prices. Again st this backdrop, we have 
+raised our assumptions for food inflation to 13 percent for the year 2008 and 8 
+percent for the year 2009. These changes have led to upw ard revisions in our 
+inflation forecasts, by about 1.2 points for 2008 and 1 .1 points for 2009. Figure 11: Benchmark Interest Rate and Policy Rate  
+10 12 14 16 18 20 22 24 
+01.06 04.06 07.06 10.06 01.07 04.07 07.07 10.07 01.08 04.08 Benchmark Interest Rate 
+Policy Rate 
+ 
+Source: CBT, ISE.                                                                                      Central Bank of T urkey  
+ 10 The assumption on oil prices in the January Inflation Re port stood at 85 USD 
+per barrel. However, oil prices averaged about 100 USD in the first quarter of 2008. 
+Considering the most recent developments, we have revised o ur assumption for oil 
+prices to 105 USD per barrel. Moreover, we assume that e lectricity tariffs will be 
+adjusted as needed by the automatic pricing mechanism. Th ese changes imply 
+upward revisions in our forecasts by 0.9 points for end-20 08, and 0.4 points for end-
+2009.  
+Although weak domestic demand should limit the second rou nd effects of the 
+exchange rate pass-through, the first round impact of the  recent depreciation is 
+estimated to be close to 2-percentage points at the end of 2008, which implies 
+further upward revision in our forecasts. 
+Accordingly, we now forecast inflation to be around 9.3  percent at the end of 
+2008. Our medium term forecasts suggest, with 70 percent probability that, under 
+the assumption of a measured and gradual tightening to wards mid-2008 and 
+constant policy rates thereafter for the rest of 2008, i nflation will be between 4.9 and 
+8.5 percent (mid point 6.7) at the end of 2009 (Figu re7). Assuming a gradual 
+moderation in food inflation, headline inflation is expected to decelerate to 4.9 
+percent at the end of 2010 and to 4 percent by mid-20 11. We expect non-food 
+inflation to be lower than these figures. 
+Figure 13: Inflation Forecasts * 
+ 
+  Source : CBT 
+* The shaded region indicates the 70 percent confiden ce interval for the forecast.  
+To sum up, supply shocks have turned out to be more persiste nt than 
+expected, increasing the risks to the second round effects and  necessitating a 
+significant upward revision in our inflation forecasts. Acco rdingly, monetary policy 
+has already assumed a more cautious stance in order to eli minate the 
+materialization of potential second round effects. Ensuri ng a steady decline in 
+inflation will likely require tight monetary policy t o be maintained for an extended -6 -4 -2 0246810 12 
+2007-IV 
+2008-I 
+2008-II 
+2008-III 2008-IV 
+2009-I 
+2009-II 
+2009-III 2009-IV 
+2010-I 
+2010-II 
+2010-III 2010-IV 
+2011-I Percent Forecast Range* Medium T erm T arget 
+Output Gap Uncertainty Band for 2008 
+Policy Horizon                                                                                      Central Bank of T urkey  
+ 11 period. Even then, the earliest time for reaching the 4 percent medium term targets 
+is likely to extend beyond two years. 
+It should be emphasized that any new data or informat ion on the inflation 
+outlook may lead to a change in our policy stance. There fore, the path for the policy 
+rates indicated above should not be perceived as a commitme nt on behalf of the 
+CBT. 
+Revised projections suggest that the contribution of energ y, food and services 
+will be close to 5 percent at the end of 2009. In othe r words, assuming no further 
+hikes in administered prices (except the ones implied by au tomatic pricing 
+mechanisms), meeting the 4 percent target at the end of  2009 would be possible 
+only if the prices of goods excluding food, energy and t obacco deflate by 3 percent.  
+However, factors such as rising import prices, potential secon d round impacts of the 
+supply shocks, and the structural inertia in inflation coul d continue to impose 
+downward stickiness in goods prices. Therefore, converging to  the medium term 
+target of 4 percent may extend beyond two years, even w hen tight monetary policy 
+is maintained for an extended period.  
+Under these circumstances, getting inflation back to the 4 percent by the end 
+of 2009 would require offsetting the first round effe cts, and thus create undesired 
+fluctuations in the economic activity and relative prices. T hat is why we envisage a 
+framework in which inflation remains higher than 4 per cent at the end of 2009. 
+The forecasts presented above deserve particular attention,  given that inflation 
+is likely to stay above the target in the next two years.  The forecasts should serve as 
+anchors for the intermediate term, representing the in flation path that is likely to be 
+followed on the way to 4 percent medium term target.  
+Risks 
+Our revised forecasts are based on quite conservative assumptio ns, especially 
+on food and energy prices, implying that downside risks a re as significant as upside 
+risks. April Inflation Report provides projections under a lternative scenarios for food 
+and energy prices. The pessimistic scenario assumes food infla tion to materialize at 
+17, 11 and 10 percent in the next three years, and oil  prices to soar to 150 USD per 
+barrel at the end of 2009. Under this scenario, assuming  that policy rates increase 
+gradually throughout the year 2008 and then stay const ant for while, it takes four 
+years for inflation to go back to 4 percent. The other scenario, which is the optimistic 
+one, assumes that food inflation materializes at 9, 5 a nd 4 percent in the next three 
+years, and oil prices eases to 85 USD per barrel at the end of 2009. Under this 
+scenario, assuming a limited rate hike in the short term and gradual cuts starting 
+from the last quarter, inflation reaches 4 percent at t he end of 2010. 1 Therefore, 
+materialization of upside risks would require further ti ghtening of the monetary policy 
+stance, while downward surprises in food and energy price s would be perceived as 
+an opportunity to bring inflation back to target in a  shorter period. 
+                                                
+1 More details on these projections are provided in the April Inflation Report.                                                                                      Central Bank of T urkey  
+ 12 A protracted period of rising food and energy prices ha ve led to significant 
+breaches in inflation targets since the adoption of the inflation targeting regime and 
+consequently increased the stickiness in inflation expectation s, as economic agents 
+have become more backward looking. Under normal condition s, supply shocks are 
+expected to alter relative prices rather than the underl ying inflation trend. 
+Nevertheless, the fact that several long-lasting shocks appear ed concurrently has 
+increased the risks to the price setting behavior. Recent pi ck up in inflation 
+expectations requires the monetary policy to be cautious. In this respect, recent 
+developments in the pricing behavior and the underlying  inflation trends are of 
+particular concern. It may be necessary to pursue a tighte r monetary policy should 
+the price setting behavior further deteriorate. 
+Another major risk to the inflation outlook is a sharper  than expected slowdown 
+in the global economic activity, which, in turn, could le ad to further volatility in 
+financial markets. The eventual impact of the financial t urmoil on the global 
+economic activity is yet to be seen. These uncertainties have  been dampening the 
+risk appetite and thus slowing the capital flows to emerg ing economies. The CBT will 
+not react to temporary fluctuations in financial markets.  Yet, we will not hesitate to 
+tighten monetary policy in case of a significant worsenin g in the overall pricing 
+behavior. 
+Finally, our medium-term projections assume that governm ent expenditures 
+will evolve in line with the official projections and th at there will be no further 
+increases in indirect taxes or administered price adjustment s, except those required 
+by the automatic pricing mechanism. Any deviation from t his may have an effect on 
+the outlook for inflation and monetary policy. 
+Conclusion 
+Inflation targets have been breached by a significant ma rgin in the past two 
+years as a result of exceptionally persistent supply shocks, an d there is a 
+considerable chance that the shocks are likely to stay for a while. Besides, the 
+ongoing uncertainty resulting from the global economy has been increasing the risks 
+related to the second round effects of these supply shocks. O ur revised projections 
+incorporating the latest developments suggest that in 200 8 and 2009 inflation is 
+likely to materialize at higher levels than 4 percent. Therefore, we envisage a 
+framework in which inflation forecasts serve as an anchor in  the short term, while 4 
+percent targets continue to be the medium term anchor.  
+Extending the horizon within which inflation converges t o the target does not 
+mean that monetary policy will be looser in the forth coming period. On the contrary, 
+our forecasts presented above are based on a tighter mone tary policy stance 
+compared to the previous period. Monetary policy will b e more responsive to bad 
+news than good news in the period ahead. This approach reflects our firm 
+commitment to attaining price stability. 
+ 
+                                                                                      Central Bank of T urkey  
+ 13  
+ 
+Prudent monetary policy is a necessary but not a sufficien t condition for 
+attaining price stability. The support from fiscal policy  and structural reforms are also 
+critical in this respect. Sound fiscal policy has been one o f the main factors in driving 
+inflation down to single digits. The role of fiscal pol icy will continue to be critical in 
+the road to price stability. Preserving the resilience of  the economy, especially under 
+current conditions, requires the continuation of fiscal di scipline and structural 
+reforms. In this respect, the European Union accession proce ss and the 
+implementation of structural reforms envisaged in the eco nomic program remain to 
+be of utmost importance. In particular, advances in structu ral reforms, which would 
+improve the quality of fiscal discipline and enhance the productivity, are monitored 
+closely by the CBT with regard to their implications on  macroeconomic and price 
+stability. 
+ 
+Yours Sincerely, 
+     
+CENTRAL BANK OF TURKEY 
+      Head Office  
+ 
+ 
+ 
+ 
+ 
+                                                                  Durmu ş Yılmaz Erdem Ba şçı  
+                          Governor Deputy Governor  

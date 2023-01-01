@@ -1,22 +1,31 @@
-Press Release on the Replacement of
-the SSL Certificate of the CBRT Website
-14 July 2022
-
-No: 2022-31
-
-The SSL certificate used for secure access to our Bank's website (www.tcmb.gov.tr) will be replaced
-on Friday, 15 July 2022 at 11 p.m. Users who pull data from the site should check their access after
-the replacement, and add the new certificates found here to their systems in case of any problem.
-
-Contact
-For further information, please send an e-mail to basin@tcmb.gov.tr.
-
-Türkiye Cumhuriyet Merkez Bankası
-(Central Bank of the Republic of Turkey)
-Head Office
-Hacı Bayram Mahallesi
-İstiklal Caddesi 10 06050 Ulus Altındağ / Ankara
-+90 (312) 507 50 00
-www.tcmb.gov.tr
-
-
+Türkiye Cumhuriyet Merkez Bankası  
+(Central Bank of the Republic of Turkey)  
+Head Office  
+Hacı Bayram Mahallesi  
+İstiklal Caddesi 10 06050 Ulus Altındağ / Ankara  
++90 (312) 507 50 00  
+www.tcmb.gov.tr   
+  
+Press Release on the Replacement of 
+the SSL Certificate of the CBRT Website  
+14 July 2022  No: 2022-31 
+ 
+The SSL certificate used for  secure access to our B ank's website (www.tcmb.gov.tr ) will be replaced  
+on Friday, 15  July 2022 at 11 p.m . Users who pull data from the site should check their access after 
+the replacement , and  add the new certificates  found here  to their systems in case of any problem.  
+ 
+ 
+Contact  
+For further information, please send an e -mail to basin@tcmb.gov.tr.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

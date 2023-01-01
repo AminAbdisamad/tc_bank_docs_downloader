@@ -1,134 +1,60 @@
-No: 2013 – 03
-
-Release Date: 22 January 2013
-
-PRESS RELEASE ON RESERVE REQUIREMENTS
-In line with the strategic framework set out at the Monetary Policy Committee
-meeting held on 22 January 2013, Turkish lira and FX reserve requirement ratios are
-revised as follows:
-Current
-
-New
-
-Ratios (%)
-
-Ratios (%)
-
-Demand deposits, notice deposits and private current
-accounts, deposits/participation accounts with maturities of
-up to 1 month and 3 months (including 1 and 3 months)
-
-11
-
-11.25
-
-Deposits/participation accounts with maturities of up to 6
-months (including 6 months)
-
-8
-
-8.25
-
-6
-
-6.25
-
-Deposits/participation accounts with maturities of 1 year and
-longer and cumulative deposits/participation accounts
-
-5
-
-5
-
-Other liabilities with maturities of up to 1 year (including 1
-year)
-
-11
-
-11.25
-
-Other liabilities with maturities of up to 3 years (including 3
-years)
-
-8
-
-8
-
-Other liabilities with maturities longer than 3 years
-
-5
-
-5
-
-Current
-
-New
-
-Ratios (%)
-
-Ratios (%)
-
-11.5
-
-12
-
-FX deposits / participation accounts with maturities of 1 year
-and longer and cumulative FX deposits / participation
-accounts
-
-9
-
-9
-
-Other FX liabilities with maturities of up to 1 year (including 1
-year)
-
-11.5
-
-12
-
-Other FX liabilities with maturities of up to 3 years (including
-3 years)
-
-9.5
-
-10
-
-Other FX liabilities with maturities longer than 3 years
-
-6
-
-6
-
-Turkish lira Liabilities
-
-Deposits/participation accounts with maturities of up to 1 year
-
-FX Liabilities
-FX demand deposits, notice deposits and FX private current
-accounts, deposits/participation accounts with maturities of
-up to 1 month, 3 months, 6 months (including 1, 3 and 6
-months) and 1 year
-
-With the increase in Turkish lira reserve requirement ratios, Turkish lira
-required reserves will increase by approximately TL 1.4 billion. Under the assumption
-that the ROM facilities continue to be used at current levels, liquidity amounting to
-about TL 300 million, FX worth USD 750 million and gold worth USD 350 million will
-be withdrawn from the market and the effective reserve requirement ratio for Turkish
-lira currently standing at 10.6 percent will become 10.8 percent.
-With the increase in FX reserve requirement ratios, liquidity amounting to about
-USD 900 million will be withdrawn from the market and the effective reserve
-requirement ratio for FX currently standing at 10.6 percent will become 11 percent.
-Reserve requirement ratios will be effective as of the calculation period dated 1
-February 2013 and the maintenance period will begin on 15 February 2013.
-Moreover, the reserve option coefficients have been raised by 0.1 points for all
-tranches of gold reserves held for Turkish lira required reserves. Banks have been
-consistently using the facility and the utilization ratio is at 82.6 percent. At present, 237
-tons of gold worth USD 12.7 billion are being held for Turkish lira required reserves.
-Should this facility continue to be used at the same level, the expected increase in
-Central Bank gold reserves is approximately 16.5 tons of gold worth USD 900 million.
-Revisions in the ROCs for gold reserves held for Turkish lira required reserves
-will be effective as of the calculation period dated 15 February 2013 and the
-maintenance period will begin on 1 March 2013.
-
-
+  
+PRESS RELEASE ON RESERVE REQUIREMENTS  
+In line with the strategic framework set out at the  Monetary Policy Committee 
+meeting held on 22 January 2013, Turkish lira and F X reserve requirement ratios are 
+revised as follows:  
+ 
+Turkish lira Liabilities Current 
+Ratios (%)  New 
+Ratios (%)  
+Demand deposits, notice deposits and private curren t 
+accounts, deposits/participation accounts with matu rities of 
+up to 1 month and 3 months (including 1 and 3 month s) 11 11.25 
+Deposits/participation accounts with maturities of up to 6 
+months  (including 6 months) 8 8.25 
+Deposits/participation accounts with maturities of up to 1 year  6 6.25 
+Deposits/participation accounts with maturities of 1 year and 
+longer and cumulative deposits/participation accoun ts 5 5 
+Other liabilities with maturities of up to 1 year ( including 1 
+year) 11 11.25 
+Other liabilities with maturities of up to 3 years (including 3 
+years) 8 8 
+Other liabilities with maturities longer than 3 yea rs 5 5 
+ 
+FX Liabilities Current 
+Ratios (%)  New 
+Ratios (%)  
+FX demand deposits, notice deposits and FX private current 
+accounts, deposits/participation accounts with matu rities of 
+up to 1 month, 3 months, 6 months (including 1, 3 a nd 6 
+months) and 1 year  
+11.5  
+12 
+FX deposits / participation accounts with maturitie s of 1 year 
+and longer and cumulative FX deposits / participati on 
+accounts 9 9 
+Other FX liabilities with maturities of up to 1 yea r (including 1 
+year) 11.5 12 
+Other FX liabilities with maturities of up to 3 yea rs (including 
+3 years) 9.5 10 
+Other FX liabilities with maturities longer than 3 years 6 6 No: 2013 – 03 Release Date: 22 January 2013 With the increase in Turkish lira reserve requireme nt ratios, Turkish lira 
+required reserves will increase by approximately TL  1.4 billion. Under the assumption 
+that the ROM facilities continue to be used at curr ent levels, liquidity amounting to 
+about TL 300 million, FX worth USD 750 million and gold worth USD 350 million will 
+be withdrawn from the market and the effective rese rve requirement ratio for Turkish 
+lira currently standing at 10.6 percent will become  10.8 percent.   
+With the increase in FX reserve requirement ratios,  liquidity amounting to about 
+USD 900 million will be withdrawn from the market a nd the effective reserve 
+requirement ratio for FX currently standing at 10.6  percent will become 11 percent.   
+Reserve requirement ratios will be effective as of the calculation period dated 1 
+February 2013 and the maintenance period will begin  on 15 February 2013. 
+Moreover, the reserve option coefficients have been  raised by 0.1 points for all 
+tranches of gold reserves held for Turkish lira req uired reserves. Banks have been 
+consistently using the facility and the utilization  ratio is at 82.6 percent. At present, 237 
+tons of gold worth USD 12.7 billion are being held for Turkish lira required reserves. 
+Should this facility continue to be used at the sam e level, the expected increase in 
+Central Bank gold reserves is approximately 16.5 to ns of gold worth USD 900 million. 
+Revisions in the ROCs for gold reserves held for Tu rkish lira required reserves 
+will be effective as of the calculation period date d 15 February 2013 and the 
+maintenance period will begin on 1 March 2013. 
+ 

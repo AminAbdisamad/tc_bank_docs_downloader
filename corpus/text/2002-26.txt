@@ -1,128 +1,123 @@
-Number:2002/26
-29 March 2002
-CENTRAL BANK OF THE REPUBLIC OF TURKEY
-PRESS RELEASE
-Regulations on required reserves, liquidity requirement and required
-reserves for special finance houses are revised in regard to our monetary policy
-by taking into consideration the international practices and based on the
-amendments in the Central Bank Law No: 1211 brought by Law No:4651, they are
-rearranged as explained below. The Communiqués on required reserves and
-liquidity requirement issued in the Official Gazette today shall be effective on
-date of issue starting from the tables dated 10.5.2002.
-I-Objective
-1. The main objective of the new regulation is to contribute to the
-deepening and effectiveness of the interbank TL and FX markets and to the
-sound progress of the financial sector towards the level of developed economies,
-without making a concession over the price stability target and weakening the
-control power of the Central Bank over monetary aggregates. Within this
-framework, it is targeted to reduce the intermediary costs of financial
-institutions and to provide more flexibility to enhance their liquidity
-management. Furthermore, the new regulation provides for a more uniform and
-simplified approach to required reserves and liquidity requirement.
-2. By starting to pay interest for FX required reserves, all of the
-required reserves shall be remunerated and the funding costs of the financial
-institutions shall be reduced in this way. In determining the remuneration rates
-for TL and FX required reserves, the developments in the domestic and
-
-international markets regarding interest rates will be taken into consideration.
-However, since the required reserves are considered as riskless assets for
-banks, the remuneration rates shall be kept lower than the market interest
-rates.
-3. Favorable reserve requirement rate for TL liabilities compared to that
-on FX liabilities shall continue to be implemented.
-4. Under the previous regulation, the liquid assets to be maintained for TL
-deposits and TL and FX other liabilities in the form of free deposits were
-calculated as weekly averages. Whereas, in the new regulation the coverage on
-which averaging will be based, is extended. Also, the required reserve
-maintenance period, which was one week, is increased to two weeks.
-5. Extending the coverage on which averaging will be based to include
-reserve requirement as well as lengthening the maintenance period shall
-contribute to the effectiveness of banks’ liquidity management. In this way, the
-likelihood of pressure on interest rates, due to the increase in emission resulting
-from salary payments and due to short term TL liquidity fluctuations resulting
-from tax payments or auction-redemption differences, should diminish. In the
-same manner, since banks shall have more flexibility in their FX liquidity
-management, they shall be able to meet their short-term FX needs from their
-own FX reserves.
-6. Within the framework of the program announced at the beginning of
-2002, the Central Bank shall gradually terminate its intermediary function in TL
-and FX markets. In the meantime, lengthening the maintenance period for
-reserve requirements and increase in average amount of reserve requirement
-shall have great importance in creating depth in TL and FX interbank markets.
-These regulations related to reserve requirements are a part of the regulatory
-framework formed by the regulations on liquidity management announced by the
-
-Central Bank at the beginning of 2002 in order to contribute to the soundness
-of short term interest rates.
-II- Details of the Communiqué on Reserve Requirements
-7. As in current liquidity requirement practice, the TL and FX liabilities of
-banks and special finance houses subject to reserve requirement shall be
-determined by using the amounts to be reached after the deduction of items
-from the total domestic liabilities that are calculated according to accounting
-standards and recording procedures of these institutions, and also the deposits
-and the current and share accounts collected in Turkey on behalf of their
-branches abroad.
-8. The cash portion of reserve requirement, liquidity requirement and
-reserve requirement for special finance houses, which is 6 percent for TL
-liabilities and 11% for FX liabilities, shall be kept as it was.
-9. Considering the fact that special finance houses are subject to the
-Banking Law No: 4389 and related provisions of Central Bank Law, the reserve
-requirements for special finance houses and reserve requirement for banks are
-unified in order to bring uniformity in practices and to apply similar and identical
-requirements for the same liabilities. Thus, the current and share accounts of
-special finance houses as well as their other liabilities are subject to reserve
-requirements. However, since under the previous treatment funds that have
-been borrowed by special finance houses were exempt from legal requirements,
-these funds obtained before the issue date of this Communiqué shall be exempt
-from reserve requirement until their maturity.
-10. Considering the shortness of the maturity structure of banks’
-liabilities, the period for calculation, maintenance and reporting for required
-reserves has been determined to be two weeks each in order to provide the
-required time for reporting.
-
-11. In order to facilitate banks’ liquidity management and to contribute to
-the stability of short term interest rates and exchange rates in this way, the
-coverage of reserves maintained as weekly averages according to the previous
-liquidity requirement is now extended, and 3 percentage points of reserve
-requirement rates for TL and FX are also permitted to be maintained as two week averages.
-12. Those banks (development and investment banks) that were not
-subject to liquidity requirements as most of their liabilities stemmed from
-public duties are now required to build reserves in order to prevent unfair
-competition. However, their liabilities stemming from public duties shall be
-shown under “items to be deducted from liabilities” and excluded from reserve
-requirement. Although not included under “items deductible from liabilities”, the
-funds obtained before the issuance of the new Communiqué by issuing bonds or
-by using loans and that were not subject to legal requirements shall be exempt
-from reserve requirement until their maturity.
-13. In addition to the interest paid on TL required reserves maintained
-for TL deposits since August 8, 2001 according to the previous Communiqué, the
-required reserves for non-deposit TL liabilities and FX liabilities shall be
-remunerated beginning from 24.5.2002.
-14. In cases where reserve requirements are not fulfilled completely and
-on time, for the missing portion of FX reserves that should be maintained,
-penalty interest rate applicable to TL liabilities will be used.
-III- The Details of Communiqué on Liquidity Requirement
-15. The vault cash in TL and foreign exchange has been excluded from the
-liquid assets. The liquidity ratio has been determined as 4 percent for TL
-liabilities and 1 percent for FX liabilities, same as before. Government securities
-
-owned by the banks and maintained in their accounts with the Central Bank of
-Turkey shall be accepted as liquid assets.
-16. In determining liabilities subject to liquidity requirement, liabilities
-for required reserves shall be used.
-17. The one-month period for calculating liabilities and maintaining liquid
-assets is reduced to two weeks.
-18. Due to the fact that a significant portion of the liabilities stem from
-public duties, the banks (development and investment banks), which were not
-previously covered by Liquidity Requirement No: 96/1, shall be taken into the
-coverage of required reserve regulation to avoid unfair competition. However,
-their liabilities stemming from public duties, shall be shown under “items
-deductible from liabilities” and excluded from liquidity requirement. Although
-not included under “items deductible from liabilities,” the funds obtained before
-the issuance of the new Communiqué by issuing bonds or by using loans and that
-were not subject to legal requirements shall be exempt from liquidity
-requirement until their maturity.
-
-Comparison Table
-
-
+Number:2002/26  
+ 
+         29 March 2002  
+ 
+CENTRAL BANK OF THE REPUBLIC OF TURKEY  
+PRESS RELEASE  
+ 
+Regulations on required reserves, liquidity requirement and required 
+reserves for special finance houses are revised in regard to our monetary policy 
+by taking into consideration the international practices and based on the 
+amendments in the Central Bank Law No: 1211 brought by Law No:4651, they are 
+rearranged as explained below. The Communiqué s on required reserves and 
+liquidity requirement issued in the Official Gazette today shall be effective on 
+date of issue starting from the tables dated 10.5.2002.  
+I-Objective  
+1. The main objective of the new regulation is to contribute to the 
+deepening an d effectiveness of the interbank TL and FX markets and to the 
+sound progress of the financial sector towards the level of developed economies, 
+without making a concession over the price stability target and weakening the 
+control  power of the Central Bank o ver monetary aggregates. Within this 
+framework, it is targeted to reduce the intermediary costs of financial 
+institutions and to provide more flexibility to enhance their liquidity 
+management. Furthermore, the new regulation provides for a more uniform and  
+simplified approach to required reserves and liquidity requirement.  
+2. By starting to pay interest for FX required reserves, all of the 
+required reserves shall be remunerated and the funding costs of the financial 
+institutions shall be reduced in this way . In determining the remuneration rates 
+for TL and FX required reserves, the developments in the domestic and international markets regarding interest rates will be taken into consideration. 
+However, since the required reserves are considered as riskless a ssets for 
+banks, the remuneration rates shall be kept lower than the market interest 
+rates.  
+3. Favorable reserve requirement rate for TL liabilities compared to that 
+on FX liabilities shall continue to be implemented.  
+4. Under the previous regulation, the liquid assets to be maintained for TL 
+deposits and TL and FX other liabilities in the form of free deposits were 
+calculated as weekly averages. Whereas, in the new regulation the coverage on 
+which averaging will be based, is extended. Also, the required re serve 
+maintenance period, which was one week, is increased to two weeks.  
+5. Extending the coverage on which averaging will be based to include 
+reserve requirement as well as lengthening the maintenance period shall 
+contribute to the effectiveness of banks’  liquidity management. In this way, the 
+likelihood of pressure on interest rates, due to the increase in emission resulting  
+from salary payments and due to short term TL liquidity fluctuations resulting 
+from tax payments or auction -redemption differences, should diminish. In the 
+same manner, since banks shall have more flexibility in their FX liquidity 
+management, they shall  be able to meet their short -term FX needs from their 
+own FX reserves.  
+6. Within the framework of the program announced at the beginnin g of 
+2002, the Central Bank shall gradually terminate  its intermediary function in TL 
+and FX markets. In the meantime, lengthening the maintenance period for 
+reserve requirements and increase in average amount of reserve requirement 
+shall have great import ance in creating depth in TL and FX interbank markets. 
+These regulations related to reserve requirements are a part of the regulatory 
+framework formed by the regulations on liquidity management announced by the Central Bank at the beginning of 2002 in orde r to contribute to the soundness 
+of short term interest rates.  
+II- Details of the Communiqué on Reserve Requirements  
+7. As in current liquidity requirement practice, the TL and FX liabilities of 
+banks and special finance houses subject to reserve requireme nt shall be 
+determined by using the amounts to be reached after the deduction of items 
+from the total domestic liabilities that are calculated according to accounting 
+standards and recording procedures of these institutions, and also the deposits 
+and the c urrent and share accounts collected in Turkey on behalf of their 
+branches abroad.  
+8. The cash portion of reserve requirement, liquidity requirement and 
+reserve requirement for special finance houses, which is 6 percent for TL 
+liabilities and 11% for FX lia bilities, shall be kept as it was.  
+9. Considering the fact that special finance houses are subject to the 
+Banking Law No: 4389 and related provisions of Central Bank Law, the reserve 
+requirements for special finance houses and reserve requirement for banks  are 
+unified in order to bring uniformity in practices and to apply similar and identical 
+requirements for the same liabilities. Thus, the current and share accounts of 
+special finance houses as well as their other liabilities are subject to reserve 
+requir ements. However, since under the previous treatment funds that have 
+been borrowed by special finance houses were exempt from legal requirements, 
+these funds obtained before the issue date of this Communiqué shall be exempt 
+from reserve requirement until th eir maturity.  
+10. Considering the shortness of the maturity structure of banks’ 
+liabilities, the period for calculation, maintenance and reporting for required 
+reserves has been determined to be two weeks each in order to provide the 
+required time for repo rting.  11. In order to facilitate banks’ liquidity management and to contribute to 
+the stability of short term interest rates and exchange rates in this way, the 
+coverage of reserves maintained as weekly averages according to the previous 
+liquidity require ment is now extended, and 3 percentage points of reserve 
+requirement rates for TL and FX are also permitted to be maintained as two -
+week averages.  
+12. Those banks (development and investment banks) that were not 
+subject to liquidity requirements as most o f their liabilities stemmed from 
+public duties are now required to build reserves in order to prevent unfair 
+competition. However, their liabilities stemming from public duties shall be 
+shown under “items to be deducted from liabilities” and excluded from reserve 
+requirement. Although not included under “items deductible from liabilities”, the 
+funds obtained before the issuance of the new Communiqué by issuing bonds or 
+by using loans and that were not subject to legal requirements shall be exempt 
+from reser ve requirement until their maturity.  
+13. In addition to the interest paid on TL required reserves maintained 
+for TL deposits since August 8, 2001 according to the previous Communiqué, the 
+required reserves for non -deposit TL liabilities and FX liabilities  shall be 
+remunerated beginning from 24.5.2002.  
+14. In cases where reserve requirements are not fulfilled completely and 
+on time, for the missing portion of FX reserves that should be maintained, 
+penalty interest rate applicable to TL liabilities will be u sed. 
+III- The Details of Communiqué on Liquidity Requirement  
+15. The vault cash in TL and foreign exchange has been excluded from the 
+liquid assets. The liquidity ratio has been determined as 4 percent for TL 
+liabilities and 1 percent for FX liabilities, same as before. Government securities owned by the banks and maintained in their accounts with the Central Bank of 
+Turkey shall be accepted as liquid assets.  
+16. In determining liabilities subject to liquidity requirement, liabi lities 
+for required reserves shall be used.  
+17. The one -month period for calculating liabilities and maintaining liquid  
+assets is reduced to two weeks.  
+18. Due to the fact that a significant portion of the liabilities stem from 
+public duties, the banks (de velopment and investment banks), which were not 
+previously covered by Liquidity Requirement No: 96/1, shall be taken into the 
+coverage of required reserve regulation to avoid unfair competition. However, 
+their liabilities stemming from public duties, shall  be shown under “items 
+deductible from liabilities” and excluded from liquidity requirement.  Although 
+not included under “items deductible from liabilities,” the funds obtained before 
+the issuance of the new Communiqué by issuing bonds or by using loans a nd that 
+were not subject to legal requirements shall be exempt from liquidity 
+requirement until their maturity.  
+ 
+Comparison Table  
+ 

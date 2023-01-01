@@ -1,12 +1,12 @@
-Number: 2005 -26
-29 June 2005
-
-THE CBRT PRESS RELEASE
-
-As of 1 July 2005, “New Romanian Leu” will be put into circulation by dropping four zeros
-from “Leu” which is the Romanian legal tender. Starting from that date, the exchange rates on
-“Romanian Leu” banknotes that are currently announced daily by the Central Bank of Turkey for
-“100 Romanian Lei” in the list of the “CBRT Indicative Exchange Rates” will be announced for “1
-New Romanian Leu”.
-
-
+Number: 2005 -26 
+29 June 2005  
+ 
+ 
+THE CBRT PRESS RELEASE  
+ 
+ 
+As of 1 July 2005, “New Romanian Leu” will be put into circulation by dropping four zeros 
+from “Leu” which is the Romanian legal tender. Starting from that date, the exchange rates on 
+“Romanian Leu” banknotes that are currently  announced daily by the Central Bank of Turkey for 
+“100 Romanian Lei” in the list of the “CBRT Indicative Exchange Rates”  will be announced for “1 
+New Romanian Leu”.  

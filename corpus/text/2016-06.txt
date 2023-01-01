@@ -1,208 +1,174 @@
-HEAD OFFICE
-
-ANKARA, ………………….
-
-Please refer to:
-
-B.02.2.TCM.0.00.00.00-
-
-Mehmet ŞİMŞEK
-DEPUTY PRIME MINISTER
-ANKARA
-
-As stipulated in the Article 42 of the Central Bank Law, in the case of a significant
-breach of the inflation target, the Central Bank of the Republic of Turkey (the Central Bank) is
-accountable for reporting to the Government and announcing to the public the reasons behind
-the breach of the target and the necessary measures to be taken. As stated in the main policy
-document titled “Monetary and Exchange Rate Policy in 2015”, which was published on
-December 10, 2014; the inflation target for 2015 was set jointly with the Government as 5
-percent. In the same document, it was also indicated that the Central Bank would write an open
-letter to the Government should end-year inflation exceed the target significantly (by more than
-2 percentage points in either direction). Inflation reached 8.81 percent at end-2015, notably
-exceeding the target. This text elaborates on the reasons why the target was missed and explains
-the measures already taken—and to be taken—to bring inflation back to the target.
-Factors Affecting Inflation in 2015
-In the first Inflation Report of 2015 (IR 2015/I), the mid-point of the year-end inflation
-forecast was given as 5.5 percent. However, deviations from the underlying assumptions and
-developments affecting the dynamics of inflation over the year caused inflation to end the year
-above the uncertainty band.
-The main factors causing inflation to breach the target in 2015 are the cumulative
-increases in the exchange rate and the elevated course of food prices. The food and exchange
-rate-driven prolonged pressures not only had direct impacts on inflation but also strengthened
-the underlying inflation trend through the expectations channel. The elevated CPI inflation
-causes inflation to remain high in categories where the backward-looking behavior is strong,
-particularly in services.
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-(CENTRAL BANK OF THE REPUBLIC OF TURKEY)
-
-Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altındağ-ANKARA
-Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40
-E-Mail: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Web: http://www.tcmb.gov.tr
-
-Emerging market currencies have depreciated dramatically since mid-2013 amid
-heightened uncertainty over global monetary policies. Both this outlook and domestic
-uncertainties of 2015 caused the Turkish lira to depreciate by about 20 percent against the
-foreign currency basket in 2015. The direct (first-round) effects of the depreciation were clearly
-observed in core inflation through the core goods channel. Accordingly, core goods made the
-largest contribution to CPI inflation as of the end of 2015.
-The large cumulative increases in the exchange rate passed through to prices of food and
-services as well. Inflation in these categories also reflected the second-round effects of the
-Turkish lira depreciation due to the deterioration in pricing behavior and expectations. Despite
-the marked decline in import prices, particularly in international oil prices, exchange rate
-changes brought inflation up by about 3 points as of end-2015.
-Another factor causing inflation to remain above the projected level was the annual food
-price inflation that climbed as high as 10.9 percent, well above target-consistent levels. Food
-prices also affected services inflation adversely across 2015 through catering services. In 2015,
-the net effect of administered prices for items such as electricity, natural gas, alcoholic
-beverages and tobacco on inflation was consistent with the forecasts presented in the January
-2015 Inflation Report.
-In sum, although 2015, a year the tight monetary stance and macroprudential measures
-held domestic demand and loan growth in check, was marked by plummeting import prices,
-inflation exceeded the target due to the strengthened inflation trend caused by both exchange
-rate and food price developments and deteriorating expectations. However, the ongoing decline
-in oil prices and the recent relatively stable exchange rate outlook are expected to drive
-inflation down over 2016. Yet, the large adjustment made to net minimum wages for 2016 will
-have an impact on inflation in coming months.
-Measures Taken to Attain the Inflation Target
-In order to contain the negative effects of the cumulative Turkish lira depreciation on
-inflation and inflation expectations, the Central Bank maintained a tight monetary policy stance
-throughout 2015. To this end, the one-week repo rate, the overnight lending rate and the
-overnight borrowing rate have been kept unchanged at 7.5, 10.75 and 7.25 percent,
-respectively, since March 2015. Meanwhile, liquidity policy was tightened and the average
-funding rate was gradually raised through an increase in the share of marginal funding in total
-Central Bank funding (Chart 1). The average funding rate, which was set at around 7.8 percent
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-(CENTRAL BANK OF THE REPUBLIC OF TURKEY)
-
-Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altındağ-ANKARA
-Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40
-E-Mail: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Web: http://www.tcmb.gov.tr
-
-by March 2015, reached nearly 8.9 percent as of January 2016. Moreover, owing to the tight
-liquidity policy the BIST overnight repo rates hovered near the upper band of the corridor
-through the entire year. Considering the effects of wage developments and global market
-uncertainties on inflation expectations and the pricing behavior as well as the volatilities in
-energy and unprocessed food prices in the upcoming period, the Central Bank will maintain the
-tight liquidity policy stance as long as deemed necessary.
-Chart 1
-CBRT Rates and BIST Interbank O/N Repo Rates
-(Percent)
-
-Chart 2
-Annualized Credit Growth Rates (Adjusted for Exchange Rate, 13Week Moving Average, Percent)
-
-Source: BIST, CBRT.
-Source: CBRT.
-
-The annual growth rate of loans extended to the non-financial sector, which decelerated
-partly due to the Central Bank’s tight monetary policy stance and the macroprudential measures
-introduced by the BRSA regarding consumer loans excluding mortgage, fell to 13.6 percent,
-adjusted for the effects of the exchange rate, in 2015. Commercial loans have been growing at a
-faster pace than consumer loans since the first quarter of 2014 (Chart 2). These developments in
-loan growth and loan composition are expected to contribute to the rebalancing process and
-financial stability as well as to limit the effects of the recent cost pressures on inflation.
-Besides interest rate and Turkish lira liquidity policies, the Central Bank continues to
-use other policy instruments that stabilize foreign exchange liquidity and support financial
-stability. On the foreign exchange front; in 2015, the amount of FX selling auctions were set
-more flexibly, reserve option coefficients (ROCs) and remuneration on Turkish lira required
-reserves were adjusted to inject foreign exchange liquidity into the financial system and the
-interest rates on FX deposits that the banks can borrow from the Central Bank within their
-borrowing limits at the FX deposit market were gradually lowered. Moreover, as stated in the
-road map announced in August, transaction limits for banks at the Central Bank Foreign
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-(CENTRAL BANK OF THE REPUBLIC OF TURKEY)
-
-Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altındağ-ANKARA
-Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40
-E-Mail: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Web: http://www.tcmb.gov.tr
-
-Exchange and Banknotes Markets were raised. Accordingly, the sum of deposit limits allocated
-to banks and gold and foreign exchange assets held at the Central Bank under the ROM reached
-a level that is considerably above the external debt payments of banks in one year’s time.
-With a series of measures since end-2014 with regard to FX required reserves and
-remuneration rates on Turkish lira required reserves, the Central Bank aimed to support core
-Turkish lira liabilities and prompt the extension of the maturity of non-core FX liabilities.
-These measures proved effective in extending the maturity of FX liabilities and suspending the
-upward trend in the loan to deposit ratio. The road map announced in August features
-additional measures to be taken in this context. In addition to interest rate and Turkish lira
-liquidity policies, such policies, which help to stabilize the FX liquidity and support financial
-stability, will cushion the Turkish economy against possible external shocks, and thus, limit
-repercussions from any upcoming global uncertainties on inflation and macroeconomic stability
-to a large extent.
-Given a decisive policy stance that focuses on bringing inflation down, the 5-percent
-target is expected to be achieved gradually; inflation is likely to stabilize around 5 percent as of
-2018 after falling to 7.5 percent in 2016 and to 6 percent in 2017 (Chart 3). The risks to the
-inflation outlook are analyzed in the January 2016 Inflation Report.
-
-Chart 3
-Inflation and Output Gap Forecasts
-
-*Shaded region indicates the 70 percent confidence interval for the forecast.
-
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-(CENTRAL BANK OF THE REPUBLIC OF TURKEY)
-
-Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altındağ-ANKARA
-Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40
-E-Mail: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Web: http://www.tcmb.gov.tr
-
-Conclusion
-Notwithstanding the significant external shocks in recent years, the current policy
-framework limited the worsening in inflation and inflation expectations. Price stability is yet to
-be achieved. Ten years of experience with inflation targeting has shown that the fight against
-inflation requires collaboration from all relevant parties. Government income and wage policies
-as well as structural issues related to food prices are important components in this endeavor.
-Moreover, macroprudential policies towards prudential borrowing also facilitate the fight
-against inflation by supporting a balanced growth. Thus, bringing inflation permanently down
-to the 5-percent target requires all institutions to continue resolutely with the efforts made in
-recent years.
-The Central Bank will continue to do its part to fight against inflation in 2016. Inflation
-expectations have deteriorated notably in recent months due to minimum wage developments
-and the high core inflation driven by cumulative exchange rate pass-through effects. The
-Central Bank monitors the pricing behavior closely and adjusts the degree of tightening within
-the wide interest rate corridor to contain inflationary pressures. A flexible policy framework,
-coupled with a variety of instruments enabling a multi-dimensional approach, enhances the
-effectiveness of monetary policy in an environment of heightened global volatility. Against this
-backdrop, upside inflationary risks will be monitored carefully in the upcoming period and all
-policy instruments will be used to bring inflation down in 2016.
-The January 2016 Inflation Report, published today on our website, which
-comprehensively presents the developments regarding inflation and monetary policy as well as
-our medium-term forecasts, is enclosed for your information.
-Yours sincerely,
-CENTRAL BANK OF THE REPUBLIC OF TURKEY
-Head Office
-Erdem Başçı
-Governor
-
-Mehmet Yörükoğlu
-Deputy Governor
-
-Enc: January 2016 Inflation Report
-TÜRKİYE CUMHURİYET MERKEZ BANKASI A.Ş.
-TİCARET SİCİL NUMARASI: 269
-SERMAYESİ: 25.000 TL
-İDARE MERKEZİ, ANKARA
-(CENTRAL BANK OF THE REPUBLIC OF TURKEY)
-
-Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altındağ-ANKARA
-Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40
-E-Mail: iletisimbilgi@tcmb.gov.tr Swift: tcmbtr2a
-Web: http://www.tcmb.gov.tr
-
-
+ 
+ 
+ 
+HEAD OFFICE   ANKARA, …………………. 
+Please refer to: 
+ TÜRK İYE CUMHUR İYET MERKEZ BANKASI  A. Ş. Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altında ğ-ANKARA 
+ T İCARET S İCİL NUMARASI: 269 Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40 
+ SERMAYES İ: 25.000 TL  E-Mail: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a 
+ İDARE MERKEZ İ, ANKARA Web: http://www.tcmb.gov.tr  
+               (CENTRAL BANK OF THE REPUBLIC OF TUR KEY) 
+ B.02.2.TCM.0.00.00.00- 
+ 
+ 
+Mehmet Şİ MŞEK 
+DEPUTY PRIME MINISTER 
+ANKARA 
+ 
+As stipulated in the Article 42 of the Central Bank  Law, in the case of a significant 
+breach of the inflation target, the Central Bank of  the Republic of Turkey (the Central Bank) is 
+accountable for reporting to the Government and ann ouncing to the public the reasons behind 
+the breach of the target and the necessary measures  to be taken. As stated in the main policy 
+document titled “Monetary and Exchange Rate Policy in 2015”, which was published on 
+December 10, 2014; the inflation target for 2015 wa s set jointly with the Government as 5 
+percent. In the same document, it was also indicate d that the Central Bank would write an open 
+letter to the Government should end-year inflation exceed the target significantly (by more than 
+2 percentage points in either direction). Inflation  reached 8.81 percent at end-2015, notably 
+exceeding the target. This text elaborates on the r easons why the target was missed and explains 
+the measures already taken—and to be taken—to bring  inflation back to the target. 
+Factors Affecting Inflation in 2015  
+In the first Inflation Report of 2015 (IR 2015/I), the mid-point of the year-end inflation 
+forecast was given as 5.5 percent. However, deviati ons from the underlying assumptions and 
+developments affecting the dynamics of inflation ov er the year caused inflation to end the year 
+above the uncertainty band.   
+The main factors causing inflation to breach the ta rget in 2015 are the cumulative 
+increases in the exchange rate and the elevated cou rse of food prices. The food and exchange 
+rate-driven prolonged pressures not only had direct  impacts on inflation but also strengthened 
+the underlying inflation trend through the expectat ions channel. The elevated CPI inflation 
+causes inflation to remain high in categories where  the backward-looking behavior is strong, 
+particularly in services.   TÜRK İYE CUMHUR İYET MERKEZ BANKASI  A. Ş. Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altında ğ-ANKARA 
+ T İCARET S İCİL NUMARASI: 269 Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40 
+ SERMAYES İ: 25.000 TL  E-Mail: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a 
+ İDARE MERKEZ İ, ANKARA Web: http://www.tcmb.gov.tr  
+               (CENTRAL BANK OF THE REPUBLIC OF TUR KEY) 
+ Emerging market currencies have depreciated dramati cally since mid-2013 amid 
+heightened uncertainty over global monetary policie s. Both this outlook and domestic 
+uncertainties of 2015 caused the Turkish lira to de preciate by about 20 percent against the 
+foreign currency basket in 2015. The direct (first- round) effects of the depreciation were clearly 
+observed in core inflation through the core goods c hannel. Accordingly, core goods made the 
+largest contribution to CPI inflation as of the end  of 2015.  
+The large cumulative increases in the exchange rate  passed through to prices of food and 
+services as well. Inflation in these categories als o reflected the second-round effects of the 
+Turkish lira depreciation due to the deterioration in pricing behavior and expectations. Despite 
+the marked decline in import prices, particularly i n international oil prices, exchange rate 
+changes brought inflation up by about 3 points as o f end-2015.  
+Another factor causing inflation to remain above th e projected level was the annual food 
+price inflation that climbed as high as 10.9 percen t, well above target-consistent levels. Food 
+prices also affected services inflation adversely a cross 2015 through catering services. In 2015, 
+the net effect of administered prices for items suc h as electricity, natural gas, alcoholic 
+beverages and tobacco on inflation was consistent w ith the forecasts presented in the January 
+2015 Inflation Report.  
+In sum, although 2015, a year the tight monetary st ance and macroprudential measures 
+held domestic demand and loan growth in check, was marked by plummeting import prices, 
+inflation exceeded the target due to the strengthen ed inflation trend caused by both exchange 
+rate and food price developments and deteriorating expectations. However, the ongoing decline 
+in oil prices and the recent relatively stable exch ange rate outlook are expected to drive 
+inflation down over 2016. Yet, the large adjustment  made to net minimum wages for 2016 will 
+have an impact on inflation in coming months. 
+Measures Taken to Attain the Inflation Target  
+In order to contain the negative effects of the cum ulative Turkish lira depreciation on 
+inflation and inflation expectations, the Central B ank maintained a tight monetary policy stance 
+throughout 2015. To this end, the one-week repo rat e, the overnight lending rate and the 
+overnight borrowing rate have been kept unchanged a t 7.5, 10.75 and 7.25 percent, 
+respectively, since March 2015. Meanwhile, liquidit y policy was tightened and the average 
+funding rate was gradually raised through an increa se in the share of marginal funding in total 
+Central Bank funding (Chart 1). The average funding  rate, which was set at around 7.8 percent  TÜRK İYE CUMHUR İYET MERKEZ BANKASI  A. Ş. Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altında ğ-ANKARA 
+ T İCARET S İCİL NUMARASI: 269 Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40 
+ SERMAYES İ: 25.000 TL  E-Mail: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a 
+ İDARE MERKEZ İ, ANKARA Web: http://www.tcmb.gov.tr  
+               (CENTRAL BANK OF THE REPUBLIC OF TUR KEY) 
+ by March 2015, reached nearly 8.9 percent as of Jan uary 2016. Moreover, owing to the tight 
+liquidity policy the BIST overnight repo rates hove red near the upper band of the corridor 
+through the entire year. Considering the effects of  wage developments and global market 
+uncertainties on inflation expectations and the pri cing behavior as well as the volatilities in 
+energy and unprocessed food prices in the upcoming period, the Central Bank will maintain the 
+tight liquidity policy stance as long as deemed nec essary. 
+Chart 1  
+CBRT Rates and BIST Interbank O/N Repo Rates  
+(Percent) Chart 2  
+Annualized Credit Growth Rates (Adjusted for Exchan ge Rate, 13-
+Week Moving Average, Percent) 
+ 
+ 
+Source: BIST, CBRT.  
+Source: CBRT. 
+ 
+The annual growth rate of loans extended to the non -financial sector, which decelerated 
+partly due to the Central Bank’s tight monetary pol icy stance and the macroprudential measures 
+introduced by the BRSA regarding consumer loans exc luding mortgage, fell to 13.6 percent, 
+adjusted for the effects of the exchange rate, in 2 015. Commercial loans have been growing at a 
+faster pace than consumer loans since the first qua rter of 2014 (Chart 2). These developments in 
+loan growth and loan composition are expected to co ntribute to the rebalancing process and 
+financial stability as well as to limit the effects  of the recent cost pressures on inflation. 
+Besides interest rate and Turkish lira liquidity po licies, the Central Bank continues to 
+use other policy instruments that stabilize foreign  exchange liquidity and support financial 
+stability. On the foreign exchange front; in 2015, the amount of FX selling auctions were set 
+more flexibly, reserve option coefficients (ROCs) a nd remuneration on Turkish lira required 
+reserves were adjusted to inject foreign exchange l iquidity into the financial system and the 
+interest rates on FX deposits that the banks can bo rrow from the Central Bank within their 
+borrowing limits at the FX deposit market were grad ually lowered. Moreover, as stated in the 
+road map announced in August, transaction limits fo r banks at the Central Bank Foreign  
+  TÜRK İYE CUMHUR İYET MERKEZ BANKASI  A. Ş. Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altında ğ-ANKARA 
+ T İCARET S İCİL NUMARASI: 269 Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40 
+ SERMAYES İ: 25.000 TL  E-Mail: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a 
+ İDARE MERKEZ İ, ANKARA Web: http://www.tcmb.gov.tr  
+               (CENTRAL BANK OF THE REPUBLIC OF TUR KEY) 
+ Exchange and Banknotes Markets were raised. Accordi ngly, the sum of deposit limits allocated 
+to banks and gold and foreign exchange assets held at the Central Bank under the ROM reached 
+a level that is considerably above the external deb t payments of banks in one year’s time. 
+With a series of measures since end-2014 with regar d to FX required reserves and 
+remuneration rates on Turkish lira required reserve s, the Central Bank aimed to support core 
+Turkish lira liabilities and prompt the extension o f the maturity of non-core FX liabilities. 
+These measures proved effective in extending the ma turity of FX liabilities and suspending the 
+upward trend in the loan to deposit ratio. The road  map announced in August features 
+additional measures to be taken in this context. In  addition to interest rate and Turkish lira 
+liquidity policies, such policies, which help to st abilize the FX liquidity and support financial 
+stability, will cushion the Turkish economy against  possible external shocks, and thus, limit 
+repercussions from any upcoming global uncertaintie s on inflation and macroeconomic stability 
+to a large extent. 
+Given a decisive policy stance that focuses on brin ging inflation down, the 5-percent 
+target is expected to be achieved gradually; inflat ion is likely to stabilize around 5 percent as of 
+2018 after falling to 7.5 percent in 2016 and to 6 percent in 2017 (Chart 3). The risks to the 
+inflation outlook are analyzed in the January 2016 Inflation Report. 
+ 
+Chart 3  
+Inflation and Output Gap Forecasts 
+ 
+*Shaded region indicates the 70 percent confidence interval for the forecast. 
+  TÜRK İYE CUMHUR İYET MERKEZ BANKASI  A. Ş. Anafartalar Mh. İstiklal Cad. No:10 06050 Ulus Altında ğ-ANKARA 
+ T İCARET S İCİL NUMARASI: 269 Tel: (90 - 312) 507 50 00 Fax: (90 - 312) 507 56 40 
+ SERMAYES İ: 25.000 TL  E-Mail: iletisimbilgi@tcmb.gov.tr  Swift: tcmbtr2a 
+ İDARE MERKEZ İ, ANKARA Web: http://www.tcmb.gov.tr  
+               (CENTRAL BANK OF THE REPUBLIC OF TUR KEY) 
+ Conclusion 
+Notwithstanding the significant external shocks in recent years, the current policy 
+framework limited the worsening in inflation and in flation expectations. Price stability is yet to 
+be achieved. Ten years of experience with inflation  targeting has shown that the fight against 
+inflation requires collaboration from all relevant parties. Government income and wage policies 
+as well as structural issues related to food prices  are important components in this endeavor. 
+Moreover, macroprudential policies towards prudenti al borrowing also facilitate the fight 
+against inflation by supporting a balanced growth. Thus, bringing inflation permanently down 
+to the 5-percent target requires all institutions t o continue resolutely with the efforts made in 
+recent years. 
+The Central Bank will continue to do its part to fi ght against inflation in 2016. Inflation 
+expectations have deteriorated notably in recent mo nths due to minimum wage developments 
+and the high core inflation driven by cumulative ex change rate pass-through effects. The 
+Central Bank monitors the pricing behavior closely and adjusts the degree of tightening within 
+the wide interest rate corridor to contain inflatio nary pressures. A flexible policy framework, 
+coupled with a variety of instruments enabling a mu lti-dimensional approach, enhances the 
+effectiveness of monetary policy in an environment of heightened global volatility. Against this 
+backdrop, upside inflationary risks will be monitor ed carefully in the upcoming period and all 
+policy instruments will be used to bring inflation down in 2016. 
+The January 2016 Inflation Report, published today on our website, which 
+comprehensively presents the developments regarding  inflation and monetary policy as well as 
+our medium-term forecasts, is enclosed for your inf ormation. 
+Yours sincerely, 
+CENTRAL BANK OF THE REPUBLIC OF TURKEY 
+        Head Office 
+ 
+   Erdem Ba şçı                  Mehmet Yörüko ğlu 
+      Governor                    Deputy Governor 
+ 
+ 
+ 
+Enc: January 2016 Inflation Report  
