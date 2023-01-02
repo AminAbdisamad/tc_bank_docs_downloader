@@ -8,6 +8,9 @@ requests = "*"
 beautifulsoup4 = "*"
 pdftotext = "*"
 pypdf2 = "*"
+pytesseract = "*"
+pillow = "*"
+pdf2image = "*"
 
 [dev-packages]
 black = "*"

@@ -23,7 +23,7 @@ def convert_pdf_to_text():
 
 if __name__ == "__main__":
     start_time = time.time()
-    # convert_pdf_to_text()
+    convert_pdf_to_text()
 
     print(f"--- {time.time() - start_time} seconds ---")
 

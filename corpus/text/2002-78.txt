@@ -1,163 +1,187 @@
-1R
-6HSWHPEHU
-
-35(665(/($6(
-
-$VUHLWHUDWHGLQWKHDQQRXQFHPHQWVDQGSUHVHQWDWLRQVPDGHE\WKH&HQWUDO%DQNRIWKH
-5HSXEOLFRI7XUNH\VLQFHWKHWXUQRIWKH\HDUWUDQVSDUHQF\LQWKHSROLFLHVSURMHFWVDQG
-RSHUDWLRQVDQGVKDULQJLQIRUPDWLRQWKHUHWRLVDJOREDOO\DFFHSWHGSUDFWLFHRIWKHDXWRQRPRXV
-&HQWUDO%DQNZLWKLQWKHIUDPHZRUNRIWKHDFFRXQWDELOLW\SULQFLSOH
-
-7KLVWLPHLQRUGHUWRSURYLGHLQIRUPDWLRQWRWKHSXEOLFZLWKLQWKHFRQWH[WRIWKH5LVN
-&HQWHURSHUDWLRQVWKHWRWDOQXPEHUDQGDPRXQWRISURWHVWHGELOOVWKDWH[LVWDPRQJWKHGDWD
-SURYLGHGRQWKHZHEVLWHRIRXU%DQNDUHDFNQRZOHGJHGRQDFLW\EDVLVWRHQDEOHPRUHGHWDLOHG
-DQDO\VLV$GGLWLRQDOO\WKHGHYHORSPHQWVWKDWZLOOLQFXUZLWKLQWKHFRQWH[WRIWKH5LVN&HQWHU
-RSHUDWLRQVZLOOEHDQQRXQFHGWRSXEOLFDVZHOO
-
-:LWKLQWKLVIUDPHZRUNLQIRUPDWLRQRQWKHSROLFLHVDQGSUDFWLFHVRIWKH5LVN&HQWHULV
-EULHIO\SUHVHQWHGEHORZ
-
-7KH5LVN&HQWHUZDVHVWDEOLVKHGLQZLWKWKHDLPRINQRZLQJDQGPRQLWRULQJWKH
-FRXQWU\ZLGHFUHGLWYROXPHDQGLWVVHFWRUDOEUHDNGRZQSUHYHQWLQJH[WHQVLRQRIFUHGLWWRD
-SHUVRQRUOHJDOHQWLW\H[FHHGLQJLWVSD\PHQWFDSDFLW\DQGWKURXJKSUHYHQWLRQRIULVNHQVXULQJ
-WKDWWUXVWZLWKWKHEDQNLQJVHFWRULVVXVWDLQHG7KH5LVN&HQWHUKDVDVVXPHGLWVILQDOVWUXFWXUH
-ZLWK$UWLFOHRIWKH&HQWUDO%DQN/DZ1RDVDPHQGHGE\$UWLFOHRIWKH%DQNLQJ
-/DZ1RGDWHG
-
-,Q$UWLFOHRIWKH&HQWUDO%DQN/DZ1RLWLVVWDWHGWKDWWKH&HQWUDO%DQNVKDOO
-HVWDEOLVKD5LVN&HQWHULQRUGHUWRFHQWUDOL]HLQIRUPDWLRQRQWKHULVNVRIWKHFXVWRPHUVRIWKH
-EDQNVVSHFLDOILQDQFHLQVWLWXWLRQVILQDQFLDOOHDVLQJFRPSDQLHVIDFWRULQJFRPSDQLHV
-FRQVXPHUILQDQFHFRPSDQLHVDQGVXFKRWKHUILQDQFLDOLQVWLWXWLRQVRSHUDWLQJLQ7XUNH\DQG
-VKDOOH[FKDQJHLQIRUPDWLRQZLWKWKHPHQWLRQHGLQVWLWXWLRQV
- ,QIRUPDWLRQRQFUHGLWOLPLWVDQGULVNVRIWKHFXVWRPHUVDUHVXEMHFWWRH[FKDQJH
-EHWZHHQRXU%DQNDQGDOOWKHLQVWLWXWLRQVPHQWLRQHGDERYHDQGLQIRUPDWLRQRQSURWHVWHGELOOV
-DQGQRQSHUIRUPLQJFRQVXPHUFUHGLWVDUHVXEMHFWWRH[FKDQJHEHWZHHQEDQNVVSHFLDOILQDQFH
-LQVWLWXWLRQVDQGRXU%DQN
-
-7KHDIRUHPHQWLRQHGLQVWLWXWLRQVDUHREOLJHGWRVXEPLWDOOWKHLQIRUPDWLRQRQULVN
-FRQGLWLRQVRIWKHLUFXVWRPHUVUHTXHVWHGE\WKH%DQNZLWKLQWKHSHULRGDQGLQFRQIRUPLW\ZLWK
-WKHIRUPDWVSHFLILHGE\WKH%DQN,QIRUPDWLRQRQFUHGLWOLPLWVDQGULVNLQIRUPDWLRQRIWKH
-FXVWRPHUVRIWKHEDQNVDQGVSHFLDOILQDQFHLQVWLWXWLRQVDVZHOODVQRQSHUIRUPLQJFRQVXPHU
-FUHGLWLQIRUPDWLRQDUHUHSRUWHGWRRXU%DQNRQDPRQWKO\EDVLVWKHLQIRUPDWLRQRQSURWHVWHG
-ELOOVLVUHSRUWHGHYHU\GD\VDQGLQIRUPDWLRQRQULVNVRIFXVWRPHUVRIOHDVLQJDQGIDFWRULQJ
-FRPSDQLHVLVUHSRUWHGHYHU\WZRPRQWKV7KHLQIRUPDWLRQFROOHFWHGDWRXU%DQNLV
-FRQVROLGDWHGDQGIHHGEDFNLVSURYLGHGWRWKHDIRUHPHQWLRQHGLQVWLWXWLRQV
-
-:LWKWKHDLPRIDVVLVWLQJEDQNVLQGHWHUPLQLQJWKHFUHGLELOLW\RIWKHLUFXVWRPHUVDQG
-FUHGLWH[WHQVLRQGHFLVLRQV7KH5LVN&HQWHUUHJXODUO\SURYLGHVFRQVROLGDWHGDQGXSWRGDWH
-LQIRUPDWLRQWRWKHEDQNVRQWRWDOFUHGLWVXVHGE\WKHFXVWRPHUVWKDWWKHEDQNVDUHSODQQLQJWR
-H[WHQGFUHGLWVRUFXVWRPHUVWKDWKDYHDOUHDG\EHHQH[WHQGHGFUHGLWVRQSURWHVWHGELOOVDQG
-QRQSHUIRUPLQJFRQVXPHUFUHGLWV$OOWKHRSHUDWLRQVDQGUHFRUGVRIWKH5LVN&HQWHUDUH
-FRQILGHQWLDODQGWKH%DQNPD\RQO\SURYLGHWKHDIRUHPHQWLRQHGLQVWLWXWLRQVZLWKLQIRUPDWLRQ
-RQWKHULVNVRIWKHLUFXVWRPHUVDQGRQWKRVHZKRUHTXHVWFUHGLWV
-
-$VWKH5LVN&HQWHURSHUDWLRQVDUHIUHHRIFKDUJHWKHEDQNV¶LQWHOOLJHQFHH[SHQVHVDUH
-GHFUHDVHGVXEVWDQWLDOO\
-
-7KHV\VWHPWHFKQLFDOLQIUDVWUXFWXUHRIZKLFKLVFRPSOHWHGDQGXSGDWHGFRQWLQXRXVO\
-SDUDOOHOWRSURJUHVVLQILQDQFLDOVHFWRUSURYLGHVLPPHGLDWHGDWDIORZLQHOHFWURQLFPHGLXPDQG
-LVQRWRQO\RSHQWRGHYHORSPHQWVEXWDOVRKDVDQLQWHQVLYHGDWDSURFHVVLQJVXSSRUWZLWK
-FRPSOHWHVHFXULW\
-
-7KHGDWDFROOHFWHGDWWKH5LVN&HQWHUDOVRFRQVWLWXWHVDQLPSRUWDQWLQIRUPDWLRQVRXUFH
-IRUWKHDVVHVVPHQWRIWKHJHQHUDOVLWXDWLRQRIWKHHFRQRP\'HYHORSPHQWVLQFUHGLWDPRXQWV
-DQGWKHQXPEHUDQGDPRXQWRIWKHSURWHVWHGELOOVDUHSUHOLPLQDU\LQGLFDWRUVDVWRZKHWKHUWKH
-HFRQRP\LVLQFRQWUDFWLRQRUH[SDQVLRQWUHQG 
-$VEDQNLQJVHFWRUKDVXQGHUJRQHDUHVWUXFWXULQJSURFHVVFUHGLWULVNKDVDVVXPHGD
-JUHDWHULPSRUWDQFHDQGWDNLQJLQWRFRQVLGHUDWLRQWKHQHHGVLQULVNPRQLWRULQJDQGDVVHVVPHQW
-RIFUHGLWULVNWKHHIIRUWVWRZDUGVGHYHORSPHQWRIWKHLQIRUPDWLRQH[FKDQJHRSHUDWLRQVDUH
-EHLQJSXUVXHG
-
-7KHLPSOHPHQWDWLRQFKDQJHVWKDWKDYHHLWKHUEHHQXQGHUWDNHQLQWKHODVWWZR\HDUVDQG
-WKHRQHVWREHFDUULHGRXWLQWKHIRUWKFRPLQJSHULRGDUHKHUHXQGHUOLVWHGE\WLWOHV
-
-
-,&+$1*(67+$7+$9(%((181'(57$.(1
-
-L,QFRUSRUDWLRQRIWKH/HDVLQJDQG)DFWRULQJFRPSDQLHVLQWRWKHV\VWHP
-:LWKWKHDLPRILQFRUSRUDWLQJWKHULVNLQIRUPDWLRQLQWRWKHILQDQFLDOV\VWHPDORQJ
-ZLWKEDQNVDQGVSHFLDOILQDQFHLQVWLWXWLRQVFUHGLWOLPLWDQGULVNLQIRUPDWLRQRIWKHFXVWRPHUV
-RIOHDVLQJDQGIDFWRULQJFRPSDQLHVKDYHDOVREHFRPHVXEMHFWWRH[FKDQJHDVRI-XO\
-
-LL0DWXULW\%UHDNGRZQ
-:LWKWKHDLPRIDFKLHYLQJDPRUHGHWDLOHGPRQLWRULQJRIWKHPDWXULW\JURXSVRI
-FUHGLWVWKHFUHGLWPDWXULW\EUHDNGRZQZKLFKZDVIRUPHUO\GLYLGHGDVVKRUWWHUPDQGPHGLXP
-ORQJWHUPKDVEHHQFKDQJHGDV>LQFOXGHG@PRQWKV>LQFOXGHG@PRQWKVDQG
-PRQWKV7KHQHZWHUPVKDYHWDNHQHIIHFWDVRI$XJXVW
-
-LLL)LQDQFH&RGHV
-3DUDOOHOWRWKHGHYHORSPHQWVLQHFRQRPLFDFWLYLWLHVLWZDVUHTXLUHGWKDWFHUWDLQVHFWRUV
-DUHVXEGLYLGHG,QWKLVFRQWH[WZLWKWKHDLPRIDFKLHYLQJDPRUHGHWDLOHGPRQLWRULQJDQG
-DVVHVVPHQWRIWKHVHFWRUDOEUHDNGRZQRIWKHFUHGLWVDQGVHFWRUDOEUHDNGRZQRIQRQ
-SHUIRUPLQJORDQVWKH³)LQDQFH&RGHV´KDYHEHHQUHRUJDQL]HGRQDGHWDLOHGEDVLVDQGZHUH
-SXWLQWRLPSOHPHQWDWLRQLQ)HEUXDU\
-
-LY,PSOHPHQWDWLRQRI7D[,GHQWLILFDWLRQ1XPEHU
-3DUDOOHOWRWKHREOLJDWLRQRIXVLQJDWD[LGHQWLILFDWLRQQXPEHUWKHSUDFWLFHRIXVLQJWKH
-WUDGHUHJLVWUDWLRQQXPEHUVDVWKHNH\FRGHLQH[FKDQJHRILQIRUPDWLRQRQFUHGLWVDQGULVNV
-EHWZHHQEDQNVDQGVSHFLDOILQDQFHLQVWLWXWLRQVKDVEHHQDEDQGRQHG6WDUWLQJIURP0DUFK UHSRUWLQJSHULRGZLWKDQDLPWRPRQLWRUULVNLQIRUPDWLRQRQUHDOSHUVRQVZLWKRXWFRPPHUFLDO
-UHJLVWUDWLRQDQGVPDOOHQWHUSULVHVDQGRUGLQDU\SDUWQHUVKLSVKDYLQJWKHSHFXOLDULWLHVRI
-FUDIWVPDQDQGDUWLVDQVDQGWRH[SDQGWKHGDWDEDVHVXEMHFWWRH[FKDQJHDVZHOODVWRPRQLWRU
-WKHWRWDODPRXQWRIFUHGLWXVHGE\DUHDOSHUVRQRUDFRPSDQ\IURPWKHILQDQFLDOV\VWHPULVN
-LQIRUPDWLRQKDVVWDUWHGWREHFROOHFWHGEDVHGRQWD[LGHQWLILFDWLRQQXPEHU
-
-7RSURYLGHVXSSOHPHQWDU\LQIRUPDWLRQGXULQJWKHLQYHVWLJDWLRQRIUHOHYDQWLQGLYLGXDOV
-DVVXEMHFWVRIQRQSHUIRUPLQJFRQVXPHUFUHGLWVDQGWRDOORZFRQVROLGDWLRQZKHQQHHGHGWKH
-DSSOLFDWLRQRIWD[LGHQWLILFDWLRQQXPEHUDVWKHNH\FRGHKDVDOVREHHQSXWLQWRSUDFWLFHE\-XO\
-
-Y'HEWRUVRI7D[DQG,QVXUDQFH3UHPLXP
-
-$WWKHUHTXHVWRIWKHEDQNVWKHZHEVLWHVRIWKH0LQLVWU\RI)LQDQFHDQG6RFLDO
-6HFXULW\$JHQF\*HQHUDO'LUHFWRUDWHRQZKLFKWKHGHEWRUVRIWD[DQGLQVXUDQFHSUHPLXPDUH
-DQQRXQFHGKDYHVWDUWHGWREHDQQH[HGWRWKHFUHGLWDQGULVNLQIRUPDWLRQIHHGEDFNWDEOHVVHQW
-WRWKHEDQNVDQGVSHFLDOILQDQFHLQVWLWXWLRQVDVRI-XQH
-
-YL'LVSOD\RIFUHGLWULVNLQIRUPDWLRQZLWKILQDQFHFRGHDQGFLW\JHRJUDSKLFDO
-UHJLRQGLVWLQFWLRQ
-:LWKWKHDLPRIHQVXULQJWKDWWKHPRYHPHQWVLQWKHVHFWRUDUHPRQLWRUHGLQPRUH
-GHWDLODQGRQDFLW\EDVLVWKHILQDQFLQJVXEMHFWFRGHVDQGFLW\JHRJUDSKLFDOORFDWLRQ
-GLVWLQFWLRQKDYHEHHQDGGHGWRWKHVWDWLVWLFDOIHHGEDFNWDEOHVVHQWWRWKHEDQNVE\RXU%DQN
-DQGWKHLPSOHPHQWDWLRQVWDUWHGLQ0DUFK
-
-YLL3URYLGLQJPRUHGHWDLOIRUQRQFDVKFUHGLWV
-7KHEDQNV¶UHTXHVWWRZDUGVPRUHGHWDLOHGFODVVLILFDWLRQRIQRQFDVKFUHGLWVKDYHEHHQ
-DVVHVVHGDQGDVRI-XO\WKHQRQFDVKFUHGLWVKDYHEHHQWDNHQXQGHUWKHVFRSHRIWKH
-FKDQJHLQWKHLUGHWDLOHGIRUPDW
-
-YLLL&UHGLWVVXEMHFWWRøVWDQEXO$SSURDFK
-:LWKLQWKHIUDPHZRUNRIWKH³)LQDQFLDO5HVWUXFWXULQJ)UDPHZRUN$JUHHPHQW´NQRZQ
-DVWKHøVWDQEXO$SSURDFKQHZULVNFRGHVKDYHEHHQLQWURGXFHGLQRUGHUWRPRQLWRUWKH
-UHVWUXFWXUHGFUHGLWVZLWK7/DQG);GLVWLQFWLRQVDSDUWIURPRWKHUFUHGLWV7KHLPSOHPHQWDWLRQ
-WRRNHIIHFWRQ-XO\ 
-,,352-(&7638568('%<7+(5,6.&(17(5
-
-L,QIRUPDWLRQRQ%DQNUXSWF\DQG&RQFRUGDW
-7KHSUHOLPLQDU\VWXGLHVIRUVHQGLQJEDQNUXSWF\DQGFRQFRUGDWLQIRUPDWLRQDQQH[HGWR
-WKHFUHGLWDQGULVNIHHGEDFNWDEOHVKDYHEHHQFRPSOHWHG7KHVDLGLQIRUPDWLRQLVSODQQHGWREH
-VHQWWRWKHEDQNVDVDQQH[HGWRWKH6HSWHPEHUIHHGEDFNWDEOHV
-
-
-
-LL([FKDQJHRI,QIRUPDWLRQRQFRQVXPHUFUHGLWVZLWKSRVLWLYHTXDOLW\
-6WXGLHVLQWHQGHGIRULQFRUSRUDWLQJWKHFRQVXPHUFUHGLWVZLWKSRVLWLYHTXDOLW\H[WHQGHG
-E\WKHEDQNVDQGVSHFLDOILQDQFHLQVWLWXWLRQVLQWRWKHLQIRUPDWLRQH[FKDQJHV\VWHPDUHVWLOO
-XQGHUZD\DQGLPSOHPHQWDWLRQLVSODQQHGEHIRUHWKHHQGRIWKH\HDU7KHH[FKDQJHZLOODOORZ
-WKHEDQNVWRPRQLWRUWKHOLDELOLWLHVRIWKHLUFRQVXPHUFUHGLWFXVWRPHUVWRWKHILQDQFLDOVHFWRU
-
-LLL([FKDQJHRI,QIRUPDWLRQZLWK&RQVXPHU)LQDQFH&RPSDQLHV
-7KHVWXGLHVLQWHQGHGIRUH[FKDQJHRILQIRUPDWLRQZLWKWKHFRQVXPHUILQDQFH
-FRPSDQLHVSHUFHQWRIWKHFXVWRPHUVRIZKLFKDUHUHDOSHUVRQVDUHVWLOOJRLQJRQDQG
-LQIRUPDWLRQH[FKDQJHLVSODQQHGWREHVWDUWHGEHIRUHWKHHQGRIWKH\HDU:LWKWKH
-LPSOHPHQWDWLRQDQLQIUDVWUXFWXUHZKLFKZLOODOORZFRQVROLGDWLRQRILQIRUPDWLRQSHUWDLQLQJWR
-WKHFXVWRPHUVRIFRQVXPHUILQDQFHFRPSDQLHVDQGFXVWRPHUVRIEDQNVDQGVSHFLDOILQDQFH
-LQVWLWXWLRQVZLOOEHHVWDEOLVKHG
-
-,,,&21&/86,21
-,QIRUPDWLRQH[FKDQJHEHWZHHQRXU%DQNDQGDVLJQLILFDQWSDUWRIWKHILQDQFLDOVHFWRU
-DVZHOODVDOOWKHSURSRVDOVDQGUHTXHVWVRIILQDQFLDOVHFWRUWKDWPD\FRQWULEXWHWRWKHLUULVN
-DVVHVVPHQWDUHHYDOXDWHGZLWKLQWKHOHJDOIUDPHZRUNWDNLQJLQWRFRQVLGHUDWLRQWKHHFRQRPLF
-FRQGLWLRQVDQGQHFHVVDU\DUUDQJHPHQWVDUHSXWLQWRSUDFWLFH
-
-
-
-
+No: 2002-78
+September 24, 2002
+
+PRESS RELEFASE
+
+As reiterated in the announcements and presentations made by the Central Bank of the
+Republic of Turkey since the turn of the year, transparency in the policies, projects and
+operations and sharing information thereto is a globally accepted practice of the autonomous
+
+Central Bank within the framework of the accountability principle.
+
+This time, in order to provide information to the public within the context of the Risk
+Center operations, the total number and amount of protested bills that exist among the data
+provided on the website of our Bank are acknowledged on a city basis to enable more detailed
+analysis. Additionally, the developments that will incur within the context of the Risk Center
+
+operations will be announced to public, as well.
+
+Within this framework, information on the policies and practices of the Risk Center is
+
+briefly presented below.
+
+The Risk Center was established in 1951 with the aim of knowing and monitoring the
+country-wide credit volume and its sectoral breakdown, preventing extension of credit to a
+person or legal entity exceeding its payment capacity and through prevention of risk, ensuring
+that trust with the banking sector is sustained. The Risk Center has assumed its final structure
+with Article 44 of the Central Bank Law No:1211 as amended by Article 25 of the Banking
+Law No: 4389 dated 18.06.1999.
+
+In Article 44 of the Central Bank Law No: 1211, 1it is stated that the Central Bank shall
+establish a Risk Center in order to centralize information on the risks of the customers of the
+banks, special finance institutions, financial leasing companies, factoring companies,
+consumer finance companies and such other financial institutions operating in Turkey and
+
+shall exchange information with the mentioned institutions.
+Information on credit İimits and risks of the customers are subject to exchange
+between our Bank and all the institutions mentioned above and information on protested bills
+and non-performing consumer credits are subject to exchange between banks, special finance
+
+institutions and our Bank.
+
+The aforementioned institutions are obliged to submit all the information on risk
+conditions of their customers reguested by the Bank within the period and in conformity with
+the format specified by the Bank. Information on credit limits and risk information of the
+customers of the banks and special finance institutions as well as non-performing consumer
+credit information are reported to our Bank on a monthiy basis, the information on protested
+bills is reported every 15 days, and information on risks of customers of leasing and factoring
+companlies is reported every two months. The information collected at our Bank is
+
+consolidated and feedback is provided to the aforementioned institutions.
+
+With the aim of assisting banks in determining the credibility of their customers and
+credit extension decisions, The Risk Center regularIy provides consolidated and up-to-date
+information to the banks on total credits used by the customers that the banks are planning to
+extend credits or customers that have already been extended credits, on protested bills and
+non-performing consumer credits. All the operations and records of the Risk Center are
+confidential and the Bank may only provide the aforementioned institutions with information
+
+on the risks of their customers and on those who reguest credits.
+
+As the Risk Center operations are free-of-charge, the banks' intelligence expenses are
+
+decreased substantially.
+
+The system, technical infrastructure of which is completed and updated continuousİy
+parallel to progress in financial sector provides immediate data flow in electronic medium and
+is not only open to developments but also has an intensive data processing support with
+
+complete security.
+
+The data collected at the Risk Center also constitutes an important information source
+for the assessment of the general situation of the economy. Developments in credit amounts
+and the number and amount of the protested bills are preliminary indicators as to whether the
+
+economy is in contraction or expansion trend.
+As banking sector has undergone a restructuring process, credit risk has assumed a
+greater importance and taking into consideration the needs in risk monitoring and assessment
+of credit risk, the efforts towards development of the information exchange operations are
+
+being pursued.
+
+The implementation changes that have either been undertaken in the last two years and
+
+the ones to be carried out in the forthcoming period are hereunder İisted by titles:
+
+-CHANGES THAT HAVE BEEN UNDERTAKEN
+
+i) Incorporation of the Leasing and Factoring companies into the system
+With the aim of incorporating the risk information into the financial system, along
+with banks and special finance institutions, credit limit and risk information of the customers
+
+of leasing and factoring companies have also become subject to exchange as of July 1, 2000.
+
+il) Maturity Breakdown
+
+With the aim of achieving a more detailed monitoring of the maturity groups of
+credits, the credit maturity breakdown which was formerly divided as short term and mediumlong-term, has been changed as |(1-12 (included)| months, (12-24 (included)| months and 244
+
+months. The new terms have taken effect as of August 2000.
+
+ili) Finance Codes
+
+Parallel to the developments in economic activities, it was reguired that certain sectors
+are sub-divided. In this context, with the aim of achieving a more detailed monitoring and
+assessment of the sectoral breakdown of the credits and sectoral breakdown of nonperforming loans, the “Finance Codes” have been reorganized on a detailed basis and were
+
+put into implementation in February 2001.
+
+iv) Implementation of Tax Identification Number
+Parallel to the obligation of using a tax identification number, the practice of using the
+trade registration numbers as the key code in exchange of information on credits and risks
+
+between banks and special finance institutions has been abandoned. Starting from March 2002
+reporting period, with an aim to monitor risk information on real persons without commercial
+registration and small enterprises and ordinary partnerships having the peculiarities of
+craftsman and artisans and to expand the data base subject to exchange, as well as to monitor
+the total amount of credit used by a real person or a company from the financial system, risk
+
+information has started to be collected based on tax identification number.
+
+To provide supplementary information during the investigation of relevant individuals
+as subjects of non-performing consumer credits and to allow consolidation when needed, the
+application of tax identification number as the key code has also been put into practice by July
+31, 2002.
+
+v) Debtors of Tax and Insurance Premium
+
+At the reguest of the banks, the web sites of the Ministry of Finance and Social
+Security Agency General Directorate, on which the debtors of tax and insurance premium are
+announced, have started to be annexed to the credit and risk information feedback tables sent
+
+to the banks and special finance institutions as of June 2002.
+
+vi) Display of credit risk information with finance code and city/geographical
+region distinction
+
+With the aim of ensuring that the movements in the sector are monitored in more
+detail and on a city basis, the financing subject codes and city/geographical location
+distinction have been added to the statistical feedback tables sent to the banks by our Bank
+and the implementation started in March 2002.
+
+vii) Providing more detail for non-cash credits
+The banks' reguest towards more detailed classification of non-cash credits have been
+assessed and as of July 31, 2002, the non-cash credits have been taken under the scope of the
+
+change in their detailed format.
+
+viii) Credits subject to İstanbul Approach
+
+Within the framework of the “Financial Restructuring Framework Agreement” known
+as the İstanbul Approach, new risk codes have been introduced in order to monitor the
+restructured credits with TL and FX distinctions, apart from other credits. The implementation
+
+took effect on July 31, 2002.
+Iİ-PROJECTS PURSULRD BY THE RISK CENTER
+
+i) Information on Bankruptecy and Concordat
+The preliminary studies for sending bankruptcy and concordat information annexed to
+the credit and risk feedback tables have been completed. The said information is planned to be
+
+sent to the banks as annexed to the September 2002 feedback tables.
+
+il) Exchange of Information on consumer credits with positive guality
+
+Studies intended for incorporating the consumer credits with positive guality extended
+by the banks and special finance institutions into the information exchange system are still
+under way and implementation is planned before the end of the year. The exchange will allow
+
+the banks to monitor the İiabilities of their consumer credit customers to the financial sector.
+
+ili) Exchange of Information with Consumer Finance Companies
+
+The studies intended for exchange of information with the consumer finance
+companties, 99 percent of the customers of which are real persons, are still going on and
+ınformation exchange is planned to be started before the end of the year. With the
+implementation, an infrastructure which will allow consolidation of information pertaining to
+the customers of consumer finance companies and customers of banks and special finance
+
+institutions will be established.
+
+HD) CONCLUSITON
+
+Information exchange between our Bank and a significant part of the financial sector
+as well as all the proposals and reguests of financial sector that may contribute to their risk
+assessment are evaluated within the legal framework taking into consideration the economic
+
+conditions and necessary arrangements are put into practice.
