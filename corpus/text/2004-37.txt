@@ -1,0 +1,516 @@
+August Inflation Outlook and CBRT Interest Rates
+I. GENERAL EVALUATTON
+
+1. In August 2004, CPI increased by 0.58 percent while WPI surged by 0.79 percent. Annual CPI and
+WPI inflation became 10 percent and İ0.5, respectively.
+
+2. Seasonally adjusted monthly price increases were recorded as İ.İ percent and 1.8 percent in CPI
+and WPI respectively while seasonally adjusted monthiy price increases in CPI excluding food and WPI
+
+excluding agriculture became 0.7 percent and 1.8 percent.
+
+Table 1: General CPI, WPI and Sub-items
+
+Annual /0 Change | Monthiy /o Change
+
+2003 2004 2004 2004 2003 — 2004
+
+İ İ Aug Aug W June July Aug. Aug.
+CPI 24,9 10,0 -0,1 0,2 0,2 0,6
+Goods 24,9 6,5 -0,7 -0,2 -0,7 -0,İ
+Services 25,0 16,7 0,9 1,0 1,8 1,7
+Excl. Food 23,1 10,6 0,8 0,4 0,7 0,7
+Food 31,5 8,0 -3,3 -0,6 -İ,7 0,1
+WPI 22,7 10,5 -i1,1 -1,5 -0,2 0,8
+Public 19,4 13,4 2,0 1,8 1,5 2,3
+Private 24,1 9,4 -2,2 -2,8 -0,8 0,2
+Public Manufacture 22,9 16,0 1,5 2,7 1,6 2,3
+Private Manufacture 18,5 10,8 1,2 0,3 0,7 1,5
+Agriculture 36,8 6,4 -8,İ -8,6 -4,0 -2,5
+Excl. Agriculture 19,0 11,8 1,5 0,8 1,0 1,8
+Exci. Agr. and Energy 19,7 12,6 1,6 0,8 1,1 1,8
+
+Source: CBRT, SIS
+
+3. The six-month average of seasonally adjusted inflation was 1.14 percent in WPI and 1.06 in CPI.
+The mentioned average rates of increase correspond to 14.5 percent and 13.5 percent in annual
+terms. In the same period again, the average rate of increase in seasonally adjusted CPI excluding
+
+food became 0.87 percent, which corresponds to İl percent in annual terms (Figure İ).
+Figure 1: Annual Percentage Change and Guarteriy Moving Averages
+CPI and CPI Excluding Food WPI and WPI Excluding Agriculture
+
+—— Annualized CPI(*) —— Annualized WPI(*)
+
+— —Annualized CPI Excluding Food(*)
+
+- — Z Annualized WPİ Exc. Agriculture(*)
+
+AY
+
+02:01 02:04 02:07 — 02:10 03:01 03:04 03:07 — 03:10 — 04:01 04:04 04:07 02:01 02:04 02:07 - 02:10 03:01 03:04- 03:07. 03:10 04:01 04:04 04:07
+
+(*) Ovarteriy Moving Averages (Annualized, Seasonally Adjusted).
+Source: CBRT, SIS.
+
+Developments in consumer prices
+
+4. Despite the relatively high rate of increase in the services group prices in August 2004, seasonal
+decline in clothing prices, limited increase in food prices, and decrease in durable goods prices
+restricted the CPI inflation. In August 2004, increase in service group prices was 1.7 percent whereas
+goods group prices declined by 0.1 percent. Seasonal effects coupled with the absence of demand
+pressures in semi-durable and non-durable goods had an impact on the favorable course of goods
+group prices. In the first 8-month period, while seasonally adjusted cumulative price increase was 5.9
+
+percent in goods group, İit was 9.4 percent in service group.
+
+5. In the education services sector whose prices are adjusted only in August and September, the
+tuition fees of private schools and courses increased by 15.7 percent and İ2.7 percent respettively,
+causing the monthliy increase in education prices to rise to 9.2 percent. Tuition fees in universities
+increased almost by 15 percent and this shows that increases in education prices will be effective in
+pushing up the CPI inflation also in September 2004. The upward trend in rents continues as well. As
+of August 2004, whereas CPI inflation is 10 percent, the yearly inflation rate of education and rent
+groups are 21.6 percent and 20.8 percent respectively. This shows the continuation of the price
+
+rigidity in services group.
+
+6. In the goods group, food prices had a limited increase of 0.1 percent, whereas clothing and
+footwear prices decreased by 3.2 percent in August 2004 following the 3.7 percent decline in July
+2004. In the first eight months of 2004, cumulative increase in the prices of seasonally adjusted food
+and clothing prices were 6.3 percent and 4.9 percent, respectively, remaining below the 7.3 percent
+cumulative increase of seasonally adjusted CPI in the same period. As of September, the favorable
+
+seasonal effects in both groups are expected to reverse.
+7. Another sub-group affecting the decline of goods group prices was the durable goods prices,
+decreasing by 2.5 percent in August 2004. Prices of personal transportation vehicles and culturalrecreational instruments within this group, which is known to be sensitive to exchange rate
+
+developments and demand conditions, declined by 3.9 percent.
+
+8. It is difficult to distinguish the demand effect on the clothing and durable goods prices due to
+favorable seasonal effects and cost conditions. Meanwhile, the 3.9 percent increase in furniture and
+flooring prices that are known to have high demand elasticity and the 12 percent rise observed in
+cumulative prices as of August are remarkable.
+
+Figure 2: Prices of Goods and Services
+Annual Percentage Change Monthliy Percentage Change
+
+(Seasonally Adjusted)*
+
+— —Services —— Goods
+
+02:01 02:04 02:07. 02:10 03:01 03:04 03:07 03:10 04:01 04:04- 04:07
+
+1
+
+Source: CBRT, SIS.
+
+*TRAMO/SEATS method has been used for deseasonalization.
+
+9. Furthermore, the medicine prices under government control increased by 6.2 percent and
+therefore health prices remained above CPI inflation with a 1.9 percent increase. Moreover, although
+house and transportation prices are affected by the 5 percent price increase on petroleum products as
+of 10 August 2004, it is observed that the price increases in the mentioned groups are partially
+
+compensated by other sub-items.
+
+10.1In this framework, the seasonally adjusted CPI inflation and CPI excluding food decreased in
+August compared to their averages in the last three months. In August, annual CPI inflation rose from
+9.4 to 10 percent due to the base effect, meanwhile annual CPI inflation excluding food remained at
+
+10.6 percent (Figure 3).
+
+02:01 - 02:04 02:07 02:10 03:01 03:04 03:07 - 03:10 - 04:01 04:04 04:07
+Figure 3: CPI and CPI Excluding Food
+
+Annual Percentage Change Monthiy Percentage Change
+(Seasonally Adjusted)*
+
+U | | — —CPI Exc. Food ——CPI —|
+
+02:01 02:04 02:07 — 02:10 03:01 03:04 03:07 — 03:10 - 04:01 - 04:04 04:07 02:01 02:04- 02:07. 02:10 03:01 03:04 03:07 03:10 04:01 04:04- 04:07
+
+Source: CBRT, SIS.
+TRAMO/SEATS method has been used for deseasonalization.
+
+Developments in Wholesale Prices
+
+11.In August, the manufacturing industry dominated the increase in WPI. In this period, public
+manufacturing industry prices rose by 2.3 percent on monthiy basis. The biggest contribution to this
+price increase came from petroleum products manufacturing and basic metal industry sectors.
+Exchange rate changes and the increases in world commodity prices played an important role in this
+
+development.
+
+12.Meanwhile, private manufacturing industry prices rose by 1.5 percent in August. Chemicals
+production and furniture manufacturing sectors made the largest contribution to the mentioned
+increase. The increase in the chemicals production sector can be explained by the changes in
+exchange rates and oil prices, stemming from the major usage of petroleum products and imported
+input in this sector. The high rate of increase in furniture manufacturing sector is considered to reflect
+the seasonal effects as well as the relative recovery in domestic demand. In August 2004, the annual
+inflation in furniture manufacturing sector rose from 15.9 percent to 35.3 percent compared to the
+
+same month of the previous year.
+
+13.1In August, agricultural prices declined by 2.5 percent owing to the fall in fresh fruit and vegetable
+
+prices. However, seasonally adjusted agricultural prices increased by 1.1 percent.
+
+14.Energy prices maintained their current trend and rose by 0.1 percent. It is observed that the
+
+energy prices has displayed a downward trend on an annual basis with a 1.8 percent decline.
+100
+
+60
+
+40
+
+20
+
+0
+
+Figure 4: WPI and WPI Excluding Agriculture
+
+Annual Percentage Change Monthiy Percentage Change
+(Seasonally Adjusted)*
+
+T T T 6 T w
+
+— —WPI Exc. Agriculture :
+
+aa 4 w Si t Mi — —WPI Exc. Agriculture ——WPI |
+
+S 2
+
+—
+T T T T T T T T T T T T T T T T T T T T - 2
+
+02:01 02:04 02:07 02:10 03:01 - 03:04 03:07 03:10 04:01 04:04 04:07 02:01 02:04 02:07  02:10 03:01 03:04 03:07. 03:10 04:01 04:04- 04:07
+Source: CBRT, SIS.
+*TRAMO/SEATS method has been used in deseasonalization.
+
+15.1In this respect, the annual WPI and WPI excluding agriculture rose by 10.5 and 11.8 percent
+respectively in August. In the upcoming period, the developments in international crude oil prices may
+affect energy prices, especiallıy petroleum products. Furthermore, the seasonal effect of the
+
+agriculture sector limiting inflation will be removed.
+II. OUTLOOK
+
+Outlook for the General Factors Affecting Inflation
+
+16. While creating an information set about future inflation, it is important that the signals about
+future prospects given by recent price developments are truly comprehended and the likely course of
+
+the factors affecting the general price level in the coming period is well evaluated.
+
+e — Despite the high capacity utilization rates and the gradual narrowing in output gap in the recent
+period, no significant acceleration was observed in consumer prices in the first half of the year.
+This has resulted mainly from the fact that the relative recovery in domestic demand in the said
+period did not extend through all sectors as well as from the significant rises in productivity in the
+sectors where high rates of increase are observed in production — especially in durable goods
+sector. In the following period, the variables to be monitored in terms of inflation will be domestic
+demand indicators as well as the rise in productivity and the course of the unit labor costs. In the
+
+light of current data, the following points can be specified:
+
+. Historicaliy high level of capacity utilization rates, lack of a full-competition
+environment and the signals for a rise in employment are pointing out that the
+productivity increase may slow down in the coming period compared to the last
+three years. However, it İs estimated that the ongoing investment trend since the
+last guarter of 2003 would support the productivity boost in the forthcoming
+period. The support of unit labor costs to the downward trend in inflation might
+weaken relatively in the following periods. Nevertheless, it is anticipated that the
+productivity boosts will continue to exert a downward pressure on unit labor costs
+as long as the adjustments concerning the removal of the obstacles to investment
+
+and production are continued.
+
+# The marked slowdown in money demand, automobile sales and the volume of
+total credits in recent period and the relative liguldity contraction in the markets
+are the significant developments in domestic demand. These developments point
+out that the rise in economic activity ongoing for the last four guarters might lose
+momentum iİn the coming period. Related to this issue, developments in
+consumer credits and leading indicators for domestic demand components are
+
+continued to be monitored carefully.
+
+e — Consumer prices increased cumulatively by 3.9 percent in the first eight months of 2004. This
+rise took place regardless of the recent rapid rises in world crude oil prices and the volatility in
+
+exchange rate. The margin created by the fact that the increase in consumer prices in the first
+eight months of the year remained even below the path consistent with the inflation target
+indicates that the probability of achieving the year-end target is high even in cases of possible
+
+external shocks.
+
+Thanks to a monetary policy strategy focused on price stability, and the disciplined fiscal
+policies under the current economic program that has been strictly implemented for a long
+time, inflation expectations are brought under control, inflation target has gradually reinforced
+its function as an anchor, and a structural transformation has begun in pricing behaviors. As a
+conseguence, from the point we stand today, announced inflation target is now perceived by
+economic agents as a strong reference point. In this context, it is anticipated that the inflation
+expectations would not deviate markedIy from the target in the rest of 2004 and the
+upcoming period as far as the perceptions about the continuation of the current program are
+
+reinforced in a similar approach with more emphasis on structural reforms.
+
+Downward trend in inflation expectations, enhanced competitiveness and the ongoing
+monetary and fiscal discipline limit the effect of cost increases on prices. Moreover, under the
+floating exchange rate regime, financial assets denominated in foreign currencies have now
+become relatively more risky instruments, hence exchange rates can move in either
+directions. This fact contributes to the breaking of indexation mechanisms and slows down the
+pass-through effect from exchange rate to İnflation— particularliy in consumer prices. As long
+as the fiscal and monetary policies are implemented in consistency with the inflation target
+and the oligopolistic markets are minimized by enhancing free competition, this change in
+
+pricing behavior will become more permanent.
+
+The rigidity in services prices and the relative price differentiation among commodity-services
+groups continue. Seasonally adjusted cumulative price increase for the first eight months of
+the year was 5.9 percent for the commodity group and 9.4 percent for the services group.
+This can be explained partially by the high productivity increases in the sectors producing
+commodity groups, and partially by higher sensitivity to the exchange rate of the commodity
+group prices compared to the services group. However, past pricing habits persist in some
+sectors in the services group—especially in rental, health and education services—, in a
+manner difficult to explain the differentiation solely by the two above-mentioned factors. The
+fact that annual education services prices and rent increases realize above some 20 percent at
+a period when general price increases occur around 10 percent captures attention. Relative
+price differentiations that may arise out of a clear deviation of any sub-item from the general
+trend will be more important than ever in the coming period where lasting price stability is
+
+targeted.
+
+Tax revenues that have surpassed targets owing to the prevailing fiscal discipline and the high
+growth performance in 2004, enabled that the rise in oil prices that was beyond budgetary
+
+forecasts was reflected to the petroleum prices only in a limited manner. It is predicted that
+the revival in economic activity will slow down in 2005 and growth will realize at a lower level
+compared to this year. Besides the likelihood that the relative vigor in global economy will
+continue in 2005 as well, signals that the high levels of commodity prices will not reverse in
+the short run. In this case, it will be more difficult next year to implement the strategy of
+partially reflecting the high raw material costs onto the prices, giving up tax revenues.
+Moreover, such a strategy is not sustainable in the medium term. Lasting solution lies in the
+deepening of public sector fiscal adjustment. It is important to emphasize once more at this
+point that the efforts towards backing up fiscal discipline with structural reforms such as social
+security and tax reforms are percelived as positive developments. Certainiy, even if the
+foundations of these reforms are immediately laid, concrete outcomes for the revenue and
+expenditure sides will be obtained in the medium and long-term. Yet, the effects of such steps
+
+on expectations will make significant contributions to the sustainability of current balances.
+
+Just like the rest of the world, unforeseeable deviations in oil prices constitute a risk factor for
+Turkey as well. “Primary effects” of the recent increases in raw material import prices on
+inflation, directly and also through input costs began to be felt especially in the second half of
+the year. However, “secondary” effects of such shocks —a deterioration in the medium and
+long term inflation expectations and the signal for its reflection on prices— have not occurred
+yet. In other words, if the above-mentioned basic conditions are provided, inflation will
+resume its downward trend when the external factors increasing input costs disappear.
+Moreover, ongoing favorable developments as regards the prices of electricity, which is
+another important iİnput item, are limiting total cost increase. Still, secondary effects of
+
+especially the oil price increases will be closely monitored in the coming period.
+
+The decline in food prices in the said period made a significant contribution to the favorable
+course of inflation during the first eight months of the year. However, such contribution may
+vary depending on natural conditions and seasonal trends. Thus, price developments in the
+said items, independent of their direction, contain very little information regarding future
+
+inflation and play hardIy any role in the monetary policy decisions.
+
+The index targeted by the Central Bank within the framework of the current regime is the
+consumer prices index; WPI does not possess any target nature. The figures given in the
+economic program for the WPI increase are for projection purposes. Certainiy, with a futurelooking point of view, wholesale prices are important within the framework of the information
+they contain as regards the consumer prices. Along the same lines, while manufacturing
+sector price developments will be closely monitored; in an environment where monetary and
+fiscal discipline sustains and incomes and wage policy of the public sector designed in
+harmony with the targets, recent WPI increases are believed to continue having only limited
+
+effect on the consumer prices.
+17.Finally, certain points as regards the twelve-month cumulative inflation figures should be
+underlined once again. It was pointed out several times since the beginning of the year in both the
+monthly inflation analysis and also the guarteriy monetary policy reports that annual inflation would
+decline in the first half of the year, and that while it might go up in the second half of the year, this
+would be entirely within the framework of the targets. As a matter of fact, annual inflation figures
+recorded only minor increases in July and August in line with forecasts, compared to previous months.
+As emphasized before, annual inflation figure is an entirely backward-looking variable, the monthliy
+change of which is linked also to the inflation figure pertaining to the same month of the previous
+year. This may lead to misinterpretations from time to time. For example, a rise in the annual inflation
+figure for August might be presented erroneousiy as “inflation being in an upward irend in August”.
+On the contrary, with a value of 0.7 percent, seasonally adjusted non-food CPI increase in August
+displayed a tendency coherent with the inflation target; it even manifested a decline when compared
+with July. Yet, on account of the extraordinary performance in August last year, the annual inflation
+figure for August 2004 appears as İf it rose compared to the previous month— as a conseguence of
+
+the base effect.
+
+Current Account Deficit and Inflation
+18.1It is observed that the arguments around the recent increase in current account deficit are
+debated within the framework of old habits, not in the context of economic policies and measures to
+
+be taken. At this point, it is deemed useful to emphasize the following points once more.
+
+19.First of all, under the ongoing program implemented, the Turkish economy has made great
+progress on the way of “normalization”. İt is clear that the continuation of a similar program in the
+coming period as well, fragilities in the Turkish economy would further diminish and thus the level of
+sustainable current account deficit would go up, thanks to an environment of macroeconomic stability,
+strengthening institutional structure and a likely improvement in the guality of the financing resources.
+Such structural change was experienced by several countries that have passed through a similar
+
+process.
+
+20. The second point to be highlighted is that the deterioration in current account recentlİy observed is
+a “natural” outcome of a period marked by a growth rate surpassing the rate foreseen by the
+program. The importance attached to monitoring a growth rate in the current account deficit that
+exceeds program projections should also be attached to monitoring a growth rate in economic activity
+that exceeds projections. It should be borne in mind that what Turkey needs is not a rapid, unstable
+growth, but a sustained growth that is consistent with the current program. To this aim, some
+selective measures shall be taken such as: some incentives provided for certain sectors (for instance
+the auto scrap discount) should be revised, some İlimitations on the supply side should be introduced,
+which would decrease the rapid growth rates in loans to an acceptable level (if these rates are
+deemed to be conflicting the objective of attaining a healthier financial sector) and would be
+
+consistent with the international financial sector norms, the additional tax revenues that emerged as a
+result of production exceeding the projections should be saved. Some steps to these aims have
+already been taken. In case of need, some additional measures similar to those might become
+
+necessary in the upcoming period.
+
+21. Another point to be highlighted is the role of the monetary policy. It should not be missed that
+rapid growth and high current account deficit was observed in a period marked by high interest rates
+in real terms. Therefore, implementing an interest rate policy according to the developments in
+current account instead of future inflation rate —the method successfully implemented till now- would
+serve no good, giving confusing signals and affecting expectations adversely. Meanwhile, it should be
+borne in mind that deterioration in current account emerged in an economy where exchange rates are
+determined under market conditions. Despite there still exist different views about the ideal exchange
+rate regime; the floating exchange rate regime has proved to be very beneficial in the period following
+the 2000-2001 crisis. It is expected that the floating exchange rate regime will be able to play its
+automatic stabilization role in a more determined way as the structural problems, which cause higher
+real interest rates and lead to much higher levels occasionally, are settled (such as decreasing the
+deficits of social security system, reducing underground economy and expanding tax base, achieving
+an efficiently-operating financial system and profound financial market) and the factors that might
+
+lead to expectations about interruption in the implementation of the program are eliminated.
+
+22. At this point, a natural guestion that should be asked by the Central Bank under the current
+conditions is “How intensely can the deterioration in current account affect inflation?” As stipulated in
+the Central Bank Law, the primary objective of the Central bank is to achieve price stability; therefore,
+it would be wise to re-evaluate the channels through which the deterioration in current account might
+
+affect inflation.
+
+a. The first channel emerges as the possibility that the deterioration in current account and the
+expectations thereon might unfavorabiy affect future inflation through the volatilities they cause in the
+exchange rate. This is not and will not be a strong probability considering the significant steps taken
+in the way of enacting a new medium-term program under preparation backed by international
+institutions. Achievements made under the current program and the gradually lessening vulnerability
+
+of the economy to external shocks set the greatest evidence.
+
+b. The second channel is the correlation between the factors leading to the deterioration in
+current account and inflation dynamics. As the exchange rate channel, which has already been
+discussed above, one of the leading factors to be mentioned is the high rate of growth. The guestion
+here is: To what extent is the rapid growth a threat to the downward trend in inflation? In order to be
+able to give a satisfactory answer to this guestion, it is necessary to analyze an important variable, the
+output gap. Considering the rapid rise in private investment expenditures recentiy and the persistent
+rise in productivity, it can asserted that the potential production level is increasing. According to the
+calculations made by the Central Bank, production level did not reach to an extent to threaten the
+
+downward trend in inflation. Moreover, output gap İs only one of the variables determining inflation
+
+10
+and not the most important one as well. Considering the conditions of the labor market, establishing
+control over disposable income through the continuation of fiscal discipline, increases in productivity
+and the other factors mentioned in article 16, there will not be a pressure, which may cause a
+
+significant increase in inflation, in the upcoming period.
+
+Conclusion
+23.1In conclusion, there are no such risk factors that would evidentiy pose a threat for the attainment
+of the inflation target for 2004. However, there are certain risks for the year 2005. First of all, neither
+domestic demand developments nor labor costs would provide as much support to the downward
+trend in inflation as they used to provide in the last three years. Moreover, high oil prices might push
+up the energy costs, leading to a pressure on current account and inflation while the likely liguidity
+contraction and rises in interest rates in the international markets would exert a pressure on exchange
+rate. However, the important criteria for the inflation trend of the coming period are budget discipline,
+the guality of the budget discipline, the uninterrupted continuation of the structural reform process
+consisting of tax and social security reforms that would support the budget discipline in the coming
+period as well and inflation target-based monetary policy implementations. As long as these policies
+are carried out effectively, it is clear that the downward trend in inflation will continue even if it might
+display fluctuations at times due to external shocks. In this framework, the announcements, which
+focused on the political will about the adherence to the fundamental principles of the current
+economic program in 2005 and the upcoming periods, helped remove the uncertainties about the new
+economic program to be adopted and strengthened our belief in the sustainability of Zhe downward
+trend in prices of the items excluding tihe ones such as Ffood and energy which are determined by
+extemal factors. Conseguentiy, under these circumstances and in the light of current data, a cut down
+
+in short-term interest rates İs deemed appropriate.
+
+24. However, one last point needs to be emphasized again for a better understanding of some
+aspects of monetary policy: In those countries that have achieved stability or that have attained
+significant progress in this respect, it İis common for a central bank whose primary objective is to
+achieve price stability to reduce or to raise as well the short-term interest rates, which is the basic
+policy instrument, depending on the conditions of the economy. It is a basic fact that central banks
+act as such to maintain the economic stability. In the final analysis, if central banks do not take these
+steps when the conditions arise, then they should be criticized. Therefore, as has been the case until
+now, only future inflation will be taken into consideration while shaping the monetary policy; in case
+of clear signals for an inconsistency between the future course of inflation and the targets coupled
+with the perceptions that this inconsistency might turn out to be permanent in the medium/long-term,
+
+interest rate policies will be used effectively.
+
+il
+III. — THE CENTRAL BANK INTEREST RATES
+25.1n the light of the developments above, the Central Bank (CBRT) has decided to cut short-term
+interest rates applied at CBRT Interbank Money Market and Repo-Reverse Repo Market at Istanbul
+
+Stock Exchange as follows to be effective from September 8, 2004:
+
+a) Overnight Interest Rates: Borrowing interest rate was cut down to 20 percent from 22
+
+percent and lending interest rate to 24 percent from 27 percent.
+
+b) Other Maturity: One-week borrowing interest rate was cut down to 20 percent from 22
+
+percent.
+
+c) Late Liguidity Window Interest Rates: Within the framework of Late Liguidity Window Facility,
+CBRT overnight borrowing interest rate applicable between 16:00 — 16:30 Hours at Interbank Money
+Market was cut down to 28 percent from 32 percent. Borrowing interest rate of b percent remained
+
+the same.
+
+d) The interest rates on overnight and one-week maturity borrowing facilities provided for primary
+dealer banks via repo transactions within the framework of open market transactions were cut down
+
+to 22 percent from 24 percent.
+
+12
+€T
+
+Âsrins suone)29dx3 Lya3 :924Nos
+
+cI
+
+Ol
+
+<£00XT
+
+FOOCZ
+
+SUJUON ZT 1X9N SU) 40j SUONL3DOdXI UONLYUT
+
+£00XT
+
+VFOOXT
+
+)931e|, UONN)EYUL ——
+
+SUO1T)L)99dİX93Y UOT)EYUT PU9S IASA ——
+
+9OT
+
+jöbade | UoONNLYUT pue suoi)e)399dx3 uoNzLyYÜUT JesÂ-pu3
+VOOC-£00X€
+
+ç aanbı4
+
+Aorins suomn)ep3adxı LA9I 01 Bulp1oIIy SUON)L399dXx3 UONLYUT

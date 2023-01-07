@@ -1,696 +1,447 @@
-FEBRUARY INFLATION AND OUTLOOK
+May Inflation and Outlook
+I. GENERAL EVALUATTON
 
-L. GENERAL EVALUATION
+1. In May 2004, CPI increased by 0.38 percent while WPI dropped by 0.03 percent. Annual CPI and
 
-1. Downward trend in annual inflation rates continued in February 2004 at an accelerating rate.
-Annual inflation figures dropped to 14.3 percent in CPI and 9.1 percent in WPI. Decline in annual
-inflation rates of CPI excluding food and WPI excluding agriculture continued as well, realizing as
-14.3 percent and 5.2 percent, respectively.
+WPI inflation became 8.9 percent and 9.6 percent, respectively.
 
-2. In February, monthly price increases became 1.6 percent in WPI and 0.6 percent in CPI.
-Seasonally adjusted CPI inflation realized as 0.9 percent, while WPI inflation was 1.1 percent.
+2. Seasonally adjusted monthly price increases were recorded as İ.İ percent and 0.8 percent in CPI
+and WPI respectively while seasonally adjusted monthly price increases in CPI excluding food and WPI
+
+excluding agriculture became İ.2 percent and 2.0 percent.
 
 Table 1: General CPI, WPI and Sub-items
 
-___Annual % Change | Monthly % Change _
-
-2003 2004 2003 2004 2003 2004
-February February (December January /February February
-CPI 27.0 14.3 0.9 0.7 2.3 0.6
-
-Goods 26.0 10.4 0.7 0.2 2.5 0.0
-Services 29.1 22.0 1.1 1.8 1.8 1.5
-Excl. Food 30.0 14.3 0.7 0.5 1.5 0.3
-Food 18.1 14.3 1.4 1.4 4.8 1.5
-WPI 33.4 9.1 0.6 2.6 3.1 1.6
-Public 42.9 1.1 0.4 0.3 3.8 0.7
-Private 29.9 12.4 0.7 3.5 2.9 2.0
-Public Man. 48.8 2.1 0.4 0.7 4.] 1.1
-Private Man. 30.5 7.7 0.9 0.6 1.5 0.1
-Agriculture 27.4 21.6 0.3 9.3 5.6 5.4
-Excl. Agriculture 35.4 5.2 0.7 0.5 2.4 0.3
-Excl. Agr. and Energy 36.7 | 5.5 | 0.8 | 0.6 | 2.5 0.4
-
-Source: CBRT, SIS.
-
-3. The six-month average of seasonally adjusted inflation became 0.54 percent in WPI and 0.48
-percent in CPI. Annualized figures correspond to 6.7 percent and 5.9 percent, respectively. During the
-same period, the average rate of increase in seasonally adjusted CPI excluding food realized as 0.83
-percent. This figure corresponds to 10.4 percent in annual terms. (Figure 1).
-Figure 1: Annual Percentage Change and Quarterly Moving Averages
-
-CPI and CPI Excluding Food WPI and WPI Excluding Agriculture
-— Annualized CPI (**) . —_
-ol 1 — Annualized WPI (*) ;
-60 ~ = —Annualized CPI Excl. Food (*) \ — — Annualized WEL Excl. Agriculture (*)
-
-504 q |
-
-50 4 | | iZ see
-
-40
-
-30 4
-
-20
-
-10 5
-
-0 -10
-
-02:01 02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01 02:01 02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01
-
-(*)Quarterly Moving Averages (Annualized, Seasonally Adjusted).
-Source: CBRT, SIS
-
-Developments in Consumer Prices
-
-4. Although price increases in CPI, both in food group and groups excluding food in general, pursued
-a course consistent with the end-year target, relative rigidity in services persisted. Despite high
-increases in agriculture group, price increases in food group realized as 1.5 percent in February. Prices
-in this group merely increased by 0.4 percent in seasonally adjusted terms. In summary, food prices
-pursued a course that supported the downward trend in CPI inflation in the first two months of the
-year.
-
-5. Durable goods showed a slight increase compared to January. Especially prices of entertainment
-and culture devices (this group mainly includes goods such as televisions and audio devices) dropped
-by 5.8 percent and the two-month price decline reached 6.8 percent. This drop stemmed mainly from
-the appreciation of Turkish lira.
-
-6. Rent increases became one of the most remarkable developments in February. Also the rigidity in
-rents is continuing as it is in the services group in general. The total increase, which has reached 3.6
-percent in the first two months, is far from consistent with the end-year target.
-
-7. Following January, price adjustments in health services continued by losing some momentum in
-February. Moreover, considering the first two- month rise, the increase of rate in prices slowed down
-compared to 2003.
-Figure 2: Prices of Goods and Services
-
-Annual Percentage Change Monthly Percentage Change(Seasonally Adjusted)*
-
-02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01 02:01 02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01
-
-Source:CBRT, SIS.
-* TRAMO/SEATS method has been used for deseasonalization.
-
-8. In February, the differentiation between prices of goods and services groups continued similar to
-the previous months. Prices in rent, restaurant and health groups rose above the general CPI inflation.
-Both low increase in food and durable goods and the decline in clothing group had a favorable effect
-on price increases in goods group. Prices in services group have been displaying a regular and
-significant increase above prices of goods group since mid-2003 (Figure 2).
-
-Figure 3: CPI and CPI Excluding Food
-
-Annual Percentage Change Monthly Percentage Change(Seasonally Adjusted)*
-_ CPt Exel Food * =—-ClEdFod 0”
-~\ —cI 40 —cal J----L_
--0.5
-
-02:01
-
-02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01 02:01 02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01
-
-Source:CBRT, SIS.
-* TRAMO/SEATS method has been used for deseasonalization.
-Developments in Wholesale Prices
-
-9. In February 2004, WPI increased by 1.6 percent. The rate of increase of seasonally adjusted WPI
-rose by 0.4 point and became 1.1 percent. On the other hand, with 0.3 percent, WPI inflation
-excluding agriculture maintained its downward course, which has been continuing since April 2003
-(Figure 4).
-
-10. In February, agricultural prices, which rose by 5.4 percent, contributed the most to the increase in
-WPI. On the other hand, the seasonally adjusted rate of increase in agriculture prices declined by 2.9
-percent compared to January and realized as 1.2 percent. In other words, the price- push effect of
-agricultural prices on WPI mainly resulted from fresh vegetable and fruit prices that increased due to
-weather conditions as seen in January. However, as expected, this impact has weakened compared to
-January.
-
-11. Meanwhile, the increase in WPI excluding agriculture maintained its low trend of recent months.
-WPI inflation excluding agriculture, which rose by 0.5 percent in January, realized as 0.3 percent in
-February. Prices in private manufacturing industry and public manufacturing industry increased by 0.1
-percent and 1.1 percent, respectively. Moreover, prices in electricity, gas and water groups declined by
-0.9 percent.
-
-Figure 4: WPI and WPI Excluding Agriculture
-
-Annual Percentage Change Monthly Percentage Change(Seasonally Adjusted)*
-
-I I 6 I I
-| |
-
-— —WPI Excl. Agriculture
-
-5+
-
-— -WIEcl. Agriailture
-
-02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01 02:01 02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01
-
-Source:CBRT, SIS.
-* TRAMO/SEATS method has been used for deseasonalization.
-
-12. In line with the developments mentioned above, annual WPI inflation and WPI inflation
-excluding agriculture declined to 9.1 percent and 5.2 percent, respectively. High rates of increase in
-these indices in the first months of 2003 owing to the developments in Iraqi War have played a role in
-stimulating the drop in annual inflation figures as of February 2004.
-
-I. OUTLOOK
-
-13. Enhanced market confidence as a consequence of the economic program has helped expectations
-to improve, and the change in price-setting behavior and the TL appreciation have reduced the
-inflation even further by getting annual inflation closer to single digit figures. During this process, real
-unit costs have decreased significantly thanks to the restructuring of the economic dynamics, and as a
-consequence, Turkey has witnessed a downward trend in inflation unprecedented in the last 30 years.
-The inflation figures in the first two months of 2004 are pointing to a change in expectations and
-
-pricing
-
-behavior. Meanwhile, the rapid rise in agricultural prices is not expected to jeopardize the
-
-inflation target and it is believed that due to the correction in agricultural prices negative inflation
-figures might be observed in summer.
-
-14. It is believed that the end-year inflation target for 2004 is within reach unless there arises an
-exogenous shock. However, some important risks that might endanger attaining price stability still
-
-prevail:
-
-i) The rigidity in the price increases in services has not yet been completely broken and this
-poses a risk to inflation for the coming period. Taking into account of the targeted inflation
-rate instead of the past inflation rate, especially in house rent contracts, is crucially important
-for breaking this rigidity. Certainly, such a pricing behavior can become widespread only if
-positive expectations persist and there is no development that might put inflation at risk.
-Within this framework, it should be underlined that the importance of managing expectations
-appropriately and keeping domestic demand under control has become more critical than ever,
-in order to cause the inflation in services to converge to the rate of price increase in goods
-sector.
-
-ii) In February, possible ways of meeting the fiscal gap in the budget occupied a significant
-part in the economic agenda. Within the scope of the supplementary budget prepared for this
-purpose, public sector prices rose at the end of February due to adjustments made in Private
-Consumption Tax (PCT). Although the extent of the additional funding remained unclear,
-PCT adjustments have been carried out only in petroleum products and cigarettes until now.
-The actual impact of these adjustments occurred at the end of the month will be seen on
-March inflation. Despite this, the prices of pharmaceuticals were adjusted in line with the
-exchange rates, and along with the reductions in Value Added Tax (VAT) and they will
-compensate other negative impacts to some extend. The overall impact of finalized measures
-on inflation is expected to be limited. However, considering that a significant contribution to
-the recent downward trend in inflation has come from the modest rise in administered prices,
-the course of those prices will become crucial in the next period as to whether it will be
-different or not. Especially price increases in those products that affect input costs directly
-such as electricity, natural gas and petroleum are instrumental on inflation by means of costs
-and expectations. Consequently, price adjustments that might occur in the said groups after a
-probable deviation from fiscal discipline will continue to constitute a risk for inflation in the
-medium-term.
-
-i11) Considering that the rise in employment would pick up in the following period, the need
-for maintaining the productivity increase backed by structural reforms will become crucial.
-Accordingly, good corporate governance, and structural arrangements intended to encourage
-foreign direct capital investments will bear much significance.
-
-iv) Exchange-rate volatility always creates a risk for inflation. Such a risk has started to
-diminish relatively, due to the increasing confidence and the removal of concerns over the
-sustainability of public debt. However, in order to be able to reduce this risk even further in
-the course of time, the banking reform must be carried out, financial pressure must be eased,
-expectations must be managed correctly, and economic agents should increasingly rely upon
-forward and future markets. By all means there will always be exchange rate risk in a floating
-exchange rate regime. However, it will be useful to improve the free market system and
-competitive environment in order to weaken exchange rate pass-through and minimize the
-inflation risk originating from exchange rate.
-v) In order to support the downward trend in inflation, it is important that the total domestic
-demand should not exceed the potential production capacity of the economy. At this point, the
-productivity increase in the public sector, the deepening of financial sector reform, the
-encouragement of corporate restructuring, the acceleration of privatization and liberalization
-of markets, and the direct capital investment have come in the forefront. Attaining the
-expected growth rates during the disinflation process can only be achieved by expanding the
-output capacity of the economy, as well as supporting the productivity increase.
-
-vi) In the first 5 months of 2003, inflation rates increased due to cost-push factors arising from
-the Iraqi War, as well as from the price hikes in food and agricultural products owing to
-adverse weather conditions. With the removal of the said conditions, inflation rates maintained
-a rather downward trend for the rest of the year. These developments created a significant
-discrepancy in the inflation trend between the first and the second halves of the year. As a
-natural consequence of the mentioned effect, also called as the base effect, the downward
-trend in annual inflation is expected to be significant in the first five months of 2004.
-However, even though the downward course of inflation would continue during the remaining
-part of the year, there may occur a standstill in the 12-month cumulative rates of inflation due
-to base effect. Yet, such a development will be consistent with the inflation target. At this
-point, it should be emphasized once more that the Central Bank will continue making its
-monetary policy decisions by taking into account of the future course of inflation only, not the
-past inflation. Therefore, the economic units should base their decisions on the expected trend
-of inflation and the coherence of expected price increases with the targeted inflation, rather
-than the annual inflation rates, which are backward-looking indicators.
-
-15. To sum up, in order to preserve the success achieved in the fight against inflation in the last two
-years, and to achieve and maintain price stability, it is required that: (1) the expectations are managed
-properly and the current policies intended for ensuring macroeconomic stability are credible; (11)
-public deficits and total public debt stock are reduced, by sticking to the fiscal discipline; (iii) the
-crowding-out effect due to the dominance of the public sector on the financial markets is decrease d to
-ensure financial deepening in the framework of lowering public debt stock; (iv) the monetary
-discipline should continue; (v) the price-setting behavior and incomes policy of the public and private
-sectors are implemented in line with the inflation targets; (vi) the rigidity in the already subdued
-inflation should be totally removed by putting into practice the structural reforms launched in legal
-and institutional areas; (vii) the efficiency and quality in the production of goods and services should
-be improved, by removing the obstacles to production and investment, and thereby raising the
-competitive edge of the economy. As always, the Central Bank will continue monitoring the
-applications in the above mentioned areas, and incorporate all possible developments in its monetary
-policy decisions, adopting a forward-looking perspective.
-30
-
-25
-
-20
-
-15
-
-10
-
-26
-
-a2,
-
-18
-
-14
-
-10
-
-Figure 5: Inflation Expectations According to CBRT Expectations Survey
-
-End-year Inflation Expectations and Inflation Target: 2002-2003
-
-End-year Inflation Expectation
-
-Inflation Target
-
-sje|jglsis|jelslz]elelslselsis]elsle]elele leslie ls le lela le
-2003 2004
-Inflation Expectations for the Next 12 Months
-11.7
-F/T AILA sm a{[rtf Tf PHolswl ol ole Clolol/ai ajo jo TIT aA aya Aialia
-A Da cl cc Dc Pd Dc ce ce el
-“TSIT IRIE IT EIT ee Pel Oe ee oe SSR SOR eS
-2003 2004
-
-Source: CBRT Expectations Survey
-MARCH INFLATION AND OUTLOOK
-
-I. GENERAL EVALUATION
-
-1. Downward trend in annual inflation rates continued in March 2004, and annual inflation figures
-dropped to 11.8 percent in CPI and 8 percent in WPI. Decline in annual inflation rates of CPI
-excluding food and WPI excluding agriculture continued as well, realizing as 13.1 percent and 5
-
-percent, respectively.
-
-2. In March, monthly price increases realized as 2.1 percent in WPI and 0.9 percent in CPI.
-
-Seasonally adjusted CPI inflation was 1.1 percent, while WPI became 1.5 percent.
-
-Table 1: General CPI, WPI and Sub-items
-
-Annual % Change Monthly % Change
-
+Annual /0 Change | Monthiy /0 Change
 2003 2004 2004 2004 2003 2004
-
-— March ~~ March _| January’ February | March March
-
-CPI 29.4 11.8 0.7 0.6 | 3.1 0.9
-Goods 29.3 7.9 0.2 00 | 3.3 1.0
-Services 29.6 19.7 1.8 1.5 2.7 0.7
-Excl. Food 29.7 13.1 0.5 0.3 1.5 0.5
-Food 28.5 8.0 1.4 15 | 82 2.2
-WPI 35.2 8.0 2.6 1.6 | 3.2 2.1
-Public 42.7 2.1 0.3 0.7 1.9 3.0
-Private 32.4 10.3 3.5 2.0 3.7 1.8
-Public Man. 47.6 4.4 0.7 11 | 18 4.1
-Private Man. 30.9 6.7 0.6 0.1 1.6 0.7
-Agriculture 33.9 16.8 9.3 5.4 7.8 3.6
-Excl. Agriculture 35.6 5.0 0.5 03 | 18 1.6
-Excl.Agr.and Energy 36.8 | 5.4 | 0.6 | 0.4 | 1.8 1.7
+_ May May March April& May May
+CPI 30.7 8.9 0.9 0.6 1.6 0.4
+Goods 31.4 4.3 1.0 0.6 1.6 0.1
+Services 29.5 18.2 0.7 0.6| 1.5 0.9
+Exci. Food 28.6 11.4 0.5 0.6 1.5 1.5
+Food 37.8 1.4 2.2 0.6 1.9 “3.1
+WPI 33.7 9.6 2.1 2.6& -0.6 0.0
+Public 30.4 9.3 3.0 0.5) -2.7 2.3
+Private 35.0 9.6 1.8 3.5 0.2 -0.9
+Public Man. 35.0 11.8 4.1 0.4 -3.0 2.6
+Private Man. 28.0 9.1 0.7 1.5 0.3 1.8
+Agriculture 48.1 10.5 3.6 6.9 -0.1 -5.2
+Excl. Agriculture 29.2 9.2 1.6 i.1 -0.8 2.0
+Excl. Agr.and Energy 30.1 9.9 1.7 1.2& -0.9 2.1
 
 Source: CBRT, SIS.
 
-3. The six-month average of seasonally adjusted inflation became 0.9 percent in WPI and 0.6
-percent in CPI. Annualized figures correspond to 11.3 percent and 7.4 percent, respectively.
-During the same period, the average rate of increase in seasonally adjusted CPI excluding food
+3. The six-month average of seasonally adjusted inflation was 1.1 percent in WPI and 0.6 in CPI.
+The mentioned average rates of increase correspond to 13.8 percent and 8 percent in annual terms.
+In the same period again, the average rate of increase in seasonally adjusted CPI excluding food
 
-realized as 0.89 percent. This figure corresponds to 11.2 percent in annual terms (Figure 1).
-Figure 1: Annual Percentage Change and Quarterly Moving Averages
+became 0.9 percent, which corresponds to 11.6 percent in annual terms (Figure İ).
+Figure 1: Annual Percentage Change and Six-month Moving Averages
 CPI and CPI Excluding Food WPI and WPI Excluding Agriculture
 
-—— Annualized CPI (*) i i
-— Annualized WPI (*)
+—— Annualized WPI(*)
 
-— —Annualized CPI Excl. Food (*) 60 +E 5
-: . . \ — —Annualized WPI Excl. Agriculture (*)
+-- 1 T *
+—— Annualized CPI(*) | 60 A Annualized WPI Exc. Agriculture(*)
 
-02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01
+— — Annualized CPI Excluding Food(*)
 
-(*) Quarterly Moving Averages (Annualized, Seasonally Adjusted).
+02:01 02:04 02:07 — 02:10 03:01 03:04 03:07. — 03:10 04:01 - 04:04
+
+02:01 — 02:04 — 02:07 — 02:10 — 03:01 03:04 03:07 — 03:10 — 04:01 - 04:04
+(*) Six-month Moving Averages (Annualized, Seasonally Adjusted).
+
+TRAMO/SEATS method has been used for deseasonalization.
 Source: CBRT, SIS.
 
 Developments in Consumer Prices
 
-4. The downward trend in CPI inflation maintained its modest course in view of favorable cost
-conditions and positive expectations, and followed a path consistent with the end-year target of
-12 percent in the first quarter of the year. However, the rate of increase in the prices of subgroups, influenced by tax adjustments made in the supplementary budget, remained relatively
+4. In May, there were mainly three factors affecting CPI sub-items. These were: (İ) downward trend
+in food prices, (ii) increase in clothing prices exceeding expectations and (ili) the repercussions of the
 
-above the general trend.
+depreciation of Turkish lira on prices.
 
-5. In March, the highest price increases were recorded in the food-alcoholic beverages-tobacco
-group and in the transportation group. The private consumption tax increases on tobacco and
-alcoholic beverages led to a 3.1 percent rise in the food-alcoholic beverages-tobacco group. On
-the other hand, the food prices excluding items mentioned above, maintained its downward trend
-of the first two months of 2004 with a 2.2 percent increase (zero percent in seasonally adjusted
-terms) in March. On the other hand, the price increase in the transportation group remained
-above the general increase in CPI and realized as 1.4 percent due to the 4 percent increase in
+5. Compensation of rapid increase in agricultural prices in winter ended up in a decline in food
+prices. With the decline in food prices, inflation remained well below the expected inflation rate of i.İ
+percent according to May 2004 results of the CBRT Expectations Survey. In the CPI, especially the
+fresh vegetable prices declined remarkabiy. Meanwhile, due to the adjustments made in the prices of
+tea, beverages group prices increased by 3.4 percent. As a result of this, while the prices in food
+group declined by 3.1 percent, decline in food-beverages-tobacco group prices remained relatively
 
-personal vehicle repairs.
+limited with a 2.3 percent.
 
-6. Rent increases in March were limited to 0.8 percent. The slowdown in rent increases may be
-considered as a positive development. House repair and maintenance —one of the sub-items of
-housing sector-, other expenditures for housing, and electric, gas and other fuel prices decreased
-by 1.7 percent, 0.3 percent and 0.1 percent, respectively. In an environment where CPI increases
-by 2.2 percent and CPI excluding food increases by 1.3 percent in January-March period, the 4.4
-percent increase of rents shows the necessity of monitoring the rent increases more closely in the
+6. 5.8 percent of inflation in clothing group indicates that part of the seasonal increase peculiar to
+April has shifted to May in 2004. The index value of clothing prices is currentiy 1.8 percent lower than
+the last season's values (November 2003) and annual rate of increase in clothing is only 2.b percent,
+therefore, it can be asserted that increase in clothing prices should not pose a risk to the inflation
 
-next period as well. On the other hand, the seasonally adjusted rate of increase in the services
+target.
 
-02:01 02:04 02:07 02:10 3:01 03:04 3:07 03:10 04:01
+2 In May 2004, the issue of concern in the markets was how the depreciation of Turkish lira
+would affect the prices. When the developments in CPI sub-items are examined within this
+framework, it is observed that the pass-through from exchange rates to CPI has been mostly limited
+to petroleum prices. The increase in durable goods prices, which was expected to be the group most
+severely affected, was recorded as 1.9 percent. Though exchange rate appreciation had minor effects
 
-group remained closer to its recent trend and realized as 1.4 percent. In this context, the
+on private transportation vehicles and cultural and recreational devices, the prices of electrical and
+non-electrical household appliances remained intact. In other words, the impact of the depreciation in
+Turkish lira on durable goods and CPI inflation were limited in May 2004. The extent to which the
+exchange rate appreciation will be perceived as permanent, and the course of domestic demand in
 
-downward rigidity in services group price increases seems to continue.
+summer is estimated to be the major factors determining the degree of pass-through.
 
-7. The positive developments in March include the decline in the prices of pharmaceuticals as a
-consequence of VAT adjustments and exchange rate developments, and the 2.1 percent decline in
-clothing prices. Historically, March is a period when the prices in clothing group increase at least
-Slightly before entering a new season. The decline in March 2004 points out that the inflation
-
-trend is considerably low, and there is no cost-push pressure on prices.
+8. — Apart from the three main points mentioned above, inflation developments in terms of relative
+price discrepancies are similar to those in the previous months. Displaying a course in line with the
+first four months of the year, increase in the prices of services groups was recorded as 1.4 percent
+(seasonally adjusted) and pursued its course, which is inconsistent with the inflation target. When the
+decline in annual inflation is reflected on the lease agreements, the increase in the prices of services
+group İs expected to slowdown as well.
 
 Figure 2: Prices of Goods and Services
+Annual Percentage Change Monthliy Percentage Change
 
-Annual Percentage Change Monthly Percentage Change
 (Seasonally Adjusted)*
 
-Goods
+— — Services —— Goods
 
-— —Services
+- — —Services —— Goods
 
-02:01 02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01
+l
 
-02:01 02:04 02:07 02:10 3:01 | 03-04 } 03.07 | 03:10 | 0401
+02:01 02:04 — 02:07 — 02:10 03:01 03:04 03:07 03:10 04:01 04:04
+
 Source: CBRT, SIS.
 *TRAMO/SEATS method has been used for deseasonalization.
 
-8. Seasonally adjusted CPI increased by 1.1 percent, 0.2 point above that of February. However,
-it should be noted that one-off tax increases affected the price developments in March. Despite
+9. — As a result, compared to the past 6 months, seasonally adjusted CPI excluding food slightliy
+increased in May. The average rate of inflation excluding food in the first five months is 0.9 percent,
+and despite the high rate of increase in the prices of services, it is still compatible with the targeted
+inflation rate. Meanwhile, in May, seasonally adjusted food prices declined by 1i.7 percent compared to
+January. Considering that annual rate of increase in the prices in this group is 1.4 percent, it can be
 
-these increases, inflation maintained its downward trend.
+asserted that chances of posing a risk to end-year inflation target are rather low.
+
+02:01 — 02:04 02:07 — 02:10 03:01 — 03:04 — 03:07 — 03:10 04:01 — 04:04
 Figure 3: CPI and CPI Excluding Food
 
-Annual Percentage Change Monthly Percentage Change
+Annual Percentage Change Monthiy Percentage Change
 (Seasonally Adjusted)*
 
-| | 5.0 | |
-| | |
+N — —CPI Exc. Food —— CPI
 
-— —CPI Excl. Food — —CPI Excl. Food
+40 - - — — CPI Exc. Food —C — —
 
-—crl 4.0 — cI == 415 ===
-i i
+-0.5
 
-4.5 | -=--I---
-02:01
-
-02:04
-
-02:07 02:10 03:01 03:04 03:07 03:10 04:01 02:01 02:04 2:07 02:10 03:01 3:04 03:07 03:10 04:01
+02:01 - 02:04 - 02:07 — 02:10 03:01 03:04 03:07 — 03:10 04:01 - 04:04 02:01 - 02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01 - 04:04
 
 Source: CBRT, SIS.
+*TRAMO/SEATS method has been used for seasonal adjustment
 
-TRAMO/SEATS method has been used for deseasonalization.
+Developments in Wholesale prices
 
-Developments in Wholesale Prices
+10. — WPI declined by 0.03 percent in May 2004. Rate of increase in seasonally adjusted WPI, came
+down to 0.8 percent, which is 1İ.1 points lower than April figure. Whereas, rate of increase in WPI
+excluding agriculture, increased by 0.9 percent compared to April and was registered as 2.0 percent
+(Figure 4).
 
-9 In March 2004, WPI increased by 2.1 percent. The rate of increase in seasonally adjusted WPI
-rose by 0.4 point compared to February and became 1.5 percent. On the other hand, WPI
-inflation excluding agriculture reached the highest rate observed in this group since March 2003
+di. — The decline in WPI in May can be attributed to the 5.2 percent decline in agricultural prices.
+Seasonally adjusted agricultural prices, which increased by 2.6 percent in January-April period,
+declined by 2,3 percent in May and diverted mainliy from the course it had been following since the
+turn of the year. While the decline in agricultural prices was reflected in WPI by —1.54 percent, 2.İ
+percent rise in manufacturing industry prices contributed to WPI inflation by 1i.bİ percent. In other
+words, the decline in agricultural prices limited the WPI inflaton by compensating the rise in
 
-and realized as 1.6 percent (Figure 4).
+manufacturing industry prices that accelerated due to cost-push pressures.
 
-10. The greatest contribution to WPI increases in March was made by the manufacturing industry
-prices with a 1.8 percent rise. In addition to this, agriculture prices contribute 0.8 point to March
-WPI inflation with a 3.6 percent increase on a monthly basis. The seasonally adjusted rate of
+12. — The significant rise in monthly rate of increase in WPI excluding agriculture can mostly be
+attributed to the depreciation of Turkish Lira against US dollars by 2.7 percent and İ1İ.İ percent in
+April and May, respectively. Monthiy rates of increase in private manufacturing industry prices and
+public manufacturing industry prices rose to 1.8 percent and 2.6 percent, respectively. The rise in the
+prices of raw materials as well as appreciation in exchange rates became the factors underlying the
+rise of public manufacturing industry prices. Despite the slowdown in the rate of increase in world
+metal prices, the prices in the public basic metal sector rose by 9.1 percent. Prices of oil products
+increased by 5 percent in mid-May due to the rise in international crude oil prices and appreciation in
+exchange rates. This 5 percent rise caused a 2.3 percent increase in the prices of public petroleum
 
-increase in agriculture prices rose by 0.3 point compared to February and realized as 1.5 percent.
-
-11. The monthly rate of increase in WPI excluding agriculture resulted mainly from the public
-manufacturing industry prices. Despite the 11 percent decline in the average US Dollar rate during
-the last four months, public manufacturing industry prices increased by 4.1 percent in March. This
-was due to tax increases on tobacco products, brought about as a supplementary budget
-measure, and the rise in the international prices of the raw materials used as primary inputs in
-
-basic metal and oil products manufacturing sectors.
-
-12. As of end-March, electric-water-gas prices decreased by 0.1 percent on a monthly basis and
-0.5 percent on annual basis. It is especially remarkable that the water prices controlled by local
-governments displayed a 4.8 percent decline in January-March period. At this point, the course of
-
-natural gas and water prices gains importance for April and following months.
-13. Despite remaining below the public manufacturing industry increase, rate of price increase in
-private manufacturing industry realized as 0.7 percent, 0.6 point above the February figure. The 3
-percent increase in the prices of food and beverages manufacturing sector was the main
-
-determinant of this rise.
-
+products manufacturing sector.
 Figure 4: WPI and WPI Excluding Agriculture
-Annual Percentage Change Monthly Percentage Change
-(Seasonally Adjusted)*
 
-6
+Annual Percentage Change Monthiy Percentage Change
+(Seasonalliy Adjusted)*
 
-— —WPI Excl. Agriculture
+l l T 6 T
+| | | | |
 
-— —WPI Excl. Agriculture |
+00 g —WPI Exc. Agriculture
+K — —WPI Exc. Agriculture K
 
-—wPl al
+— İ
+WPI
+S0 — | İ —WPI — — H 4 - A l | l
 
-02:01 02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01 2 | | |
+0
 
-02:01 02:04 02:07 02:10 03:01 03:04 03:07 03:10 04:01
+02:01 — 02:04 — 02:07 — 02:10 03:01 — 03:04 03:07 — 03:10 — 04:01 — 04:04
+
+02:01 — 02:04 02:07 — 02:10 — 03:01 03:04 03:07 03:10 04:01 - 04:04
 
 Source: CBRT, SIS.
-* TRAMO/SEATS method has been used for deseasonalization.
+*TRAMO/SEATS method has been used in deseasonalization.
 
-14, In line with the developments mentioned above, annual WPI inflation and WPI inflation
-excluding agriculture declined to 8 percent and 5 percent, respectively. High rates of increases in
-the first three months of 2003 owing to the developments in the Iragi War have played a role in
+13.An analysis of the sub-sectors of private manufacturing industry reveals that appreciation in
+exchange rates has had partial effects on most of the sub-items and the highest rates of increase
+were observed in prices of press-publication, communications eguipment manufacturing industry and
+textile products manufacturing industry. The 5.2 percent rise in the prices of textile products bears
+importance as this group has a big share in private manufacturing sector and it is likely to have a
+delayed effect on clothing prices registered under CPl. This group's contribution to overall rate of
 
-stimulating the drop in annual inflation figures of March 2004 as well.
-2. OUTLOOK
+increase in private manufacturing industry of 1.8 percent became 0.6 percent.
 
-15. While the favorable outlook in CPI inflation continued in March, a relative acceleration was
-observed in WPI inflation increases. Since the initiation of implicit inflation targeting regime, the
-end-year inflation target has been defined in terms of consumer prices. Besides, the CPI inflation
-has been given emphasis in “Outlook” section of our announcements and reports, whereas WPI
-inflation has been evaluated in the light of data on future CPI inflation. Given the aforementioned
-developments, it will be useful to interpret the developments in wholesale prices in March in terms
+14.1In May, energy prices increased by 0.6 percent as a result of the 2.1 percent rise in water prices,
 
-of CPI inflation for the coming period.
+whereas they dropped by 1.7 percent compared to the same month of the previous year.
 
-16. The 0.5 percent drop in energy prices within WPI on an annual basis, continued to restrict
-cost-push inflation pressures. In March, WPI was adversely affected by agriculture prices and the
-public price increases due to budgetary measures. The effects of relatively high increase in
-agriculture prices on food prices in CPI were limited. Moreover, in the short run it is expected that
-high rate of increases in agricultural sector prices will be followed by negligible rate of increase or
-decline. Indirect effects of high rate of increase in prices in tobacco manufacturing industry, in
-WPI, will be negligible. However, the fact that the increase in WPI mainly stems from oil products
-and basic metal industry sectors, as well as the probable persistence of these increases indicate
-that inflation will likely be determined by cost-push pressures in general in the following months.
-Rises in international metal prices result from increase in demand of China, which is not
-considered to be transitory. Likewise, the upward trend in oil prices is not expected to reverse
-substantially for some time. Nevertheless, under the fundamental assumptions that relative
-stability in foreign exchange rates would continue and that domestic demand would be kept under
-control, these developments are not considered as a threat to 2004 inflation yet. Undoubtedly,
+15.1In line with the developments mentioned above, annual WPI inflation and WPI inflation excluding
 
-these predictions are conditional on fiscal discipline.
+agriculture rose to 9.6 percent and 9.2 percent, respectively.
+IT. OUTLOOK
 
-17. In general, the belief that the end-year inflation target is achievable is getting stronger as of
-the first quarter of 2004. The cumulative CPI inflation and CPI inflation excluding food in the first
-quarter of the year became as 2.2 percent and 1.3 percent, respectively. These figures point out
-an inflation course consistent with the end-year target, which should be perceived as a favorable
-development. However, it should be kept in mind that the Central Bank focuses on likely course of
-future inflation, hence gives emphasis not only on the realized inflation figures, but also on the
-prospective course of inflation that can be judged from these realisations. In this context, the
-relative price dispersion between services group and goods group, and the global rise in prices of
+16. Figures for May inflation constituted a significant reference point in terms of observing the extent
+to which the raw material costs and the fluctuations in financial markets would effect inflation. In this
+framework, the 1.5 percent rise in CPI excluding food indicated that the effects of the abovementioned unfavorable developments on inflation would remain limited and also reaffirmed the belief
+that the year-end inflation target was attainable. Undoubtediy, cost-push pressures are İikely to affect
+inflation in summer as well; however it is anticipated that these pressures would not reach a level that
 
-basic metal and oil are considered as risks for future inflation.
+would jeopardize the end-year target.
 
-18. The drop in annual price increases in services from 22 percent of February to 19.7 percent in
-March can be regarded as a favorable development. However, the rate of increase in service
-prices in the last quarter, corresponding to 1.1 percent of the seasonally adjusted average price
+17.After three successive years of downward trend in inflation, it is observed that the progress
+achieved so far has started to assume a permanent nature. The change in inflation dynamics
+undergone by Turkish economy during this process can be summarized under the main headings
 
-increases (14.6 percent in annual terms) is still inconsistent with the end-year target. Although
-the slowdown in rent increases, one of the sub-items of services group, may be considered as a
-favorable development, close monitoring of developments in rent is warranted to ascertain
-whether such downward trend is permanent or not. Moreover, hospital services prices produced a
-less rosy picture, increasing by 13.0 percent during the January-March period. Adjusting health
-services prices in line with inflation target, as it is in other economic units, will contribute to the
+listed below:
 
-efforts of breaking the downward rigidity in inflation.
+e In line with the current program, worries about the sustainability of borrowing alleviated and the
+public prices were increased at a rate consistent with the end-year target, both of which
+weakened the pressure caused by public sector on İnflation. However, in order to maintain this
+condition and ensure permanence of the achievements in inflation in the long run, it is necessary
 
-19. In 2004, it is predicted that the recovery in domestic demand will continue in a controlled
-manner and that economic growth would be based on investment and consumption as in 2003.
-Besides, low unit costs and favorable inflation expectations are expected to continue to support
-the downward trend in inflation. Moreover, recent increases in credits extended to Small and
-Medium-Sized Enterprises (SME) and in consumer credits will likely maintain their upward course
-for sometime. However, modest capacity utilization ratios in the automobile sector, to which
-consumer credits are mostly directed, are not yet in a position to push production capacity, and
-part of consumption stems from relatively low prices in these sectors. Therefore, it is not expected
-that a demand-push inflation pressure should build up in the short-term. On the other hand, it is
-considered that the credits extended to private sector will Support investment, increasing the
+to carry out structural reforms in public sector in full strength.
 
-potential output, and ease inflationary pressures.
+e — As a conseguence of the cürrent monetary and fiscal policies consistent with the inflation target as
+well as the credibility established thanks to the achievements in disinflation efforts, the economic
 
-20. Nevertheless for the sake of financial stability, financial standings of banks should be strong,
-and their profitability should be maintained. At a time when inflation is in a downward trend and
-interest rate margins are shrinking, banks should try to reduce their costs and should focus on risk
-management in extending loans. While trying to recuperate their reduced interest rate margins by
-increasing their market shares and enlarging their customer base, banks should pay attention to
-interest rate and credit risks. Moreover, although consumer credit interest rates are declining
-rapidly, they are still at high levels considering the targeted inflation rates. At a time when no
-sharp increase is expected in real incomes, household tendency to finance consumption spending
-via consumer credits still bearing high real interest rates compared to the realized inflation, or
-higher compared inflation target, cannot be regarded as rational behavior. Despite the fact that
-the rise in consumer credits have not created a significant inflationary pressure until now, the
-Central Bank will continue to monitor the increases in consumer credits closely in the following
-period and will send necessary signals to markets on potential risks that may obstruct the ongoing
+agents have started to take the inflation target as a reference point.
 
-downward trend of inflation or deteriorate the financial stability.
+e İt is observed that pricing behaviors have become more rational, backward-looking indexation
+behavior has started to weaken and the effect of the prospective future demand and cost
 
-21. As it is emphasized repeatedly in our previous announcements and reports, it is of vital
-importance to correctly perceive the significance of the projected course of 12-month cumulative
-inflation figures consistent with the target in 2004. In the first 5 months of 2003, inflation rates
-climbed because of price hikes in food and agricultural products arising from cost-push factors
-caused by Iraq War as well as adverse weather conditions. With the removal of the said
+conditions in determining inflation has started to increase.
 
-conditions, CPI inflation pursued a rather modest trend for the rest of the year. These
-developments led to an obvious discrepancy in inflation trend between the first and second halves
-of 2003. As a natural outcome of this effect, which is also called as the base effect, the downward
-trend in annual inflation will continue evidently in the next two months, as in the last quarter. On
-the other hand, even though the downward trend in inflation continues in the rest of the year,
-annual inflation rates may stop decreasing or may increase due to the base effect. Yet, such a
-development will be consistent with the inflation target. At this point, it should be emphasized
-once more that while making its monetary policy decisions, the Central Bank will continue to focus
-itself on future course of inflation merely, not on the past inflation figures. Therefore, the
-economic units should refer to general trend of inflation and the consistency of price increases to
-be realized throughout 2004 with the inflation target, rather than the course of annual inflation
+e — With the advent of the floating exchange rate regime, nominal exchange rate-indexation behavior
+lost intensity, however exchange rates are still effective on inflation through costs and import
+prices. In this context, floating exchange rate policy is believed to have led to a structural change
+in the exchange rate-inflation correlation. Moreover, forward-looking inflation policy of the Central
+Bank, enhanced competitive environment, downward trend in inflation and tight fiscal policies
+implemented in the last two years are changing the pricing behaviors of firms, affecting the
+expectations and contributing to the weakening the pass-through from exchange rates to
 
-rate, which is a backward-looking indicator.
+inflation.
 
-22. The rigidity in services sector inflation should be minimized for the sake of convergence of the
-inflation in services to the goods sector, as well as the maintenance of downward trend in inflation
-in 2005. This development is closely related with the implementation of public pricing and incomes
-policy consistent with the targeted inflation, the correct management of expectations, the
-controlled recovery in domestic demand, and the establishment of a production process based on
+18.There are certain polints that should be emphasized for the sake of reaching an accurate
+interpretation of the general course of annual inflation figures in the forthcoming months. The lagged
 
-market rules and open to competition, in other words with structural reforms.
+effects of cost increases observed as a result of the brisk movements in raw material prices and
+exchange rates in the last two months coupled with the hike in oil prices on inflation are expected to
+continue in June and July as well. Meanwhile, the base effect observed in June, July and August 2003
+as a conseguence of the inflation figures that were well lower than the normal trend, will start to
+disappear as of next month. In other words, even if monthiy inflation follows a trend consistent with
+the end-year target, annual inflation figures may be increasing only because of the calculation method
+during the next three-month period. It is crucial that the above mentioned point, which has been
+reiterated our inflation reports since early 2004, should be perceived correctiy by all economic agents
+and the course of the annual inflation figures for the following period should not be used as an alibi
+for changing expectations or leading to speculative movements. It should be emphasized once more
+that the figures to be paid particular attention in terms of year-end inflation in the following months
+must be cumulative rates of increase in prices that have been recorded as of the turn of the year and
+the price increases estimated for the rest of the year rather than the twelve-month (annual)
+cumulative inflation figures. In this context, it should be noted that the cumulative rate of increase in
+prices for the first five months of the year became 3.2 percent. Prospective factors and risks that
 
-23. The current program has had favorable effects on macroeconomic stability and in steering
-expectations. As the inflation drops, there is an increasing consensus among every sector of the
-society that still much remains to be done for achieving permanent price stability. Reforms on tax,
-social security and public management are of vital importance for the sustainability of the
-structural public balance in medium and long terms. Moreover, each step taken for enhancing the
-economic role of private sector for the development of competitiveness and productivity, the
-measures for increasing the public productivity and the quality of governance, the improvement of
-investment environment and deepening the fiscal system, and each signal thereon will help
+might affect inflation dynamics in the upcoming period are as follows:
 
-Turkey to achieve a long-term economic stability.
+e Surveys and leading indicators point out that the rise in consumer credits and production
+continued in the first five months of 2004 and as a conseguence of this fact, capacity utilization
+was at high rates. However, it is still hard to talk of an overall recovery spread throughout all
+sectors İn economy. Moreover, it is anticipated that the uncertainties sparked by internal and
+external developments and upward trend in long-term interest rates would reduce the
+consumption demand relatively. Taking into account these factors coupled with the determined
+implementation of tight monetary and fiscal policies, it is projected that there would be no
+prominent domestic demand pressure in the upcoming period. Undoubtediy, the Central Bank will
+continue to monitor the rise in consumer credits closely in the next period as well and make the
+necessary warnings in case these developments pose potential risks that may impede the
 
-24. In current period, the continuation of structural reforms is of vital importance. If the
-downward trend in inflation in 2005 is to be accompanied with high economic growth and rise in
-employment, general productivity level must be increased through the accomplishment of ongoing
-structural reforms as soon as possible. In general, realization of structural reforms, which means
-the transformation of an institutional structure that is the whole of rules, sanctions and
-organizations in order to remove restrictions in the economy, seems inevitable for the removal of
+downward trend in inflation or disrupt the stability in financial markets.
 
-obstacles to the productivity increase in production factors.
-28
+e — There is a risk that the easing of the fluctuations in the financial markets might be delayed due to
+aggressive interest rate moves by the Federal Reserve Bank, or to iİncreased external
+uncertainties. However, the effect of the mentioned prospective fluctuations on prices would be
 
-20
+weaker compared to the pre-2001 period because of the above-mentioned reasons.
 
-12
+e - Ojil prices were raised as a result of the persisting rise in world oil prices and increased budget
+financing reguirement caused by exchange rate pressure. Meeting the additional financing
+reguirement, which might emerge unless the related factors reverse, in a manner consistent with
+the current economic program bears importance in terms of inflation, domestic demand, current
 
-28
+account deficit and expectations.
 
-20
+e — The likelihood of a rise in electricity prices is low for the time being, which is accepted as one of
 
-12
+the factors that may limit the cost pressure caused by oil products.
+Projecting that the rise in productivity will maintain its rather modest course, though not as fast as
+in the last two years, and taking into account the current conditions in the labor force market, unit
+labor costs are predicted to keep contributing to the decline in inflation throughout 2004.
+However, it should be borne in mind that carrying out public wages and incomes policies in line
+with the targeted inflation rate is a critical prereguisite for the fight against inflation. Furthermore,
+the adjustments that focus on the removal of obstacles to investment and production are very
+important for the continuation of the rise in productivity in the medium and long run and ensuring
+sustained and lasting downward trend in inflation in the upcoming years. Efforts put forth on this
+matter are deemed very constructive. However, there is still more to be done about legal
 
-Figure 5: Inflation Expectations According to CBRT Expectations Survey
+arrangement, governance guality and macro-economic stability.
+
+On the verge of a period of uncertainties in terms of external factors, it is of critical importance
+that strong signals, stating that the current economic program would not be interrupted, should
+be given. Clarifying the decisions on the continuation of the economic program will contribute very
+much to diminishing of the vulnerability to exogenous shocks. It should be borne in mind that, in
+an economy where inflation is in a downward trend, achieving high growth rates depends on the
+enforcement of structural transformation in the medium term and on the perception of the
+commitments made for this transformation process as credible by economic agents in the short
+term. Therefore, it is crucially important to carry on with a program that aims at ensuring the
+sustainability of the achievements, focuses on the structural reforms and defines structural criteria
+
+within the framework of a general and a medium-term plan.
+
+Inflation target-oriented monetary and fiscal policies which have been implemented for the last
+three years and the Central Bank's clear opinion-sharing with the public about the course of the
+future inflation tendency are playing an important role in molding expectations. In conclusion, at
+this point, the economic agents perceive the announced inflation target as a strong reference
+point. Given the current data, expected inflation figures, which have been following a course close
+to the targeted inflation despite cost-oriented shocks, are projected to maintain a similar trend in
+
+the upcoming period.
+
+Agriculture and food prices should be evaluated separately while evaluating the prospective risks
+to inflation in the upcoming period. Agricultural prices, which displayed a 27.6 percent hike in the
+first four months of the year, started to slowdown in May. It is predicted that this trend would
+continue in the upcoming months and have a restrictive effect on WPI inflation. Undoubtediy, it is
+necessary to be prudent about food and agricultural prices, as seasonal conditions cannot be
+foreseen. However, the relative stability in food prices despite fluctuations in agricultural prices
+
+reduces the mentioned risks in CPI compared to WPrI.
+
+As of the inception of implicit inflation targeting, the end-year inflation target has been defined in
+terms of consumer prices; CPI inflation is taken as the focal point of our announcements and
+
+reports and the increase in WPI is evaluated in the light of the data that it includes about future
+CPI inflation. In this framework, the developments in wholesale prices in May are estimated to
+affect future CPI inflation adversely in terms of costs, however this effect is expected to be limited
+in the short run similar to the case İn exchange rate-inflation correlation, and the effect in
+
+guestion would not reach level to jeopardize end-year inflation target.
+
+e - Albeit slight decline in the last few months, the rigidity in the services sector still persists. In the
+upcoming months, the prospective vanishing of the compensating effect of goods prices due to
+
+cost pressure, might pose a risk to general CPI index.
+
+19.In conclusion, effects of the recent increases in costs on İnflation are deemed to be temporary
+and it is predicted that the already low inflation trend would display a further downward trend with
+the removal of these effects. Undoubtediy, the effects of recent developments on general inflation are
+temporary, whereas these effects would likely affect the end-year İ2-month cumulative inflation
+figure. However, the point that must be emphasized is that despite all these shocks, the end-year
+inflation target is certainliy attainable. According to the projections made on the assumption that the
+necessary signals are given about the continuation of fiscal discipline and structural reforms after
+2004 and permanence of commitment mechanisms is ensured, it is projected that the annual inflation
+might slightly accelerate in the next few months mainly due to accounting period and partly to cost
+
+pressure, however the end-year inflation target would still be achieved.
+
+20. The figures obtained in the first five months of the year point out to the remarkable progress
+made in the fight against inflation. However, it is evident that economic balances have not yet settled
+firmly and vulnerability, which was formed over many years, has not been entirely eliminated. The
+necessity to bolster the steps taken in the last three years towards attaining a permanent
+macroeconomic stability and price stability with fundamental structural reforms will be more
+
+pronounced apparentiy in the future.
+
+21 . The steps to be taken towards reforming tax management and social security will be perceived as
+positive signals with respect to increasing the guality of fiscal adjustment in the medium and the long
+run. Carrying out the structural reforms in legal and institutional areas is a sine gua non for removing
+the obstacles before increasing the efficiency of production factors. Establishing a production process,
+based on market rules and free competition, is necessary for attaining macroeconomic stability as well
+as for protecting price stability. Accordingiy, every step to be taken and every signal to be given
+
+towards this goal would contribute to the progress in attaining lasting stability.
+Figure 5: Inflation Expectations according to CBRT Expectations Survey
 
 End-year Inflation Expectations and Inflation Target: 2003-2004
 
-— End-year Inflation Expectation
+32 —
 
-—— Inflation Target
+24 —
 
-| —_— | —a
+20 -—
 
-38/8/38 3 3/3 9)s/$/s)s\s/slsie/elsizzieisisis ss s/s
-ae ee ee en ie oe
+12 * —— Taflation Target
 
-2003 2004
+—— Year end Inflation Expectations
 
-Inflation Expectations for the Next 12 Months
+L-01
+IL01
+02
+I-02
+103
+104
+IL-04
 
-11.0
-Ta) mi insye_ nsieims my] we] atFyi_ msi my] oy] voy] | N | DN} ao] oy, ma mI NA Ao oI NIT NIT OHS
-FSlelelAalelSalea/sAlel Salas Alea 4/4/44) /4/F as) T Sl lal slelas/4alealeie
+1-05
+I1-05
+1-06
+I1-06
 
-2003 2004
+1-09
+I1-09
+
+1-10
+I1-10
+
+D
+
+IL-1İ
+
+- 2
+I- 12
+
+Lo1
+
+IL01
+L02
+
+I1-02
+
+Inflation Expectations regarding Next 12 Months
+
+28
+
+-04
+
+24 —
+
+20
+
+16
+
+12
 
 Source: CBRT Expectations Survey
-April Inflation and Outlook
-I, GENERAL EVALUATION
-
-1. The downward trend in consumer inflation rates continued in April 2004 as well and annual
-inflation rate dropped to 10.2 percent in CPI. A relative acceleration was observed in WPI due to the
-
-effect of agriculture prices and annual inflation became 8.9 percent in WPI.
-
-2. Seasonally adjusted monthly price increases realized as 1.7 percent and 0.2 percent in WPI and
-CPI, respectively. Inflation rates of CPI excluding food and WPI excluding agriculture displayed a
-
-slowdown compared to March and became 0.6 and 1.1, respectively.
-
-Table 1: General CPI, WPI and Sub-items
-
-Annual % Change | _Annual % Change
-2003 2004 2004 2008 2003 2004
-| April April, February March April April
-CPI 29.5 10.2 0.6 0.9 2.1 0.6
-Goods 29.4 5. 0.0 1.0 2.5 0.6
-Services 29.7 18.8 1.5 0.7 1.3 0.6
-Excl. Food 29.3 11.4 0.3 0.5 2.1 0.6
-Food 30.0 6.6 1.5 2.2| 1.9 0.6
-WPI 35.1 8.9 1.6 2.1 1.8 2.6
-Public 37.7 3.9 0.7 34 -1.2 0.5
-Private 34.1 10.8 2.0 1.8 2.9 3.5
-Public Man. 43.2 5.7 1.1 4,1| -0.9 0.4
-Private Man. 29.4 7.5 0.1 7 0.7 1.5
-Agriculture 42.1 16.5 5.4 3.6 7.2 6.9
-Excl. Agriculture 32.8 6.2 0.3 1.6 0.0 1.1
-Excl. Agr.and Energy | 33.9 6.7| 0.4 1.7 0.0 1.2
-
-Source: CBRT, SIS.
-
-3. The six-month average of seasonally adjusted inflation became 1.2 percent in WPI and 0.6
-percent in CPI. Annualized figures correspond to 15.6 percent and 7.6 percent, respectively. During
-the same period, the average rate of increase in seasonally adjusted CPI excluding food realized as
-
-0.8 percent. This figure corresponds to 10.3 percent in annual terms (Figure 1).

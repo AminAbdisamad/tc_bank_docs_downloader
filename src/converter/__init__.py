@@ -17,24 +17,15 @@ def prepareTextFile(pdf_file_destination, text_file_destination):
 
 
 pfdf_files = [
-    "2004-2.pdf",
-    "2004-7.pdf",
-    "2004-14.pdf",
-    "2004-18.pdf",
-    "2004-25.pdf",
-    "2004-26.pdf",
-    "2004-28.pdf",
-    "2004-31.pdf",
-    "2004-37.pdf",
-    "2004-39.pdf",
-    "2004-40.pdf",
-    "2004-43.pdf",
-    "2004-42.pdf",
-]
-pdfs = [
-    "2002-15.pdf",
-    "2002-21.pdf",
-    "2002-54.pdf",
+    "2005-8.pdf",
+    "2005-12.pdf",
+    "2005-17.pdf",
+    "2005-18.pdf",
+    "2005-24.pdf",
+    "2005-29.pdf",
+    "2005-32.pdf",
+    "2005-34.pdf",
+    "2005-38.pdf",
 ]
 
 
@@ -47,15 +38,13 @@ def remove_text_files(file: str):
 
 
 def main(files):
-    # converter = Converter()
     for file in files:
-        # remove_text_files(file)
-        # converter.ocr_pdf_to_text(f"corpus/pdf/{file}", f"corpus/text/{file[:-4]}.txt")
-        prepareTextFile(f"corpus/pdf/{file}", f"corpus/test/{file[:-4]}.txt")
+        remove_text_files(file)
+        prepareTextFile(f"corpus/pdf/{file}", f"corpus/text/{file[:-4]}.txt")
         print(f"Converted {file} to text")
 
 
 if __name__ == "__main__":
     start_time = time.time()
-    main(pdfs)
+    main(pfdf_files)
     print(f"--- {time.time() - start_time} seconds ---")
