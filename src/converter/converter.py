@@ -7,12 +7,21 @@ import re
 
 
 path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "Images/")
-print(path)
 
 
 class Converter:
+
     image_counter = 1
     # The init method opens the text file so we don't need seperate open log method
+    def ocr_pdf_to_text(self, pdf_file_destination, text_file_destination):
+        """This function prepares data"""
+        if pdf_file_destination.endswith(".pdf"):
+            self.pdfToImage(pdf_file_destination)
+            self.imageToText(text_file_destination)
+            self.removeImages()
+
+        else:
+            print("Unknown Extension we only except [png,jpg,jpeg and pdf] extensions")
 
     def pdfToImage(self, pathToPDF):
         """This Methods Converts PDF to images"""
@@ -49,7 +58,7 @@ class Converter:
         if optionalImage != None:
             image = optionalImage
             # Recognize the text as string in image using pytesserct and display original Turkish Language
-            text = str(((pytesseract.image_to_string(Image.open(image), lang="eng"))))
+            text = str(((pytesseract.image_to_string(Image.open(image), lang="tur"))))
 
             text = text.replace("-\n", "")
 

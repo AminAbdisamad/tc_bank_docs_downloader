@@ -1,36 +1,61 @@
+import os
+import time
 from converter import Converter
 
 
 def prepareTextFile(pdf_file_destination, text_file_destination):
     """This function prepares data"""
     # Initialize converter object
-    converter = Converter()
 
-    if file.endswith(".pdf"):
-        # PDF = Converter()
-        converter.pdfToImage(pdf_file_destination)
-        converter.imageToText(text_file_destination)
-        converter.removeImages()
+    if pdf_file_destination.endswith(".pdf"):
+        PDF = Converter()
+        PDF.pdfToImage(pdf_file_destination)
+        PDF.imageToText(text_file_destination)
+        PDF.removeImages()
     else:
         print("Unknown Extension we only except [png,jpg,jpeg and pdf] extensions")
 
 
-pdf_files = [
-    "2003-2.pdf",
-    "2003-4.pdf",
-    "2003-8.pdf",
-    "2003-11.pdf",
-    "2003-15.pdf",
-    "2003-21.pdf",
-    "2003-27.pdf",
-    "2003-30.pdf",
-    "2003-36.pdf",
-    "2003-39.pdf",
-    "2003-48.pdf",
-    "2003-55.pdf",
-    "2003-60.pdf",
+pfdf_files = [
+    "2004-2.pdf",
+    "2004-7.pdf",
+    "2004-14.pdf",
+    "2004-18.pdf",
+    "2004-25.pdf",
+    "2004-26.pdf",
+    "2004-28.pdf",
+    "2004-31.pdf",
+    "2004-37.pdf",
+    "2004-39.pdf",
+    "2004-40.pdf",
+    "2004-43.pdf",
+    "2004-42.pdf",
+]
+pdfs = [
+    "2002-15.pdf",
+    "2002-21.pdf",
+    "2002-54.pdf",
 ]
 
-for file in pdf_files:
-    prepareTextFile(f"corpus/pdf/{file}", f"corpus/text/{file[:-4]}.txt")
-# prepareTextFile("corpus/pdf/2002-15.pdf", "corpus/text/2002-15.txt")
+
+# Remove exesting text files in corpus/text that are similar to the pdf files in corpus/pdf
+
+
+def remove_text_files(file: str):
+    if os.path.exists(f"corpus/text/{file[:-4]}.txt"):
+        os.remove(f"corpus/text/{file[:-4]}.txt")
+
+
+def main(files):
+    # converter = Converter()
+    for file in files:
+        # remove_text_files(file)
+        # converter.ocr_pdf_to_text(f"corpus/pdf/{file}", f"corpus/text/{file[:-4]}.txt")
+        prepareTextFile(f"corpus/pdf/{file}", f"corpus/test/{file[:-4]}.txt")
+        print(f"Converted {file} to text")
+
+
+if __name__ == "__main__":
+    start_time = time.time()
+    main(pdfs)
+    print(f"--- {time.time() - start_time} seconds ---")
