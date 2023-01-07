@@ -17,7 +17,7 @@ def prepareTextFile(pdf_file_destination, text_file_destination):
 
 
 pfdf_files = [
-    "2005-8.pdf",
+    "2005-08.pdf",
     "2005-12.pdf",
     "2005-17.pdf",
     "2005-18.pdf",

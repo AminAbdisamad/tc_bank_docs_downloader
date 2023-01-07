@@ -1,68 +1,145 @@
-$XJXVW,QIODWLRQDQG2XWORRN
-
-,35,&('(9(/230(176
-
-$FFRUGLQJWRWKHLQGLFHVZLWKEDVH\HDUWKH&3,LQFUHDVHGE\SHUFHQW
-DQGWKH33,E\LQ$XJXVW$QQXDOLQIODWLRQLQWKH&3,DQG33,EHFDPH
-SHUFHQWDQGSHUFHQWUHVSHFWLYHO\*UDSK
-7KHVSHFLDO&3,DJJUHJDWH)ZKLFKH[FOXGHVHQHUJ\DOFRKROLFEHYHUDJHVWREDFFR
-SURGXFWVRWKHUJRRGVZLWKDGPLQLVWHUHGSULFHVDQGLQGLUHFWWD[HVGURSSHGE\
-SHUFHQWLQPRQWKO\WHUPVZKLOHWKH*LQGH[ZKLFKLVREWDLQHGE\H[FOXGLQJ
-XQSURFHVVHGIRRGIURPWKH)LQGH[GHFUHDVHGE\SHUFHQW7DEOH*UDSK
-7KH\HDURQ\HDUULVHLQ$XJXVWIRUWKHVHLQGLFHVEHFDPHSHUFHQWDQG
-SHUFHQWUHVSHFWLYHO\*UDSK
-,Q$XJXVWDJULFXOWXUDOSULFHVGHFUHDVHGE\SHUFHQWZKHUHDVWKH33,
-H[FOXGLQJDJULFXOWXUHLQGXVWULDOSULFHVLQFUHDVHGE\SHUFHQW7DEOH
-
-7DEOH*HQHUDO&3,33,DQG6XEJURXSV
- 
-$XJXVW'HF
-$XJXVW$XJ
-$XJ
-&3,   
-6SHFLDO&3,$JJUHJDWHV   
-$&3,([FO6HDVRQDO*RRGV  
-%&3,([FO8QSURFHVVHG)RRG  
-&&3,([FO(QHUJ\  
-'&3,([FO8QSURFHVVHG)RRGDQG(QHUJ\ 
-(&3,([FO(QHUJ\DQG$OFRKROLF%HYHUDJHV 
-)&3,([FO(QHUJ\$OFRKROLF%HYHUDJHV
-2WKHU$GPLQLVWHUHG3ULFHVDQ,QGLUHFW7D[HV 
-*&3,([FO(QHUJ\$OFRKROLF%HYHUDJHV
-2WKHU$GPLQLVWHUHG3ULFHVDQ,QGLUHFW7D[HV
-DQG8QSURFHVVHG)RRG 
-33,   
-$JULFXOWXUH 
-,QGXVWU\  
-0LQLQJ 
-0DQXIDFWXULQJ  
-(QHUJ\  
-6RXUFH6,6 
-
-
-*UDSK,QIODWLRQ$QQXDO3HUFHQWDJH&KDQJH
-&3,DQG6SHFLDO&3,$JJUHJDWHV
-)DQG*33,DQG0DQXIDFWXULQJ,QGXVWU\
- 
-6RXUFH6,6 
-
-
-'HYHORSPHQWVLQ&RQVXPHU3ULFHV
-7KHPDLQGHWHUPLQDQWRI&3,LQFUHDVHVLQ$XJXVWZDVWKHWD[DGMXVWPHQWVPDGH
-LQWKHSULFHVRIDOFRKROLFEHYHUDJHVDQGWREDFFRSURGXFWVLQ-XO\7KHVDLG
-DGMXVWPHQWVKDGVOLJKWO\DIIHFWHGWKH-XO\LQIODWLRQ7KHQHWFRQWULEXWLRQRISULFH
-LQFUHDVHVWRWKHDOFRKROLFEHYHUDJHVDQGWREDFFRJURXSWRWKHULVHLQWKH&3,LQ
-$XJXVWZDVDSSUR[LPDWHO\SRLQW,QDGGLWLRQKRXVLQJDQGWUDQVSRUWDWLRQJURXSV
-EHFDPHWKHPDLQJURXSVWKDWH[HUWHGXSZDUGSUHVVXUHRQ$XJXVWLQIODWLRQ7KH
-GHFOLQHLQSULFHVRIWKHFORWKLQJDQGIRRWZHDUJURXSUHVWUDLQHGWKHLQFUHDVHLQ
-LQIODWLRQ
-3ULFHVLQWKHKRXVLQJJURXSLQFUHDVHGE\SHUFHQWGXHWRWKHSHUFHQW
-LQFUHDVHLQUHQWVDQGWKHULVHLQSULFHVRISHWUROHXPSURGXFWV,WLVFRQVLGHUHGWKDW
-WKHLQFUHDVHVLQSULFHVRIZKLWHJRRGVDQGHOHFWULFDOKRXVHKROGGHYLFHVUHVXOWHGIURP
-WKHH[FKDQJHUDWH
-7KHSHUFHQWLQFUHDVHLQWKHWUDQVSRUWDWLRQJURXSVWHPPHGIURPWKHLQFUHDVH
-LQORFDOWUDQVSRUWDWLRQVKXWWOHVDQGSXEOLFEXVHVDQGLQWHUFLW\WUDQVSRUWDWLRQIHHV
-&DUJRDQGVKLSPHQWFKDUJHVDOVRURVHGXULQJWKLVSHULRG8QOHVVWKHUHLVDUHYHUVDOLQ6.5%7.0%7.5%8.0%8.5%9.0%9.5%10.0%10.5%
+August Inflation and Outlook
+I. — PRICE DEVELOPMENTS
+
+i1. According to the indices with base year 2003, the CPI increased by 0.85 percent
+and the PPI by 1.04 in August 2005. Annual inflation in the CPI and PPI became 7.9i
+percent and 4.32 percent, respectively (Graph 1i).
+
+2. The special CPI aggregate F which excludes energy, alcoholic beverages, tobacco
+products, other goods with administered prices, and indirect taxes, dropped by 0.09
+percent in monthly terms, while the G index, which is obtained by excluding
+unprocessed food from the F index, decreased by 0.03 percent (Table i, Graph 2).
+The year-on-year rise in August for these indices became 6.74 percent and 7.47
+
+percent, respectively (Graph İ).
+
+3. In August, agricultural prices decreased by 0.53 percent, whereas the PPI
+
+excluding agriculture (industrial prices) increased by 1.45 percent (Table İ).
+
+Table 1: General CPI, PPI and Sub-groups
+
+2005 2004 Dec.- — 2004 Aug.- August 2005 August — 2005 Aug.
+
+CPI 0,85 2,87 7,91
+Special CPI Aggregates
+A. CPİ Exci., Seasonal Goods 1,57 6,08 9,55
+B. CPI Exci. Unprocessed Food 1,02 4,11 8,64
+C. CPI Exci. Energy 0,89 2,70 7,59
+D. CPI Exci. Unprocessed Food and Energy 1,1i 4,18 8,42
+E. CPİ Exci, Energy and Alcoholic Beverages -0,08 i,58 6,66
+F. CPI Excl. Energy, Alcoholic Beverages, -0,09 i,26 6,74
+Öther Administered Prices an Indirect Taxes
+ĞG. CPI Excl. Energy, Alcoholic Beverages, -0,03 2,67 7,47
+Öther Administered Prices an Indirect Taxes
+and Unprocessed Food İ
+PPI 1,04 2,18 4,32
+Agriculture -0,53 -4,09 0,06
+Industry 1,45 3,94 5,48
+Mining 2,09 9,99 12,18
+Manufacturing 1,48 3,72 5,48
+Energy - 0,73 5,45 _ 3,58
+
+Source: SIS, (2003-100)
+Graph 1: Inflation (Annual Percentage Change)
+
+CPI and Special CPİI Aggregates PPI and Manufacturing Industry
+(FandG)
+10.54 - . 23.00
+1O0 İ 21.096 —— PPI — Manıfacturing Prices - 
+19.00
+17.00
+15.0
+13.04
+11.004
+9.05
+7.05
+5.05
+6.500 ı T T T T T T T r T T T ı 3.00
+
+704 - — ——CPI —G —F
+
+05-03
+05-04
+05-05
+05-06
+05-07
+05-08
+04-10
+04-11
+04-12 |
+05-01 |
+05-02 |
+05-03 |
+05-04 |
+05-05 |
+05-06 |
+05-07 |
+05-08 |
+
+04-08
+04-09
+04-10
+04-11
+04-12
+05-01
+05-02
+04-08
+04-09 |
+
+Source: SIS (2003—100)
+
+Developments in Consumer Prices
+
+4. The main determinant of CPI increases in August was the tax adjustments made
+in the prices of alcoholic beverages and tobacco products in July. The said
+adjustments had slightly affected the July inflation. The net contribution of price
+increases to the alcoholic beverages and tobacco group to the rise in the CPI in
+August was approximately 0.80 point. In addition, housing and transportation groups
+became the main groups that exerted upward pressure on August inflation. The
+decline in prices of the clothing and footwear group restrained the increase in
+
+inflation.
+
+5. Prices in the housing group increased by 0.9i percent due to the 2.63 percent
+increase iİn rents and the rise in prices of petroleum products. Iİt is considered that
+the increases in prices of white goods and electrical household devices resulted from
+
+the exchange rate.
+
+6. The 1.42 percent increase in the transportation group stemmed from the increase
+in local transportation (shuttles and public buses) and intercity transportation fees.
+
+Cargo and shipment charges also rose during this period. Unless there is a reversal in
+the upward trend in oil prices in the upcoming period, other adjustments likely to be
+
+made in transportation fees may display similar courses.
+
+7. The prices in the clothing and footwear group decreased by 5.07 percent and
+became the main factor that brought down inflation in August. Clothing prices are
+likely to be at high rates in September, October and November due to the start of
+
+the fall—winter season.
+
+Graph 2: CPI and Special CPI Aggregates (F and G)*(Monthliy Percentage
+Change)
+
+3.05
+
+2.50 ———CP)İ —F —G - -2.00
+
+1.50
+
+1.000
+0.50
+
+0.005
+
+-0.50
+-1.000
+
+-1.50
+
 04-08
 04-09
 04-10
@@ -75,394 +152,330 @@ LQORFDOWUDQVSRUWDWLRQVKXWWOHVDQGSXEOLFEXVHVDQGLQWHUFLW\WUDQVSRUWDWLRQ
 05-05
 05-06
 05-07
-05-08CPIG F
-3.0%5.0%7.0%9.0%11.0%13.0%15.0%17.0%19.0%21.0%23.0%
-04-08
-04-09
-04-10
-04-11
-04-12
-05-01
-05-02
-05-03
-05-04
-05-05
-05-06
-05-07
-05-08PPIManufacturing PricesWKHXSZDUGWUHQGLQRLOSULFHVLQWKHXSFRPLQJSHULRGRWKHUDGMXVWPHQWVOLNHO\WREH
-PDGHLQWUDQVSRUWDWLRQIHHVPD\GLVSOD\VLPLODUFRXUVHV
-7KHSULFHVLQWKHFORWKLQJDQGIRRWZHDUJURXSGHFUHDVHGE\SHUFHQWDQG
-EHFDPHWKHPDLQIDFWRUWKDWEURXJKWGRZQLQIODWLRQLQ$XJXVW&ORWKLQJSULFHVDUH
-OLNHO\WREHDWKLJKUDWHVLQ6HSWHPEHU2FWREHUDQG1RYHPEHUGXHWRWKHVWDUWRI
-WKHIDOO–ZLQWHUVHDVRQ
-
-6RXUFH6,6 
-
-7KHYRODWLOLW\RILQIODWLRQLQWKHFORWKLQJDQGIRRWZHDUJURXSVXEVWDQWLDOO\
-LQFUHDVHGLQFRPSDUHGWRSUHYLRXV\HDUV,QWKLVFRQWH[WSULFHFKDQJHVZHUH
-VKDUSHULQERWKGLUHFWLRQV7KHDIRUHPHQWLRQHGPRYHPHQWVLQFORWKLQJSULFHVDUHDOVR
-OHDGLQJWRIOXFWXDWLRQVLQPRQWKO\LQFUHDVHVLQWKHVSHFLDO&3,DJJUHJDWHV*UDSK
-,Q$XJXVWLQIODWLRQLQWKHIRRGDQGQRQDOFRKROLFEHYHUDJHVJURXSZDV
-1RVLJQLILFDQWPRYHPHQWLVH[SHFWHGLQWKLVJURXSLQ6HSWHPEHU,Q2FWREHU
-KRZHYHUIRRGSULFHVPD\LQFUHDVHGXHWRWKHVWDUWRI5DPDGDQ
-$QDO\]LQJWKHVSHFLDO&3,$JJUHJDWHV6&$DQQXDOLQFUHDVHVLQ()DQG*
-DJJUHJDWHVGHFUHDVHGFRPSDUHGWRWKHSUHYLRXVPRQWKDQGUHPDLQHGEHORZ&3,
-LQIODWLRQ7KHIDFWWKDWWKHLQIODWLRQLQWKHVHDJJUHJDWHVUHPDLQHGZHOOEHORZJHQHUDO
-&3,LQIODWLRQSRLQWVWRWKHVWURQJLQIOXHQFHRISHWUROHXPDQGWREDFFRSURGXFWVRQ*UDSK&3,DQG6SHFLDO&3,$JJUHJDWHV)DQG*0RQWKO\3HUFHQWDJH
-&KDQJH
-
-
-
-
-
-
-
-
-
-
-
-)&3,H[FOXGLQJHQHUJ\DOFRKROLFEHYHUDJHVRWKHUSXEOLFO\DGPLQLVWHUHGSULFHV
-DQGLQGLUHFWWD[
-*&3,H[FOXGLQJHQHUJ\DOFRKROLFEHYHUDJHVRWKHUSXEOLFO\DGPLQLVWHUHGSULFHV
-LQGLUHFWWD[DQGXQSURFHVVHGIRRG-1.5%-1.0%-0.5%0.0%0.5%1.0%1.5%2.0%2.5%3.0%
-04-08
-04-09
-04-10
-04-11
-04-12
-05-01
-05-02
-05-03
-05-04
-05-05
-05-06
-05-07
-05-08CPIFGLQIODWLRQ7KHPDLQLQIRUPDWLRQSURYLGHGE\WKH6&$VKRZVWKDWWKHLQIODWLRQWUHQGLV
-FRQVLVWHQWZLWKWKHHQG\HDUWDUJHWRIHLJKWSHUFHQW7DEOH
-
-'HYHORSPHQWVLQ3URGXFHU3ULFHV
-,Q$XJXVWWKHGRZQZDUGWUHQGLQDJULFXOWXUDOSULFHVFRQWLQXHGDOEHLWDWD
-VORZHUSDFH7KXVWKHGURSLQDJULFXOWXUDOSULFHVLQWKH-XQH–$XJXVWSHULRGEHFDPH
-SHUFHQW7KHUDWHRIGHFOLQHZDVSHUFHQWLQWKHVDPHSHULRGRIWKH
-SUHYLRXV\HDU
-7KHLQFUHDVHLQWKH33,LQGH[VWHPPHGIURPWKHSHUFHQWULVHLQWKH
-PDQXIDFWXULQJLQGXVWU\*UDSK$ORQJZLWKWKHSULFHLQFUHDVHVLQFRNHDQGUHILQHG
-SHWUROHXPSURGXFWVSULFHLQFUHDVHVLQWKHPDQXIDFWXULQJRIWREDFFRDQGWH[WLOH
-SURGXFWVDOVRSOD\HGDVLJQLILFDQWUROHLQWKHLQFUHDVHLQWKHPDQXIDFWXULQJLQGXVWU\
-*UDSK33,DQG0DQXIDFWXULQJ,QGXVWU\3ULFHV0RQWKO\3HUFHQWDJH
-&KDQJH
-
-
-
-
-
-
-
-
-
-
-
-
-6RXUFH6,6 
-7KHKLJKUDWHRILQFUHDVHLQWKHSURGXFWLRQRIWREDFFRSURGXFWVLVUHPDUNDEOH
-,WLVXQGHUVWRRGWKDWWKLVLQFUHDVHPDLQO\UHVXOWHGIURPWKHUHIOHFWLRQRIWKHFKDQJHV
-LQWKHOXPSVXPWD[RQSULFHVZKLOHFDOFXODWLQJWKHLQGLFHVRIWKHVDLGVXEVHFWRU,W
-is considered that as a result of the quotas applied to China, EU countries’ demand 
-IRUWH[WLOHSURGXFWVKDYHPRYHGWRZDUGVRWKHUFRXQWULHVLQFOXGLQJ7XUNH\DQGWKLV
-DIIHFWHGWKHLQFUHDVHLQSURGXFWLRQSULFHVRIWH[WLOHSURGXFWV
-7KHJHQHUDOXSZDUGWUHQGLQSULFHVRIPDQXIDFWXULQJLQGXVWU\LQWKHODVWWZR
-PRQWKVZDVQRWREVHUYHGLQ$XJXVW2QWKHRWKHUKDQGSULFHVLQFUHDVHGLQFKHPLFDO-1.5%-1.0%-0.5%0.0%0.5%1.0%1.5%2.0%2.5%3.0%3.5%
-04-08
-04-09
-04-10
-04-11
-04-12
-05-01
-05-02
-05-03
-05-04
-05-05
-05-06
-05-07
-05-08PPIManufacturing PricesJRRGVDQGSODVWLFUXEEHUSURGXFWLRQZKLFKXVHRLOSURGXFWVDVLQSXW7KHLQFUHDVHLQ
-LQWHUQDWLRQDORLOSULFHVLVDOVRFRQVLGHUHGWREHLQIOXHQWLDOLQWKLVGHYHORSPHQW3ULFH
-LQFUHDVHVLQJURXSVUHODWHGWRWKHPDQXIDFWXULQJLQGXVWU\VXFKDVHOHFWULFDO
-PDFKLQHU\DQGDSSOLDQFHVSURGXFWLRQZHUHDIIHFWHGE\WKHGHYDOXDWLRQRIWKH1HZ
-7XUNLVKOLUDLQ$XJXVW$VPHQWLRQHGLQSUHYLRXVUHSRUWVWKHPDQXIDFWXULQJ
-LQGXVWU\DQGWKXVWKH33,LVYHU\VXVFHSWLEOHWRRLOSULFHVDQGH[FKDQJHUDWHV
-
-,,287/22.
-
-,QIODWLRQ'HYHORSPHQWV
-7KHPDLQGHWHUPLQDQWRI$XJXVWLQIODWLRQZDVWKHDGMXVWPHQWPDGHLQ
-WKHVSHFLDOFRQVXPSWLRQWD[RIWREDFFRSURGXFWV8QGRXEWHGO\ZKDWPDWWHUVPRVW
-IRUPRQHWDU\SROLF\LVWKHLQIRUPDWLRQYDOXHRIWKHVHILJXUHVUHODWHGWRWKHIXWXUH
-UDWKHUWKDQWKHLQIODWLRQUHDOL]DWLRQV,Q$XJXVWHYHQWKRXJKDQQXDOLQIODWLRQVHHPV
-WREHKLJKHUFRPSDUHGWR-XO\DFFRUGLQJWRWKHSULFHVWKDWDUHDGMXVWHG
-H[FOXGLQJWD[LQFUHDVHVWKHDQQXDOLQIODWLRQRI$XJXVWLVORZHUWKDQWKDWRI-XO\
-,QIDFWLQ$XJXVWWKHDQQXDOLQFUHDVHLQVSHFLDO&3,DJJUHJDWHV
-FDOFXODWHGE\H[FOXGLQJWD[)DQG*KDVVORZHGGRZQFRPSDUHGWRWKHSUHYLRXV
-PRQWK
-$VDUHVXOWSULFHLQFUHDVHVGXHWRWD[DGMXVWPHQWVDUHRQO\WHPSRUDU\DQGGR
-QRWFRQYH\DQ\LQIRUPDWLRQRQWKHIXWXUHWUHQGRILQIODWLRQ7KXVWKHLQIOXHQFHRI
-WKHVHLQFUHDVHVRQIXWXUHLQIODWLRQILJXUHVDQGH[SHFWDWLRQVZLOOUHPDLQUDWKHUOLPLWHG
-7KH&%57PDNHVDGLVWLQFWLRQEHWZHHQWKHWHPSRUDU\DQGSHUPDQHQWHIIHFWVRI
-VKRFNVRQLQIODWLRQDQGGRHVQRWUHVSRQGXQOHVVWKHVHVKRFNVDIIHFWWKHPHGLXP
-ORQJWHUPLQIODWLRQIRUHFDVWV:LWKLQWKLVFRQWH[WWKHWD[VKRFNRI$XJXVWVHWV
-DQLPSRUWDQWH[DPSOH,IWKHHIIHFWVRIVKRFNVDUHWKRXJKWWREHWHPSRUDU\DQGLILW
-LVFRQVLGHUHGWKDWLQIODWLRQZLOOJUDGXDOO\FRPHFORVHUWRWKHWDUJHWLQWKHPHGLXP
-WHUPVXFKVKRFNVZLOOQRWEHWDNHQLQWRFRQVLGHUDWLRQLQPRQHWDU\SROLF\GHFLVLRQV
-HYHQLIWKH\WKUHDWHQWKHVKRUWWHUPDWWDLQDELOLW\RILQIODWLRQWDUJHW
-$WWKLVSRLQWLWLVFUXFLDOWRSURSHUO\DQDO\]HWKHWHPSRUDU\SHUPDQHQWIDFWRUV
-RIWKHHIIHFWVRIRLOSULFHGHYHORSPHQWVRQLQIODWLRQ$VPHQWLRQHGLQWKH,QIODWLRQDQG2XWORRNDQG0RQHWDU\3ROLF\5HSRUWSXEOLVKHGODVWPRQWKWKHPDLQIDFWRU
-XQGHUO\LQJWKHORVVRISDFHLQWKHGLVLQIODWLRQSURFHVVLVWKHGHYHORSPHQWVLQRLO
-SULFHV7KHSULPDU\HIIHFWVRIRLOSULFHLQFUHDVHVRQWZHOYHPRQWKFXPXODWLYHLQIODWLRQ
-GLIIHUEHWZHHQDQGSRLQWV0RUHRYHUWKHGHOD\HGSULPDU\HIIHFWVDUHH[SHFWHG
-WRDSSHDULQ,QRWKHUZRUGVHYHQLIRLOSULFHVUHPDLQVWDEOHDVRIWRGD\WKH
-HIIHFWVRIUHFHQWLQFUHDVHVRQLQIODWLRQZLOOEHDERYHDQHJOLJLEOHOHYHO$W
-SUHVHQWWKHIDFWWKDWPHGLXPWHUPH[SHFWDWLRQVDUHQRWUHPDUNDEO\DIIHFWHGLVD
-IDYRUDEOHGHYHORSPHQW$OWKRXJKWKHDQQXDOGLVLQIODWLRQSURFHVVKDVVORZHGGRZQ
-H[SHFWDWLRQVUHODWHGWRWKHQH[WWZHOYHPRQWKVNHHSGHFOLQLQJ%HVLGHVWKHUHODWLYH
-SULFHHIIHFWVDUHQRW\HWREVHUYHGLQWKHSULFLQJEHKDYLRUVRIWKHVHFWRUVWKDWGRQRW
-use oil as input. For these reasons, CBRT’s reactions to the increases in oil prices 
-KDYHEHHQPLQLPDOVRIDU+RZHYHULWVKRXOGEHNHSWLQPLQGWKDWWKHQHFHVVDU\
-UHVSRQVHZLOOEHPDGHLIWKHUHLVDGHWHULRUDWLRQLQLQIODWLRQH[SHFWDWLRQVDQGSULFLQJ
-EHKDYLRUVLQWKHXSFRPLQJSHULRG
-3ULFHVRIWKHVHUYLFHVJURXSDUHRQHRIWKHPDLQIDFWRUVWKDWPLJKWSRVHDULVN
-LQWHUPVRILQIODWLRQLQWKHIXWXUHSHULRG7KHGLVLQIODWLRQSURFHVVLQWKHVHUYLFHV
-JURXSKDVKDGDWHQGHQF\WRVWDELOL]HVLQFHWKHODVWTXDUWHURI,WLVHDUO\WR
-DVFHUWDLQZKHWKHUWKLVGHFOLQHLVSHUPDQHQWRUQRWLQVSLWHRIWKHGRZQZDUGWUHQGLQ
-WKHVHFWRULQ$XJXVW7KHLQFUHDVHVLQUHQWVSULFHVZHUHUHDOL]HGDERYHWKHLQGH[DWLRQ
-WRSDVWLQIODWLRQ,Q$XJXVWWKHUHQWVVXEJURXSGLVSOD\HGWKHKLJKHVWLQFUHDVH
-LQWKHODVWIRXU\HDUVDQGEHFDPHSHUFHQW7KHLQFUHDVHLQWKHVDLGVXEJURXS
-UHDFKHGSHUFHQWLQWKHILUVWHLJKWPRQWKVRIWKH\HDU7KLVWUHQGLVQRWH[SHFWHG
-WRWXUQGRZQZDUGLQWKHVKRUWWHUP7KHLQFUHDVHVLQHQWHUWDLQPHQWFXOWXUHDQG
-UHVWDXUDQWKRWHOJURXSVZHUHUHDOL]HGDERYHWKHJHQHUDOLQIODWLRQWUHQGLQWKHILUVW
-HLJKWPRQWKVRIWKH\HDU0HDQZKLOHSULFHLQFUHDVHVLQWKHJRRGVJURXSDUH
-SUHGLFWHGWREHORZGXHWRRQJRLQJLQFUHDVHGSURGXFWLYLW\DQGRSHQQHVVDQG
-LPSURYHGFRPSHWLWLYHQHVV7KHLQFUHDVHVLQSXEOLFSULFHVDQGWD[DGMXVWPHQWVZLOOEH
-VKDSHGE\WKHGHYHORSPHQWVLQH[FKDQJHUDWHVRLOSULFHVDQGILVFDOGLVFLSOLQH
-
-2XWORRNRIWKH)DFWRUV$IIHFWLQJ,QIODWLRQ
-7KHUHLVQRGRXEWWKDWWKHH[WHQWRIWKHVHFRQGDU\HIIHFWVRIRLOSULFHVZLOO
-ODUJHO\GHSHQGRQGHPDQGGHYHORSPHQWV3URYLGHGWKDWWKHGHPDQGVWUHQJWKHQVLQWKHXSFRPLQJSHULRGSULFHVFDQULVHLQWKRVHVHFWRUVZKHUHSHWUROHXPSURGXFWVDUH
-XVHGDVLQSXWLQRUGHUWRFRPSHQVDWHWKHQDUURZLQJPDUJLQV0RUHRYHULQFDVHWKH
-GHPDQGLVVWURQJHQRXJKSULFHLQFUHDVHVFDQDOVREHREVHUYHGLQWKHVHFWRUVZKHUH
-SHWUROHXPSURGXFWVDUHQRWXVHGDVLQSXWDVDUHVXOWRIWKHUHODWLYHSULFHHIIHFW,Q
-WKLVFRQWH[WWKHWUHQGWREHGLVSOD\HGE\GHPDQGFRQGLWLRQVLQWKHXSFRPLQJSHULRG
-LVLQIOXHQWLDO
-&UHGLWGHYHORSPHQWVVWDQGRXWDVLPSRUWDQWGDWDRQHFRQRPLFDFWLYLW\DQG
-GRPHVWLFGHPDQG,Q$XJXVWKLJKDQQXDOUDWHVRILQFUHDVHFRQWLQXHGLQ
-FRQVXPHUFUHGLWVDQGLQGLYLGXDOFUHGLWFDUGVZKHUHDVLQKRXVLQJFUHGLWVPRQWKO\
-UDWHVRILQFUHDVHVORZHGGRZQ,QGLYLGXDOFUHGLWFDUGOLDELOLWLHVGHFUHDVHGRQD
-PRQWKO\EDVLVZKLOHYHKLFOHFUHGLWVPDLQWDLQHGDVWDEOHWUHQG7KHEXVLQHVV
-WHQGHQF\VXUYH\LQGLFDWHVWKDWWKHULVHLQGRPHVWLFVDOHVRFFXUUHGLQDFRQWUROOHG
-PDQQHUDVRI-XO\$OWKRXJKDXWRPRELOHDQGZKLWHJRRGVVDOHVGHFOLQHGLQ-XO\
-FRPSDUHGWRWKHSUHYLRXV\HDUSURGXFWLRQLQWKHVHVHFWRUVPDLQWDLQVKLJKOHYHOV
-RZLQJWRIRUHLJQGHPDQG1HYHUWKHOHVVVXUYH\VDQGWKHODWHVWUHDOL]DWLRQVSRLQWRXW
-WKDWWKHLQFUHDVHLQIRUHLJQGHPDQGDOVRVORZHGGRZQUHODWLYHO\0HDQZKLOH
-FRQVXPHUFRQILGHQFHLQGLFHVDQGFDSDFLW\XWLOL]DWLRQUDWLRVDUHDWORZHUOHYHOV
-FRPSDUHGWRWKHSUHYLRXV\HDU+RXVLQJDQGQHZRIILFHLQYHVWPHQWVGLVSOD\D
-VLJQLILFDQWULVHLQVSLWHRIWKHVORZGRZQLQPDFKLQHU\HTXLSPHQWLQYHVWPHQWV7R
-VXPXSDOWKRXJKWKHGHYHORSPHQWVLQSURGXFWLRQFDSDFLW\DQGGRPHVWLFGHPDQG
-ZHUHLQVXIILFLHQWWRFKDQJHWKHRXWORRNRIWKHSUHYLRXVPRQWKWKH\VWUHQJWKHQHGWKH
-SHUFHSWLRQVWKDWWRWDOGHPDQGGHYHORSPHQWVZLOORFFXULQDFRQWUROOHGPDQQHU
-,QWKHVHFRQGTXDUWHURIWKHULVHLQQDWLRQDOLQFRPHLVH[SHFWHGWREH
-ORZFRPSDUHGWRWKHILUVWTXDUWHU+RZHYHULWLVSUHGLFWHGWKDWWKHJURZWKUDWHZLOO
-FRQYHUJHWRSURJUDPSURMHFWLRQVIURPWKHWKLUGTXDUWHURQWKXVHFRQRPLFJURZWK
-ZLOOEHLQOLQHZLWKWKHOHYHOH[SHFWHGLQWKHSURJUDPWKURXJKRXW$VIRUHVHHQLQ
-WKHSUHYLRXV,QIODWLRQDQG2XWORRN5HSRUWVHPSOR\PHQWLQFUHDVHGGXHWRWKHIDFW
-WKDWLQYHVWPHQWVSURPRWHGQHZHPSOR\PHQWDUHDVLQ7KHVHGHYHORSPHQWV
-LQFUHDVHWKHSUHVVXUHRQXQLWODERUFRVWVDQGPD\SRVHDULVNWRLQIODWLRQGXHWRWKHLU
-GHIHUUHGHIIHFWRQGRPHVWLFGHPDQG1HYHUWKHOHVVLQOLJKWRIWKHDERYHPHQWLRQHG
-GHYHORSPHQWVHVSHFLDOO\WKHIDFWWKDWWKHGHIHUUHGGHPDQGRQGXUDEOHVLVODUJHO\
-PHWGRPHVWLFGHPDQGLVH[SHFWHGWRRFFXULQDFRQWUROOHGPDQQHUWKURXJKRXW0RUHRYHULWLVSUHGLFWHGWKDWWKHHPSOR\PHQWVXSSO\ZLOOJURZUDSLGO\GXHWRWKH
-LQFUHDVLQJSDUWLFLSDWLRQLQHPSOR\PHQWDQGUDSLGSRSXODWLRQJURZWKDQGWKDWWKLV
-GHYHORSPHQWZLOOFRQWLQXHWROLPLWXQLWODERUFRVWVLQWKHRYHUDOOHFRQRP\7KHUHLV
-QRGRXEWWKDWWKHFRQWULEXWLRQPDGHE\XQLWODERUFRVWVWRWKHGRZQZDUGWUHQGRI
-LQIODWLRQZLOOEHOHVVFRPSDUHGWRSUHYLRXV\HDUV,QWKLVFRQWH[WLWLVFUXFLDOWKDWWKH
-LQFRPHVSROLF\RIWKHSXEOLFVHFWRUZKLFKLVDIDFWRUWKDWGLUHFWO\DIIHFWVSULFLQJ
-EHKDYLRUVLVFRQGXFWHGLQFRQVLVWHQF\ZLWKWKHLQIODWLRQWDUJHW
-,WLVEHOLHYHGWKDWWKHHIIHFWRIWKHULVHLQFLYLOVHUYLFHVDODULHVIRU
-GLVFORVHGODVWPRQWKZRXOGUHPDLQOLPLWHGLIWKHH[WUDEXUGHQWREHLPSRVHGRQWKH
-EXGJHWLVFRPSHQVDWHG0HDQZKLOHIRUWKHVDNHRINHHSLQJWKHTXDOLW\RIILVFDO
-GLVFLSOLQHDVZHOODVWKHLQGLUHFWHIIHFWVXQGHUFRQWUROLWLVYHU\LPSRUWDQWWR
-FRPSHQVDWHWKLVH[WUDEXUGHQE\H[SHQGLWXUHGDPSHQLQJSROLFLHVLQVWHDGRIPDNLQJ
-SXEOLFSULFHDGMXVWPHQWVDQGWD[LQFUHPHQWV
-$WWKLVSRLQWLWVKRXOGEHKLJKOLJKWHGWKDWWKH&HQWUDO%DQNZKLFKKDVD
-PHGLXPWHUPSHUVSHFWLYHZLOOFHUWDLQO\DWWDFKJUHDWHULPSRUWDQFHWRWKHPHGLXP
-WHUPRXWORRNRIILVFDOSROLF\$VWKHIRUPDOLQIODWLRQWDUJHWLQJVWUDWHJ\ZLOOEHDGRSWHG
-LQWKHXSFRPLQJSHULRGWKHPHGLXPWHUPSHUVSHFWLYHQHHGVWREHPRUHFOHDUO\
-PDQLIHVWHG:LWKLQWKLVIUDPHZRUNDWKUHH\HDUEXGJHWV\VWHPDQGDFHQWUDOL]HG
-EXGJHWLPSOHPHQWDWLRQZLOOEHSXWLQWRSUDFWLFHDVRIILVFDO\HDUDQGWKXVD
-PRUHWUDQVSDUHQWDFFRXQWDEOHDQGSUHGLFWDEOHEXGJHWSROLF\ZLOOEHDFKLHYHG$OO
-WKHVHLPSOHPHQWDWLRQVZLOOEHFORVHO\PRQLWRUHGDVWKH\ZLOOSOD\LPSRUWDQWUROHVLQ
-PDNLQJWKHPHGLXPWHUPSHUVSHFWLYHPRUHSUHYDOHQW7KHIUDPHZRUNLQTXHVWLRQ
-ZRXOGDOVRFRQWULEXWHWRHQKDQFLQJWKHTXDOLW\RIILVFDOGLVFLSOLQH
-7KHUHKDVUHFHQWO\EHHQDUHFRYHU\LQSURGXFHUSULFHVH[FOXGLQJDJULFXOWXUH
-,WLVH[SHFWHGWKDWWKLVUHFRYHU\ZRXOGFRQWLQXHLQ6HSWHPEHUDQGIXUWKHUDFFHOHUDWH
-ZLWKWKHHIIHFWRIWKHULVHLQWKHSULFHVRISHWUROHXPSURGXFWVDQGQDWXUDOJDV,Q
-FDVHWKHULVHLQWKHSULFHVRIRLODQGQDWXUDOJDVFRQWLQXHVWKHUDSLGLQFUHDVHLQ
-SURGXFHUSULFHVLQGH[PLJKWFRQWLQXHDVZHOO$VWKHHIIHFWVRIWKHVHGHYHORSPHQWV
-KDYHEHHQXQWLOQRZRQO\SDUWLDOO\EHHQUHIOHFWHGRQHOHFWULFLW\SULFHVWKHSUHVVXUH
-H[HUWHGE\LQSXWSULFHVRQLQIODWLRQKDVUHPDLQHGOLPLWHG$SURVSHFWLYHULVHLQHOHFWULFLW\SULFHVLQWKHXSFRPLQJSHULRGPLJKWSRVHULVNWRWKHPHGLXPWHUPLQIODWLRQ
-WUHQG
-/DVWO\DQ\IOXFWXDWLRQVLQLQWHUQDWLRQDOOLTXLGLW\FRQGLWLRQVDQGQHZVIURPWKH
-(8DERXt Turkey’s accession still apply as risk factors with respect to inflation. 
-+RZHYHULWVKRXOGEHNHSWLQPLQGWKDW7XUNH\KDVXQGHUJRQHVLPLODUSURFHVVHV
-PDQ\WLPHVLQWKHSDVWIRXU\HDUVDQGVXFKXQIDYRUDEOHLPSDFWVKDYHEHHQVKRUW
-OLYHGWKDQNVWRWKHHFRQRPLFVWDELOLW\DQGFRQILGHQFHHVWDEOLVKHGE\WKHHFRQRPLF
-SURJUDP$OOWKHVHIDFWRUVSRLQWWRWKHIDFWWKDWJLDQWVWHSVKDYHEHHQWDNHQWRZDUGV
-ORQJODVWLQJHFRQRPLFVWDELOLW\:HEHOLHYHWKDWSURYLGHGWKDWWKHFXUUHQWHFRQRPLF
-SURJUDPLVPDLQWDLQHGWKHHIIHFWVRIDQ\XQIDYRUDEOHGHYHORSPHQWVZRXOGUHPDLQ
-OLPLWHGDQGWKHPDLQWUHQGVZRXOGEHGHWHUPLQHGE\HFRQRPLFIXQGDPHQWDOV
-8QGRXEWHGO\HQVXULQJIXOOIOHGJHGPDFURHFRQRPLFVWDELOLW\DFKLHYLQJVXVWDLQDEOH
-GHYHORSPHQWDQGDWWDLQLQJODVWLQJSULFHVWDELOLW\ZRXOGEHSRVVLEOHRQO\LIWKH
-VWUXFWXUDOUHIRUPVDUHFDUULHGRXWZLWKWKHVDPHGHJUHHRIGHWHUPLQDWLRQ
-
-&RQFOXVLRQ
-:LWKLQWKHIUDPHZRUNRIWKHPDLQVFHQDULRLQZKLFKWKHUHLVQRKDOWLQILVFDO
-GLVFLSOLQHDQGQRH[WHUQDOVKRFNVDQGSURYLGLQJRLOSULFHVGRQRWVKLIWPXFKDERYH
-FXUUHQWSULFHVLWLVSURMHFWHGWKDWDQQXDOLQIODWLRQZLOOPRYHGRZQZDUGVDVRIWKHHQG
-RIWKHODVWTXDUWHUDQGUHDFKWKHHQG\HDUWDUJHW+RZHYHUDVKDVEHHQUHLWHUDWHG
-EHIRUHWKHSHULRGGXULQJZKLFKWKHLQIODWLRQILJXUHVIRUZHUHWDNHQLQWR
-DFFRXQWLVQRZRYHU$Q\GHFLVLRQVPDGHDVRIWRGD\VKRXOGEHFRQVLGHUHGZLWKLQ
-WKHFRQWH[WRI7KHIDFWRUVWKDWXUJHGWKH&HQWUDO%DQNWREHPRUHFDXWLRXV
-DERXWWKHLQIODWLRQWDUJHWIRULQWKHODVWWZRPRQWKVKDYHEHHQWKHULJLGLW\LQ
-VHUYLFHVLQIODWLRQXQFHUWDLQW\LQGHPDQGLQGLFDWRUVUDSLGFUHGLWULVHDQGZRUULHV
-DERXWWKHVHFRQGDU\HIIHFWVRIWKHULVHLQRLOSULFHV:KLOHWKHUHFHQWGDWDRQGHPDQG
-LQGLFDWHWKDWWKHWRWDOULVHLQGHPDQGZLOOUHPDLQFRQWUROOHGRWKHUGHYHORSPHQWVZLOO
-EHFORVHO\PRQLWRUHG
-,QOLJKWRIWKHDERYHHYDOXDWLRQVWKDWWDNHDFFRXQWRIWKHYLHZVSXWIRUZDUGDW
-WKH0RQHWDU\3ROLF\&RPPLWWHHPHHWLQJGDWHG6HSWHPEHULWKDVEHHQ
-GHFLGHGWRPDLQWDLQWKHOHYHORIVKRUWWHUPLQWHUHVWUDWHVDSSOLHGDWWKH&%57
-,QWHUEDQN0RQH\0DUNHWDQGWKH,VWDQEXO6WRFN([FKDQJH5HSR5HYHUVH5HSR0DUNHW:LWKFXUUHQWDYDLODEOHGDWDLWFDQEHDVVHUWHGWKDWVKRUWWHUPLQWHUHVWUDWHV
-ZLOOPRVWSUREDEO\PRYHGRZQZDUGVLQWKHXSFRPLQJSHULRG&OHDUO\DQ\QHZGDWD
-WKDWZRXOGDIIHFWWKHIXWXUHWUHQGRILQIODWLRQDQGDQ\ULVNVWKDWPD\HPHUJHZRXOG
-QHFHVVLWDWHWKHUHYLVLRQRIWKLVSRVLWLRQ
-
-
-*UDSK,QIODWLRQ([SHFWDWLRQVDFFRUGLQJWR&%57([SHFWDWLRQV6XUYH\
-<HDU(QG,QIODWLRQ([SHFWDWLRQVDQG,QIODWLRQ7DUJHW
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6.99
-46810121416
-I-01
-II-01
-I-02
-II-02
-I-03
-II-03
-I-04
-II-04
-I-05
-II-05
-I-06
-II-06
-I-07
-II-07
-I-08
-II-08
-I-09
-II-09
-I-10
-II-10
-I-11
-II-11
-I-12
-II-12
-I-01
-II-01
-I-02
-II-02
-I-03
-II-03
-I-04
-II-04
-I-05
-II-05
-I-06
-II-06
-I-07
-II-07
-I-08
-II-08
-I-09
-II-09
-I-10
-II-10
-I-11
-II-11
-I-12
-II-12
-2004 2005Year End Inflation Expectations
-Inflation Target
-,QIODWLRQ([SHFWDWLRQVIRUWKH1H[W0RQWKV
-6,48
-46810121416
-I-01
-II-01
-I-02
-II-02
-I-03
-II-03
-I-04
-II-04
-I-05
-II-05
-I-06
-II-06
-I-07
-II-07
-I-08
-II-08
-I-09
-II-09
-I-10
-II-10
-I-11
-II-11
-I-12
-II-12
-I-01
-II-01
-I-02
-II-02
-I-03
-II-03
-I-04
-II-04
-I-05
-II-05
-I-06
-II-06
-I-07
-II-07
-I-08
-II-08
-2004 2005
-
-6RXUFH&%57([SHFWDWLRQV6XUYH\
-
-
+05-08
+
+* F: CPI excluding energy, alcoholic beverages, other publiciy administered prices
+and indirect tax
+
+G: CPI excluding energy, alcoholic beverages, other publiciy administered prices,
+indirect tax and unprocessed food
+Source: SIS (2003-100).
+
+8. The volatilitly of inflaton in the clothing and footwear group substantially
+increased in 2005 compared to previous years. In this context, price changes were
+sharper in both directions. The aforementioned movements in clothing prices are also
+
+leading to fluctuations in monthly increases in the special CPI aggregates. (Graph 2).
+
+9. In August, inflation in the food and non-alcoholic beverages group was V - 0.07.
+No significant movement is expected in this group in September. In October,
+
+however, food prices may increase due to the start of Ramadan.
+
+10. — Analyzing the special CPI Aggregates (SCA), annual increases in E, F and G
+aggregates decreased compared to the previous month and remained below CPI
+inflation. The fact that the inflation in these aggregates remained well below general
+
+CPI inflation points to the strong influence of petroleum and tobacco products on
+inflation. The main information provided by the SCA shows that the inflation trend is
+
+consistent with the end-year target of eight percent. (Table İ).
+
+Developments in Producer Prices
+
+11i. —In August, the downward trend in agricultural prices continued, albeit at a
+slower pace. Thus, the drop in agricultural prices in the June — August period became
+6.25 percent. The rate of decline was 7.45 percent in the same period of the
+
+previous year.
+
+12. —The increase in the PPI index stemmed from the 1.48 percent rise in the
+manufacturing industry (Graph 3). Along with the price increases in coke and refined
+petroleum products, price increases in the manufacturing of tobacco and textile
+products also played a significant role in the increase in the manufacturing industry.
+
+Graph 3: PPI and Manufacturing Industry Prices (Monthiy Percentage
+Change)
+
+3.50
+3.00 ——PPİI
+2.50
+2.00
+1.5
+1.000
+0.56
+0.05
+-0.50
+-1.05
+-1.500
+
+Manufacturing Prices —
+
+oO ) O v N — N (ap) İ LO CO N 00
+İ İ F Y İ LO LO LO LO LO LO LO LO
+Oo O oO Oo O oOo O oO oO O oO
+
+Source: SIS (2003-—100)
+
+13. — The high rate of increase in the production of tobacco products is remarkable.
+It is understood that this increase mainly resulted from the reflection of the changes
+in the lump-sum tax on prices while calculating the indices of the said sub-sector. İt
+is considered that as a result of the guotas applied to China, EU countries" demand
+for textile products have moved towards other countries including Turkey, and this
+
+affected the increase in production prices of textile products.
+
+14. — The general upward trend in prices of manufacturing industry in the last two
+
+months was not observed in August. On the other hand, prices increased in chemical
+goods and plastic-rubber production, which use oil products as input. The increase in
+international oil prices is also considered to be influential in this development. Price
+increases iİn groups related to the manufacturing industry, such as electrical
+machinery and appliances production, were affected by the devaluation of the New
+Turkish lira in August 2005. As mentioned in previous reports, the manufacturing
+
+industry, and thus the PPI, is very susceptible to oil prices and exchange rates.
+
+I.— OUTLOOK
+
+Inflation Developments
+15. —The main determinant of August 2005 inflation was the adjustment made in
+the special consumption tax of tobacco products. Undoubtediy, what matters most
+for monetary policy is the information value of these figures related to the future,
+rather than the inflation realizations. In August, even though annual inflation seems
+to be higher compared to July 2005, according to the prices that are adjusted
+excluding tax increases the annual inflation of August 2005 is lower than that of July
+2005. In fact, in August 2005 the annual increase in special CPI aggregates
+calculated by excluding tax (F and G) has slowed down compared to the previous
+
+month.
+
+16. — As a result, price increases due to tax adjustments are only temporary and do
+not convey any information on the future trend of inflation. Thus, the influence of
+these increases on future inflation figures and expectations will remain rather limited.
+The CBRT makes a distinction between the temporary and permanent effects of
+shocks on inflation and does not respond unless these shocks affect the mediumlong term inflation forecasts. Within this context, the tax shock of August 2005 sets
+an important example. If the effects of shocks are thought to be temporary and İf it
+is considered that inflation will gradually come closer to the target in the medium
+term, such shocks will not be taken into consideration in monetary policy decisions,
+
+even if they threaten the short-term attainability of inflation target.
+
+17. — At this point it is crucial to properly analyze the temporary/permanent factors
+
+of the effects of oll price developments on inflation. As mentioned in the Inflation
+and Outlook and Monetary Policy Report published last month, the main factor
+underlying the loss of pace in the disinflation process is the developments in oll
+prices. The primary effects of oil price increases on twelve-month cumulative inflation
+differ between İ and İ,5 points. Moreover, the delayed primary effects are expected
+to appear in 2006. In other words, even if oll prices remain stable as of today, the
+effects of recent increases on 2006 inflation will be above a neğgligible level. At
+present, the fact that medium term expectations are not remarkabiy affected is a
+favorable development. Although the annual disinflation process has slowed down,
+expectations related to the next twelve months keep declining. Besides, the relative
+price effects are not yet observed in the pricing behaviors of the sectors that do not
+use Oil as input. For these reasons, CBRT's reactions to the increases in oil prices
+have been minimal so far. However, it should be kept in mind that the necessary
+response will be made, if there is a deterioration in inflation expectations and pricing
+
+behaviors in the upcoming period.
+
+18. — Prices of the services group are one of the main factors that might pose a risk
+in terms of inflation in the future period. The disinflation process in the services
+group has had a tendency to stabilize since the last guarter of 2004. İt is early to
+ascertain whether this decline is permanent or not, in spite of the downward trend in
+the sector in August. The increases in rents prices were realized above the indexation
+to past inflation. In August 2005, the rents sub-group displayed the highest increase
+in the last four years and became 2.63 percent. The increase in the said sub-group
+reached 13.1İ percent in the first eight months of the year. Ihis trend is not expected
+to turn downward in the short term. The increases in entertainment-culture and
+restaurant-hotel groups were realized above the general inflation trend in the first
+eight months of the year. Meanwhile, price increases in the goods group are
+predicted to be low due to ongoing increased productivity and openness and
+improved competitiveness. The increases in public prices and tax adjustments will be
+
+shaped by the developments in exchange rates, oil prices and fiscal discipline.
+
+Outlook of the Factors Affecting Inflation
+19. — There is no doubt that the extent of the secondary effects of oil prices will
+
+largely depend on demand developments. Provided that the demand strengthens in
+the upcoming period, prices can rise in those sectors, where petroleum products are
+used as input, in order to compensate the narrowing margins. Moreover, in case the
+demand is strong enough, price increases can also be observed in the sectors, where
+petroleum products are not used as İnput, as a result of the relative price effect. In
+this context, the trend to be displayed by demand conditions in the upcoming period
+
+is influential.
+
+20. —Credit developments stand out as important data on economic activity and
+domestic demand. In August 2005, high annual rates of increase continued in
+consumer credits and individual credit cards, whereas in housing credits, monthliy
+rates of increase slowed down. Individual credit card İiabilities decreased on a
+monthiy basis, while vehicle credits maintained a stable trend. The business
+tendency survey indicates that the rise in domestic sales occurred in a controlled
+manner as of July. Although automobile and white goods sales declined in July 2005
+compared to the previous year, production in these sectors maintains high levels
+owing to foreign demand. Nevertheless, surveys and the latest realizations point out
+that the increase in foreign demand also slowed down relatively. Meanwhile,
+consumer confidence indices and capacity utilization ratios are at lower İevels
+compared to the previous year. Housing and new office investments display a
+significant rise, in spite of the slowdown in machinery-eguipment investments. To
+sum up, although the developments in production, capacity and domestic demand
+were insufficient to change the outlook of the previous month, they strengthened the
+
+perceptions that total demand developments will occur in a controlled manner.
+
+21. — In the second guarter of 2005, the rise in national income is expected to be
+low compared to the first guarter. However, it is predicted that the growth rate will
+converge to program projections from the third guarter on, thus, economic growth
+will be in line with the level expected in the program throughout 2005. As foreseen in
+the previous Inflation and Outlook Reports, employment increased due to the fact
+that investments promoted new employment areas in 2005. These developments
+increase the pressure on unit labor costs and may pose a risk to inflation due to their
+deferred effect on domestic demand. Nevertheless, in light of the above-mentioned
+developments, especially the fact that the deferred demand on durables is largely
+
+met, domestic demand is expected to occur in a controlled manner throughout 2005.
+Moreover, it is predicted that the employment supply will grow rapidiy due to the
+increasing participation in employment and rapid population growth and that this
+development will continue to limit unit labor costs in the overall economy. There is
+no doubt that the contribution made by unit labor costs to the downward trend of
+inflation will be less compared to previous years. In this context, it is crucial that the
+incomes policy of the public sector, which is a factor that directly affects pricing
+
+behaviors, is conducted in consistency with the inflation target.
+
+22. TIt is believed that the effect of the rise in civil service salaries for 2006
+disclosed last month would remain limited if the extra burden to be imposed on the
+budget is compensated. Meanwhile, for the sake of keeping the guality of fiscal
+discipline as well as the indirect effects under control, it is very important to
+compensate this extra burden by expenditure-dampening policies instead of making
+
+public price adjustments and tax increments.
+
+23. At this point, it should be highlighted that the Central Bank, which has a
+medium-term perspective, will certainiy attach greater importance to the mediumterm outlook of fiscal policy. As the formal inflation targeting strategy will be adopted
+in the upcoming period, the medium-term perspective needs to be more clearly
+manifested. Within this framework, a three-year budget system and a centralized
+budget implementation will be put into practice as of fiscal year 2006, and thus, a
+more transparent, accountable and predictable budget policy will be achieved. All
+these implementations will be closely monitored, as they will play important roles in
+making the medium-term perspective more prevalent. The framework in guestion
+
+would also contribute to enhancing the guality of fiscal discipline.
+
+24. — There has recentily been a recovery in producer prices, excluding agriculture.
+İt is expected that this recovery would continue in September and further accelerate
+with the effect of the rise in the prices of petroleum products and natural gas. In
+case the rise in the prices of oil and natural gas continues, the rapid increase in
+producer prices index might continue as well. As the effects of these developments
+have been until now only partially been reflected on electricity prices, the pressure
+
+exerted by input prices on inflation has remained limited. A prospective rise in
+electricity prices in the upcoming period might pose risk to the medium-term inflation
+
+trend.
+
+25b. — Lastiy, any fluctuations in international liguidity conditions and news from the
+EU about Turkey's accession still apply as risk factors with respect to inflation.
+However, it should be kept in mind that Turkey has undergone similar processes
+many times in the past four years and such unfavorable impacts have been shortlived thanks to the economic stability and confidence established by the economic
+program. All these factors point to the fact that giant steps have been taken towards
+long-lasting economic stability. We believe that, provided that the current economic
+program is maintained, the effects of any unfavorable developments would remain
+limited and the main trends would be determined by economic fundamentals.
+Undoubtediy, ensuring full-fFledged macroeconomic stability, achieving sustainable
+development and attaining lasting price stability would be possible only if the
+
+structural reforms are carried out with the same degree of determination.
+
+Conclusion
+26. — Within the framework of the main scenario, in which there is no halt in fiscal
+discipline and no external shocks and providing oil prices do not shift much above
+current prices, it is projected that annual inflation will move downwards as of the end
+of the last guarter and reach the end-year target. However, as has been reiterated
+before, the period, during which the inflation figures for 2005 were taken into
+account, is now over. Any decisions made as of today should be considered within
+the context of 2006. The factors that urged the Central Bank to be more cautious
+about the inflation target for 2006 in the last two months have been the rigidity in
+services inflation, uncertainty in demand indicators, rapid credit rise and worries
+about the secondary effects of the rise in oil prices. While the recent data on demand
+indicate that the total rise in demand will remain controlled, other developments will
+
+be closely monitored.
+
+27. Inlight of the above evaluations that take account of the views put forward at
+the Monetary Policy Committee meeting dated September 8, 2005, it has been
+decided to maintain the level of short-term interest rates applied at the CBRT
+
+Interbank Money Market and the Istanbul Stock Exchange Repo-Reverse Repo
+Market. With current available data, it can be asserted that short-term interest rates
+will most probabiy move downwards in the upcoming period. Clearly, any new data
+that would affect the future trend of inflation and any risks that may emerge would
+
+necessitate the revision of this position.
+
+Graph 4: Inflation Expectations according to CBRT Expectations Survey
+
+Year End Inflation Expectations and Inflation Target: 2004-2005
+
+—— Year End Inflation Expectations
+12 
+—— Inflation Target
+
+6.99
+
+n Ü
+
+a)
+
+Üa
+a)
+
+VSiLVe)
+
+a)
+
+D
+a
+
+Li L No
+
+a)
+
+SI Ne)
+
+Oo
+
+Ne)
+a)
+
+No SI ee
+
+a)
+
+OO OO
+
+a)
+
+OO
+(a)
+
+ÂAsmriNS su0oi)e1)99dx3 LY99 :9249NoS
+
+- Ol
+
+- 0
+
+- PI
+
+91
+
+FOOC
+
+S007
+
+8 9
+
+SUJUON ZT 1X9N SU) 40j SUO)L)D90dXI UONLIYUZ
