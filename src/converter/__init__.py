@@ -39,6 +39,9 @@ def remove_text_files(file: str):
 
 def main(files):
     for file in files:
+        # Remove test fiels if they exist
+        # Otherwise the converter will append to the existing file
+        # and we dont wanna do that :)
         remove_text_files(file)
         prepareTextFile(f"corpus/pdf/{file}", f"corpus/text/{file[:-4]}.txt")
         print(f"Converted {file} to text")
