@@ -1,23 +1,29 @@
 import re
 import os
+from itertools import islice
 
 
 def clean_text(text):
+    file = []
     with open(f"corpus/text/{text}", "r") as f:
-        text = f.read()
-        # remove punctuation
-        text = re.sub(r"[^\w\s]", "", text)
-        # remove commas
-        text = re.sub(r"\,", "", text)
-        # remove newlines
-        text = re.sub(r"\n", "", text)
-        # remove tabs
-        text = re.sub(r"\t", "", text)
-        # remove extra spaces
-        text = re.sub(r"\s+", " ", text)
-        # remove leading and trailing spaces
-        text = text.strip()
-        return text
+        for i in range(10):
+
+            # text =
+            print(f.readline())
+            # remove punctuation
+            text = re.sub(r"[^\w\s]", "", text)
+
+            # remove commas
+            text = re.sub(r"\,", "", text)
+            # remove newlines
+            text = re.sub(r"\n", "", text)
+            # remove tabs
+            text = re.sub(r"\t", "", text)
+            # remove extra spaces
+            text = re.sub(r"\s+", " ", text)
+            # remove leading and trailing spaces
+            text = text.strip()
+            return text
 
 
 # text = "This is an example text with punctuation, commas, newlines, and tabs.\n\n\nIt also has extra spaces.    "
@@ -33,6 +39,7 @@ def clean_text(text):
 
 
 def get_date(text):
+
     """
     Write a function that a text from corpus/text directory
     and the first date it finds in the text and returns it
@@ -55,11 +62,10 @@ def get_date(text):
         return date_format_one.group()
     if date_format_two:
         return date_format_two.group()
-
-    else:
-        return "No date found"
+    return "No date found"
 
 
-for file in os.listdir("corpus/text"):
-    clean = clean_text(file)
-    print(f"{file} :  {get_date(clean)}")
+# for file in os.listdir("corpus/text/2011-52.txt"):
+clean = clean_text("2011-52.txt")
+print(clean)
+# print(get_date(clean))
