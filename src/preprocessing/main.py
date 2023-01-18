@@ -54,6 +54,7 @@ for file in os.listdir(corpus_dir):
             text = re.sub(r"basintcmbgovtr", " ", text)
             text = re.sub(r"press release", " ", text)
             text = re.sub(HEADER_MESSAGE, " ", text)
+            text = re.sub(r"          ", " ", text)
             # add the cleaned text to the corpus list
             corpus_text.append(text)
 
