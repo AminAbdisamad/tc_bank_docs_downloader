@@ -1,5 +1,6 @@
 import os
-import pandas as pd
+
+# import pandas as pd
 import re
 
 # specify the directory where the text files are located
