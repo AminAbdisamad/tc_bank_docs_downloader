@@ -12,6 +12,7 @@ pytesseract = "*"
 pillow = "*"
 pdf2image = "*"
 pandas = "*"
+nltk = "*"
 
 [dev-packages]
 black = "*"

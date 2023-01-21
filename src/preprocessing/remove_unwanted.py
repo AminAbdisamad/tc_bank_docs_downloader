@@ -127,9 +127,9 @@ def remove_until_next_word(start_word: str, end_word: str, text: str):
     return re.sub(rf"{start_word}.*?{end_word}", "", text)
 
 
-sentence = remove_until_next_word(
-    "contact",
-    "please",
-)
+# sentence = remove_until_next_word(
+#     "contact",
+#     "please",
+# )
 
-print(sentence)
+# print(sentence)
