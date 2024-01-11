@@ -20,8 +20,7 @@ class CSVDownloader:
                     results = soup.find(id="tcmbMainContent")
 
                     if results is None:
-                        break
-
+                        continue
                     release_date = results.find_all('p')[1].text.strip()
                     title = results.find('h2').text.strip()
                     summary = results.find('div', class_='tcmb-content').text.strip()
