@@ -8,7 +8,12 @@ csv_downloader.save_to_csv("central_bank_press_release.csv")
 
 
 # TODO: 
-# 1. Fix for pages that start with 01 - DOne
-# 2. Save data to csv file - Done
+# Explain these concepts
+# 1. Multiple loops
+# 2. Getting body from list of articles 
+# 3. Code usage - Unifications 
+
+
+ 
 
 
