@@ -1,5 +1,6 @@
 """ Constants for the project. """
-YEARS = [
+YEARS_FROM_2014_TO_2023 = [
+    2023,
     2022,
     2021,
     2020,
@@ -8,7 +9,10 @@ YEARS = [
     2017,
     2016,
     2015,
-    2014,
+    2014
+]
+MAX_PAGES = 80
+YEARS_FROM_2013_TO_2002 = [
     2013,
     2012,
     2011,

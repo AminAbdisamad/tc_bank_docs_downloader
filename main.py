@@ -1,22 +1,18 @@
-import requests
-from bs4 import BeautifulSoup
+from src.downloader.csv_downloader import CSVDownloader
 
-URL = "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Releases/2023/ANO2023-50"
-page = requests.get(URL)
-soup = BeautifulSoup(page.content, "html.parser")
+data_limit = [
+    {
+        "year":"2014",
+        "limit":"78"
+    },
+     {
+        "year":"2015",
+        "limit":"78"
+    }
+]
 
+URL = "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Announcements/Press+Releases/2014/ANO2014-80"
+csv_downloader = CSVDownloader()
 
-results = soup.find(id="tcmbMainContent")
-all_p = results.find_all('p')
-if len(all_p) > 1:
-    print("Release Date:", all_p[1].text.strip())
-
-# Extract title
-title = results.find('h2').text.strip()
-print("Title:", title)
-
-# Extract summary/body text
-summary = results.find('div', class_='tcmb-content').text.strip()
-print("Summary/Body Text:", summary)
-
-
+content = csv_downloader.read(URL)
+# csv_downloader.save(content)
