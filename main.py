@@ -1,15 +1,5 @@
 from src.downloader.csv_downloader import CSVDownloader
-
-data_limit = [
-    {
-        "year":"2014",
-        "limit":"78"
-    },
-     {
-        "year":"2015",
-        "limit":"78"
-    }
-]
+from src.downloader.constants import YEARS_FROM_2014_TO_2023, MAX_PAGES
 
 # Loop through the years (2014 - 2023)
 # Loop through pages (1 - 80)
@@ -24,5 +14,12 @@ data_limit = [
 
 csv_downloader = CSVDownloader()
 
-content = csv_downloader.read(years=['2022','2023'],pageLimit=70)
+content = csv_downloader.read(years=YEARS_FROM_2014_TO_2023,page_limit=MAX_PAGES)
+csv_downloader.save_to_csv("central_bank_press_release.csv")
 # csv_downloader.save(content)
+
+# TODO: 
+# 1. Fix for pages that start with 01 - DOne
+# 2. Save data to csv file - Done
+
+
